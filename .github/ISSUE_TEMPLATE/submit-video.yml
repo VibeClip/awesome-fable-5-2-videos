@@ -1,0 +1,45 @@
+name: Submit a Fable 5.2 video
+description: Share a film, animation, product video or visual explainer.
+title: "[Video] "
+body:
+  - type: input
+    id: source
+    attributes:
+      label: Original creator post URL
+      description: Link the creator's original public video post.
+    validations:
+      required: true
+  - type: input
+    id: creator
+    attributes:
+      label: Creator name and profile URL
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Motion & animation
+        - Short films & cinematic scenes
+        - Product & launch videos
+        - Visual explainers
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence that Claude Fable 5.2 was used
+      description: Point to the creator's model statement. Include any additional tools or inputs they disclosed.
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Public prompt and primary source (optional)
+      description: Keep the original wording and language. Leave empty if unavailable.
+  - type: textarea
+    id: rights
+    attributes:
+      label: Media permission or thumbnail preference (optional)
+      description: Creators can specify whether a thumbnail may be embedded. Do not upload someone else's media.

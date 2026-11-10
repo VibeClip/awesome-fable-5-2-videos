@@ -1,0 +1,590 @@
+{
+  "schema_version": 1,
+  "updated_on": "2026-11-10",
+  "videos": [
+    {
+      "id": "wesroth-934330",
+      "titles": {
+        "en": "An anime music video with timed lyrics",
+        "zh-CN": "歌词卡点的动漫风音乐视频",
+        "ja": "歌詞とシンクロするアニメMV",
+        "ko": "가사에 맞춰 움직이는 애니메이션 뮤직비디오",
+        "es": "Un videoclip de anime sincronizado con la letra"
+      },
+      "category": "motion",
+      "creator": {
+        "name": "WesRoth",
+        "url": "https://x.com/WesRoth"
+      },
+      "source_url": "https://x.com/WesRoth/status/2119911161386934330",
+      "published_at": "2026-11-09T21:53:01Z",
+      "duration_seconds": 37.01,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119910396719177728/img/P5BraNR2AxwsDmsa.jpg",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-10",
+        "method": "X official oEmbed; media metadata via FxTwitter",
+        "post_sha256": "168e8de665906ab296b2b229cd17af77755e33a4dc153c2c37373350eae82a7d"
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "discovered_via": "https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json",
+      "media_rights": "creator-owned; externally linked; no redistribution permission recorded"
+    },
+    {
+      "id": "eluchocha-635455",
+      "titles": {
+        "en": "A paper-cut sunrise animation",
+        "zh-CN": "剪纸风的日出动画",
+        "ja": "切り絵で描く日の出",
+        "ko": "페이퍼 컷으로 표현한 일출",
+        "es": "Un amanecer de papel recortado"
+      },
+      "category": "motion",
+      "creator": {
+        "name": "eluchocha",
+        "url": "https://x.com/eluchocha"
+      },
+      "source_url": "https://x.com/eluchocha/status/2119902302001635455",
+      "published_at": "2026-11-09T21:17:49Z",
+      "duration_seconds": 37.55,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119900235761688576/img/sUHyb5h0DpKXORtG.jpg",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-10",
+        "method": "X official oEmbed; media metadata via FxTwitter",
+        "post_sha256": "6ecd7eefd7ad533f1f670c4119732dba6cc4b8d2124a74ae6bcef712371aca86"
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "discovered_via": "https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json",
+      "media_rights": "creator-owned; externally linked; no redistribution permission recorded"
+    },
+    {
+      "id": "leoy-dev-922853",
+      "titles": {
+        "en": "A tiny planet full of moving parts",
+        "zh-CN": "零件转个不停的小星球",
+        "ja": "動きが詰まった小さな惑星",
+        "ko": "움직임으로 가득한 작은 행성",
+        "es": "Un pequeño planeta lleno de movimiento"
+      },
+      "category": "motion",
+      "creator": {
+        "name": "leoy_dev",
+        "url": "https://x.com/leoy_dev"
+      },
+      "source_url": "https://x.com/leoy_dev/status/2119903166149922853",
+      "published_at": "2026-11-09T21:21:15Z",
+      "duration_seconds": 68.73,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119902402643890177/img/l-vmVZsWVEVQv23v.jpg",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-10",
+        "method": "X official oEmbed; media metadata via FxTwitter",
+        "post_sha256": "cf8b06a612052e2083cdd9b5c2a806c83f45b8bd714372683c162cd71a14aa6f"
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "discovered_via": "https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json",
+      "media_rights": "creator-owned; externally linked; no redistribution permission recorded"
+    },
+    {
+      "id": "internetphysics-313778",
+      "titles": {
+        "en": "Painting a portrait stroke by stroke",
+        "zh-CN": "一笔一笔画出一幅肖像",
+        "ja": "一筆ずつ描かれる肖像画",
+        "ko": "한 획씩 그려지는 초상화",
+        "es": "Un retrato pintado trazo a trazo"
+      },
+      "category": "motion",
+      "creator": {
+        "name": "internetphysics",
+        "url": "https://x.com/internetphysics"
+      },
+      "source_url": "https://x.com/internetphysics/status/2119903808935313778",
+      "published_at": "2026-11-09T21:23:48Z",
+      "duration_seconds": 60,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119902893394337792/img/kaCRe1hP5EUFjLEW.jpg",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-10",
+        "method": "X official oEmbed; media metadata via FxTwitter",
+        "post_sha256": "d6b6ec7e76557e76ee480f00c445ce58211f1bbb398790404919222fd63fe9ea"
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "discovered_via": "https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json",
+      "media_rights": "creator-owned; externally linked; no redistribution permission recorded"
+    },
+    {
+      "id": "josendev-243409",
+      "titles": {
+        "en": "An isometric floating village",
+        "zh-CN": "等距视角的漂浮村庄",
+        "ja": "アイソメトリックの空中村",
+        "ko": "공중에 떠 있는 아이소메트릭 마을",
+        "es": "Una aldea flotante isométrica"
+      },
+      "category": "motion",
+      "creator": {
+        "name": "josendev",
+        "url": "https://x.com/josendev"
+      },
+      "source_url": "https://x.com/josendev/status/2119876164051243409",
+      "published_at": "2026-11-09T19:33:57Z",
+      "duration_seconds": 8,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119876092433510400/img/rQCTcZhDzJbVQxZH.jpg",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-10",
+        "method": "X official oEmbed; media metadata via FxTwitter",
+        "post_sha256": "2113aecd707cc86199c527bc585c9eb268868ffa5a9282b3c88b115d5bc0a030"
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "discovered_via": "https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json",
+      "media_rights": "creator-owned; externally linked; no redistribution permission recorded"
+    },
+    {
+      "id": "other-reality-913784",
+      "titles": {
+        "en": "A little wizard launches Fable 5.2",
+        "zh-CN": "小巫师放飞了 Fable 5.2",
+        "ja": "小さな魔法使いの発表映像",
+        "ko": "작은 마법사의 출시 영상",
+        "es": "Un pequeño mago presenta Fable 5.2"
+      },
+      "category": "motion",
+      "creator": {
+        "name": "other__reality",
+        "url": "https://x.com/other__reality"
+      },
+      "source_url": "https://x.com/other__reality/status/2119885430627913784",
+      "published_at": "2026-11-09T20:10:46Z",
+      "duration_seconds": 26,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119884273071411200/img/pX6GYdfgg49q8YyP.jpg",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-10",
+        "method": "X official oEmbed; media metadata via FxTwitter",
+        "post_sha256": "3758911d499a54745b039767eaa548e730153ca8ec279310f14f56d90e45f519"
+      },
+      "prompt": {
+        "text": "Create an animated video of clawd creating and releasing Claude Fable 5.2",
+        "source_url": "https://x.com/other__reality/status/2119885430627913784"
+      },
+      "discovered_via": "https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json",
+      "media_rights": "creator-owned; externally linked; no redistribution permission recorded"
+    },
+    {
+      "id": "engmoelgaraihy-643141",
+      "titles": {
+        "en": "A cat brings an old robot back to life",
+        "zh-CN": "一只猫唤醒了一台旧机器人",
+        "ja": "猫が古いロボットをよみがえらせる",
+        "ko": "고장 난 로봇을 되살리는 고양이",
+        "es": "Un gato devuelve la vida a un viejo robot"
+      },
+      "category": "short-films",
+      "creator": {
+        "name": "EngMoElgaraihy",
+        "url": "https://x.com/EngMoElgaraihy"
+      },
+      "source_url": "https://x.com/EngMoElgaraihy/status/2119904813718643141",
+      "published_at": "2026-11-09T21:27:48Z",
+      "duration_seconds": 40,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119904158409256960/img/Xzpz8Ruz3rvGLWk5.jpg",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-10",
+        "method": "X official oEmbed; media metadata via FxTwitter",
+        "post_sha256": "6f558ce08f5c17e1a5e0448b360665e1dd4d052c76213498500d8e9dde03ee8a"
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "discovered_via": "https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json",
+      "media_rights": "creator-owned; externally linked; no redistribution permission recorded"
+    },
+    {
+      "id": "cube-lol-832554",
+      "titles": {
+        "en": "A 46-second film with zero generated images",
+        "zh-CN": "没有一张生成图的 46 秒短片",
+        "ja": "生成画像を使わない46秒の映像",
+        "ko": "생성 이미지 없이 만든 46초 영상",
+        "es": "Una película de 46 segundos sin imágenes generadas"
+      },
+      "category": "short-films",
+      "creator": {
+        "name": "cube__lol",
+        "url": "https://x.com/cube__lol"
+      },
+      "source_url": "https://x.com/cube__lol/status/2119904449556832554",
+      "published_at": "2026-11-09T21:26:21Z",
+      "duration_seconds": 46,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119904119569690624/img/CZMbLY6fB4shNZwk.jpg",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-10",
+        "method": "X official oEmbed; media metadata via FxTwitter",
+        "post_sha256": "a9932a298f570c81b48cfefefa758a2df1953eb733bfe453817783149f7580df"
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "discovered_via": "https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json",
+      "media_rights": "creator-owned; externally linked; no redistribution permission recorded"
+    },
+    {
+      "id": "yinyangyoeshi-001317",
+      "titles": {
+        "en": "Discovery, a short film in Three.js",
+        "zh-CN": "Three.js 短片《Discovery》",
+        "ja": "Discovery：Three.jsの短編",
+        "ko": "Discovery: Three.js 단편 영상",
+        "es": "Discovery: un cortometraje en Three.js"
+      },
+      "category": "short-films",
+      "creator": {
+        "name": "YinYangYoeshi",
+        "url": "https://x.com/YinYangYoeshi"
+      },
+      "source_url": "https://x.com/YinYangYoeshi/status/2119897840965001317",
+      "published_at": "2026-11-09T21:00:05Z",
+      "duration_seconds": 101.5,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119897357940621312/img/aOwOdtuj0CCxZBNv.jpg",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-10",
+        "method": "X official oEmbed; media metadata via FxTwitter",
+        "post_sha256": "73f33c6ae49ca1c3c841575eb70575fd31ebe6b4c060397d2b900786a68dc4ad"
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "discovered_via": "https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json",
+      "media_rights": "creator-owned; externally linked; no redistribution permission recorded"
+    },
+    {
+      "id": "marvellousdev-380563",
+      "titles": {
+        "en": "A lighthouse keeper short film",
+        "zh-CN": "灯塔守护人的短片",
+        "ja": "灯台守の短編映像",
+        "ko": "등대지기의 단편 영상",
+        "es": "Un cortometraje sobre un farero"
+      },
+      "category": "short-films",
+      "creator": {
+        "name": "MarvellousDev",
+        "url": "https://x.com/MarvellousDev"
+      },
+      "source_url": "https://x.com/MarvellousDev/status/2119889511333380563",
+      "published_at": "2026-11-09T20:26:59Z",
+      "duration_seconds": 15.04,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119889346706673664/img/ZNozVot6C2vtlNiz.jpg",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-10",
+        "method": "X official oEmbed; media metadata via FxTwitter",
+        "post_sha256": "478e349c4feeea7c11e174cf15e0c01fd588f6995e293e30e2272cb2d0699dbd"
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "discovered_via": "https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json",
+      "media_rights": "creator-owned; externally linked; no redistribution permission recorded"
+    },
+    {
+      "id": "grafikcem-937806",
+      "titles": {
+        "en": "Fable 5.2 animates its own announcement",
+        "zh-CN": "Fable 5.2 给自己做的发布动画",
+        "ja": "Fable 5.2が自分の発表映像を作る",
+        "ko": "자신의 발표 영상을 만든 Fable 5.2",
+        "es": "Fable 5.2 anima su propia presentación"
+      },
+      "category": "product",
+      "creator": {
+        "name": "grafikcem",
+        "url": "https://x.com/grafikcem"
+      },
+      "source_url": "https://x.com/grafikcem/status/2119910525064937806",
+      "published_at": "2026-11-09T21:50:29Z",
+      "duration_seconds": 60,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119910244302065664/img/Xisc7fBP7Cht9YGS.jpg",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-10",
+        "method": "X official oEmbed; media metadata via FxTwitter",
+        "post_sha256": "da0f71b6e8fd175f2aa372bdba4c7207d75ee13ad36b5ede01ea3f0899396774"
+      },
+      "prompt": {
+        "text": "Bugün duyurulmana özel Fable 5.2 modeli için opus 5.5 subagentları kullanarak kendine 60 saniyelik bir tanıtım animasyon filmi hazırla.",
+        "source_url": "https://x.com/grafikcem/status/2119910525064937806"
+      },
+      "discovered_via": "https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json",
+      "media_rights": "creator-owned; externally linked; no redistribution permission recorded"
+    },
+    {
+      "id": "furkancavlakcom-695521",
+      "titles": {
+        "en": "A launch film it coded for itself in 57 minutes",
+        "zh-CN": "57 分钟给自己写出的发布片",
+        "ja": "自分のためにコードで作った発表映像",
+        "ko": "직접 코딩해 만든 출시 영상",
+        "es": "Un vídeo de lanzamiento programado para sí mismo"
+      },
+      "category": "product",
+      "creator": {
+        "name": "furkancavlakcom",
+        "url": "https://x.com/furkancavlakcom"
+      },
+      "source_url": "https://x.com/furkancavlakcom/status/2119896886345695521",
+      "published_at": "2026-11-09T20:56:18Z",
+      "duration_seconds": 74,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119895300718374912/img/wH0sH30IILNmKysI.jpg",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-10",
+        "method": "X official oEmbed; media metadata via FxTwitter",
+        "post_sha256": "52b7a97672bc94d8fabe2338f3924c6c070b9c8a18e134efba6ba8251f2da99a"
+      },
+      "prompt": {
+        "text": "Kendi lansman videonu yap. Sadece kodla.",
+        "source_url": "https://x.com/furkancavlakcom/status/2119896886345695521"
+      },
+      "discovered_via": "https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json",
+      "media_rights": "creator-owned; externally linked; no redistribution permission recorded"
+    },
+    {
+      "id": "mathiaschpl-676283",
+      "titles": {
+        "en": "A product film made in 10 minutes",
+        "zh-CN": "10 分钟做出的产品片",
+        "ja": "10分で作った製品紹介映像",
+        "ko": "10분 만에 만든 제품 소개 영상",
+        "es": "Un vídeo de producto creado en diez minutos"
+      },
+      "category": "product",
+      "creator": {
+        "name": "mathiaschpl",
+        "url": "https://x.com/mathiaschpl"
+      },
+      "source_url": "https://x.com/mathiaschpl/status/2119878412181676283",
+      "published_at": "2026-11-09T19:42:53Z",
+      "duration_seconds": 36.5,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119877729222848512/img/blEOherbyiPjheJp.jpg",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-10",
+        "method": "X official oEmbed; media metadata via FxTwitter",
+        "post_sha256": "c939d5e76702b2b88cb550f13bc5181b462242df96222bfe7c308da8034136af"
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "discovered_via": "https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json",
+      "media_rights": "creator-owned; externally linked; no redistribution permission recorded"
+    },
+    {
+      "id": "hello-amani-237842",
+      "titles": {
+        "en": "A chrome logo reveal in 3D",
+        "zh-CN": "3D 镀铬标志的揭幕动画",
+        "ja": "クロームの3Dロゴアニメーション",
+        "ko": "크롬 소재의 3D 로고 애니메이션",
+        "es": "Una animación de logotipo cromado en 3D"
+      },
+      "category": "product",
+      "creator": {
+        "name": "hello_amani",
+        "url": "https://x.com/hello_amani"
+      },
+      "source_url": "https://x.com/hello_amani/status/2119873980786237842",
+      "published_at": "2026-11-09T19:25:17Z",
+      "duration_seconds": 36.04,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119873847369621504/img/dyv1cVQ6oXWoZv5v.jpg",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-10",
+        "method": "X official oEmbed; media metadata via FxTwitter",
+        "post_sha256": "8deccdb9b3a562b71f8bf7ed9b1a54146230d74dce4cec9833d93bd336e0234f"
+      },
+      "prompt": {
+        "text": "make my logo reveal in 3D with chromatic metal and grids",
+        "source_url": "https://x.com/hello_amani/status/2119890392456073525"
+      },
+      "discovered_via": "https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json",
+      "media_rights": "creator-owned; externally linked; no redistribution permission recorded"
+    },
+    {
+      "id": "yzr-koba-722932",
+      "titles": {
+        "en": "Why the sky is blue, explained in Japanese",
+        "zh-CN": "用日语讲清天空为什么是蓝的",
+        "ja": "空が青い理由を日本語で解説",
+        "ko": "일본어로 설명하는 하늘이 파란 이유",
+        "es": "Por qué el cielo es azul, explicado en japonés"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "yzr_koba",
+        "url": "https://x.com/yzr_koba"
+      },
+      "source_url": "https://x.com/yzr_koba/status/2119907670077722932",
+      "published_at": "2026-11-09T21:39:09Z",
+      "duration_seconds": 55,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119907073026899968/img/VuCkv-ordRIonDUg.jpg",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-10",
+        "method": "X official oEmbed; media metadata via FxTwitter",
+        "post_sha256": "d19a92d52f329ba0c7e20df3bb73155dfcdacd297eebc208af080d2d5e2b5aa8"
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "discovered_via": "https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json",
+      "media_rights": "creator-owned; externally linked; no redistribution permission recorded"
+    },
+    {
+      "id": "avenoxai-058821",
+      "titles": {
+        "en": "How a folding phone hinge works",
+        "zh-CN": "折叠屏手机铰链的工作原理",
+        "ja": "折りたたみスマホのヒンジの仕組み",
+        "ko": "폴더블 폰 힌지의 작동 원리",
+        "es": "Cómo funciona la bisagra de un móvil plegable"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "Avenoxai",
+        "url": "https://x.com/Avenoxai"
+      },
+      "source_url": "https://x.com/Avenoxai/status/2119891378352058821",
+      "published_at": "2026-11-09T20:34:24Z",
+      "duration_seconds": 60,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119891178682228736/img/A2SgfYYQHeNnleC6.jpg",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-10",
+        "method": "X official oEmbed; media metadata via FxTwitter",
+        "post_sha256": "965459f804947980ae8555f555b96cd7b4f3a1773cee0db6a5bc95550f6d50ac"
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "discovered_via": "https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json",
+      "media_rights": "creator-owned; externally linked; no redistribution permission recorded"
+    },
+    {
+      "id": "spac89-770843",
+      "titles": {
+        "en": "Inside a TPU chip, layer by layer",
+        "zh-CN": "一层层拆开 TPU 芯片",
+        "ja": "TPUチップの内部を層ごとに見る",
+        "ko": "층별로 살펴보는 TPU 칩의 내부",
+        "es": "Un chip TPU, capa por capa"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "SPAC89",
+        "url": "https://x.com/SPAC89"
+      },
+      "source_url": "https://x.com/SPAC89/status/2119888738595770843",
+      "published_at": "2026-11-09T20:23:55Z",
+      "duration_seconds": 50,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119888023231844352/img/7JVDXCEKNcsf_5pG.jpg",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-10",
+        "method": "X official oEmbed; media metadata via FxTwitter",
+        "post_sha256": "66fbc8d7e49b8c1850dff5a81b8543a91a97acd2b20ef943c55ca673f1395f3b"
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "discovered_via": "https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json",
+      "media_rights": "creator-owned; externally linked; no redistribution permission recorded"
+    },
+    {
+      "id": "dfeinition-381391",
+      "titles": {
+        "en": "How game characters blend their moves",
+        "zh-CN": "游戏角色是怎么把动作衔接起来的",
+        "ja": "ゲームキャラクターの動きをつなぐ仕組み",
+        "ko": "게임 캐릭터 동작을 연결하는 원리",
+        "es": "Cómo se combinan los movimientos de un personaje"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "dfeinition",
+        "url": "https://x.com/dfeinition"
+      },
+      "source_url": "https://x.com/dfeinition/status/2119870838606381391",
+      "published_at": "2026-11-09T19:12:47Z",
+      "duration_seconds": 60.4,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119870421478567936/img/odUx_-Y53-zw9S4v.jpg",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-10",
+        "method": "X official oEmbed; media metadata via FxTwitter",
+        "post_sha256": "3478264e3cf1dc8d2ec675d48973a6e2a71e72cc3c9b781102d296d9d8e58552"
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "discovered_via": "https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json",
+      "media_rights": "creator-owned; externally linked; no redistribution permission recorded"
+    }
+  ],
+  "featured_ids": [
+    "wesroth-934330",
+    "eluchocha-635455",
+    "engmoelgaraihy-643141",
+    "yinyangyoeshi-001317",
+    "grafikcem-937806",
+    "yzr-koba-722932"
+  ]
+}

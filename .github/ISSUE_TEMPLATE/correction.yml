@@ -1,0 +1,17 @@
+name: Correction or removal
+description: Correct a listing or request removal of a video or thumbnail.
+title: "[Correction] "
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Entry ID or URL
+    validations:
+      required: true
+  - type: textarea
+    id: request
+    attributes:
+      label: Requested correction or removal
+      description: Explain what should change and link any relevant evidence. Do not post private personal information.
+    validations:
+      required: true
