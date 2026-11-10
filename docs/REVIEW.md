@@ -4,7 +4,7 @@
 - Languages: English, Simplified Chinese, Japanese, Korean and Spanish.
 - Public prompt sources: 21, attached to corresponding works through expandable panels.
 - Original posts unavailable during review: 4; their preview excerpts remain available and their source status is marked.
-- Repository visibility: private. Homepage URL is empty. No automated public release is configured.
+- The repository was private during preparation. The owner authorized release on 2026-11-10, and GitHub confirmed public visibility. The homepage URL remains empty; no automated visibility changes are configured.
 
 ## Checks completed
 

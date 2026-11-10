@@ -34,12 +34,12 @@ The gallery and index use only this repository's preview URLs and original creat
 
 `release_check.py` checks outgoing destinations, promotional parameters, local media URLs and commit-message wording. Use short result-oriented commit messages. Retain any still-applicable license notice in the centralized notice file; removing a promotional link is different from removing a required notice.
 
-## Before public release
+## Release and ongoing updates
 
 - Confirm complete baseline coverage, additional unique discoveries and no duplicate native media IDs.
 - Inspect animated previews and verify source-status labels, translations, creator names and prompt context.
 - Resolve or clearly mark uncertain model/media records. Do not silently drop baseline entries.
 - Run animation, generation, promotion and commit checks; confirm CI passes at the release commit.
-- Keep the repository private until the owner explicitly changes that instruction. No script changes visibility.
+- The owner authorized public release on 2026-11-10. Keep the repository public during ongoing updates; no script or scheduled task changes visibility automatically.
 
 Cover and optional social-preview artwork remain in `assets/`. Committing a social-preview file does not upload it to the repository's social-preview setting.
