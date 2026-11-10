@@ -8537,17 +8537,26 @@
           "reposts": 2,
           "replies": 19,
           "bookmarks": 65
+        },
+        {
+          "checked_at": "2026-11-10T12:18:09.863877+00:00",
+          "views": 9760,
+          "likes": 208,
+          "reposts": 2,
+          "replies": 22,
+          "bookmarks": 67
         }
       ],
       "preview_path": "assets/previews/rasmic-2119919466163093768.webp",
       "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/rasmic-2119919466163093768.webp",
       "momentum": {
-        "state": "new",
-        "window_minutes": 12.3,
-        "views_delta": 63,
-        "likes_delta": 1,
+        "state": "rising",
+        "window_minutes": 183.0,
+        "views_delta": 933,
+        "likes_delta": 18,
         "reposts_delta": 0
-      }
+      },
+      "curation_reason": "Uses motion design to explain an actual backend product, rather than a generic model announcement."
     },
     {
       "id": "miguel07code-2119904748900167836",
@@ -8601,17 +8610,26 @@
           "reposts": 1,
           "replies": 5,
           "bookmarks": 45
+        },
+        {
+          "checked_at": "2026-11-10T12:18:10.407409+00:00",
+          "views": 4194,
+          "likes": 82,
+          "reposts": 1,
+          "replies": 5,
+          "bookmarks": 45
         }
       ],
       "preview_path": "assets/previews/miguel07code-2119904748900167836.webp",
       "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/miguel07code-2119904748900167836.webp",
       "momentum": {
         "state": "new",
-        "window_minutes": 12.3,
-        "views_delta": 4,
-        "likes_delta": 0,
+        "window_minutes": 183.0,
+        "views_delta": 116,
+        "likes_delta": 4,
         "reposts_delta": 0
-      }
+      },
+      "curation_reason": "Shows a reference-versus-editable reconstruction; useful for learning a repeatable production workflow."
     },
     {
       "id": "higgsfield-ai-2119918834841010320",
@@ -8665,17 +8683,26 @@
           "reposts": 26,
           "replies": 11,
           "bookmarks": 324
+        },
+        {
+          "checked_at": "2026-11-10T12:18:10.403206+00:00",
+          "views": 39569,
+          "likes": 534,
+          "reposts": 27,
+          "replies": 15,
+          "bookmarks": 381
         }
       ],
       "preview_path": "assets/previews/higgsfield-ai-2119918834841010320.webp",
       "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/higgsfield-ai-2119918834841010320.webp",
       "momentum": {
         "state": "rising",
-        "window_minutes": 11.5,
-        "views_delta": 478,
-        "likes_delta": 5,
-        "reposts_delta": 0
-      }
+        "window_minutes": 182.2,
+        "views_delta": 8051,
+        "likes_delta": 96,
+        "reposts_delta": 1
+      },
+      "curation_reason": "A six-shot market sequence with scene and camera variation. The code-generation claim is the creator’s attribution."
     },
     {
       "id": "imjustnewatai-2119919644836347926",
@@ -8729,17 +8756,26 @@
           "reposts": 48,
           "replies": 45,
           "bookmarks": 257
+        },
+        {
+          "checked_at": "2026-11-10T12:18:09.844712+00:00",
+          "views": 58445,
+          "likes": 547,
+          "reposts": 54,
+          "replies": 54,
+          "bookmarks": 296
         }
       ],
       "preview_path": "assets/previews/imjustnewatai-2119919644836347926.webp",
       "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/imjustnewatai-2119919644836347926.webp",
       "momentum": {
         "state": "rising",
-        "window_minutes": 11.5,
-        "views_delta": 563,
-        "likes_delta": 2,
-        "reposts_delta": 2
-      }
+        "window_minutes": 182.2,
+        "views_delta": 12719,
+        "likes_delta": 66,
+        "reposts_delta": 8
+      },
+      "curation_reason": "Connects a generated musical score, its performance and the visual output in one inspectable example."
     },
     {
       "id": "renoiseai-2119959294716326280",
@@ -8793,17 +8829,33 @@
           "reposts": 2,
           "replies": 4,
           "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-10T12:18:11.254372+00:00",
+          "views": 2854,
+          "likes": 11,
+          "reposts": 2,
+          "replies": 4,
+          "bookmarks": 0
         }
       ],
       "preview_path": "assets/previews/renoiseai-2119959294716326280.webp",
       "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/renoiseai-2119959294716326280.webp",
       "momentum": {
         "state": "new",
-        "window_minutes": 11.0,
-        "views_delta": 26,
+        "window_minutes": 181.7,
+        "views_delta": 255,
         "likes_delta": 0,
         "reposts_delta": 0
-      }
+      },
+      "workflow_notes": {
+        "en": "The creator reports a Fable 5.2 and Renoise MCP workflow that generates the shots, score and Japanese dubbing within a conversation.",
+        "zh-CN": "作者披露了 Fable 5.2 与 Renoise MCP 的组合工作流，在对话中生成镜头、配乐和日语配音。",
+        "ja": "作者はFable 5.2とRenoise MCPを組み合わせ、会話内で映像、音楽、日本語吹き替えを生成したと説明。",
+        "ko": "제작자는 Fable 5.2와 Renoise MCP를 함께 사용해 대화 안에서 장면, 음악과 일본어 더빙을 생성했다고 설명합니다.",
+        "es": "El autor describe un flujo con Fable 5.2 y Renoise MCP que genera los planos, la música y el doblaje japonés dentro de una conversación."
+      },
+      "curation_reason": "A narrative cat film with music and Japanese dubbing; recorded as a mixed-tool workflow."
     },
     {
       "id": "felixrieseberg-2119925633564463609",
@@ -8857,17 +8909,26 @@
           "reposts": 343,
           "replies": 362,
           "bookmarks": 3567
+        },
+        {
+          "checked_at": "2026-11-10T12:18:11.036725+00:00",
+          "views": 1051797,
+          "likes": 7142,
+          "reposts": 440,
+          "replies": 448,
+          "bookmarks": 4337
         }
       ],
       "preview_path": "assets/previews/felixrieseberg-2119925633564463609.webp",
       "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/felixrieseberg-2119925633564463609.webp",
       "momentum": {
         "state": "established",
-        "window_minutes": 11.7,
-        "views_delta": 15190,
-        "likes_delta": 77,
-        "reposts_delta": 7
-      }
+        "window_minutes": 182.4,
+        "views_delta": 260905,
+        "likes_delta": 1228,
+        "reposts_delta": 104
+      },
+      "curation_reason": "Turns a child’s drawings into a complete fighting-game demonstration; strong observed reach, already established rather than an early signal."
     },
     {
       "id": "emollick-2119918307457577163",
@@ -8921,17 +8982,26 @@
           "reposts": 112,
           "replies": 162,
           "bookmarks": 660
+        },
+        {
+          "checked_at": "2026-11-10T12:18:11.822262+00:00",
+          "views": 73940,
+          "likes": 1458,
+          "reposts": 127,
+          "replies": 173,
+          "bookmarks": 735
         }
       ],
       "preview_path": "assets/previews/emollick-2119918307457577163.webp",
       "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/emollick-2119918307457577163.webp",
       "momentum": {
         "state": "rising",
-        "window_minutes": 11.8,
-        "views_delta": 631,
-        "likes_delta": 9,
-        "reposts_delta": 1
-      }
+        "window_minutes": 182.5,
+        "views_delta": 8423,
+        "likes_delta": 139,
+        "reposts_delta": 16
+      },
+      "curation_reason": "Explores connected generated worlds as a continuous journey, with a playable artifact."
     },
     {
       "id": "alexalbert-2119916954337349737",
@@ -8985,17 +9055,26 @@
           "reposts": 164,
           "replies": 97,
           "bookmarks": 630
+        },
+        {
+          "checked_at": "2026-11-10T12:18:11.759726+00:00",
+          "views": 65889,
+          "likes": 1799,
+          "reposts": 184,
+          "replies": 104,
+          "bookmarks": 683
         }
       ],
       "preview_path": "assets/previews/alexalbert-2119916954337349737.webp",
       "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/alexalbert-2119916954337349737.webp",
       "momentum": {
         "state": "rising",
-        "window_minutes": 12.3,
-        "views_delta": 607,
-        "likes_delta": 17,
-        "reposts_delta": 1
-      }
+        "window_minutes": 183.0,
+        "views_delta": 7978,
+        "likes_delta": 166,
+        "reposts_delta": 21
+      },
+      "curation_reason": "Turns historical notebook drawings into manipulable educational objects; substantial recent engagement growth."
     },
     {
       "id": "matthewberman-2119868633086378471",
@@ -9049,17 +9128,26 @@
           "reposts": 2,
           "replies": 1,
           "bookmarks": 53
+        },
+        {
+          "checked_at": "2026-11-10T12:18:12.345667+00:00",
+          "views": 6579,
+          "likes": 93,
+          "reposts": 2,
+          "replies": 1,
+          "bookmarks": 54
         }
       ],
       "preview_path": "assets/previews/matthewberman-2119868633086378471.webp",
       "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/matthewberman-2119868633086378471.webp",
       "momentum": {
         "state": "new",
-        "window_minutes": 12.3,
-        "views_delta": 13,
-        "likes_delta": 0,
+        "window_minutes": 183.0,
+        "views_delta": 153,
+        "likes_delta": 2,
         "reposts_delta": 0
-      }
+      },
+      "curation_reason": "An educational motion-graphics example explaining language models, distinct from a talking-head model review."
     },
     {
       "id": "wshuyi-2120014892040417720",
@@ -9114,17 +9202,26 @@
           "reposts": 0,
           "replies": 5,
           "bookmarks": 2
+        },
+        {
+          "checked_at": "2026-11-10T12:18:12.351016+00:00",
+          "views": 3570,
+          "likes": 10,
+          "reposts": 0,
+          "replies": 5,
+          "bookmarks": 3
         }
       ],
       "preview_path": "assets/previews/wshuyi-2120014892040417720.webp",
       "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/wshuyi-2120014892040417720.webp",
       "momentum": {
         "state": "new",
-        "window_minutes": 10.4,
-        "views_delta": 48,
-        "likes_delta": 0,
+        "window_minutes": 181.1,
+        "views_delta": 603,
+        "likes_delta": 1,
         "reposts_delta": 0
-      }
+      },
+      "curation_reason": "An explicit code-animation prompt with a narrative action scene and synthesized sound."
     },
     {
       "id": "kieranklaassen-2119871673294037280",
@@ -9178,17 +9275,26 @@
           "reposts": 7,
           "replies": 7,
           "bookmarks": 153
+        },
+        {
+          "checked_at": "2026-11-10T12:18:12.915777+00:00",
+          "views": 14355,
+          "likes": 184,
+          "reposts": 7,
+          "replies": 7,
+          "bookmarks": 164
         }
       ],
       "preview_path": "assets/previews/kieranklaassen-2119871673294037280.webp",
       "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kieranklaassen-2119871673294037280.webp",
       "momentum": {
-        "state": "new",
-        "window_minutes": 11.4,
-        "views_delta": 95,
-        "likes_delta": 1,
+        "state": "rising",
+        "window_minutes": 182.1,
+        "views_delta": 1219,
+        "likes_delta": 12,
         "reposts_delta": 0
-      }
+      },
+      "curation_reason": "A wine-making learning game with concrete process interactions, rather than a generic playable clone."
     },
     {
       "id": "clairevo-2119905651359142132",
@@ -9242,17 +9348,26 @@
           "reposts": 8,
           "replies": 24,
           "bookmarks": 86
+        },
+        {
+          "checked_at": "2026-11-10T12:18:12.857100+00:00",
+          "views": 13187,
+          "likes": 161,
+          "reposts": 9,
+          "replies": 24,
+          "bookmarks": 91
         }
       ],
       "preview_path": "assets/previews/clairevo-2119905651359142132.webp",
       "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/clairevo-2119905651359142132.webp",
       "momentum": {
-        "state": "new",
-        "window_minutes": 12.1,
-        "views_delta": 62,
-        "likes_delta": 1,
-        "reposts_delta": 0
-      }
+        "state": "rising",
+        "window_minutes": 182.8,
+        "views_delta": 1274,
+        "likes_delta": 10,
+        "reposts_delta": 1
+      },
+      "curation_reason": "A functional browser typewriter and writing environment; a distinctive 3D interaction example."
     },
     {
       "id": "theo-2119926277801144695",
@@ -9306,17 +9421,26 @@
           "reposts": 22,
           "replies": 141,
           "bookmarks": 149
+        },
+        {
+          "checked_at": "2026-11-10T12:18:13.238434+00:00",
+          "views": 108471,
+          "likes": 1970,
+          "reposts": 24,
+          "replies": 143,
+          "bookmarks": 164
         }
       ],
       "preview_path": "assets/previews/theo-2119926277801144695.webp",
       "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/theo-2119926277801144695.webp",
       "momentum": {
-        "state": "rising",
-        "window_minutes": 10.6,
-        "views_delta": 806,
-        "likes_delta": 12,
-        "reposts_delta": 0
-      }
+        "state": "established",
+        "window_minutes": 181.3,
+        "views_delta": 9368,
+        "likes_delta": 148,
+        "reposts_delta": 2
+      },
+      "curation_reason": "A bounded game benchmark with disclosed run time and cost; those remain creator claims."
     },
     {
       "id": "anabology-2120011096287297557",
@@ -9372,17 +9496,36 @@
           "reposts": 3,
           "replies": 8,
           "bookmarks": 8
+        },
+        {
+          "checked_at": "2026-11-10T12:18:13.333784+00:00",
+          "views": 5654,
+          "likes": 61,
+          "reposts": 3,
+          "replies": 11,
+          "bookmarks": 12
         }
       ],
       "preview_path": "assets/previews/anabology-2120011096287297557.webp",
       "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/anabology-2120011096287297557.webp",
       "momentum": {
-        "state": "new",
-        "window_minutes": 12.2,
-        "views_delta": 104,
-        "likes_delta": 0,
+        "state": "rising",
+        "window_minutes": 182.9,
+        "views_delta": 1709,
+        "likes_delta": 11,
         "reposts_delta": 0
-      }
+      },
+      "workflow_notes": {
+        "en": "A creator-reported mixed production workflow. The linked context attributes the project to Fable 5.2; the individual video and audio tools are not fully disclosed.",
+        "zh-CN": "这是作者报告的混合制作工作流。关联原帖将项目归因于 Fable 5.2，但未完整披露各个视频与音频工具。",
+        "ja": "作者が報告した複合制作ワークフロー。関連投稿でFable 5.2の使用を明記しているが、個々の映像・音声ツールはすべて公開されていない。",
+        "ko": "제작자가 보고한 혼합 제작 워크플로입니다. 연결된 원문에서 Fable 5.2 사용을 명시하지만 개별 영상 및 오디오 도구는 모두 공개하지 않았습니다.",
+        "es": "Un flujo de producción mixto descrito por el autor. El contexto enlazado atribuye el proyecto a Fable 5.2; no se detallan todas las herramientas de vídeo y audio."
+      },
+      "workflow_source_urls": [
+        "https://x.com/anabology/status/2120010995309457643"
+      ],
+      "curation_reason": "A long-form narrative with code-built sets followed by a video-model stage; clearly identified as hybrid."
     },
     {
       "id": "kieranklaassen-2119868196773929160",
@@ -9436,15 +9579,1044 @@
           "reposts": 33,
           "replies": 40,
           "bookmarks": 489
+        },
+        {
+          "checked_at": "2026-11-10T12:18:14.054906+00:00",
+          "views": 34835,
+          "likes": 666,
+          "reposts": 34,
+          "replies": 40,
+          "bookmarks": 511
         }
       ],
       "preview_path": "assets/previews/kieranklaassen-2119868196773929160.webp",
       "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kieranklaassen-2119868196773929160.webp",
       "momentum": {
+        "state": "rising",
+        "window_minutes": 182.1,
+        "views_delta": 1584,
+        "likes_delta": 26,
+        "reposts_delta": 1
+      },
+      "curation_reason": "An ambient-music creation tool demonstrating generated software and interactive composition."
+    },
+    {
+      "id": "kosen-labo-2120128253327474845",
+      "titles": {
+        "en": "A code-built film about Japan’s technical colleges",
+        "zh-CN": "代码绘制的日本高专主题短片",
+        "ja": "コードで描く高専のショートフィルム",
+        "ko": "코드로 만든 일본 고등전문학교 단편",
+        "es": "Un corto sobre los centros técnicos japoneses creado con código"
+      },
+      "category": "short-films",
+      "creator": {
+        "name": "kosen_labo",
+        "url": "https://x.com/kosen_labo"
+      },
+      "source_url": "https://x.com/kosen_labo/status/2120128253327474845",
+      "published_at": "2026-11-10T12:15:40Z",
+      "duration_seconds": 60.01,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120128135681470464/img/xHrVNXsPEtUWGuJT.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kosen-labo-2120128253327474845.webp",
+      "preview_path": "assets/previews/kosen-labo-2120128253327474845.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120128135681470464/vid/avc1/910x512/z_FMx9vV7-Tja50p.mp4?tag=14",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-10",
+        "checked_at": "2026-11-10T12:22:12.522673+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "e71c63d7a937817325f6526881aa2444096adeac14c999bc44e5ae1873e6c32e",
+        "model_named": true
+      },
+      "prompt": {
+        "text": "高専について、なんかすごい動画を作ってください",
+        "source_url": "https://x.com/kosen_labo/status/2120128253327474845"
+      },
+      "native_media_id": "2120128135681470464",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "An original Japanese-language educational film with a directly shared opening instruction; execution-time claims remain the creator’s.",
+      "workflow": "creator-reported-code",
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-10T12:19:35.720527+00:00",
+          "views": 17,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-10T12:26:57.179665+00:00",
+          "views": 25,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
         "state": "new",
-        "window_minutes": 11.4,
-        "views_delta": 86,
+        "window_minutes": 7.4,
+        "views_delta": 8,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "uraharastudio-2120128234499002537",
+      "titles": {
+        "en": "Yami vs Shanks, animated in code",
+        "zh-CN": "用代码制作的夜见与香克斯对决动画",
+        "ja": "コードで描くヤミ対シャンクス",
+        "ko": "코드로 그린 야미와 샹크스의 대결",
+        "es": "Yami contra Shanks, animados con código"
+      },
+      "category": "short-films",
+      "creator": {
+        "name": "Uraharastudio",
+        "url": "https://x.com/Uraharastudio"
+      },
+      "source_url": "https://x.com/Uraharastudio/status/2120128234499002537",
+      "published_at": "2026-11-10T12:15:35Z",
+      "duration_seconds": 60,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120128077975977984/img/UKcm9-N91aI3sBSl.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/uraharastudio-2120128234499002537.webp",
+      "preview_path": "assets/previews/uraharastudio-2120128234499002537.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120128077975977984/vid/avc1/1280x720/m9IjLTrfzffl_S5p.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-10",
+        "checked_at": "2026-11-10T12:22:12.678251+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "247acffda291e14fbbb47cfd7dd08f6d1b11d3b6843f485428abed5b19c273f7",
+        "model_named": true
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120128077975977984",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A visually distinctive anime fan-animation; pure-code attribution comes from the creator, not an independently repeated run.",
+      "workflow": "creator-reported-code",
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-10T12:19:35.703069+00:00",
+          "views": 26,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-10T12:26:57.171634+00:00",
+          "views": 43,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 7.4,
+        "views_delta": 17,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "aryamgoyal1-2120128188936503343",
+      "titles": {
+        "en": "An Amy learning-app launch film",
+        "zh-CN": "Amy 学习应用发布短片",
+        "ja": "学習アプリAmyの紹介映像",
+        "ko": "학습 앱 Amy 출시 영상",
+        "es": "Un vídeo de lanzamiento para la app educativa Amy"
+      },
+      "category": "product",
+      "creator": {
+        "name": "AryamGoyal1",
+        "url": "https://x.com/AryamGoyal1"
+      },
+      "source_url": "https://x.com/AryamGoyal1/status/2120128188936503343",
+      "published_at": "2026-11-10T12:15:24Z",
+      "duration_seconds": 56,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120127470120968192/img/b4PNhOt-LTESiPxE.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/aryamgoyal1-2120128188936503343.webp",
+      "preview_path": "assets/previews/aryamgoyal1-2120128188936503343.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120127470120968192/vid/avc1/1920x1080/5HOZAyjOLS3dUDC-.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-10",
+        "checked_at": "2026-11-10T12:22:19.103462+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "4015df2b63913e9b0b652e0895c4026775217154837b350840ff434c8f0bc2ca",
+        "model_named": true
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120127470120968192",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A complete product-launch sequence with typographic transitions and interface examples, rather than a generic model-news clip.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-10T12:19:35.708454+00:00",
+          "views": 11,
+          "likes": 1,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-10T12:26:57.128968+00:00",
+          "views": 13,
+          "likes": 1,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 7.4,
+        "views_delta": 2,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "nakachan-2120127995625316511",
+      "titles": {
+        "en": "Liquid-chrome real-time audiovisual demo",
+        "zh-CN": "液态金属实时视听演示",
+        "ja": "液体クロームのリアルタイム映像と音楽",
+        "ko": "액체 크롬 실시간 시청각 데모",
+        "es": "Demo audiovisual de cromo líquido en tiempo real"
+      },
+      "category": "motion",
+      "creator": {
+        "name": "Nakachan",
+        "url": "https://x.com/Nakachan"
+      },
+      "source_url": "https://x.com/Nakachan/status/2120127995625316511",
+      "published_at": "2026-11-10T12:14:38Z",
+      "duration_seconds": 10.266,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120127355821948928/img/IxaDdJnw26fnkRNB.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/nakachan-2120127995625316511.webp",
+      "preview_path": "assets/previews/nakachan-2120127995625316511.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120127355821948928/vid/avc1/1048x720/YvT2SPzL_LdlCRo4.mp4?tag=14",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-10",
+        "checked_at": "2026-11-10T12:22:21.202725+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "d0601136566f6eefb9a2d88280251a3857782bc4c5aeb0ac69c64c42e7953fc2",
+        "model_named": true
+      },
+      "prompt": {
+        "text": "Fable 5.2の考える最強のメガデモを作って",
+        "source_url": "https://x.com/Nakachan/status/2120127995625316511"
+      },
+      "native_media_id": "2120127355821948928",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "Combines animated reflective forms and code-generated music; the original Japanese prompt is publicly shared.",
+      "workflow": "creator-reported-code",
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-10T12:19:35.709299+00:00",
+          "views": 17,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-10T12:26:57.107749+00:00",
+          "views": 21,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 7.4,
+        "views_delta": 4,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "biduletechtal-2120127941598380265",
+      "titles": {
+        "en": "A Rio tutorial-assistant product demo",
+        "zh-CN": "Rio 教程助手产品演示片",
+        "ja": "チュートリアル支援ツールRioの紹介映像",
+        "ko": "튜토리얼 도우미 Rio 제품 데모",
+        "es": "Una demo del asistente de tutoriales Rio"
+      },
+      "category": "product",
+      "creator": {
+        "name": "biduletechtal",
+        "url": "https://x.com/biduletechtal"
+      },
+      "source_url": "https://x.com/biduletechtal/status/2120127941598380265",
+      "published_at": "2026-11-10T12:14:26Z",
+      "duration_seconds": 41.237,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120127890226360321/img/jHhz65jeqoa656qk.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/biduletechtal-2120127941598380265.webp",
+      "preview_path": "assets/previews/biduletechtal-2120127941598380265.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120127890226360321/vid/avc1/1920x1080/9pzTacRoZLu3YTxw.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-10",
+        "checked_at": "2026-11-10T12:22:25.454492+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "3a6f9d2e74a2a7fd913ca3b7e8dfae8a8129a3d4795d15ae4a03743ebe04b253",
+        "model_named": true
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120127890226360321",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A concise tutorial-assistant product film; the creator names Fable 5.2 but does not specify all production tools.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-10T12:19:36.940088+00:00",
+          "views": 25,
+          "likes": 1,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-10T12:26:58.182327+00:00",
+          "views": 31,
+          "likes": 1,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 7.4,
+        "views_delta": 6,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "sara-kumodeck-2120127706675417428",
+      "titles": {
+        "en": "A WebGPU water tank with shattering glass",
+        "zh-CN": "玻璃可击碎的 WebGPU 水箱",
+        "ja": "ガラスが砕けるWebGPU水槽",
+        "ko": "유리가 깨지는 WebGPU 수조",
+        "es": "Un tanque de agua WebGPU con cristal que se rompe"
+      },
+      "category": "interactive",
+      "creator": {
+        "name": "sara_kumodeck",
+        "url": "https://x.com/sara_kumodeck"
+      },
+      "source_url": "https://x.com/sara_kumodeck/status/2120127706675417428",
+      "published_at": "2026-11-10T12:13:29Z",
+      "duration_seconds": 15.233,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120127605894701057/img/xeR2mg9jhJ4p6-ip.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/sara-kumodeck-2120127706675417428.webp",
+      "preview_path": "assets/previews/sara-kumodeck-2120127706675417428.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120127605894701057/vid/avc1/1920x1080/vmX1EZ4VHCC4dij2.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-10",
+        "checked_at": "2026-11-10T12:22:26.281001+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "86f44d5d90705098f452d8891da7208b9a07c453d72f41dfb0cf597d3da1c044",
+        "model_named": true
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120127605894701057",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "Shows a responsive water-and-glass simulation. WebGPU and Three.js are explicitly named by the creator; particle count, time and cost remain creator claims.",
+      "workflow": "creator-reported-code",
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-10T12:19:36.699963+00:00",
+          "views": 3,
+          "likes": 1,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-10T12:26:58.146899+00:00",
+          "views": 9,
+          "likes": 2,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 7.4,
+        "views_delta": 6,
         "likes_delta": 1,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "lemomo-ai-2120118194409193682",
+      "titles": {
+        "en": "A moonlit library of flying pages",
+        "zh-CN": "月光下书页飞舞的图书馆",
+        "ja": "月夜の図書館を舞うページ",
+        "ko": "달빛 도서관에서 날아오르는 책장",
+        "es": "Una biblioteca a la luz de la luna con páginas voladoras"
+      },
+      "category": "short-films",
+      "creator": {
+        "name": "lemomo_ai",
+        "url": "https://x.com/lemomo_ai"
+      },
+      "source_url": "https://x.com/lemomo_ai/status/2120118194409193682",
+      "published_at": "2026-11-10T11:35:42Z",
+      "duration_seconds": 55,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120117891240742914/img/E86-W0SHswamBbGz.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/lemomo-ai-2120118194409193682.webp",
+      "preview_path": "assets/previews/lemomo-ai-2120118194409193682.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120117891240742914/vid/avc1/1920x1080/-2LACPT73SSi5tr7.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-10",
+        "checked_at": "2026-11-10T12:22:30.575777+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "cd6e757d43651d5f97479742726fe05a4066c9ca810591380d029a4f35518b5d",
+        "model_named": true
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120117891240742914",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "Strong camera movement, lighting and a coherent flying-page motif. The creator names the model; the exact production toolchain is not disclosed.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-10T12:19:56.940874+00:00",
+          "views": 2115,
+          "likes": 48,
+          "reposts": 4,
+          "replies": 22,
+          "bookmarks": 12
+        },
+        {
+          "checked_at": "2026-11-10T12:26:58.159979+00:00",
+          "views": 2518,
+          "likes": 55,
+          "reposts": 4,
+          "replies": 25,
+          "bookmarks": 15
+        }
+      ],
+      "momentum": {
+        "state": "rising",
+        "window_minutes": 7.0,
+        "views_delta": 403,
+        "likes_delta": 7,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "argofowl-2120116358793085186",
+      "titles": {
+        "en": "An interactive foldable-phone unboxing",
+        "zh-CN": "可交互的折叠手机开箱",
+        "ja": "操作できる折りたたみスマホの開封",
+        "ko": "상호작용하는 폴더블폰 언박싱",
+        "es": "Un desembalaje interactivo de un móvil plegable"
+      },
+      "category": "product",
+      "creator": {
+        "name": "argofowl",
+        "url": "https://x.com/argofowl"
+      },
+      "source_url": "https://x.com/argofowl/status/2120116358793085186",
+      "published_at": "2026-11-10T11:28:24Z",
+      "duration_seconds": 49.15,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120115535107264512/img/zXMcBW8sHlnp_JTd.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/argofowl-2120116358793085186.webp",
+      "preview_path": "assets/previews/argofowl-2120116358793085186.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120115535107264512/vid/avc1/1900x856/vM_oqNfck4QvROH9.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-10",
+        "checked_at": "2026-11-10T12:22:31.464284+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "e37161f841c0c7970e77094d6af33091300a256f8e4e84bad3602ef247d5d3a6",
+        "model_named": true
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120115535107264512",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "Demonstrates opening, lifting, peeling and unfolding as distinct interactions; the single-HTML/no-assets claim is explicitly attributed to the creator.",
+      "workflow": "creator-reported-code",
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-10T12:19:56.933848+00:00",
+          "views": 1502,
+          "likes": 25,
+          "reposts": 1,
+          "replies": 7,
+          "bookmarks": 8
+        },
+        {
+          "checked_at": "2026-11-10T12:26:58.159107+00:00",
+          "views": 1699,
+          "likes": 26,
+          "reposts": 1,
+          "replies": 7,
+          "bookmarks": 8
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 7.0,
+        "views_delta": 197,
+        "likes_delta": 1,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "maxt3chno-2120113578531234172",
+      "titles": {
+        "en": "A Tripo character animated in Blender from a video reference",
+        "zh-CN": "用参考视频驱动 Blender 中的 Tripo 角色动画",
+        "ja": "参考動画からBlenderで動かすTripo製キャラクター",
+        "ko": "참고 영상으로 Blender에서 움직인 Tripo 캐릭터",
+        "es": "Un personaje de Tripo animado en Blender con un vídeo de referencia"
+      },
+      "category": "motion",
+      "creator": {
+        "name": "maxt3chno",
+        "url": "https://x.com/maxt3chno"
+      },
+      "source_url": "https://x.com/maxt3chno/status/2120113578531234172",
+      "published_at": "2026-11-10T11:17:21Z",
+      "duration_seconds": 15.58,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120112581515829248/img/uqnVu6kuNv8Z1GFu.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/maxt3chno-2120113578531234172.webp",
+      "preview_path": "assets/previews/maxt3chno-2120113578531234172.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120112581515829248/vid/avc1/2304x1440/FuMsMyEM4q9Lj-I7.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-10",
+        "checked_at": "2026-11-10T12:22:38.092992+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "842c41fd44b72783769930f3f3278a05b628d6a6ed293974c83eed824dfff11c",
+        "model_named": true
+      },
+      "prompt": {
+        "text": null,
+        "source_url": "https://x.com/maxt3chno/status/2120116202559217812",
+        "source_check": {
+          "checked_at": "2026-11-10T12:27:23.030051+00:00",
+          "method": "X official oEmbed",
+          "post_sha256": "0b3fe7327b80873f683c5e929614ee7c086d9ff220786669506e59ac380a46ee"
+        }
+      },
+      "native_media_id": "2120112581515829248",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The author’s replies disclose a Tripo mesh and Mixamo rig, and share the actual Blender MCP instruction. Listed as a mixed workflow, not a character generated entirely by Fable.",
+      "workflow": "hybrid",
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-10T12:19:56.941584+00:00",
+          "views": 1023,
+          "likes": 25,
+          "reposts": 2,
+          "replies": 8,
+          "bookmarks": 13
+        },
+        {
+          "checked_at": "2026-11-10T12:26:59.327008+00:00",
+          "views": 1170,
+          "likes": 28,
+          "reposts": 3,
+          "replies": 8,
+          "bookmarks": 14
+        }
+      ],
+      "workflow_source_urls": [
+        "https://x.com/maxt3chno/status/2120128106019119470"
+      ],
+      "workflow_notes": {
+        "en": "Uses a Tripo-generated character, a Mixamo rig and a reference video. The creator reports using Fable 5.2 with Blender MCP to produce the animation; the linked reply documents the supplied mesh.",
+        "zh-CN": "使用 Tripo 生成的角色、Mixamo 骨骼和参考视频。作者称由 Fable 5.2 通过 Blender MCP 制作动画；下方回复说明了预先提供的角色网格。",
+        "ja": "Tripo製キャラクター、Mixamoリグ、参考動画を使用。作者によると、Fable 5.2とBlender MCPでアニメーションを制作。提供済みのメッシュについては下記の返信を参照。",
+        "ko": "Tripo 캐릭터, Mixamo 리그와 참고 영상을 사용합니다. 제작자는 Fable 5.2와 Blender MCP로 애니메이션을 만들었다고 설명하며, 아래 답글에서 제공한 메시를 밝힙니다.",
+        "es": "Usa un personaje de Tripo, un rig de Mixamo y un vídeo de referencia. El autor atribuye la animación a Fable 5.2 con Blender MCP; la respuesta enlazada documenta la malla suministrada."
+      },
+      "momentum": {
+        "state": "new",
+        "window_minutes": 7.0,
+        "views_delta": 147,
+        "likes_delta": 3,
+        "reposts_delta": 1
+      }
+    },
+    {
+      "id": "jsnnsa-2120113469290901850",
+      "titles": {
+        "en": "A cobblestone courtyard with detailed surface relief",
+        "zh-CN": "带有细腻石面起伏的鹅卵石庭院",
+        "ja": "凹凸まで描く石畳の中庭",
+        "ko": "돌 표면의 요철을 표현한 자갈 안뜰",
+        "es": "Un patio adoquinado con relieve detallado"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "jsnnsa",
+        "url": "https://x.com/jsnnsa"
+      },
+      "source_url": "https://x.com/jsnnsa/status/2120113469290901850",
+      "published_at": "2026-11-10T11:16:55Z",
+      "duration_seconds": 3.361,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120113092512436224/img/36iYb3NtRDu2Yyng.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/jsnnsa-2120113469290901850.webp",
+      "preview_path": "assets/previews/jsnnsa-2120113469290901850.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120113092512436224/vid/avc1/3380x2026/IoUOfTQR_hB4fWMx.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-10",
+        "checked_at": "2026-11-10T12:22:39.941420+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "d38998eed686323ac99923cad79b9be966073ed41f6dca830bfdf1d3e9774b57",
+        "model_named": true
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120113092512436224",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A short surface-detail study with visible camera movement; included for material/geometry detail, without inferring an undisclosed rendering engine.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-10T12:19:56.941218+00:00",
+          "views": 1296,
+          "likes": 39,
+          "reposts": 2,
+          "replies": 4,
+          "bookmarks": 2
+        },
+        {
+          "checked_at": "2026-11-10T12:26:59.595739+00:00",
+          "views": 1435,
+          "likes": 41,
+          "reposts": 2,
+          "replies": 5,
+          "bookmarks": 2
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 7.0,
+        "views_delta": 139,
+        "likes_delta": 2,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "stargridcompass-2120082786631516514",
+      "titles": {
+        "en": "26 years of Nasdaq, visualized in motion",
+        "zh-CN": "用动态图形回顾纳斯达克 26 年",
+        "ja": "ナスダック26年を動きで可視化",
+        "ko": "모션으로 시각화한 나스닥 26년",
+        "es": "26 años del Nasdaq visualizados en movimiento"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "Stargridcompass",
+        "url": "https://x.com/Stargridcompass"
+      },
+      "source_url": "https://x.com/Stargridcompass/status/2120082786631516514",
+      "published_at": "2026-11-10T09:15:00Z",
+      "duration_seconds": 60.093,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120081004001988608/img/RfIzu7oDVoT89v6w.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/stargridcompass-2120082786631516514.webp",
+      "preview_path": "assets/previews/stargridcompass-2120082786631516514.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120081004001988608/vid/avc1/1920x1080/EEY78nPH5McLEfOs.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-10",
+        "checked_at": "2026-11-10T12:22:42.475264+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "cf0d5e989be6a173ae1f885e4eacca0d0bce09687245a003ee90860f625c9a88",
+        "model_named": true
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120081004001988608",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "An original Chinese-language financial-history visualization with coordinated charts, labels and sound; displayed market figures were not independently audited.",
+      "workflow": "creator-reported-code",
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-10T12:21:00.988997+00:00",
+          "views": 656,
+          "likes": 7,
+          "reposts": 0,
+          "replies": 8,
+          "bookmarks": 3
+        },
+        {
+          "checked_at": "2026-11-10T12:26:59.235285+00:00",
+          "views": 686,
+          "likes": 8,
+          "reposts": 0,
+          "replies": 8,
+          "bookmarks": 3
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 6.0,
+        "views_delta": 30,
+        "likes_delta": 1,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "haileyailabs-2120075292043890890",
+      "titles": {
+        "en": "Do Not Touch: a storyboard-led 3D short",
+        "zh-CN": "《禁止触碰》：分镜图驱动的 3D 短片",
+        "ja": "絵コンテから作る3D短編『触らないで』",
+        "ko": "스토리보드로 만든 3D 단편 ‘만지지 마세요’",
+        "es": "No tocar: un corto 3D guiado por un storyboard"
+      },
+      "category": "short-films",
+      "creator": {
+        "name": "HaileyAILabs",
+        "url": "https://x.com/HaileyAILabs"
+      },
+      "source_url": "https://x.com/HaileyAILabs/status/2120075292043890890",
+      "published_at": "2026-11-10T08:45:13Z",
+      "duration_seconds": 30.166,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120073390942048256/img/JiRyUeuTPEWUe-Ya.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/haileyailabs-2120075292043890890.webp",
+      "preview_path": "assets/previews/haileyailabs-2120075292043890890.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120073390942048256/vid/avc1/3024x1714/xZRjyNo0Fwszd5WF.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-10",
+        "checked_at": "2026-11-10T12:22:43.583377+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "3ac414d26ed3760becc40e0a7e594ca659ebfee7299127106dc9aeb7fa935a9f",
+        "model_named": true
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120073390942048256",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The author reports supplying a prompt plus a storyboard image; visual review shows a coherent character-led sequence. Camera, timing and cost claims remain attributed.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-10T12:21:01.039055+00:00",
+          "views": 1027,
+          "likes": 16,
+          "reposts": 0,
+          "replies": 12,
+          "bookmarks": 5
+        },
+        {
+          "checked_at": "2026-11-10T12:26:59.595377+00:00",
+          "views": 1036,
+          "likes": 16,
+          "reposts": 0,
+          "replies": 12,
+          "bookmarks": 5
+        }
+      ],
+      "workflow_notes": {
+        "en": "The creator reports supplying one prompt and a storyboard image to guide the 3D film. Reported run time, cost and autonomous checks have not been independently reproduced.",
+        "zh-CN": "作者称提供了一份提示词和一张分镜图来指导 3D 短片制作。所述运行时间、成本与自主检查尚未独立复现。",
+        "ja": "作者によると、1つの指示と絵コンテ画像を入力して3D短編を制作。実行時間、費用、自律チェックは独立に再現していない。",
+        "ko": "제작자는 프롬프트 하나와 스토리보드 이미지를 제공해 3D 단편을 만들었다고 설명합니다. 실행 시간, 비용 및 자율 검사는 독립적으로 재현하지 않았습니다.",
+        "es": "El autor indica que proporcionó un prompt y una imagen de storyboard para guiar el corto 3D. El tiempo, coste y controles autónomos declarados no se han reproducido de forma independiente."
+      },
+      "momentum": {
+        "state": "new",
+        "window_minutes": 6.0,
+        "views_delta": 9,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "gorden-sun-2120069883597832595",
+      "titles": {
+        "en": "Mandopop styles across four decades",
+        "zh-CN": "跨越四个年代的华语流行音乐风格",
+        "ja": "4つの年代をたどる中華圏ポップス",
+        "ko": "네 시대를 아우르는 중국어 팝 음악 스타일",
+        "es": "Estilos del pop en mandarín a lo largo de cuatro décadas"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "Gorden_Sun",
+        "url": "https://x.com/Gorden_Sun"
+      },
+      "source_url": "https://x.com/Gorden_Sun/status/2120069883597832595",
+      "published_at": "2026-11-10T08:23:43Z",
+      "duration_seconds": 231.1,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120069533562191874/img/dvp_UBApdkLcqbuy.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/gorden-sun-2120069883597832595.webp",
+      "preview_path": "assets/previews/gorden-sun-2120069883597832595.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120069533562191874/vid/avc1/1920x1080/d-di6uhJPEXGX7js.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-10",
+        "checked_at": "2026-11-10T12:22:48.412694+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "2c6ac30b98cc7ded14cafcc9baf03333fc02d414bf9a3394a06592b579e017e2",
+        "model_named": true
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120069533562191874",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "Connects period-specific visual design with a creator-reported music-generation experiment spanning the 1980s to the 2010s.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-10T12:21:01.022719+00:00",
+          "views": 4540,
+          "likes": 35,
+          "reposts": 3,
+          "replies": 17,
+          "bookmarks": 18
+        },
+        {
+          "checked_at": "2026-11-10T12:27:00.279395+00:00",
+          "views": 4661,
+          "likes": 35,
+          "reposts": 3,
+          "replies": 17,
+          "bookmarks": 20
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 6.0,
+        "views_delta": 121,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "kanaworks-ai-2120098607382880627",
+      "titles": {
+        "en": "An unbroken flight through changing 3D worlds",
+        "zh-CN": "穿越不断变换的 3D 世界的连续飞行",
+        "ja": "変わり続ける3D世界を切れ目なく飛ぶ",
+        "ko": "끊김 없이 변화하는 3D 세계를 비행",
+        "es": "Un vuelo continuo por mundos 3D cambiantes"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "KanaWorks_AI",
+        "url": "https://x.com/KanaWorks_AI"
+      },
+      "source_url": "https://x.com/KanaWorks_AI/status/2120098607382880627",
+      "published_at": "2026-11-10T10:17:52Z",
+      "duration_seconds": 37,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120098419654230017/img/MhpnYDH0wUpkhqNV.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kanaworks-ai-2120098607382880627.webp",
+      "preview_path": "assets/previews/kanaworks-ai-2120098607382880627.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120098419654230017/vid/avc1/1920x1080/oFLDhtXCqoMaEWyp.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-10",
+        "checked_at": "2026-11-10T12:22:50.528284+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "57aec5b6e191b242482b4c0c3244eff94ac8224b44134620c23b451b7826b43f",
+        "model_named": true
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120098419654230017",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A continuous terrain-transition demonstration with snow, forest, rock, dunes and water. Infinite-world behavior and evaluation claims were not independently reproduced.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-10T12:21:28.079420+00:00",
+          "views": 4655,
+          "likes": 99,
+          "reposts": 11,
+          "replies": 10,
+          "bookmarks": 40
+        },
+        {
+          "checked_at": "2026-11-10T12:27:00.447765+00:00",
+          "views": 4907,
+          "likes": 107,
+          "reposts": 11,
+          "replies": 11,
+          "bookmarks": 42
+        }
+      ],
+      "momentum": {
+        "state": "rising",
+        "window_minutes": 5.5,
+        "views_delta": 252,
+        "likes_delta": 8,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "kanaworks-ai-2119998466143490282",
+      "titles": {
+        "en": "A Blender meadow with ElevenLabs-generated audio",
+        "zh-CN": "搭配 ElevenLabs 音频的 Blender 草地世界",
+        "ja": "ElevenLabsの音声を添えたBlenderの草原",
+        "ko": "ElevenLabs 오디오를 더한 Blender 초원",
+        "es": "Una pradera de Blender con audio generado por ElevenLabs"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "KanaWorks_AI",
+        "url": "https://x.com/KanaWorks_AI"
+      },
+      "source_url": "https://x.com/KanaWorks_AI/status/2119998466143490282",
+      "published_at": "2026-11-10T03:39:56Z",
+      "duration_seconds": 45.557,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119997805469343744/img/Hy8LapSrsCJnFt9e.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kanaworks-ai-2119998466143490282.webp",
+      "preview_path": "assets/previews/kanaworks-ai-2119998466143490282.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2119997805469343744/vid/avc1/1920x1080/k9AwH2MwZ_uq1Npk.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-10",
+        "checked_at": "2026-11-10T12:22:55.732883+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "3b6c466d37e4f9948f132f06e88e9e5d18ab743a1372ca0842d4ef7dbf086547",
+        "model_named": true
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2119997805469343744",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "Clearly identifies the split between the Blender scene and ElevenLabs audio. The original post also discloses the creator’s ElevenLabs ambassador relationship.",
+      "workflow": "hybrid",
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-10T12:21:28.024574+00:00",
+          "views": 1508,
+          "likes": 39,
+          "reposts": 8,
+          "replies": 5,
+          "bookmarks": 17
+        },
+        {
+          "checked_at": "2026-11-10T12:27:00.495715+00:00",
+          "views": 1518,
+          "likes": 39,
+          "reposts": 8,
+          "replies": 5,
+          "bookmarks": 17
+        }
+      ],
+      "creator_disclosure": "Original post includes #ElevenLabsAmbassador.",
+      "workflow_notes": {
+        "en": "The creator reports building the scene in Blender with Fable 5.2 and generating all audio through ElevenLabs MCP. The original post discloses an ElevenLabs ambassador relationship.",
+        "zh-CN": "作者称由 Fable 5.2 在 Blender 中构建场景，全部音频通过 ElevenLabs MCP 生成。原帖披露了作者的 ElevenLabs 大使身份。",
+        "ja": "作者によると、Fable 5.2でBlenderのシーンを構築し、音声はすべてElevenLabs MCPで生成。元の投稿ではElevenLabsアンバサダーであることも開示。",
+        "ko": "제작자는 Fable 5.2로 Blender 장면을 만들고 모든 오디오는 ElevenLabs MCP로 생성했다고 설명합니다. 원문에는 ElevenLabs 앰배서더 관계가 공개되어 있습니다.",
+        "es": "El autor indica que creó la escena en Blender con Fable 5.2 y todo el audio con ElevenLabs MCP. La publicación original declara su relación como embajador de ElevenLabs."
+      },
+      "momentum": {
+        "state": "new",
+        "window_minutes": 5.5,
+        "views_delta": 10,
+        "likes_delta": 0,
         "reposts_delta": 0
       }
     }

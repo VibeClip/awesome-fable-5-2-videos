@@ -70,6 +70,11 @@ def load():
             assert prompt['source_url'].startswith(video['creator']['url'] + '/status/'), 'Prompt needs creator primary source'
         if prompt['source_url']:
             assert urlparse(prompt['source_url']).scheme == 'https'
+        if video.get('workflow_notes'):
+            assert set(video['workflow_notes']) == set(LANGS), 'Missing workflow translation'
+            assert all(video['workflow_notes'].values()), 'Empty workflow note'
+        for source in video.get('workflow_source_urls', []):
+            assert source.startswith(video['creator']['url'] + '/status/'), 'Workflow evidence needs creator source'
     assert set(data['featured_ids']) <= ids
     assert len(set(data['featured_ids'])) == len(data['featured_ids'])
     for lang, values in strings.items():
@@ -235,8 +240,12 @@ def render(data, strings):
                     f'{playback} · '
                     f'[{values["source"]}]({video["source_url"]})\n\n'
                     f'[{video["creator"]["name"]}]({video["creator"]["url"]}) · '
-                    f'{duration(video)} · {video["published_at"][:10]}\n\n'
-                    f'## {values["prompt"]}\n\n')
+                    f'{duration(video)} · {video["published_at"][:10]}\n\n')
+            if video.get('workflow_notes'):
+                text += escape(video['workflow_notes'][lang]) + '\n\n'
+                for source in video.get('workflow_source_urls', []):
+                    text += f'[{values["source"]}]({source})\n\n'
+            text += f'## {values["prompt"]}\n\n'
             prompt = video['prompt']
             if prompt['text']:
                 text += values['prompt_note'] + '\n\n'

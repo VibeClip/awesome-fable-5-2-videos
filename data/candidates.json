@@ -9,6 +9,16 @@
       },
       "status": "held-after-visual-review",
       "reason": "The preview sample includes presenter-led discussion; an isolated Fable-generated output was not established in this visual review."
+    },
+    {
+      "source_url": "https://x.com/KanaWorks_AI/status/2120070220924776496",
+      "creator": {
+        "name": "KanaWorks_AI",
+        "url": "https://x.com/KanaWorks_AI"
+      },
+      "status": "held-insufficient-workflow-evidence",
+      "reason": "The original post credits the final video to Seedance 2.5 and names Fable 5.2 without describing its role. Keep as a candidate until the Fable contribution is established.",
+      "checked_at": "2026-11-10T12:27:23.036353+00:00"
     }
   ]
 }
