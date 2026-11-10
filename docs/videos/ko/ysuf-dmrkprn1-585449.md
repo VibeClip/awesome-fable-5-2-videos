@@ -4,9 +4,9 @@
 
 [모음으로 돌아가기](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.ko.md)
 
-[![HTML 파일 하나로 만든 자체 출시 영상](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ysuf-dmrkprn1-585449.webp)](https://x.com/ysuf_dmrkprn1/status/2119902151581585449)
+![HTML 파일 하나로 만든 자체 출시 영상](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ysuf-dmrkprn1-585449.webp)
 
-**[▶ 전체 영상](https://x.com/ysuf_dmrkprn1/status/2119902151581585449)** · [원본 게시물](https://x.com/ysuf_dmrkprn1/status/2119902151581585449)
+**원본 게시물 이용 불가** · [원본 게시물](https://x.com/ysuf_dmrkprn1/status/2119902151581585449)
 
 [ysuf_dmrkprn1](https://x.com/ysuf_dmrkprn1) · 0:33 · 2026-11-09
 

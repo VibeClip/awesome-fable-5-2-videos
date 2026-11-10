@@ -4,9 +4,9 @@
 
 [一覧に戻る](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.ja.md)
 
-[![『叫び』の物語を短編で](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/osmanaga-146194.webp)](https://x.com/osmanaga__/status/2119892099437146194)
+![『叫び』の物語を短編で](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/osmanaga-146194.webp)
 
-**[▶ 本編](https://x.com/osmanaga__/status/2119892099437146194)** · [元の投稿](https://x.com/osmanaga__/status/2119892099437146194)
+**元の投稿は利用不可** · [元の投稿](https://x.com/osmanaga__/status/2119892099437146194)
 
 [osmanaga__](https://x.com/osmanaga__) · 0:38 · 2026-11-09
 

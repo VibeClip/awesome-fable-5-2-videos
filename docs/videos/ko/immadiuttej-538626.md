@@ -4,9 +4,9 @@
 
 [모음으로 돌아가기](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.ko.md)
 
-[![40만 개 입자가 만드는 반복 애니메이션](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/immadiuttej-538626.webp)](https://x.com/immadiuttej/status/2119882515410538626)
+![40만 개 입자가 만드는 반복 애니메이션](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/immadiuttej-538626.webp)
 
-**[▶ 전체 영상](https://x.com/immadiuttej/status/2119882515410538626)** · [원본 게시물](https://x.com/immadiuttej/status/2119882515410538626)
+**원본 게시물 이용 불가** · [원본 게시물](https://x.com/immadiuttej/status/2119882515410538626)
 
 [immadiuttej](https://x.com/immadiuttej) · 0:24 · 2026-11-09
 

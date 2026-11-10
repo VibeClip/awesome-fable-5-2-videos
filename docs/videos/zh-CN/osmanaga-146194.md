@@ -4,9 +4,9 @@
 
 [返回合集](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.zh-CN.md)
 
-[![《呐喊》背后的故事短片](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/osmanaga-146194.webp)](https://x.com/osmanaga__/status/2119892099437146194)
+![《呐喊》背后的故事短片](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/osmanaga-146194.webp)
 
-**[▶ 完整视频](https://x.com/osmanaga__/status/2119892099437146194)** · [原始发布](https://x.com/osmanaga__/status/2119892099437146194)
+**原帖暂不可用** · [原始发布](https://x.com/osmanaga__/status/2119892099437146194)
 
 [osmanaga__](https://x.com/osmanaga__) · 0:38 · 2026-11-09
 

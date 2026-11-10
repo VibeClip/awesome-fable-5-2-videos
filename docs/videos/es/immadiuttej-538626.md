@@ -4,9 +4,9 @@
 
 [Volver a la colección](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.es.md)
 
-[![400.000 partículas en un bucle](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/immadiuttej-538626.webp)](https://x.com/immadiuttej/status/2119882515410538626)
+![400.000 partículas en un bucle](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/immadiuttej-538626.webp)
 
-**[▶ Ver vídeo](https://x.com/immadiuttej/status/2119882515410538626)** · [Publicación original](https://x.com/immadiuttej/status/2119882515410538626)
+**Fuente archivada** · [Publicación original](https://x.com/immadiuttej/status/2119882515410538626)
 
 [immadiuttej](https://x.com/immadiuttej) · 0:24 · 2026-11-09
 

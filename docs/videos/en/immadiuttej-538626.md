@@ -4,9 +4,9 @@
 
 [Back to collection](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.md)
 
-[![400,000 particles in a perfect loop](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/immadiuttej-538626.webp)](https://x.com/immadiuttej/status/2119882515410538626)
+![400,000 particles in a perfect loop](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/immadiuttej-538626.webp)
 
-**[▶ Watch](https://x.com/immadiuttej/status/2119882515410538626)** · [Original post](https://x.com/immadiuttej/status/2119882515410538626)
+**Archived source** · [Original post](https://x.com/immadiuttej/status/2119882515410538626)
 
 [immadiuttej](https://x.com/immadiuttej) · 0:24 · 2026-11-09
 

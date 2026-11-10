@@ -4,9 +4,9 @@
 
 [一覧に戻る](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.ja.md)
 
-[![HTML一枚で作る自分の発表映像](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ysuf-dmrkprn1-585449.webp)](https://x.com/ysuf_dmrkprn1/status/2119902151581585449)
+![HTML一枚で作る自分の発表映像](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ysuf-dmrkprn1-585449.webp)
 
-**[▶ 本編](https://x.com/ysuf_dmrkprn1/status/2119902151581585449)** · [元の投稿](https://x.com/ysuf_dmrkprn1/status/2119902151581585449)
+**元の投稿は利用不可** · [元の投稿](https://x.com/ysuf_dmrkprn1/status/2119902151581585449)
 
 [ysuf_dmrkprn1](https://x.com/ysuf_dmrkprn1) · 0:33 · 2026-11-09
 

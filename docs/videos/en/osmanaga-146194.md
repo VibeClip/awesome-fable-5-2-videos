@@ -4,9 +4,9 @@
 
 [Back to collection](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.md)
 
-[![The story of The Scream as a short](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/osmanaga-146194.webp)](https://x.com/osmanaga__/status/2119892099437146194)
+![The story of The Scream as a short](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/osmanaga-146194.webp)
 
-**[▶ Watch](https://x.com/osmanaga__/status/2119892099437146194)** · [Original post](https://x.com/osmanaga__/status/2119892099437146194)
+**Archived source** · [Original post](https://x.com/osmanaga__/status/2119892099437146194)
 
 [osmanaga__](https://x.com/osmanaga__) · 0:38 · 2026-11-09
 

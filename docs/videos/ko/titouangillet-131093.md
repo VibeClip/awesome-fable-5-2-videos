@@ -4,9 +4,9 @@
 
 [모음으로 돌아가기](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.ko.md)
 
-[![8분 만에 만든 모션 디자인 영상](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/titouangillet-131093.webp)](https://x.com/titouangillet_/status/2119885739769131093)
+![8분 만에 만든 모션 디자인 영상](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/titouangillet-131093.webp)
 
-**[▶ 전체 영상](https://x.com/titouangillet_/status/2119885739769131093)** · [원본 게시물](https://x.com/titouangillet_/status/2119885739769131093)
+**원본 게시물 이용 불가** · [원본 게시물](https://x.com/titouangillet_/status/2119885739769131093)
 
 [titouangillet_](https://x.com/titouangillet_) · 0:40 · 2026-11-09
 

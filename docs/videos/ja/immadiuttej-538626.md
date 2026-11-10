@@ -4,9 +4,9 @@
 
 [一覧に戻る](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.ja.md)
 
-[![40万の粒子が描くループ](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/immadiuttej-538626.webp)](https://x.com/immadiuttej/status/2119882515410538626)
+![40万の粒子が描くループ](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/immadiuttej-538626.webp)
 
-**[▶ 本編](https://x.com/immadiuttej/status/2119882515410538626)** · [元の投稿](https://x.com/immadiuttej/status/2119882515410538626)
+**元の投稿は利用不可** · [元の投稿](https://x.com/immadiuttej/status/2119882515410538626)
 
 [immadiuttej](https://x.com/immadiuttej) · 0:24 · 2026-11-09
 

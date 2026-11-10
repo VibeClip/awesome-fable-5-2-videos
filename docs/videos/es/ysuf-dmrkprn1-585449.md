@@ -4,9 +4,9 @@
 
 [Volver a la colección](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.es.md)
 
-[![Un vídeo de lanzamiento en un solo HTML](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ysuf-dmrkprn1-585449.webp)](https://x.com/ysuf_dmrkprn1/status/2119902151581585449)
+![Un vídeo de lanzamiento en un solo HTML](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ysuf-dmrkprn1-585449.webp)
 
-**[▶ Ver vídeo](https://x.com/ysuf_dmrkprn1/status/2119902151581585449)** · [Publicación original](https://x.com/ysuf_dmrkprn1/status/2119902151581585449)
+**Fuente archivada** · [Publicación original](https://x.com/ysuf_dmrkprn1/status/2119902151581585449)
 
 [ysuf_dmrkprn1](https://x.com/ysuf_dmrkprn1) · 0:33 · 2026-11-09
 

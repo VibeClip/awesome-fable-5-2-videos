@@ -4,9 +4,9 @@
 
 [一覧に戻る](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.ja.md)
 
-[![8分で作るモーションデザイン映像](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/titouangillet-131093.webp)](https://x.com/titouangillet_/status/2119885739769131093)
+![8分で作るモーションデザイン映像](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/titouangillet-131093.webp)
 
-**[▶ 本編](https://x.com/titouangillet_/status/2119885739769131093)** · [元の投稿](https://x.com/titouangillet_/status/2119885739769131093)
+**元の投稿は利用不可** · [元の投稿](https://x.com/titouangillet_/status/2119885739769131093)
 
 [titouangillet_](https://x.com/titouangillet_) · 0:40 · 2026-11-09
 

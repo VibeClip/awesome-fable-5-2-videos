@@ -4,9 +4,9 @@
 
 [返回合集](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.zh-CN.md)
 
-[![一个 HTML 文件拍完的自家发布片](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ysuf-dmrkprn1-585449.webp)](https://x.com/ysuf_dmrkprn1/status/2119902151581585449)
+![一个 HTML 文件拍完的自家发布片](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ysuf-dmrkprn1-585449.webp)
 
-**[▶ 完整视频](https://x.com/ysuf_dmrkprn1/status/2119902151581585449)** · [原始发布](https://x.com/ysuf_dmrkprn1/status/2119902151581585449)
+**原帖暂不可用** · [原始发布](https://x.com/ysuf_dmrkprn1/status/2119902151581585449)
 
 [ysuf_dmrkprn1](https://x.com/ysuf_dmrkprn1) · 0:33 · 2026-11-09
 

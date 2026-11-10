@@ -4,9 +4,9 @@
 
 [모음으로 돌아가기](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.ko.md)
 
-[![단편으로 그려낸 절규의 이야기](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/osmanaga-146194.webp)](https://x.com/osmanaga__/status/2119892099437146194)
+![단편으로 그려낸 절규의 이야기](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/osmanaga-146194.webp)
 
-**[▶ 전체 영상](https://x.com/osmanaga__/status/2119892099437146194)** · [원본 게시물](https://x.com/osmanaga__/status/2119892099437146194)
+**원본 게시물 이용 불가** · [원본 게시물](https://x.com/osmanaga__/status/2119892099437146194)
 
 [osmanaga__](https://x.com/osmanaga__) · 0:38 · 2026-11-09
 

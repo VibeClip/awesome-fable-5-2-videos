@@ -4,9 +4,9 @@
 
 [返回合集](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.zh-CN.md)
 
-[![八分钟做出的动效设计片](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/titouangillet-131093.webp)](https://x.com/titouangillet_/status/2119885739769131093)
+![八分钟做出的动效设计片](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/titouangillet-131093.webp)
 
-**[▶ 完整视频](https://x.com/titouangillet_/status/2119885739769131093)** · [原始发布](https://x.com/titouangillet_/status/2119885739769131093)
+**原帖暂不可用** · [原始发布](https://x.com/titouangillet_/status/2119885739769131093)
 
 [titouangillet_](https://x.com/titouangillet_) · 0:40 · 2026-11-09
 

@@ -4,9 +4,9 @@
 
 [Volver a la colección](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.es.md)
 
-[![Un vídeo de motion design creado en ocho minutos](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/titouangillet-131093.webp)](https://x.com/titouangillet_/status/2119885739769131093)
+![Un vídeo de motion design creado en ocho minutos](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/titouangillet-131093.webp)
 
-**[▶ Ver vídeo](https://x.com/titouangillet_/status/2119885739769131093)** · [Publicación original](https://x.com/titouangillet_/status/2119885739769131093)
+**Fuente archivada** · [Publicación original](https://x.com/titouangillet_/status/2119885739769131093)
 
 [titouangillet_](https://x.com/titouangillet_) · 0:40 · 2026-11-09
 

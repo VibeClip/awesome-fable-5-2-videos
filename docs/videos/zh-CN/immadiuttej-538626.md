@@ -4,9 +4,9 @@
 
 [返回合集](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.zh-CN.md)
 
-[![40 万粒子的完美循环](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/immadiuttej-538626.webp)](https://x.com/immadiuttej/status/2119882515410538626)
+![40 万粒子的完美循环](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/immadiuttej-538626.webp)
 
-**[▶ 完整视频](https://x.com/immadiuttej/status/2119882515410538626)** · [原始发布](https://x.com/immadiuttej/status/2119882515410538626)
+**原帖暂不可用** · [原始发布](https://x.com/immadiuttej/status/2119882515410538626)
 
 [immadiuttej](https://x.com/immadiuttej) · 0:24 · 2026-11-09
 

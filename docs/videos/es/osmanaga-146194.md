@@ -4,9 +4,9 @@
 
 [Volver a la colección](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.es.md)
 
-[![La historia de El grito en un corto](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/osmanaga-146194.webp)](https://x.com/osmanaga__/status/2119892099437146194)
+![La historia de El grito en un corto](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/osmanaga-146194.webp)
 
-**[▶ Ver vídeo](https://x.com/osmanaga__/status/2119892099437146194)** · [Publicación original](https://x.com/osmanaga__/status/2119892099437146194)
+**Fuente archivada** · [Publicación original](https://x.com/osmanaga__/status/2119892099437146194)
 
 [osmanaga__](https://x.com/osmanaga__) · 0:38 · 2026-11-09
 
