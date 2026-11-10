@@ -1,16 +1,17 @@
 {
   "language": "日本語",
   "intro": "Claude Fable 5.2で作られた動画。次のアイデアを、動きの中で。",
-  "about": "**Claude Fable 5.2**で作られた短編、モーショングラフィックス、3Dの世界。**VibeClip**が厳選。",
+  "about": "**Fable in Motion** は、**Claude Fable 5.2の動画、AIアニメーション、モーショングラフィックス、クリエイティブコーディング**を集めた、**VibeClip**編集のコレクションです。映像制作者、デザイナー、開発者の次のアイデアに。",
   "cta": "次の制作のヒントに、Starで保存。素敵な動画の投稿も歓迎します。",
   "featured": "まずはこの作品から",
-  "browse": "カテゴリー別に探す",
+  "browse": "制作の方向から探す",
   "categories": [
-    "モーションとアニメーション",
-    "3Dの場面と世界",
-    "製品・発表映像",
-    "ビジュアル解説",
-    "ゲームとインタラクティブデモ"
+    "短編とストーリー",
+    "モーションデザインとアニメーション",
+    "3Dの世界とシミュレーション",
+    "製品映像とWeb体験",
+    "ビジュアル解説と音楽",
+    "ゲームとインタラクティブ作品"
   ],
   "all": "すべての動画",
   "watch": "本編",
@@ -49,5 +50,68 @@
   "rising": "↗ 注目上昇",
   "new": "新しい発見",
   "established": "広く拡散済み",
-  "archived": "元の投稿は利用不可"
+  "archived": "元の投稿は利用不可",
+  "category_descriptions": [
+    "キャラクター、アニメ短編、映画的な物語、ミュージックビデオ。",
+    "動く文字、粒子、ジェネラティブアート、SVGと映像実験。",
+    "プロシージャルな世界、仮想都市、Blenderの場面、物理シミュレーション。",
+    "ブランド映像、SaaSデモ、製品発表、Webアニメーション。",
+    "教育アニメーション、科学の可視化、楽譜と合成音。",
+    "ブラウザーゲーム、遊べる世界、創作ツール、対話的なUI。"
+  ],
+  "guide_intro": "短編、3Dアニメーション、製品映像、ビジュアル解説、対話的な世界まで、**{videos}本の動画例**を収録。ループを見て、本編と作者の投稿、公開プロンプトへ進めます。コードで描く作品と、他の生成ツールを組み合わせた作品を区別しています。",
+  "highlights": [
+    "**まず動きを見る：** 各カードに、このリポジトリで保管する動くプレビュー、本編、作者と元の投稿があります。",
+    "**作品のそばにプロンプト：** {prompts}件の公開プロンプト出典を対応作品に掲載。📝を開くと短い原文や出典を読めます。",
+    "**次の制作へ：** code to video、AI映像、Three.js、Blender、Remotion、HyperFrames、ジェネラティブアートを探索。"
+  ],
+  "category_column": "コレクション",
+  "examples_column": "件数",
+  "find_column": "見つかる作品",
+  "tools_title": "技術と用途から探す",
+  "tools_note": "次の制作の入口となる検索語です。各作品の具体的なツールや手順は作者の元の投稿で確認してください。",
+  "tool_columns": [
+    "方向",
+    "技術と検索キーワード"
+  ],
+  "tool_labels": [
+    "プロンプトから映像へ",
+    "Webアニメーション",
+    "3Dとレンダリング",
+    "映像制作のワークフロー",
+    "製品とキャンペーン",
+    "ゲームと創作UI",
+    "音楽とストーリー"
+  ],
+  "faq_title": "コレクションの使い方",
+  "faq": [
+    [
+      "code to videoとは？",
+      "場面、アニメーション、カメラや音をコードで作り、動画としてレンダリングしたり、対話的な場面として動かす作品です。他の画像・映像・音声ツールを併用する場合は別途記録します。"
+    ],
+    [
+      "プロンプトはどこ？",
+      "作品の下の📝パネルを開いてください。短い原文はその場で読め、長い指示は作者の出典へリンクします。未公開のプロンプトは創作しません。"
+    ],
+    [
+      "気になる作品をどう活用する？",
+      "ループ、本編、作者の投稿とプロンプトを順に確認し、視覚表現や参考素材、手順を自分の企画に合わせてください。"
+    ],
+    [
+      "注目上昇の判断は？",
+      "累積いいねだけでなく、日時付きの公開スナップショット間の増加を見ます。発見記録に観測時間と変化を残しています。"
+    ]
+  ],
+  "prompt_expand": "📝 プロンプトを見る",
+  "faq_link": "使い方",
+  "discover_link": "新しい発見",
+  "tool_keywords": [
+    "code to video · AI video generation · text to animation · creative coding · vibe coding",
+    "HTML · CSS · JavaScript · SVG animation · HTML5 Canvas · motion graphics · kinetic typography",
+    "Three.js · WebGL · WebGPU · Blender · 3D animation · procedural modeling · physics simulation",
+    "Remotion · HyperFrames · AI video editing · code-based rendering · camera animation",
+    "product launch video · SaaS demo · brand film · social media video · explainer video",
+    "game development · browser games · interactive UI · voxel worlds · generative art",
+    "AI music · music video · synthesized audio · sound design · cinematic storytelling"
+  ]
 }

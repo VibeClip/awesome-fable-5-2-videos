@@ -1,16 +1,17 @@
 {
   "language": "简体中文",
   "intro": "用 Claude Fable 5.2 创作的视频。让下一个灵感动起来。",
-  "about": "用 **Claude Fable 5.2** 创作的社区短片、动态图形与 3D 世界。由 **VibeClip** 精选整理。",
+  "about": "**Fable in Motion** 是由 **VibeClip** 整理的 **Claude Fable 5.2 视频、AI 动画、动态图形与创意编程作品集**，面向视频创作者、设计师、开发者，以及想把灵感做成画面的人。",
   "cta": "点亮 Star，收藏你的下一份创作灵感。发现好视频？欢迎投稿。",
   "featured": "从这些作品开始",
-  "browse": "按分类浏览",
+  "browse": "按创作方向浏览",
   "categories": [
-    "动态图形与动画",
-    "3D 场景与世界",
-    "产品与发布短片",
-    "可视化讲解",
-    "游戏与交互演示"
+    "短片与叙事",
+    "动态设计与动画",
+    "3D 世界与模拟",
+    "产品影像与网页体验",
+    "知识可视化与音乐",
+    "游戏与交互创作"
   ],
   "all": "全部视频",
   "watch": "完整视频",
@@ -49,5 +50,68 @@
   "rising": "↗ 正在起量",
   "new": "新发现",
   "established": "已广泛传播",
-  "archived": "原帖暂不可用"
+  "archived": "原帖暂不可用",
+  "category_descriptions": [
+    "角色故事、动漫短片、电影感叙事与音乐视频。",
+    "动态字体、粒子动画、生成艺术、SVG 动画与视觉实验。",
+    "程序化世界、虚拟城市、Blender 场景与物理模拟。",
+    "品牌宣传片、SaaS 演示、产品发布视频与网页动效。",
+    "科普动画、科学可视化、乐谱演奏与代码合成声音。",
+    "浏览器游戏、可玩世界、创意工具与交互界面设计。"
+  ],
+  "guide_intro": "这里收录 **{videos} 个视频案例**，覆盖叙事短片、3D 动画、产品宣传、科普可视化和互动世界。先看循环动图，再打开完整视频、原作者发布与公开提示词，寻找下一次创作的起点。合集同时收录代码渲染作品和有明确标注的混合工具工作流。",
+  "highlights": [
+    "**先看效果：** 每张卡片都有转存到本仓库的动态预览，并保留完整视频入口、创作者和原帖。",
+    "**提示词就在作品旁：** {prompts} 个公开提示词来源与对应作品放在一起。展开卡片下的 📝 即可阅读短提示词或打开原始来源。",
+    "**按创作方向找灵感：** 从代码生成视频（code to video）、AI 短片、Three.js 场景，到 Blender 动画、Remotion、HyperFrames 与生成艺术。"
+  ],
+  "category_column": "作品分类",
+  "examples_column": "数量",
+  "find_column": "你会看到",
+  "tools_title": "按技术与用途寻找灵感",
+  "tools_note": "这些关键词用于查找创作思路；具体作品采用了什么工具、参考素材和工作流，请以作者原帖为准。",
+  "tool_columns": [
+    "方向",
+    "技术与常见关键词"
+  ],
+  "tool_labels": [
+    "提示词到视频：创意编程",
+    "网页动画与动态设计",
+    "3D 场景、建模与渲染",
+    "视频制作与编辑工作流",
+    "产品发布与品牌传播",
+    "游戏开发与创意交互",
+    "音乐、音效与镜头叙事"
+  ],
+  "faq_title": "如何使用这个合集",
+  "faq": [
+    [
+      "这里的「代码生成视频」指什么？",
+      "不少作品通过代码构建场景、动画、运镜或声音，再渲染为视频或运行成交互场景。也有作品结合图像、视频或音频生成工具；混合工作流会单独记录。"
+    ],
+    [
+      "公开提示词在哪里？",
+      "就在对应作品下方的 📝 面板中。短提示词可以展开阅读；较长的指令会链接到作者的原始上下文。作者未分享的提示词不会编造补齐。"
+    ],
+    [
+      "看到喜欢的作品后怎么用？",
+      "先看动图，再看完整视频，接着阅读作者原帖和提示词，把视觉思路、参考素材与制作方法改造成自己的创作需求。"
+    ],
+    [
+      "「正在起量」怎么判断？",
+      "根据带时间戳的多次公开互动快照观察增长，而不是只看累计点赞。新发现记录中保留了观察时段与实际变化。"
+    ]
+  ],
+  "prompt_expand": "📝 展开提示词",
+  "faq_link": "使用说明",
+  "discover_link": "最新发现",
+  "tool_keywords": [
+    "code to video · AI video generation · text to animation · creative coding · vibe coding",
+    "HTML · CSS · JavaScript · SVG animation · HTML5 Canvas · motion graphics · kinetic typography",
+    "Three.js · WebGL · WebGPU · Blender · 3D animation · procedural modeling · physics simulation",
+    "Remotion · HyperFrames · AI video editing · code-based rendering · camera animation",
+    "product launch video · SaaS demo · brand film · social media video · explainer video",
+    "game development · browser games · interactive UI · voxel worlds · generative art",
+    "AI music · music video · synthesized audio · sound design · cinematic storytelling"
+  ]
 }

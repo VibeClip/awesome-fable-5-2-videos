@@ -13,7 +13,7 @@ REPOSITORY = '/VibeClip/awesome-fable-5-2-videos'
 ALLOWED_HOSTS = {
     'github.com', 'x.com', 'twitter.com', 'www.youtube.com', 'youtube.com',
     'video.twimg.com', 'video-s.twimg.com', 'pbs.twimg.com', 'img.shields.io',
-    'api.fxtwitter.com', 'publish.twitter.com', 'higgsfield.ai',
+    'api.fxtwitter.com', 'publish.twitter.com', 'higgsfield.ai', 'awesome.re',
 }
 TEXT_SUFFIXES = {'.md', '.json', '.py', '.yml', '.yaml'}
 

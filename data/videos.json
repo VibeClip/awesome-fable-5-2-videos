@@ -19,7 +19,7 @@
         "ko": "가사에 맞춰 움직이는 애니메이션 뮤직비디오",
         "es": "Un videoclip de anime sincronizado con la letra"
       },
-      "category": "motion",
+      "category": "short-films",
       "creator": {
         "name": "WesRoth",
         "url": "https://x.com/WesRoth"
@@ -1312,7 +1312,7 @@
         "ko": "고장 난 로봇을 되살리는 고양이",
         "es": "Un gato devuelve la vida a un viejo robot"
       },
-      "category": "motion",
+      "category": "short-films",
       "creator": {
         "name": "EngMoElgaraihy",
         "url": "https://x.com/EngMoElgaraihy"
@@ -1359,7 +1359,7 @@
         "ko": "생성 이미지 없이 만든 46초 영상",
         "es": "Una película de 46 segundos sin imágenes generadas"
       },
-      "category": "motion",
+      "category": "short-films",
       "creator": {
         "name": "cube__lol",
         "url": "https://x.com/cube__lol"
@@ -1406,7 +1406,7 @@
         "ko": "코드로 그려낸 심해 탐험",
         "es": "Una inmersión submarina hecha con código"
       },
-      "category": "motion",
+      "category": "short-films",
       "creator": {
         "name": "g_beyrouti",
         "url": "https://x.com/g_beyrouti"
@@ -2161,7 +2161,7 @@
         "ko": "증기 기관차 애니메이션 단편",
         "es": "Un corto de anime sobre una locomotora"
       },
-      "category": "motion",
+      "category": "short-films",
       "creator": {
         "name": "0kncn",
         "url": "https://x.com/0kncn"
@@ -2353,7 +2353,7 @@
         "ko": "코드로 만든 83초 애니메이션 영화",
         "es": "Una película de anime de 83 segundos hecha con código"
       },
-      "category": "motion",
+      "category": "short-films",
       "creator": {
         "name": "noisyb0y1",
         "url": "https://x.com/noisyb0y1"
@@ -2929,7 +2929,7 @@
         "ko": "Discovery: Three.js 단편 영상",
         "es": "Discovery: un cortometraje en Three.js"
       },
-      "category": "motion",
+      "category": "short-films",
       "creator": {
         "name": "YinYangYoeshi",
         "url": "https://x.com/YinYangYoeshi"
@@ -3503,7 +3503,7 @@
         "ko": "한 번도 본 적 없는 바다",
         "es": "Un mar que nunca he visto"
       },
-      "category": "motion",
+      "category": "short-films",
       "creator": {
         "name": "jessalanfields",
         "url": "https://x.com/jessalanfields"
@@ -4367,7 +4367,7 @@
         "ko": "작은 생명체에서 우주까지",
         "es": "De una pequeña criatura al cosmos"
       },
-      "category": "motion",
+      "category": "short-films",
       "creator": {
         "name": "devteamdrew",
         "url": "https://x.com/devteamdrew"
@@ -4511,7 +4511,7 @@
         "ko": "단편으로 그려낸 절규의 이야기",
         "es": "La historia de El grito en un corto"
       },
-      "category": "motion",
+      "category": "short-films",
       "creator": {
         "name": "osmanaga__",
         "url": "https://x.com/osmanaga__"
@@ -5220,7 +5220,7 @@
         "ko": "등대지기의 단편 영상",
         "es": "Un cortometraje sobre un farero"
       },
-      "category": "3d",
+      "category": "short-films",
       "creator": {
         "name": "MarvellousDev",
         "url": "https://x.com/MarvellousDev"
@@ -5506,7 +5506,7 @@
         "ko": "가장 간단한 프롬프트로 만든 영화",
         "es": "Una película a partir del prompt más sencillo"
       },
-      "category": "motion",
+      "category": "short-films",
       "creator": {
         "name": "ponken00",
         "url": "https://x.com/ponken00"
@@ -6082,7 +6082,7 @@
         "ko": "테토가 부르는 보컬로이드 사랑 노래",
         "es": "Una canción de amor de Vocaloid con Teto"
       },
-      "category": "motion",
+      "category": "short-films",
       "creator": {
         "name": "peach2k2",
         "url": "https://x.com/peach2k2"
@@ -6925,7 +6925,7 @@
         "ko": "살아 있는 세계를 가로지르는 비행",
         "es": "Un vuelo por un mundo vivo"
       },
-      "category": "motion",
+      "category": "short-films",
       "creator": {
         "name": "LexnLin",
         "url": "https://x.com/LexnLin"
@@ -7691,7 +7691,7 @@
         "ko": "천국으로 향하는 드라이브",
         "es": "Un viaje hacia el cielo"
       },
-      "category": "motion",
+      "category": "short-films",
       "creator": {
         "name": "abhinavflac",
         "url": "https://x.com/abhinavflac"
@@ -8750,7 +8750,7 @@
         "ko": "대본을 따르지 않는 고양이",
         "es": "Un gato que se niega a seguir el guion"
       },
-      "category": "motion",
+      "category": "short-films",
       "creator": {
         "name": "renoiseai",
         "url": "https://x.com/renoiseai"
@@ -9070,7 +9070,7 @@
         "ko": "사냥하는 검치호의 코드 애니메이션",
         "es": "Un tigre dientes de sable a la caza"
       },
-      "category": "motion",
+      "category": "short-films",
       "creator": {
         "name": "wshuyi",
         "url": "https://x.com/wshuyi"
@@ -9088,7 +9088,8 @@
       },
       "prompt": {
         "text": null,
-        "source_url": null
+        "source_url": "https://x.com/wshuyi/status/2120014892040417720",
+        "discovery_text_available": true
       },
       "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
       "discovery_group": "independent-x",
@@ -9326,7 +9327,7 @@
         "ko": "코드로 무대를 만든 꿈의 단편",
         "es": "Una película onírica con decorados hechos con código"
       },
-      "category": "motion",
+      "category": "short-films",
       "creator": {
         "name": "anabology",
         "url": "https://x.com/anabology"

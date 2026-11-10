@@ -1,16 +1,17 @@
 {
   "language": "Español",
   "intro": "Vídeos creados con Claude Fable 5.2. Tu próxima idea, en movimiento.",
-  "about": "Cortometrajes, motion graphics y mundos 3D creados por la comunidad con **Claude Fable 5.2**. Una selección de **VibeClip**.",
+  "about": "**Fable in Motion** reúne **vídeos de Claude Fable 5.2, animación con IA, motion graphics y programación creativa**, seleccionados por **VibeClip** para cineastas, diseñadores, desarrolladores y creadores curiosos.",
   "cta": "Guarda la colección con una Star para tu próximo proyecto. ¿Encontraste un gran vídeo? Compártelo abajo.",
   "featured": "Empieza por aquí",
-  "browse": "Explora por categoría",
+  "browse": "Explora por dirección creativa",
   "categories": [
-    "Motion graphics y animación",
-    "Escenas y mundos 3D",
-    "Vídeos de producto y lanzamiento",
-    "Explicaciones visuales",
-    "Juegos y demos interactivas"
+    "Cortometrajes e historias",
+    "Motion design y animación",
+    "Mundos 3D y simulaciones",
+    "Vídeos de producto y experiencias web",
+    "Explicaciones visuales y música",
+    "Juegos y creaciones interactivas"
   ],
   "all": "Todos los vídeos",
   "watch": "Ver vídeo",
@@ -49,5 +50,68 @@
   "rising": "↗ En auge",
   "new": "Nuevo",
   "established": "Ya difundido",
-  "archived": "Fuente archivada"
+  "archived": "Fuente archivada",
+  "category_descriptions": [
+    "Personajes, cortos de anime, narrativa cinematográfica y videoclips.",
+    "Tipografía cinética, partículas, arte generativo, SVG y experimentos visuales.",
+    "Mundos procedurales, ciudades virtuales, escenas Blender y simulación física.",
+    "Vídeos de marca, demos SaaS, lanzamientos y animación web.",
+    "Animación educativa, ciencia visual, partituras y sonido sintetizado.",
+    "Juegos de navegador, mundos jugables, herramientas creativas e interfaces."
+  ],
+  "guide_intro": "Explora **{videos} ejemplos en vídeo**: cortometrajes, animación 3D, lanzamientos, explicaciones visuales y mundos interactivos. Mira la vista animada, abre el vídeo completo y descubre la publicación y el prompt de su creador. Se distinguen las obras renderizadas con código de los flujos que combinan varias herramientas.",
+  "highlights": [
+    "**Mira el resultado：** cada tarjeta incluye una vista animada alojada en este repositorio, el vídeo completo y su creador y publicación original.",
+    "**El prompt junto a su obra：** {prompts} fuentes públicas de prompts aparecen en las tarjetas correspondientes. Abre 📝 para leer un texto breve o visitar la fuente.",
+    "**Tu próximo proyecto：** explora code to video, cine con IA, Three.js, Blender, Remotion, HyperFrames y arte generativo."
+  ],
+  "category_column": "Colección",
+  "examples_column": "Ejemplos",
+  "find_column": "Qué encontrarás",
+  "tools_title": "Explora por técnica y uso",
+  "tools_note": "Estos términos ayudan a encontrar una idea para tu proyecto. Consulta la publicación de cada creador para conocer las herramientas y el proceso que utilizó.",
+  "tool_columns": [
+    "Dirección",
+    "Técnicas y términos de búsqueda"
+  ],
+  "tool_labels": [
+    "Del prompt al vídeo",
+    "Animación web y motion",
+    "3D y renderizado",
+    "Flujos de creación de vídeo",
+    "Productos y campañas",
+    "Juegos e interfaces creativas",
+    "Música y narrativa"
+  ],
+  "faq_title": "Cómo usar la colección",
+  "faq": [
+    [
+      "¿Qué significa code to video aquí?",
+      "Muchas obras construyen escenas, animación, cámaras o sonido mediante código, y luego renderizan un vídeo o ejecutan una escena interactiva. Los procesos que también usan generación de imagen, vídeo o audio se indican por separado."
+    ],
+    [
+      "¿Dónde están los prompts?",
+      "En el panel 📝 de cada obra. Los textos cortos se pueden desplegar; las instrucciones largas enlazan al contexto original del creador. No se inventan prompts que no se hayan publicado."
+    ],
+    [
+      "¿Cómo aprovecho un ejemplo?",
+      "Mira la animación, abre el vídeo completo y lee la publicación y el prompt del creador. Adapta la idea visual, las referencias y el proceso a tu propio proyecto."
+    ],
+    [
+      "¿Qué significa En auge?",
+      "Se observa el crecimiento entre capturas públicas con fecha, no solo los me gusta acumulados. El registro de descubrimientos conserva el periodo y los cambios observados."
+    ]
+  ],
+  "prompt_expand": "📝 Ver prompt",
+  "faq_link": "Cómo funciona",
+  "discover_link": "Nuevos descubrimientos",
+  "tool_keywords": [
+    "code to video · AI video generation · text to animation · creative coding · vibe coding",
+    "HTML · CSS · JavaScript · SVG animation · HTML5 Canvas · motion graphics · kinetic typography",
+    "Three.js · WebGL · WebGPU · Blender · 3D animation · procedural modeling · physics simulation",
+    "Remotion · HyperFrames · AI video editing · code-based rendering · camera animation",
+    "product launch video · SaaS demo · brand film · social media video · explainer video",
+    "game development · browser games · interactive UI · voxel worlds · generative art",
+    "AI music · music video · synthesized audio · sound design · cinematic storytelling"
+  ]
 }

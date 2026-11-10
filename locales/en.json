@@ -1,16 +1,17 @@
 {
   "language": "English",
   "intro": "Videos made with Claude Fable 5.2. Find your next idea in motion.",
-  "about": "Community-made films, motion graphics and 3D worlds made with **Claude Fable 5.2**. Curated by **VibeClip**.",
+  "about": "**Fable in Motion** is a collection of **Claude Fable 5.2 videos, AI animation, motion graphics and creative coding**—curated by **VibeClip** for filmmakers, designers, developers and curious makers.",
   "cta": "Star this collection to save it for your next project. Have a great video? Submit it below.",
   "featured": "Start here",
-  "browse": "Browse the collection",
+  "browse": "Explore by creative direction",
   "categories": [
-    "Motion & animation",
-    "3D scenes & worlds",
-    "Product & launch films",
-    "Visual explainers",
-    "Games & interactive demos"
+    "Short Films & Stories",
+    "Motion Design & Animation",
+    "3D Worlds & Simulations",
+    "Product Films & Web Experiences",
+    "Visual Explainers & Music",
+    "Games & Interactive Creations"
   ],
   "all": "All videos",
   "watch": "Watch",
@@ -49,5 +50,68 @@
   "rising": "↗ Rising",
   "new": "New",
   "established": "Established",
-  "archived": "Archived source"
+  "archived": "Archived source",
+  "category_descriptions": [
+    "Character animation, anime shorts, cinematic storytelling and music videos.",
+    "Kinetic typography, particle animation, generative art, SVG and graphic experiments.",
+    "Procedural worlds, virtual cities, Blender scenes and physics simulations.",
+    "Brand films, SaaS demos, launch videos, landing pages and web motion.",
+    "Educational animation, science visualization, musical scores and synthesized sound.",
+    "Browser games, playable worlds, creative tools and interactive interface design."
+  ],
+  "guide_intro": "Browse **{videos} video examples** across short films, 3D animation, product launches, visual explainers and interactive worlds. Start with a looping preview, watch the original clip, and explore the prompts creators chose to share. The collection includes code-rendered work and clearly identified mixed-tool workflows.",
+  "highlights": [
+    "**Watch the result:** every card has a local animated preview, a full-video route and the original creator’s post.",
+    "**Learn from the prompt:** {prompts} public prompt sources are attached to their own works. Expand the 📝 panel on a card to read a short prompt or visit its source.",
+    "**Find a new direction:** explore code to video, AI filmmaking, Three.js scenes, Blender animation, Remotion, HyperFrames and generative art."
+  ],
+  "category_column": "Collection",
+  "examples_column": "Examples",
+  "find_column": "What you will find",
+  "tools_title": "Explore by technique & use case",
+  "tools_note": "Use these discovery terms to find an approach for your next project. Check each creator’s original post for the tools and workflow they actually used.",
+  "tool_columns": [
+    "Direction",
+    "Techniques & search terms"
+  ],
+  "tool_labels": [
+    "From prompts to video",
+    "Web animation & motion",
+    "3D scenes & rendering",
+    "Video creation workflows",
+    "Products & campaigns",
+    "Games & creative interfaces",
+    "Music & storytelling"
+  ],
+  "faq_title": "How to use the collection",
+  "faq": [
+    [
+      "What does code to video mean here?",
+      "Many examples build scenes, animation, camera moves or sound as code, then render a video or run an interactive scene. Mixed workflows may also use image, video or audio generation tools; those are recorded separately."
+    ],
+    [
+      "Where are the prompts?",
+      "Look for the 📝 panel below each work. Short public prompts expand on the card; longer instructions link to the creator’s original context. A prompt is never invented when none was shared."
+    ],
+    [
+      "How should I use an example?",
+      "Watch the loop, open the full video, then read the creator’s post and prompt. Adapt the visual idea, references and workflow to your own brief."
+    ],
+    [
+      "What does Rising mean?",
+      "It reflects growth between dated public engagement snapshots, not cumulative likes alone. The selection review records the observed window and change."
+    ]
+  ],
+  "prompt_expand": "📝 View prompt",
+  "faq_link": "How it works",
+  "discover_link": "New discoveries",
+  "tool_keywords": [
+    "code to video · AI video generation · text to animation · creative coding · vibe coding",
+    "HTML · CSS · JavaScript · SVG animation · HTML5 Canvas · motion graphics · kinetic typography",
+    "Three.js · WebGL · WebGPU · Blender · 3D animation · procedural modeling · physics simulation",
+    "Remotion · HyperFrames · AI video editing · code-based rendering · camera animation",
+    "product launch video · SaaS demo · brand film · social media video · explainer video",
+    "game development · browser games · interactive UI · voxel worlds · generative art",
+    "AI music · music video · synthesized audio · sound design · cinematic storytelling"
+  ]
 }
