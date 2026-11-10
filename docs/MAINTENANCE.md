@@ -2,7 +2,7 @@
 
 ## Content updates
 
-The maintained index is `data/videos.json`. Keep the coverage baseline in `data/reference.json`, with only original-creator source links. Five-language UI strings live in `locales/`; video titles live alongside their facts. Do not hand-edit generated README, category or detail pages.
+The maintained index is `data/videos.json`. Keep the coverage baseline in `data/reference.json`, with only original-creator source links. Five-language UI strings live in `locales/`; video titles live alongside their facts. Do not hand-edit generated README, category or detail pages. Preserve the opening Awesome badge, original cover, full introduction, six-category navigation and technique/use-case keyword index in all five languages. Public prompts belong in expandable panels on their works; do not reintroduce a duplicate prompt list at the bottom. Keep broad search vocabulary natural, and only attach specific tool claims to an entry when the creator disclosed them.
 
 Each entry needs a stable ID, creator, original post, model evidence, current source status and a local `assets/previews/<id>.webp` asset. Use original platform URLs for full-video playback. An unavailable source stays visibly marked and is not featured as a playable full video. Native media IDs prevent reposts being counted as new works.
 
