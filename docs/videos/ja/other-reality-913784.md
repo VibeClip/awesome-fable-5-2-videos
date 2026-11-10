@@ -4,16 +4,11 @@
 
 [一覧に戻る](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.ja.md)
 
-[![小さな魔法使いの発表映像](https://pbs.twimg.com/amplify_video_thumb/2119884273071411200/img/pX6GYdfgg49q8YyP.jpg)](https://x.com/other__reality/status/2119885430627913784)
+[![小さな魔法使いの発表映像](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/other-reality-913784.webp)](https://video.twimg.com/amplify_video/2119884273071411200/vid/avc1/1280x720/DwN1eSgpBgK8Wpa6.mp4?tag=14)
 
-**[▶ 元の投稿を見る](https://x.com/other__reality/status/2119885430627913784)**
+**[▶ 本編](https://video.twimg.com/amplify_video/2119884273071411200/vid/avc1/1280x720/DwN1eSgpBgK8Wpa6.mp4?tag=14)** · [元の投稿](https://x.com/other__reality/status/2119885430627913784)
 
-- 作者: [@other__reality](https://x.com/other__reality)
-- 長さ: 0:26
-- モデル表記の根拠: 元の投稿にモデル名の記載あり
-- 投稿のアクセス確認日: 2026-11-10
-
-元の投稿を確認済み。生成やレンダリングを独立して再現していません。
+[other__reality](https://x.com/other__reality) · 0:26 · 2026-11-09
 
 ## 公開プロンプト
 
@@ -21,6 +16,16 @@
 
 > Create an animated video of clawd creating and releasing Claude Fable 5.2
 
-[元の投稿](https://x.com/other__reality/status/2119885430627913784)
+[作者の公開プロンプトを読む](https://x.com/other__reality/status/2119885430627913784)
 
-[発見元](https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json) · [ライセンスとメディアの権利](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+<details>
+<summary>出典と確認情報</summary>
+
+- モデル表記の根拠: 元の投稿にモデル名の記載あり
+- 投稿のアクセス確認日: 2026-11-10 — 投稿にアクセス可能
+
+投稿のアクセス確認と動画生成の再現は別です。生成やレンダリングを独立して再現していません。
+
+[ライセンスとメディアの権利](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+
+</details>

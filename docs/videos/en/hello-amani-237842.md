@@ -4,16 +4,11 @@
 
 [Back to collection](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.md)
 
-[![A chrome logo reveal in 3D](https://pbs.twimg.com/amplify_video_thumb/2119873847369621504/img/dyv1cVQ6oXWoZv5v.jpg)](https://x.com/hello_amani/status/2119873980786237842)
+[![A chrome logo reveal in 3D](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/hello-amani-237842.webp)](https://video.twimg.com/amplify_video/2119873847369621504/vid/avc1/1080x1080/LDbZJxUYD0WsXDWe.mp4?tag=29)
 
-**[▶ Watch original](https://x.com/hello_amani/status/2119873980786237842)**
+**[▶ Watch](https://video.twimg.com/amplify_video/2119873847369621504/vid/avc1/1080x1080/LDbZJxUYD0WsXDWe.mp4?tag=29)** · [Original post](https://x.com/hello_amani/status/2119873980786237842)
 
-- Creator: [@hello_amani](https://x.com/hello_amani)
-- Duration: 0:36
-- Model evidence: Model named in original post
-- Post availability checked: 2026-11-10
-
-The original post was checked. Generation and rendering were not independently reproduced.
+[hello_amani](https://x.com/hello_amani) · 0:36 · 2026-11-09
 
 ## Shared prompt
 
@@ -21,6 +16,16 @@ Original language, as shared by the creator. Follow the source for context and r
 
 > make my logo reveal in 3D with chromatic metal and grids
 
-[Original post](https://x.com/hello_amani/status/2119890392456073525)
+[Read the creator’s prompt](https://x.com/hello_amani/status/2119890392456073525)
 
-[Discovered via](https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json) · [License & media rights](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+<details>
+<summary>Sources & verification</summary>
+
+- Model evidence: Model named in original post
+- Post availability checked: 2026-11-10 — Post available
+
+Source availability and video generation are separate checks. Generation and rendering were not independently reproduced.
+
+[License & media rights](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+
+</details>

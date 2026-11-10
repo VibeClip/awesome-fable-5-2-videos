@@ -4,19 +4,24 @@
 
 [Volver a la colección](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.es.md)
 
-[![Cómo se combinan los movimientos de un personaje](https://pbs.twimg.com/amplify_video_thumb/2119870421478567936/img/odUx_-Y53-zw9S4v.jpg)](https://x.com/dfeinition/status/2119870838606381391)
+[![Cómo se combinan los movimientos de un personaje](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/dfeinition-381391.webp)](https://video.twimg.com/amplify_video/2119870421478567936/vid/avc1/3840x2160/G6_gpxpBs-4beNTY.mp4?tag=29)
 
-**[▶ Ver original](https://x.com/dfeinition/status/2119870838606381391)**
+**[▶ Ver vídeo](https://video.twimg.com/amplify_video/2119870421478567936/vid/avc1/3840x2160/G6_gpxpBs-4beNTY.mp4?tag=29)** · [Publicación original](https://x.com/dfeinition/status/2119870838606381391)
 
-- Creador: [@dfeinition](https://x.com/dfeinition)
-- Duración: 1:00
-- Evidencia del modelo: El modelo se menciona en la publicación original
-- Accesibilidad de la publicación comprobada: 2026-11-10
-
-Se comprobó la publicación original. No se reprodujeron de forma independiente la generación ni el renderizado.
+[dfeinition](https://x.com/dfeinition) · 1:00 · 2026-11-09
 
 ## Prompt compartido
 
 No hay un prompt público registrado.
 
-[Descubierto en](https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json) · [Licencia y derechos del contenido](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+<details>
+<summary>Fuentes y comprobaciones</summary>
+
+- Evidencia del modelo: El modelo se menciona en la publicación original
+- Accesibilidad de la publicación comprobada: 2026-11-10 — Publicación accesible
+
+Comprobar el acceso a una publicación no equivale a reproducir su generación. La generación y el renderizado no se reprodujeron de forma independiente.
+
+[Licencia y derechos del contenido](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+
+</details>

@@ -4,16 +4,11 @@
 
 [Volver a la colección](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.es.md)
 
-[![Una animación de logotipo cromado en 3D](https://pbs.twimg.com/amplify_video_thumb/2119873847369621504/img/dyv1cVQ6oXWoZv5v.jpg)](https://x.com/hello_amani/status/2119873980786237842)
+[![Una animación de logotipo cromado en 3D](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/hello-amani-237842.webp)](https://video.twimg.com/amplify_video/2119873847369621504/vid/avc1/1080x1080/LDbZJxUYD0WsXDWe.mp4?tag=29)
 
-**[▶ Ver original](https://x.com/hello_amani/status/2119873980786237842)**
+**[▶ Ver vídeo](https://video.twimg.com/amplify_video/2119873847369621504/vid/avc1/1080x1080/LDbZJxUYD0WsXDWe.mp4?tag=29)** · [Publicación original](https://x.com/hello_amani/status/2119873980786237842)
 
-- Creador: [@hello_amani](https://x.com/hello_amani)
-- Duración: 0:36
-- Evidencia del modelo: El modelo se menciona en la publicación original
-- Accesibilidad de la publicación comprobada: 2026-11-10
-
-Se comprobó la publicación original. No se reprodujeron de forma independiente la generación ni el renderizado.
+[hello_amani](https://x.com/hello_amani) · 0:36 · 2026-11-09
 
 ## Prompt compartido
 
@@ -21,6 +16,16 @@ Texto original compartido por el creador. Consulta la fuente para conocer el con
 
 > make my logo reveal in 3D with chromatic metal and grids
 
-[Publicación original](https://x.com/hello_amani/status/2119890392456073525)
+[Leer el prompt del creador](https://x.com/hello_amani/status/2119890392456073525)
 
-[Descubierto en](https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json) · [Licencia y derechos del contenido](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+<details>
+<summary>Fuentes y comprobaciones</summary>
+
+- Evidencia del modelo: El modelo se menciona en la publicación original
+- Accesibilidad de la publicación comprobada: 2026-11-10 — Publicación accesible
+
+Comprobar el acceso a una publicación no equivale a reproducir su generación. La generación y el renderizado no se reprodujeron de forma independiente.
+
+[Licencia y derechos del contenido](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+
+</details>

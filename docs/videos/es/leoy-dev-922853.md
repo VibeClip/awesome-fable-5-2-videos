@@ -4,19 +4,24 @@
 
 [Volver a la colección](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.es.md)
 
-[![Un pequeño planeta lleno de movimiento](https://pbs.twimg.com/amplify_video_thumb/2119902402643890177/img/l-vmVZsWVEVQv23v.jpg)](https://x.com/leoy_dev/status/2119903166149922853)
+[![Un pequeño planeta lleno de movimiento](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/leoy-dev-922853.webp)](https://video.twimg.com/amplify_video/2119902402643890177/vid/avc1/1920x918/dO0GyuVK6-YhKfS9.mp4?tag=29)
 
-**[▶ Ver original](https://x.com/leoy_dev/status/2119903166149922853)**
+**[▶ Ver vídeo](https://video.twimg.com/amplify_video/2119902402643890177/vid/avc1/1920x918/dO0GyuVK6-YhKfS9.mp4?tag=29)** · [Publicación original](https://x.com/leoy_dev/status/2119903166149922853)
 
-- Creador: [@leoy_dev](https://x.com/leoy_dev)
-- Duración: 1:09
-- Evidencia del modelo: El modelo se menciona en la publicación original
-- Accesibilidad de la publicación comprobada: 2026-11-10
-
-Se comprobó la publicación original. No se reprodujeron de forma independiente la generación ni el renderizado.
+[leoy_dev](https://x.com/leoy_dev) · 1:09 · 2026-11-09
 
 ## Prompt compartido
 
 No hay un prompt público registrado.
 
-[Descubierto en](https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json) · [Licencia y derechos del contenido](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+<details>
+<summary>Fuentes y comprobaciones</summary>
+
+- Evidencia del modelo: El modelo se menciona en la publicación original
+- Accesibilidad de la publicación comprobada: 2026-11-10 — Publicación accesible
+
+Comprobar el acceso a una publicación no equivale a reproducir su generación. La generación y el renderizado no se reprodujeron de forma independiente.
+
+[Licencia y derechos del contenido](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+
+</details>

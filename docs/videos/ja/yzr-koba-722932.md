@@ -4,19 +4,24 @@
 
 [一覧に戻る](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.ja.md)
 
-[![空が青い理由を日本語で解説](https://pbs.twimg.com/amplify_video_thumb/2119907073026899968/img/VuCkv-ordRIonDUg.jpg)](https://x.com/yzr_koba/status/2119907670077722932)
+[![空が青い理由を日本語で解説](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/yzr-koba-722932.webp)](https://video.twimg.com/amplify_video/2119907073026899968/vid/avc1/1920x1080/fJ7CuLzKleGXCpkO.mp4?tag=29)
 
-**[▶ 元の投稿を見る](https://x.com/yzr_koba/status/2119907670077722932)**
+**[▶ 本編](https://video.twimg.com/amplify_video/2119907073026899968/vid/avc1/1920x1080/fJ7CuLzKleGXCpkO.mp4?tag=29)** · [元の投稿](https://x.com/yzr_koba/status/2119907670077722932)
 
-- 作者: [@yzr_koba](https://x.com/yzr_koba)
-- 長さ: 0:55
-- モデル表記の根拠: 元の投稿にモデル名の記載あり
-- 投稿のアクセス確認日: 2026-11-10
-
-元の投稿を確認済み。生成やレンダリングを独立して再現していません。
+[yzr_koba](https://x.com/yzr_koba) · 0:55 · 2026-11-09
 
 ## 公開プロンプト
 
 公開プロンプトは未登録です。
 
-[発見元](https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json) · [ライセンスとメディアの権利](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+<details>
+<summary>出典と確認情報</summary>
+
+- モデル表記の根拠: 元の投稿にモデル名の記載あり
+- 投稿のアクセス確認日: 2026-11-10 — 投稿にアクセス可能
+
+投稿のアクセス確認と動画生成の再現は別です。生成やレンダリングを独立して再現していません。
+
+[ライセンスとメディアの権利](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+
+</details>

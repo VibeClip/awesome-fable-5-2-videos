@@ -4,19 +4,24 @@
 
 [Volver a la colección](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.es.md)
 
-[![Un vídeo de producto creado en diez minutos](https://pbs.twimg.com/amplify_video_thumb/2119877729222848512/img/blEOherbyiPjheJp.jpg)](https://x.com/mathiaschpl/status/2119878412181676283)
+[![Un vídeo de producto creado en diez minutos](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/mathiaschpl-676283.webp)](https://video.twimg.com/amplify_video/2119877729222848512/vid/avc1/1920x1080/BDXNMfflBjXeOcju.mp4?tag=29)
 
-**[▶ Ver original](https://x.com/mathiaschpl/status/2119878412181676283)**
+**[▶ Ver vídeo](https://video.twimg.com/amplify_video/2119877729222848512/vid/avc1/1920x1080/BDXNMfflBjXeOcju.mp4?tag=29)** · [Publicación original](https://x.com/mathiaschpl/status/2119878412181676283)
 
-- Creador: [@mathiaschpl](https://x.com/mathiaschpl)
-- Duración: 0:36
-- Evidencia del modelo: El modelo se menciona en la publicación original
-- Accesibilidad de la publicación comprobada: 2026-11-10
-
-Se comprobó la publicación original. No se reprodujeron de forma independiente la generación ni el renderizado.
+[mathiaschpl](https://x.com/mathiaschpl) · 0:36 · 2026-11-09
 
 ## Prompt compartido
 
 No hay un prompt público registrado.
 
-[Descubierto en](https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json) · [Licencia y derechos del contenido](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+<details>
+<summary>Fuentes y comprobaciones</summary>
+
+- Evidencia del modelo: El modelo se menciona en la publicación original
+- Accesibilidad de la publicación comprobada: 2026-11-10 — Publicación accesible
+
+Comprobar el acceso a una publicación no equivale a reproducir su generación. La generación y el renderizado no se reprodujeron de forma independiente.
+
+[Licencia y derechos del contenido](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+
+</details>

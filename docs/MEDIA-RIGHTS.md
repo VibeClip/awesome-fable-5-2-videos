@@ -1,11 +1,9 @@
-# License and media rights
+# Media and attribution
 
-The repository's original code, editorial text and original cover artwork are MIT licensed. Adapted discovery metadata retains its original MIT notice in [THIRD-PARTY-NOTICES.md](../THIRD-PARTY-NOTICES.md).
+Videos remain their creators' work. This repository aggregates original publication links, factual metadata and short visual preview excerpts. Its MIT license covers the repository's code and original editorial work; it does not relicense linked videos, music, brands or quoted prompts.
 
-The repository license does **not** grant rights to linked creator videos, thumbnail images, music, brands or quoted prompts. Those remain subject to their owners' rights and original terms. A public post is not a redistribution license.
+Preview excerpts are stored locally so the gallery does not depend on another collection's media host. Full videos stay at the original platform. Archived excerpts are marked when an original post is no longer accessible. Creator credits and original source links stay with each entry.
 
-The initial collection stores links and editorial metadata. Thumbnail images load from the original social platform and point to the creator's post. No third-party video or thumbnail files are included in Git. An embedded thumbnail is not a claim of ownership or permission to reuse the underlying work.
+Creators can request corrections or removal through the repository's issue form. Before a public release, review any unresolved source or media-rights records. Required notices for material retained under a third-party license are centralized in `THIRD-PARTY-NOTICES.md`.
 
-Before mirroring a video, making a compilation or distributing thumbnail files, record the creator's permission and the scope of that permission. Do not infer it from the license of a discovery repository. Creator correction and removal requests are welcome through the [issue form](https://github.com/VibeClip/awesome-fable-5-2-videos/issues/new?template=correction.yml).
-
-The cover is repository brand artwork created with OpenAI's built-in image generation tool. It is not a Fable 5.2 output or a frame from any listed video. Claude and Fable names identify the subject of this independent collection; no Anthropic affiliation is implied.
+The separate repository cover artwork identifies the collection; it is not a Fable 5.2 output or a listed creator's film.

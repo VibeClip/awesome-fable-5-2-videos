@@ -4,19 +4,24 @@
 
 [一覧に戻る](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.ja.md)
 
-[![切り絵で描く日の出](https://pbs.twimg.com/amplify_video_thumb/2119900235761688576/img/sUHyb5h0DpKXORtG.jpg)](https://x.com/eluchocha/status/2119902302001635455)
+[![切り絵で描く日の出](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/eluchocha-635455.webp)](https://video.twimg.com/amplify_video/2119900235761688576/vid/avc1/1080x1080/cejGINOI5PNwIMrQ.mp4?tag=29)
 
-**[▶ 元の投稿を見る](https://x.com/eluchocha/status/2119902302001635455)**
+**[▶ 本編](https://video.twimg.com/amplify_video/2119900235761688576/vid/avc1/1080x1080/cejGINOI5PNwIMrQ.mp4?tag=29)** · [元の投稿](https://x.com/eluchocha/status/2119902302001635455)
 
-- 作者: [@eluchocha](https://x.com/eluchocha)
-- 長さ: 0:38
-- モデル表記の根拠: 元の投稿にモデル名の記載あり
-- 投稿のアクセス確認日: 2026-11-10
-
-元の投稿を確認済み。生成やレンダリングを独立して再現していません。
+[eluchocha](https://x.com/eluchocha) · 0:38 · 2026-11-09
 
 ## 公開プロンプト
 
 公開プロンプトは未登録です。
 
-[発見元](https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json) · [ライセンスとメディアの権利](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+<details>
+<summary>出典と確認情報</summary>
+
+- モデル表記の根拠: 元の投稿にモデル名の記載あり
+- 投稿のアクセス確認日: 2026-11-10 — 投稿にアクセス可能
+
+投稿のアクセス確認と動画生成の再現は別です。生成やレンダリングを独立して再現していません。
+
+[ライセンスとメディアの権利](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+
+</details>

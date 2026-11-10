@@ -4,19 +4,24 @@
 
 [Back to collection](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.md)
 
-[![A cat brings an old robot back to life](https://pbs.twimg.com/amplify_video_thumb/2119904158409256960/img/Xzpz8Ruz3rvGLWk5.jpg)](https://x.com/EngMoElgaraihy/status/2119904813718643141)
+[![A cat brings an old robot back to life](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/engmoelgaraihy-643141.webp)](https://video.twimg.com/amplify_video/2119904158409256960/vid/avc1/1920x1080/FHiVbLKGnw5mFlJ7.mp4?tag=29)
 
-**[▶ Watch original](https://x.com/EngMoElgaraihy/status/2119904813718643141)**
+**[▶ Watch](https://video.twimg.com/amplify_video/2119904158409256960/vid/avc1/1920x1080/FHiVbLKGnw5mFlJ7.mp4?tag=29)** · [Original post](https://x.com/EngMoElgaraihy/status/2119904813718643141)
 
-- Creator: [@EngMoElgaraihy](https://x.com/EngMoElgaraihy)
-- Duration: 0:40
-- Model evidence: Model named in original post
-- Post availability checked: 2026-11-10
-
-The original post was checked. Generation and rendering were not independently reproduced.
+[EngMoElgaraihy](https://x.com/EngMoElgaraihy) · 0:40 · 2026-11-09
 
 ## Shared prompt
 
 No public prompt recorded.
 
-[Discovered via](https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json) · [License & media rights](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+<details>
+<summary>Sources & verification</summary>
+
+- Model evidence: Model named in original post
+- Post availability checked: 2026-11-10 — Post available
+
+Source availability and video generation are separate checks. Generation and rendering were not independently reproduced.
+
+[License & media rights](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+
+</details>

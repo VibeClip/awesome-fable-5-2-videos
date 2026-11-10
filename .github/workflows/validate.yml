@@ -10,4 +10,6 @@ jobs:
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
       - name: Validate index, translations and generated pages
-        run: python3 scripts/build.py --check
+        run: |
+          python3 scripts/build.py --check
+          python3 scripts/release_check.py

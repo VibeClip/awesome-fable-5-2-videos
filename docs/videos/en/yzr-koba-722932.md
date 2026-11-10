@@ -4,19 +4,24 @@
 
 [Back to collection](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.md)
 
-[![Why the sky is blue, explained in Japanese](https://pbs.twimg.com/amplify_video_thumb/2119907073026899968/img/VuCkv-ordRIonDUg.jpg)](https://x.com/yzr_koba/status/2119907670077722932)
+[![Why the sky is blue, explained in Japanese](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/yzr-koba-722932.webp)](https://video.twimg.com/amplify_video/2119907073026899968/vid/avc1/1920x1080/fJ7CuLzKleGXCpkO.mp4?tag=29)
 
-**[▶ Watch original](https://x.com/yzr_koba/status/2119907670077722932)**
+**[▶ Watch](https://video.twimg.com/amplify_video/2119907073026899968/vid/avc1/1920x1080/fJ7CuLzKleGXCpkO.mp4?tag=29)** · [Original post](https://x.com/yzr_koba/status/2119907670077722932)
 
-- Creator: [@yzr_koba](https://x.com/yzr_koba)
-- Duration: 0:55
-- Model evidence: Model named in original post
-- Post availability checked: 2026-11-10
-
-The original post was checked. Generation and rendering were not independently reproduced.
+[yzr_koba](https://x.com/yzr_koba) · 0:55 · 2026-11-09
 
 ## Shared prompt
 
 No public prompt recorded.
 
-[Discovered via](https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json) · [License & media rights](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+<details>
+<summary>Sources & verification</summary>
+
+- Model evidence: Model named in original post
+- Post availability checked: 2026-11-10 — Post available
+
+Source availability and video generation are separate checks. Generation and rendering were not independently reproduced.
+
+[License & media rights](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+
+</details>

@@ -4,16 +4,11 @@
 
 [Back to collection](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.md)
 
-[![A launch film it coded for itself in 57 minutes](https://pbs.twimg.com/amplify_video_thumb/2119895300718374912/img/wH0sH30IILNmKysI.jpg)](https://x.com/furkancavlakcom/status/2119896886345695521)
+[![A launch film it coded for itself in 57 minutes](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/furkancavlakcom-695521.webp)](https://video.twimg.com/amplify_video/2119895300718374912/vid/avc1/1920x1080/L3VgxovNI7ppzHi8.mp4?tag=29)
 
-**[▶ Watch original](https://x.com/furkancavlakcom/status/2119896886345695521)**
+**[▶ Watch](https://video.twimg.com/amplify_video/2119895300718374912/vid/avc1/1920x1080/L3VgxovNI7ppzHi8.mp4?tag=29)** · [Original post](https://x.com/furkancavlakcom/status/2119896886345695521)
 
-- Creator: [@furkancavlakcom](https://x.com/furkancavlakcom)
-- Duration: 1:14
-- Model evidence: Model named in original post
-- Post availability checked: 2026-11-10
-
-The original post was checked. Generation and rendering were not independently reproduced.
+[furkancavlakcom](https://x.com/furkancavlakcom) · 1:14 · 2026-11-09
 
 ## Shared prompt
 
@@ -21,6 +16,16 @@ Original language, as shared by the creator. Follow the source for context and r
 
 > Kendi lansman videonu yap. Sadece kodla.
 
-[Original post](https://x.com/furkancavlakcom/status/2119896886345695521)
+[Read the creator’s prompt](https://x.com/furkancavlakcom/status/2119896886345695521)
 
-[Discovered via](https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json) · [License & media rights](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+<details>
+<summary>Sources & verification</summary>
+
+- Model evidence: Model named in original post
+- Post availability checked: 2026-11-10 — Post available
+
+Source availability and video generation are separate checks. Generation and rendering were not independently reproduced.
+
+[License & media rights](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+
+</details>

@@ -4,19 +4,24 @@
 
 [返回合集](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.zh-CN.md)
 
-[![折叠屏手机铰链的工作原理](https://pbs.twimg.com/amplify_video_thumb/2119891178682228736/img/A2SgfYYQHeNnleC6.jpg)](https://x.com/Avenoxai/status/2119891378352058821)
+[![折叠屏手机铰链的工作原理](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/avenoxai-058821.webp)](https://video.twimg.com/amplify_video/2119891178682228736/vid/avc1/1920x1080/2q3_mQw6ZalpiaQz.mp4?tag=29)
 
-**[▶ 观看原帖](https://x.com/Avenoxai/status/2119891378352058821)**
+**[▶ 完整视频](https://video.twimg.com/amplify_video/2119891178682228736/vid/avc1/1920x1080/2q3_mQw6ZalpiaQz.mp4?tag=29)** · [原始发布](https://x.com/Avenoxai/status/2119891378352058821)
 
-- 创作者: [@Avenoxai](https://x.com/Avenoxai)
-- 时长: 1:00
-- 模型归属依据: 原帖明确提及该模型
-- 原帖可访问性检查日期: 2026-11-10
-
-已检查原帖；未独立复现生成和渲染过程。
+[Avenoxai](https://x.com/Avenoxai) · 1:00 · 2026-11-09
 
 ## 公开提示词
 
 暂未记录公开提示词。
 
-[发现来源](https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json) · [许可证与媒体权利](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+<details>
+<summary>来源与核验信息</summary>
+
+- 模型归属依据: 原帖明确提及该模型
+- 原帖可访问性检查日期: 2026-11-10 — 原帖可访问
+
+原帖可访问性检查不等于复现视频生成过程；生成与渲染未独立复现。
+
+[许可证与媒体权利](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+
+</details>

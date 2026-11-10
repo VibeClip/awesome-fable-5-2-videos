@@ -4,16 +4,11 @@
 
 [Volver a la colección](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.es.md)
 
-[![Un pequeño mago presenta Fable 5.2](https://pbs.twimg.com/amplify_video_thumb/2119884273071411200/img/pX6GYdfgg49q8YyP.jpg)](https://x.com/other__reality/status/2119885430627913784)
+[![Un pequeño mago presenta Fable 5.2](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/other-reality-913784.webp)](https://video.twimg.com/amplify_video/2119884273071411200/vid/avc1/1280x720/DwN1eSgpBgK8Wpa6.mp4?tag=14)
 
-**[▶ Ver original](https://x.com/other__reality/status/2119885430627913784)**
+**[▶ Ver vídeo](https://video.twimg.com/amplify_video/2119884273071411200/vid/avc1/1280x720/DwN1eSgpBgK8Wpa6.mp4?tag=14)** · [Publicación original](https://x.com/other__reality/status/2119885430627913784)
 
-- Creador: [@other__reality](https://x.com/other__reality)
-- Duración: 0:26
-- Evidencia del modelo: El modelo se menciona en la publicación original
-- Accesibilidad de la publicación comprobada: 2026-11-10
-
-Se comprobó la publicación original. No se reprodujeron de forma independiente la generación ni el renderizado.
+[other__reality](https://x.com/other__reality) · 0:26 · 2026-11-09
 
 ## Prompt compartido
 
@@ -21,6 +16,16 @@ Texto original compartido por el creador. Consulta la fuente para conocer el con
 
 > Create an animated video of clawd creating and releasing Claude Fable 5.2
 
-[Publicación original](https://x.com/other__reality/status/2119885430627913784)
+[Leer el prompt del creador](https://x.com/other__reality/status/2119885430627913784)
 
-[Descubierto en](https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json) · [Licencia y derechos del contenido](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+<details>
+<summary>Fuentes y comprobaciones</summary>
+
+- Evidencia del modelo: El modelo se menciona en la publicación original
+- Accesibilidad de la publicación comprobada: 2026-11-10 — Publicación accesible
+
+Comprobar el acceso a una publicación no equivale a reproducir su generación. La generación y el renderizado no se reprodujeron de forma independiente.
+
+[Licencia y derechos del contenido](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+
+</details>

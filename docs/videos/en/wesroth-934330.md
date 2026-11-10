@@ -4,19 +4,24 @@
 
 [Back to collection](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.md)
 
-[![An anime music video with timed lyrics](https://pbs.twimg.com/amplify_video_thumb/2119910396719177728/img/P5BraNR2AxwsDmsa.jpg)](https://x.com/WesRoth/status/2119911161386934330)
+[![An anime music video with timed lyrics](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/wesroth-934330.webp)](https://video.twimg.com/amplify_video/2119910396719177728/vid/avc1/1280x720/0X1wTe1JivqZgtXw.mp4?tag=29)
 
-**[▶ Watch original](https://x.com/WesRoth/status/2119911161386934330)**
+**[▶ Watch](https://video.twimg.com/amplify_video/2119910396719177728/vid/avc1/1280x720/0X1wTe1JivqZgtXw.mp4?tag=29)** · [Original post](https://x.com/WesRoth/status/2119911161386934330)
 
-- Creator: [@WesRoth](https://x.com/WesRoth)
-- Duration: 0:37
-- Model evidence: Model named in original post
-- Post availability checked: 2026-11-10
-
-The original post was checked. Generation and rendering were not independently reproduced.
+[WesRoth](https://x.com/WesRoth) · 0:37 · 2026-11-09
 
 ## Shared prompt
 
 No public prompt recorded.
 
-[Discovered via](https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json) · [License & media rights](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+<details>
+<summary>Sources & verification</summary>
+
+- Model evidence: Model named in original post
+- Post availability checked: 2026-11-10 — Post available
+
+Source availability and video generation are separate checks. Generation and rendering were not independently reproduced.
+
+[License & media rights](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+
+</details>

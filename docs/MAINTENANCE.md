@@ -1,29 +1,45 @@
 # Maintenance
 
-## Local workflow
+## Content updates
 
-Use Python 3.10 or newer with the standard library only:
+The maintained index is `data/videos.json`. Keep the coverage baseline in `data/reference.json`, with only original-creator source links. Five-language UI strings live in `locales/`; video titles live alongside their facts. Do not hand-edit generated README, category or detail pages.
+
+Each entry needs a stable ID, creator, original post, model evidence, current source status and a local `assets/previews/<id>.webp` asset. Use original platform URLs for full-video playback. An unavailable source stays visibly marked and is not featured as a playable full video. Native media IDs prevent reposts being counted as new works.
+
+## Prepare a preview
+
+Offline validation needs Python 3.10+ and its standard library. Creating new previews additionally needs FFmpeg and the packages in `scripts/media-requirements.txt`; YouTube originals can use yt-dlp. Use an interpreter with those dependencies and a valid system CA bundle.
 
 ```sh
+python3 scripts/make_preview.py ENTRY_ID
+python3 scripts/check_previews.py --local
 python3 scripts/build.py
 python3 scripts/build.py --check
+python3 scripts/release_check.py
 ```
 
-The generator validates unique IDs and sources, categories, model evidence, dates, primary prompt links and all five language keys. It renders the README files, category pages and video details. `--check` fails for stale or missing generated pages and orphaned generated details. This is an offline consistency check; it does not make network requests or certify video quality.
+`make_preview.py` downloads a bounded temporary source, extracts short sections, preserves the aspect ratio and encodes an infinite-loop animated WebP. It cleans up the full temporary source automatically. `--input /absolute/path/video.mp4` uses an already available original video.
 
-For a removed entry, delete its generated `docs/videos/<language>/<id>.md` files before rebuilding. Keep facts in `data/videos.json`, UI strings in `locales/` and featured IDs in the index. All generated links use repository-root paths so they work from nested detail pages on GitHub.
+After pushing, run `python3 scripts/check_previews.py` to match animated assets to their actual GitHub objects and verify the README includes them. Commit updated verification metadata, then check CI at that resulting commit. The remote check is distinct from compilation or a browser playback test.
 
-## Before making the repository public
+## Curation and momentum
 
-- Review featured videos visually and confirm each model attribution against its original source. Resolve any `upstream-index` attribution or remove the entry.
-- Review translations, creator names, prompt context and media-rights records.
-- Check that all original-post links and thumbnail URLs still work; source availability can change after the recorded check date.
-- Inspect all five README files on GitHub, including narrow layouts and image loading.
-- Run the offline consistency check and confirm CI passes at the commit being released.
-- Keep the repository private until the owner chooses to change visibility. No workflow or script changes visibility or schedules a release.
+Search beyond the baseline. Discover original posts using several languages and creator threads; verify model attribution and a real video attachment. Separate generated films, scene recordings, interactive demos and mixed-tool workflows. Exclude generic model news, reposts and content from older model versions from the additional-video count.
 
-## Cover assets
+Record engagement with UTC timestamps. Only repeated observations establish measured growth. A single observation can support an age-adjusted estimate, but cannot be described as an observed increase. Keep the selection reason and unresolved evidence in the discovery review. Do not create artificial trending labels from cumulative likes alone.
 
-`assets/cover.png` is the original wide cover used by every README. `assets/social-preview.jpg` is a 1280×640 layout intended for GitHub's repository social preview setting. Merely committing that file does not configure the social preview setting.
+## Link and commit review
 
-The visual direction and generation brief are documented in [assets/README.md](../assets/README.md). Future covers should remain recognizable at README width and must not present illustrative brand art as a model output.
+The gallery and index use only this repository's preview URLs and original creator/platform URLs. Do not copy promotional wrappers, collection-site links, referral parameters, ads, third-party hosting destinations or discount offers. The external comparison source is configured in the scheduled task, not in the public catalog.
+
+`release_check.py` checks outgoing destinations, promotional parameters, local media URLs and commit-message wording. Use short result-oriented commit messages. Retain any still-applicable license notice in the centralized notice file; removing a promotional link is different from removing a required notice.
+
+## Before public release
+
+- Confirm complete baseline coverage, additional unique discoveries and no duplicate native media IDs.
+- Inspect animated previews and verify source-status labels, translations, creator names and prompt context.
+- Resolve or clearly mark uncertain model/media records. Do not silently drop baseline entries.
+- Run animation, generation, promotion and commit checks; confirm CI passes at the release commit.
+- Keep the repository private until the owner explicitly changes that instruction. No script changes visibility.
+
+Cover and optional social-preview artwork remain in `assets/`. Committing a social-preview file does not upload it to the repository's social-preview setting.

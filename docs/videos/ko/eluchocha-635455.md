@@ -4,19 +4,24 @@
 
 [모음으로 돌아가기](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.ko.md)
 
-[![페이퍼 컷으로 표현한 일출](https://pbs.twimg.com/amplify_video_thumb/2119900235761688576/img/sUHyb5h0DpKXORtG.jpg)](https://x.com/eluchocha/status/2119902302001635455)
+[![페이퍼 컷으로 표현한 일출](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/eluchocha-635455.webp)](https://video.twimg.com/amplify_video/2119900235761688576/vid/avc1/1080x1080/cejGINOI5PNwIMrQ.mp4?tag=29)
 
-**[▶ 원본 보기](https://x.com/eluchocha/status/2119902302001635455)**
+**[▶ 전체 영상](https://video.twimg.com/amplify_video/2119900235761688576/vid/avc1/1080x1080/cejGINOI5PNwIMrQ.mp4?tag=29)** · [원본 게시물](https://x.com/eluchocha/status/2119902302001635455)
 
-- 창작자: [@eluchocha](https://x.com/eluchocha)
-- 길이: 0:38
-- 모델 표기의 근거: 원본 게시물에 모델명 명시
-- 게시물 접근 확인 날짜: 2026-11-10
-
-원본 게시물을 확인했습니다. 생성 및 렌더링 과정은 독립적으로 재현하지 않았습니다.
+[eluchocha](https://x.com/eluchocha) · 0:38 · 2026-11-09
 
 ## 공개 프롬프트
 
 등록된 공개 프롬프트가 없습니다.
 
-[발견 출처](https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json) · [라이선스 및 미디어 권리](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+<details>
+<summary>출처 및 확인 정보</summary>
+
+- 모델 표기의 근거: 원본 게시물에 모델명 명시
+- 게시물 접근 확인 날짜: 2026-11-10 — 게시물 접근 가능
+
+게시물 접근 확인과 영상 생성 재현은 별개입니다. 생성 및 렌더링 과정은 독립적으로 재현하지 않았습니다.
+
+[라이선스 및 미디어 권리](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+
+</details>

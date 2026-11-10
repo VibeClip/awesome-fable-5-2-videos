@@ -4,19 +4,24 @@
 
 [一覧に戻る](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.ja.md)
 
-[![歌詞とシンクロするアニメMV](https://pbs.twimg.com/amplify_video_thumb/2119910396719177728/img/P5BraNR2AxwsDmsa.jpg)](https://x.com/WesRoth/status/2119911161386934330)
+[![歌詞とシンクロするアニメMV](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/wesroth-934330.webp)](https://video.twimg.com/amplify_video/2119910396719177728/vid/avc1/1280x720/0X1wTe1JivqZgtXw.mp4?tag=29)
 
-**[▶ 元の投稿を見る](https://x.com/WesRoth/status/2119911161386934330)**
+**[▶ 本編](https://video.twimg.com/amplify_video/2119910396719177728/vid/avc1/1280x720/0X1wTe1JivqZgtXw.mp4?tag=29)** · [元の投稿](https://x.com/WesRoth/status/2119911161386934330)
 
-- 作者: [@WesRoth](https://x.com/WesRoth)
-- 長さ: 0:37
-- モデル表記の根拠: 元の投稿にモデル名の記載あり
-- 投稿のアクセス確認日: 2026-11-10
-
-元の投稿を確認済み。生成やレンダリングを独立して再現していません。
+[WesRoth](https://x.com/WesRoth) · 0:37 · 2026-11-09
 
 ## 公開プロンプト
 
 公開プロンプトは未登録です。
 
-[発見元](https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json) · [ライセンスとメディアの権利](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+<details>
+<summary>出典と確認情報</summary>
+
+- モデル表記の根拠: 元の投稿にモデル名の記載あり
+- 投稿のアクセス確認日: 2026-11-10 — 投稿にアクセス可能
+
+投稿のアクセス確認と動画生成の再現は別です。生成やレンダリングを独立して再現していません。
+
+[ライセンスとメディアの権利](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+
+</details>

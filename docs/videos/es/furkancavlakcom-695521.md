@@ -4,16 +4,11 @@
 
 [Volver a la colección](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.es.md)
 
-[![Un vídeo de lanzamiento programado para sí mismo](https://pbs.twimg.com/amplify_video_thumb/2119895300718374912/img/wH0sH30IILNmKysI.jpg)](https://x.com/furkancavlakcom/status/2119896886345695521)
+[![Un vídeo de lanzamiento programado para sí mismo](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/furkancavlakcom-695521.webp)](https://video.twimg.com/amplify_video/2119895300718374912/vid/avc1/1920x1080/L3VgxovNI7ppzHi8.mp4?tag=29)
 
-**[▶ Ver original](https://x.com/furkancavlakcom/status/2119896886345695521)**
+**[▶ Ver vídeo](https://video.twimg.com/amplify_video/2119895300718374912/vid/avc1/1920x1080/L3VgxovNI7ppzHi8.mp4?tag=29)** · [Publicación original](https://x.com/furkancavlakcom/status/2119896886345695521)
 
-- Creador: [@furkancavlakcom](https://x.com/furkancavlakcom)
-- Duración: 1:14
-- Evidencia del modelo: El modelo se menciona en la publicación original
-- Accesibilidad de la publicación comprobada: 2026-11-10
-
-Se comprobó la publicación original. No se reprodujeron de forma independiente la generación ni el renderizado.
+[furkancavlakcom](https://x.com/furkancavlakcom) · 1:14 · 2026-11-09
 
 ## Prompt compartido
 
@@ -21,6 +16,16 @@ Texto original compartido por el creador. Consulta la fuente para conocer el con
 
 > Kendi lansman videonu yap. Sadece kodla.
 
-[Publicación original](https://x.com/furkancavlakcom/status/2119896886345695521)
+[Leer el prompt del creador](https://x.com/furkancavlakcom/status/2119896886345695521)
 
-[Descubierto en](https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json) · [Licencia y derechos del contenido](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+<details>
+<summary>Fuentes y comprobaciones</summary>
+
+- Evidencia del modelo: El modelo se menciona en la publicación original
+- Accesibilidad de la publicación comprobada: 2026-11-10 — Publicación accesible
+
+Comprobar el acceso a una publicación no equivale a reproducir su generación. La generación y el renderizado no se reprodujeron de forma independiente.
+
+[Licencia y derechos del contenido](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+
+</details>

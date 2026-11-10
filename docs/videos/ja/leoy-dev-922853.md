@@ -4,19 +4,24 @@
 
 [一覧に戻る](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.ja.md)
 
-[![動きが詰まった小さな惑星](https://pbs.twimg.com/amplify_video_thumb/2119902402643890177/img/l-vmVZsWVEVQv23v.jpg)](https://x.com/leoy_dev/status/2119903166149922853)
+[![動きが詰まった小さな惑星](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/leoy-dev-922853.webp)](https://video.twimg.com/amplify_video/2119902402643890177/vid/avc1/1920x918/dO0GyuVK6-YhKfS9.mp4?tag=29)
 
-**[▶ 元の投稿を見る](https://x.com/leoy_dev/status/2119903166149922853)**
+**[▶ 本編](https://video.twimg.com/amplify_video/2119902402643890177/vid/avc1/1920x918/dO0GyuVK6-YhKfS9.mp4?tag=29)** · [元の投稿](https://x.com/leoy_dev/status/2119903166149922853)
 
-- 作者: [@leoy_dev](https://x.com/leoy_dev)
-- 長さ: 1:09
-- モデル表記の根拠: 元の投稿にモデル名の記載あり
-- 投稿のアクセス確認日: 2026-11-10
-
-元の投稿を確認済み。生成やレンダリングを独立して再現していません。
+[leoy_dev](https://x.com/leoy_dev) · 1:09 · 2026-11-09
 
 ## 公開プロンプト
 
 公開プロンプトは未登録です。
 
-[発見元](https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json) · [ライセンスとメディアの権利](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+<details>
+<summary>出典と確認情報</summary>
+
+- モデル表記の根拠: 元の投稿にモデル名の記載あり
+- 投稿のアクセス確認日: 2026-11-10 — 投稿にアクセス可能
+
+投稿のアクセス確認と動画生成の再現は別です。生成やレンダリングを独立して再現していません。
+
+[ライセンスとメディアの権利](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+
+</details>

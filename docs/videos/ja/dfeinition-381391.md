@@ -4,19 +4,24 @@
 
 [一覧に戻る](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.ja.md)
 
-[![ゲームキャラクターの動きをつなぐ仕組み](https://pbs.twimg.com/amplify_video_thumb/2119870421478567936/img/odUx_-Y53-zw9S4v.jpg)](https://x.com/dfeinition/status/2119870838606381391)
+[![ゲームキャラクターの動きをつなぐ仕組み](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/dfeinition-381391.webp)](https://video.twimg.com/amplify_video/2119870421478567936/vid/avc1/3840x2160/G6_gpxpBs-4beNTY.mp4?tag=29)
 
-**[▶ 元の投稿を見る](https://x.com/dfeinition/status/2119870838606381391)**
+**[▶ 本編](https://video.twimg.com/amplify_video/2119870421478567936/vid/avc1/3840x2160/G6_gpxpBs-4beNTY.mp4?tag=29)** · [元の投稿](https://x.com/dfeinition/status/2119870838606381391)
 
-- 作者: [@dfeinition](https://x.com/dfeinition)
-- 長さ: 1:00
-- モデル表記の根拠: 元の投稿にモデル名の記載あり
-- 投稿のアクセス確認日: 2026-11-10
-
-元の投稿を確認済み。生成やレンダリングを独立して再現していません。
+[dfeinition](https://x.com/dfeinition) · 1:00 · 2026-11-09
 
 ## 公開プロンプト
 
 公開プロンプトは未登録です。
 
-[発見元](https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json) · [ライセンスとメディアの権利](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+<details>
+<summary>出典と確認情報</summary>
+
+- モデル表記の根拠: 元の投稿にモデル名の記載あり
+- 投稿のアクセス確認日: 2026-11-10 — 投稿にアクセス可能
+
+投稿のアクセス確認と動画生成の再現は別です。生成やレンダリングを独立して再現していません。
+
+[ライセンスとメディアの権利](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+
+</details>

@@ -4,19 +4,24 @@
 
 [모음으로 돌아가기](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.ko.md)
 
-[![한 획씩 그려지는 초상화](https://pbs.twimg.com/amplify_video_thumb/2119902893394337792/img/kaCRe1hP5EUFjLEW.jpg)](https://x.com/internetphysics/status/2119903808935313778)
+[![한 획씩 그려지는 초상화](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/internetphysics-313778.webp)](https://video.twimg.com/amplify_video/2119902893394337792/vid/avc1/1440x748/Qs1TOP9hXZf08Xkl.mp4?tag=29)
 
-**[▶ 원본 보기](https://x.com/internetphysics/status/2119903808935313778)**
+**[▶ 전체 영상](https://video.twimg.com/amplify_video/2119902893394337792/vid/avc1/1440x748/Qs1TOP9hXZf08Xkl.mp4?tag=29)** · [원본 게시물](https://x.com/internetphysics/status/2119903808935313778)
 
-- 창작자: [@internetphysics](https://x.com/internetphysics)
-- 길이: 1:00
-- 모델 표기의 근거: 원본 게시물에 모델명 명시
-- 게시물 접근 확인 날짜: 2026-11-10
-
-원본 게시물을 확인했습니다. 생성 및 렌더링 과정은 독립적으로 재현하지 않았습니다.
+[internetphysics](https://x.com/internetphysics) · 1:00 · 2026-11-09
 
 ## 공개 프롬프트
 
 등록된 공개 프롬프트가 없습니다.
 
-[발견 출처](https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json) · [라이선스 및 미디어 권리](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+<details>
+<summary>출처 및 확인 정보</summary>
+
+- 모델 표기의 근거: 원본 게시물에 모델명 명시
+- 게시물 접근 확인 날짜: 2026-11-10 — 게시물 접근 가능
+
+게시물 접근 확인과 영상 생성 재현은 별개입니다. 생성 및 렌더링 과정은 독립적으로 재현하지 않았습니다.
+
+[라이선스 및 미디어 권리](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+
+</details>

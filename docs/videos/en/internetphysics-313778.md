@@ -4,19 +4,24 @@
 
 [Back to collection](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.md)
 
-[![Painting a portrait stroke by stroke](https://pbs.twimg.com/amplify_video_thumb/2119902893394337792/img/kaCRe1hP5EUFjLEW.jpg)](https://x.com/internetphysics/status/2119903808935313778)
+[![Painting a portrait stroke by stroke](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/internetphysics-313778.webp)](https://video.twimg.com/amplify_video/2119902893394337792/vid/avc1/1440x748/Qs1TOP9hXZf08Xkl.mp4?tag=29)
 
-**[▶ Watch original](https://x.com/internetphysics/status/2119903808935313778)**
+**[▶ Watch](https://video.twimg.com/amplify_video/2119902893394337792/vid/avc1/1440x748/Qs1TOP9hXZf08Xkl.mp4?tag=29)** · [Original post](https://x.com/internetphysics/status/2119903808935313778)
 
-- Creator: [@internetphysics](https://x.com/internetphysics)
-- Duration: 1:00
-- Model evidence: Model named in original post
-- Post availability checked: 2026-11-10
-
-The original post was checked. Generation and rendering were not independently reproduced.
+[internetphysics](https://x.com/internetphysics) · 1:00 · 2026-11-09
 
 ## Shared prompt
 
 No public prompt recorded.
 
-[Discovered via](https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json) · [License & media rights](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+<details>
+<summary>Sources & verification</summary>
+
+- Model evidence: Model named in original post
+- Post availability checked: 2026-11-10 — Post available
+
+Source availability and video generation are separate checks. Generation and rendering were not independently reproduced.
+
+[License & media rights](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+
+</details>

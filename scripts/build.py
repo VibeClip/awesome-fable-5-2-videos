@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""从单一索引生成多语言合集；--check 检查生成文件是否同步。"""
+"""从单一索引生成多语言动态画廊；--check 检查数据和生成文件是否同步。"""
 
 import argparse
 from datetime import date, datetime
 import html
+import hashlib
 import json
 from pathlib import Path
 import re
@@ -11,135 +12,219 @@ from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
 LANGS = ('en', 'zh-CN', 'ja', 'ko', 'es')
-CATEGORIES = ('motion', 'short-films', 'product', 'explainers')
+CATEGORIES = ('motion', '3d', 'product', 'explainers', 'interactive')
 REPO = 'https://github.com/VibeClip/awesome-fable-5-2-videos'
+
+
+def document(path):
+    return f'{REPO}/blob/main/{path}'
+
+
+def readme_path(lang):
+    return 'README.md' if lang == 'en' else f'README.{lang}.md'
 
 
 def load():
     data = json.loads((ROOT / 'data/videos.json').read_text())
     strings = {lang: json.loads((ROOT / f'locales/{lang}.json').read_text()) for lang in LANGS}
-    assert data['schema_version'] == 1, 'Unsupported schema'
+    assert data['schema_version'] == 3, 'Unsupported schema'
     date.fromisoformat(data['updated_on'])
-    ids, sources = set(), set()
-    for v in data['videos']:
-        assert re.fullmatch(r'[a-z0-9]+(?:-[a-z0-9]+)*', v['id']), v['id']
-        assert v['id'] not in ids and v['source_url'] not in sources, 'Duplicate video'
-        ids.add(v['id'])
-        sources.add(v['source_url'])
-        assert set(v['titles']) == set(LANGS), f"Missing translation: {v['id']}"
-        assert all(isinstance(t, str) and t.strip() for t in v['titles'].values())
-        assert v['category'] in CATEGORIES
-        assert isinstance(v['duration_seconds'], (int, float)) and 0 < v['duration_seconds'] < 3600
-        assert v['model'] == 'Claude Fable 5.2'
-        assert v['model_evidence'] in ('primary-post', 'upstream-index')
-        assert v['creator']['name'] and v['media_rights']
-        datetime.fromisoformat(v['published_at'].replace('Z', '+00:00'))
-        date.fromisoformat(v['source_check']['checked_on'])
-        assert re.fullmatch(r'[a-f0-9]{64}', v['source_check']['post_sha256'])
-        urls = (v['source_url'], v['thumbnail_url'], v['creator']['url'], v['discovered_via'])
-        assert all(urlparse(u).scheme == 'https' and urlparse(u).netloc for u in urls)
-        assert urlparse(v['source_url']).netloc == 'x.com'
-        assert re.fullmatch(r'/[A-Za-z0-9_]+/status/[0-9]+', urlparse(v['source_url']).path)
-        assert urlparse(v['thumbnail_url']).netloc == 'pbs.twimg.com'
-        if v['prompt']['text']:
-            assert v['prompt']['source_url'].startswith(v['creator']['url'] + '/status/'), 'Prompt needs creator primary source'
+    ids, sources, media_ids = set(), set(), set()
+    for video in data['videos']:
+        identifier = video['id']
+        assert re.fullmatch(r'[a-z0-9]+(?:-[a-z0-9]+)*', identifier), identifier
+        assert identifier not in ids and video['source_url'] not in sources, 'Duplicate video'
+        ids.add(identifier)
+        sources.add(video['source_url'])
+        if video.get('native_media_id'):
+            assert video['native_media_id'] not in media_ids, 'Duplicate native media'
+            media_ids.add(video['native_media_id'])
+        assert set(video['titles']) == set(LANGS), f'Missing translation: {identifier}'
+        assert all(isinstance(title, str) and title.strip() for title in video['titles'].values())
+        assert video['category'] in CATEGORIES
+        assert isinstance(video['duration_seconds'], (int, float)) and 0 < video['duration_seconds'] < 3600
+        assert video['model'] == 'Claude Fable 5.2'
+        assert video['model_evidence'] in ('primary-post', 'upstream-index')
+        assert video['creator']['name'] and video['media_rights']
+        datetime.fromisoformat(video['published_at'].replace('Z', '+00:00'))
+        source_check = video['source_check']
+        date.fromisoformat(source_check['checked_on'])
+        assert source_check['availability'] in ('available', 'unconfirmed')
+        if source_check['availability'] == 'available':
+            assert re.fullmatch(r'[a-f0-9]{64}', source_check['post_sha256'])
+        if video['model_evidence'] == 'primary-post':
+            assert source_check['availability'] == 'available' and source_check['model_named']
+        urls = [video[key] for key in ('source_url', 'preview_url', 'video_url')]
+        if video.get('thumbnail_url'):
+            urls.append(video['thumbnail_url'])
+        urls.append(video['creator']['url'])
+        assert all(urlparse(url).scheme == 'https' and urlparse(url).netloc for url in urls)
+        assert urlparse(video['source_url']).netloc in ('x.com', 'www.youtube.com')
+        expected = f'{REPO}/raw/main/{video["preview_path"]}'
+        assert video['preview_url'] == expected
+        path = ROOT / video['preview_path']
+        assert path.resolve().parent == (ROOT / 'assets/previews').resolve()
+        assert path.is_file(), 'Missing preview asset'
+        prompt = video['prompt']
+        if prompt['text']:
+            assert prompt['source_url'].startswith(video['creator']['url'] + '/status/'), 'Prompt needs creator primary source'
+        if prompt['source_url']:
+            assert urlparse(prompt['source_url']).scheme == 'https'
     assert set(data['featured_ids']) <= ids
     assert len(set(data['featured_ids'])) == len(data['featured_ids'])
-    keys = set(strings['en'])
-    for lang, s in strings.items():
-        assert set(s) == keys, f'Missing UI translation: {lang}'
-        assert len(s['categories']) == len(CATEGORIES)
+    for lang, values in strings.items():
+        assert set(values) == set(strings['en']), f'Missing UI translation: {lang}'
+        assert len(values['categories']) == len(CATEGORIES)
+    report = json.loads((ROOT / 'data/preview-checks.json').read_text())
+    datetime.fromisoformat(report['checked_at'])
+    verified = {item['id']: item for item in report['previews']}
+    assert len(verified) == len(report['previews']) and set(verified) == ids, 'Preview report must cover every video exactly once'
+    for video in data['videos']:
+        proof = verified[video['id']]
+        assert proof['preview_url'] == video['preview_url'], 'Preview changed: rerun animation check'
+        assert proof['status'] == 'animated' and proof['frames'] > 1
+        assert proof['loop_count'] == 0 and proof['duration_ms'] > 0
+        assert proof['width'] * 9 == proof['height'] * 16
+        assert proof['file_sha256'] == hashlib.sha256((ROOT / video['preview_path']).read_bytes()).hexdigest()
+    baseline = json.loads((ROOT / 'data/reference.json').read_text())
+    by_id = {video['id']: video for video in data['videos']}
+    for entry in baseline['entries']:
+        assert entry['id'] in by_id, 'Coverage baseline entry missing'
+        assert by_id[entry['id']]['source_url'].lower() == entry['source_url'].lower(), 'Coverage source changed'
     return data, strings
 
 
-def duration(v):
-    seconds = round(v['duration_seconds'])
+def duration(video):
+    seconds = round(video['duration_seconds'])
     return f'{seconds // 60}:{seconds % 60:02d}'
 
 
-def escaped(value):
+def escape(value):
     return html.escape(value, quote=True)
 
 
 def language_nav(strings):
-    return ' · '.join(f'[{strings[lang]["language"]}](/{"README.md" if lang == "en" else f"README.{lang}.md"})' for lang in LANGS)
+    return ' · '.join(f'<a href="{document(readme_path(lang))}">{escape(strings[lang]["language"])}</a>' for lang in LANGS)
 
 
-def card(v, lang, s):
-    title = escaped(v['titles'][lang])
-    source = escaped(v['source_url'])
-    detail = f'{REPO}/blob/main/docs/videos/{lang}/{v["id"]}.md'
-    return (f'<td width="50%" valign="top"><a href="{source}">'
-            f'<img src="{escaped(v["thumbnail_url"])}" alt="{title}" width="100%"></a><br>'
-            f'<b>{title}</b><br><a href="{escaped(v["creator"]["url"])}">@{escaped(v["creator"]["name"])}</a>'
-            f' · {duration(v)}<br><a href="{source}">▶ {s["watch"]}</a>'
-            f' · <a href="{detail}">{s["details"]}</a></td>')
+def detail_url(video, lang):
+    return document(f'docs/videos/{lang}/{video["id"]}.md')
 
 
-def gallery(videos, lang, s):
+def card(video, lang, strings):
+    title = escape(video['titles'][lang])
+    author = escape(video['creator']['name'])
+    watch = escape(video['video_url'])
+    date_text = video['published_at'][:10]
+    prompt_label = strings['prompt_short'] if video['prompt']['source_url'] else strings['details']
+    state = video.get('momentum', {}).get('state')
+    badge = f'<b>{strings[state]}</b> · ' if state in ('rising', 'new') else ''
+    archived = video['video_url'] == video['source_url'] and video['source_check']['availability'] == 'unconfirmed'
+    preview_target = detail_url(video, lang) if archived else watch
+    playback = strings['archived'] if archived else f'<a href="{watch}">▶ {strings["watch"]}</a>'
+    return (f'<td width="33%" valign="top">\n'
+            f'<a href="{preview_target}"><img src="{escape(video["preview_url"])}" '
+            f'alt="{title} — @{author}" width="100%" loading="lazy"></a><br>\n'
+            f'<b>{title}</b><br>\n'
+            f'<sub>{badge}<a href="{escape(video["creator"]["url"])}">@{author}</a> · '
+            f'{duration(video)} · {date_text}</sub><br>\n'
+            f'{playback} · '
+            f'<a href="{escape(video["source_url"])}">{strings["source_short"]}</a> · '
+            f'<a href="{detail_url(video, lang)}">{prompt_label}</a>\n</td>')
+
+
+def gallery(videos, lang, strings):
     rows = ['<table>']
-    for index in range(0, len(videos), 2):
-        rows.append('<tr>' + ''.join(card(v, lang, s) for v in videos[index:index + 2]) + '</tr>')
+    for index in range(0, len(videos), 3):
+        cells = [card(video, lang, strings) for video in videos[index:index + 3]]
+        cells += ['<td width="33%"></td>'] * (3 - len(cells))
+        rows.append('<tr>\n' + '\n'.join(cells) + '\n</tr>')
     return '\n'.join(rows + ['</table>'])
+
+
+def category_sections(videos, lang, strings):
+    sections = []
+    for category, label in zip(CATEGORIES, strings['categories']):
+        entries = sorted((video for video in videos if video['category'] == category),
+                         key=lambda video: video['published_at'], reverse=True)
+        sections.append(f'<a id="{category}"></a>\n\n## {label} · {len(entries)}\n\n'
+                        + gallery(entries, lang, strings))
+    return '\n\n'.join(sections)
 
 
 def render(data, strings):
     outputs = {}
     videos = data['videos']
-    by_id = {v['id']: v for v in videos}
-    for lang, s in strings.items():
-        readme = 'README.md' if lang == 'en' else f'README.{lang}.md'
-        count = sum(bool(v['prompt']['text']) for v in videos)
-        header = (f'<!-- Generated by scripts/build.py; edit data/ and locales/. -->\n\n'
-                  f'![Fable in Motion — Claude Fable 5.2 video showcase](/assets/cover.png)\n\n'
-                  f'# Fable in Motion\n\n**{s["intro"]}**\n\n{language_nav(strings)}\n\n'
-                  f'[![GitHub stars](https://img.shields.io/github/stars/VibeClip/awesome-fable-5-2-videos?style=flat&color=c8ff00&label=Star)]({REPO}/stargazers) '
-                  f'![Videos](https://img.shields.io/badge/videos-{len(videos)}-c8ff00) '
-                  f'![Languages](https://img.shields.io/badge/languages-{len(LANGS)}-a78bfa) '
-                  f'[![MIT](https://img.shields.io/badge/license-MIT-blue)](/LICENSE)\n\n'
-                  f'{s["about"]}\n\n**{s["cta"]}**\n\n'
-                  f'[{s["submit"]}]({REPO}/issues/new?template=submit-video.yml) · '
-                  f'[{s["contribute"]}](/CONTRIBUTING.md) · [JSON](/data/videos.json)\n\n'
-                  f'{s["updated"]}: {data["updated_on"]} · {len(videos)} {s["videos"]} · {count} {s["prompts"]}\n\n')
-        content = header + f'## {s["featured"]}\n\n'
-        content += gallery([by_id[k] for k in data['featured_ids']], lang, s)
-        content += f'\n\n## {s["browse"]}\n\n'
-        content += '| | |\n| :-- | --: |\n'
-        for category, label in zip(CATEGORIES, s['categories']):
-            total = sum(v['category'] == category for v in videos)
-            content += f'| [{label}](/docs/collections/{lang}.md#{category}) | {total} |\n'
-        content += f'\n[{s["all"]}](/docs/collections/{lang}.md)\n\n'
-        prompts = [v for v in videos if v['prompt']['text']]
-        content += f'## {s["prompt"]}\n\n{s["prompt_note"]}\n\n'
-        for v in prompts:
-            content += f'- [{v["titles"][lang]}](/docs/videos/{lang}/{v["id"]}.md) — @{v["creator"]["name"]}\n'
-        content += f'\n## {s["notes"]}\n\n{s["note_text"]}\n\n'
-        content += f'[{s["provenance"]}](/docs/SOURCES.md) · [{s["license"]}](/docs/MEDIA-RIGHTS.md)\n\n<sub>{s["art"]}</sub>\n'
-        outputs[readme] = content.replace('](/', f']({REPO}/blob/main/')
-        collection = f'<!-- Generated by scripts/build.py. -->\n\n# {s["all"]}\n\n[{s["back"]}](/{readme})\n\n{language_nav(strings)}\n'
-        for category, label in zip(CATEGORIES, s['categories']):
-            collection += f'\n<a id="{category}"></a>\n\n## {label}\n\n'
-            collection += gallery([v for v in videos if v['category'] == category], lang, s) + '\n'
-        outputs[f'docs/collections/{lang}.md'] = collection.replace('](/', f']({REPO}/blob/main/')
-        for v in videos:
-            evidence = s['primary'] if v['model_evidence'] == 'primary-post' else s['secondary']
-            text = (f'<!-- Generated by scripts/build.py. -->\n\n# {v["titles"][lang]}\n\n'
-                    f'[{s["back"]}](/{readme})\n\n'
-                    f'[![{escaped(v["titles"][lang])}]({v["thumbnail_url"]})]({v["source_url"]})\n\n'
-                    f'**[▶ {s["watch"]}]({v["source_url"]})**\n\n'
-                    f'- {s["creator"]}: [@{v["creator"]["name"]}]({v["creator"]["url"]})\n'
-                    f'- {s["duration"]}: {duration(v)}\n'
-                    f'- {s["evidence"]}: {evidence}\n'
-                    f'- {s["checked"]}: {v["source_check"]["checked_on"]}\n\n'
-                    f'{s["not_reproduced"]}\n\n## {s["prompt"]}\n\n')
-            prompt = v['prompt']
+    by_id = {video['id']: video for video in videos}
+    for lang, values in strings.items():
+        readme = readme_path(lang)
+        prompt_count = sum(bool(video['prompt']['source_url']) for video in videos)
+        badges = (f'<a href="{REPO}/stargazers"><img alt="GitHub stars" '
+                  f'src="https://img.shields.io/github/stars/VibeClip/awesome-fable-5-2-videos?style=flat&amp;color=c8ff00&amp;label=Star"></a> '
+                  f'<img alt="{len(videos)} videos" src="https://img.shields.io/badge/videos-{len(videos)}-c8ff00"> '
+                  f'<img alt="{prompt_count} prompt sources" src="https://img.shields.io/badge/prompts-{prompt_count}-a78bfa"> '
+                  f'<a href="{document("LICENSE")}"><img alt="MIT" src="https://img.shields.io/badge/license-MIT-blue"></a>')
+        content = (f'<!-- Generated by scripts/build.py; edit data/ and locales/. -->\n\n'
+                   f'<div align="center">\n<h1>Fable in Motion</h1>\n'
+                   f'<p><b>Awesome Claude Fable 5.2 Videos</b></p>\n'
+                   f'<p>{language_nav(strings)}</p>\n<p>{badges}</p>\n</div>\n\n'
+                   f'{values["about"]}\n\n**{values["preview_hint"]}**\n\n')
+        nav = []
+        for category, label in zip(CATEGORIES, values['categories']):
+            total = sum(video['category'] == category for video in videos)
+            nav.append(f'[{label} ({total})](#{category})')
+        content += ' · '.join(nav) + '\n\n'
+        content += (f'[{values["submit"]}]({REPO}/issues/new?template=submit-video.yml) · '
+                    f'[{values["prompt"]}](#prompts) · '
+                    f'[{values["contribute"]}]({document("CONTRIBUTING.md")}) · '
+                    f'[JSON]({document("data/videos.json")}) · '
+                    f'[{values["discovery"]}]({document("docs/DISCOVERIES.md")})\n\n'
+                    f'<a id="featured"></a>\n\n## {values["featured"]}\n\n')
+        content += gallery([by_id[key] for key in data['featured_ids']], lang, values)
+        content += f'\n\n**{values["cta"]}**\n\n'
+        content += category_sections(videos, lang, values)
+        content += f'\n\n<a id="prompts"></a>\n\n## {values["prompt"]} · {prompt_count}\n\n'
+        content += values['prompt_note'] + '\n\n'
+        for video in videos:
+            if video['prompt']['source_url']:
+                content += f'- [{video["titles"][lang]}]({detail_url(video, lang)}) — @{video["creator"]["name"]}\n'
+        content += (f'\n---\n\n{values["note_text"]}\n\n'
+                    f'[{values["provenance"]}]({document("docs/SOURCES.md")}) · '
+                    f'[{values["license"]}]({document("docs/MEDIA-RIGHTS.md")}) · '
+                    f'{values["updated"]}: {data["updated_on"]}\n')
+        outputs[readme] = content
+        outputs[f'docs/collections/{lang}.md'] = (
+            f'<!-- Generated by scripts/build.py. -->\n\n# {values["all"]}\n\n'
+            f'[{values["back"]}]({document(readme)})\n\n'
+            f'{values["preview_hint"]}\n\n' + category_sections(videos, lang, values) + '\n')
+        for video in videos:
+            evidence = values['primary'] if video['model_evidence'] == 'primary-post' else values['secondary']
+            check = video['source_check']
+            availability = values['available'] if check['availability'] == 'available' else values['unconfirmed']
+            text = (f'<!-- Generated by scripts/build.py. -->\n\n# {video["titles"][lang]}\n\n'
+                    f'[{values["back"]}]({document(readme)})\n\n'
+                    f'[![{escape(video["titles"][lang])}]({video["preview_url"]})]({video["video_url"]})\n\n'
+                    f'**[▶ {values["watch"]}]({video["video_url"]})** · '
+                    f'[{values["source"]}]({video["source_url"]})\n\n'
+                    f'[{video["creator"]["name"]}]({video["creator"]["url"]}) · '
+                    f'{duration(video)} · {video["published_at"][:10]}\n\n'
+                    f'## {values["prompt"]}\n\n')
+            prompt = video['prompt']
             if prompt['text']:
-                text += f'{s["prompt_note"]}\n\n' + '\n'.join('> ' + line for line in prompt['text'].splitlines()) + '\n\n'
-                text += f'[{s["source"]}]({prompt["source_url"]})\n'
+                text += values['prompt_note'] + '\n\n'
+                text += '\n'.join('> ' + line for line in prompt['text'].splitlines()) + '\n\n'
+            elif prompt['source_url']:
+                text += values['prompt_at_source'] + '\n\n'
             else:
-                text += s['no_prompt'] + '\n'
-            text += f'\n[{s["discovery"]}]({v["discovered_via"]}) · [{s["license"]}](/docs/MEDIA-RIGHTS.md)\n'
-            outputs[f'docs/videos/{lang}/{v["id"]}.md'] = text.replace('](/', f']({REPO}/blob/main/')
+                text += values['no_prompt'] + '\n\n'
+            if prompt['source_url']:
+                text += f'[{values["prompt_source"]}]({prompt["source_url"]})\n\n'
+            text += (f'<details>\n<summary>{values["source_notes"]}</summary>\n\n'
+                     f'- {values["evidence"]}: {evidence}\n'
+                     f'- {values["checked"]}: {check["checked_on"]} — {availability}\n\n'
+                     f'{values["not_reproduced"]}\n\n'
+                     f'[{values["license"]}]({document("docs/MEDIA-RIGHTS.md")})\n\n</details>\n')
+            outputs[f'docs/videos/{lang}/{video["id"]}.md'] = text
     return outputs
 
 

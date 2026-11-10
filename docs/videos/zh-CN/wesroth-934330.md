@@ -4,19 +4,24 @@
 
 [返回合集](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.zh-CN.md)
 
-[![歌词卡点的动漫风音乐视频](https://pbs.twimg.com/amplify_video_thumb/2119910396719177728/img/P5BraNR2AxwsDmsa.jpg)](https://x.com/WesRoth/status/2119911161386934330)
+[![歌词卡点的动漫风音乐视频](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/wesroth-934330.webp)](https://video.twimg.com/amplify_video/2119910396719177728/vid/avc1/1280x720/0X1wTe1JivqZgtXw.mp4?tag=29)
 
-**[▶ 观看原帖](https://x.com/WesRoth/status/2119911161386934330)**
+**[▶ 完整视频](https://video.twimg.com/amplify_video/2119910396719177728/vid/avc1/1280x720/0X1wTe1JivqZgtXw.mp4?tag=29)** · [原始发布](https://x.com/WesRoth/status/2119911161386934330)
 
-- 创作者: [@WesRoth](https://x.com/WesRoth)
-- 时长: 0:37
-- 模型归属依据: 原帖明确提及该模型
-- 原帖可访问性检查日期: 2026-11-10
-
-已检查原帖；未独立复现生成和渲染过程。
+[WesRoth](https://x.com/WesRoth) · 0:37 · 2026-11-09
 
 ## 公开提示词
 
 暂未记录公开提示词。
 
-[发现来源](https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json) · [许可证与媒体权利](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+<details>
+<summary>来源与核验信息</summary>
+
+- 模型归属依据: 原帖明确提及该模型
+- 原帖可访问性检查日期: 2026-11-10 — 原帖可访问
+
+原帖可访问性检查不等于复现视频生成过程；生成与渲染未独立复现。
+
+[许可证与媒体权利](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+
+</details>

@@ -4,19 +4,24 @@
 
 [모음으로 돌아가기](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.ko.md)
 
-[![움직임으로 가득한 작은 행성](https://pbs.twimg.com/amplify_video_thumb/2119902402643890177/img/l-vmVZsWVEVQv23v.jpg)](https://x.com/leoy_dev/status/2119903166149922853)
+[![움직임으로 가득한 작은 행성](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/leoy-dev-922853.webp)](https://video.twimg.com/amplify_video/2119902402643890177/vid/avc1/1920x918/dO0GyuVK6-YhKfS9.mp4?tag=29)
 
-**[▶ 원본 보기](https://x.com/leoy_dev/status/2119903166149922853)**
+**[▶ 전체 영상](https://video.twimg.com/amplify_video/2119902402643890177/vid/avc1/1920x918/dO0GyuVK6-YhKfS9.mp4?tag=29)** · [원본 게시물](https://x.com/leoy_dev/status/2119903166149922853)
 
-- 창작자: [@leoy_dev](https://x.com/leoy_dev)
-- 길이: 1:09
-- 모델 표기의 근거: 원본 게시물에 모델명 명시
-- 게시물 접근 확인 날짜: 2026-11-10
-
-원본 게시물을 확인했습니다. 생성 및 렌더링 과정은 독립적으로 재현하지 않았습니다.
+[leoy_dev](https://x.com/leoy_dev) · 1:09 · 2026-11-09
 
 ## 공개 프롬프트
 
 등록된 공개 프롬프트가 없습니다.
 
-[발견 출처](https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json) · [라이선스 및 미디어 권리](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+<details>
+<summary>출처 및 확인 정보</summary>
+
+- 모델 표기의 근거: 원본 게시물에 모델명 명시
+- 게시물 접근 확인 날짜: 2026-11-10 — 게시물 접근 가능
+
+게시물 접근 확인과 영상 생성 재현은 별개입니다. 생성 및 렌더링 과정은 독립적으로 재현하지 않았습니다.
+
+[라이선스 및 미디어 권리](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+
+</details>

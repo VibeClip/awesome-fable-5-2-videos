@@ -4,19 +4,24 @@
 
 [返回合集](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.zh-CN.md)
 
-[![Three.js 短片《Discovery》](https://pbs.twimg.com/amplify_video_thumb/2119897357940621312/img/aOwOdtuj0CCxZBNv.jpg)](https://x.com/YinYangYoeshi/status/2119897840965001317)
+[![Three.js 短片《Discovery》](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/yinyangyoeshi-001317.webp)](https://video.twimg.com/amplify_video/2119897357940621312/vid/avc1/1920x1080/ZjoaXFviS7F_qc-m.mp4?tag=29)
 
-**[▶ 观看原帖](https://x.com/YinYangYoeshi/status/2119897840965001317)**
+**[▶ 完整视频](https://video.twimg.com/amplify_video/2119897357940621312/vid/avc1/1920x1080/ZjoaXFviS7F_qc-m.mp4?tag=29)** · [原始发布](https://x.com/YinYangYoeshi/status/2119897840965001317)
 
-- 创作者: [@YinYangYoeshi](https://x.com/YinYangYoeshi)
-- 时长: 1:42
-- 模型归属依据: 原帖明确提及该模型
-- 原帖可访问性检查日期: 2026-11-10
-
-已检查原帖；未独立复现生成和渲染过程。
+[YinYangYoeshi](https://x.com/YinYangYoeshi) · 1:42 · 2026-11-09
 
 ## 公开提示词
 
 暂未记录公开提示词。
 
-[发现来源](https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json) · [许可证与媒体权利](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+<details>
+<summary>来源与核验信息</summary>
+
+- 模型归属依据: 原帖明确提及该模型
+- 原帖可访问性检查日期: 2026-11-10 — 原帖可访问
+
+原帖可访问性检查不等于复现视频生成过程；生成与渲染未独立复现。
+
+[许可证与媒体权利](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+
+</details>

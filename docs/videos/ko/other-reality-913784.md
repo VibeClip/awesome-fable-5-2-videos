@@ -4,16 +4,11 @@
 
 [모음으로 돌아가기](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.ko.md)
 
-[![작은 마법사의 출시 영상](https://pbs.twimg.com/amplify_video_thumb/2119884273071411200/img/pX6GYdfgg49q8YyP.jpg)](https://x.com/other__reality/status/2119885430627913784)
+[![작은 마법사의 출시 영상](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/other-reality-913784.webp)](https://video.twimg.com/amplify_video/2119884273071411200/vid/avc1/1280x720/DwN1eSgpBgK8Wpa6.mp4?tag=14)
 
-**[▶ 원본 보기](https://x.com/other__reality/status/2119885430627913784)**
+**[▶ 전체 영상](https://video.twimg.com/amplify_video/2119884273071411200/vid/avc1/1280x720/DwN1eSgpBgK8Wpa6.mp4?tag=14)** · [원본 게시물](https://x.com/other__reality/status/2119885430627913784)
 
-- 창작자: [@other__reality](https://x.com/other__reality)
-- 길이: 0:26
-- 모델 표기의 근거: 원본 게시물에 모델명 명시
-- 게시물 접근 확인 날짜: 2026-11-10
-
-원본 게시물을 확인했습니다. 생성 및 렌더링 과정은 독립적으로 재현하지 않았습니다.
+[other__reality](https://x.com/other__reality) · 0:26 · 2026-11-09
 
 ## 공개 프롬프트
 
@@ -21,6 +16,16 @@
 
 > Create an animated video of clawd creating and releasing Claude Fable 5.2
 
-[원본 게시물](https://x.com/other__reality/status/2119885430627913784)
+[창작자의 공개 프롬프트 보기](https://x.com/other__reality/status/2119885430627913784)
 
-[발견 출처](https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json) · [라이선스 및 미디어 권리](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+<details>
+<summary>출처 및 확인 정보</summary>
+
+- 모델 표기의 근거: 원본 게시물에 모델명 명시
+- 게시물 접근 확인 날짜: 2026-11-10 — 게시물 접근 가능
+
+게시물 접근 확인과 영상 생성 재현은 별개입니다. 생성 및 렌더링 과정은 독립적으로 재현하지 않았습니다.
+
+[라이선스 및 미디어 권리](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+
+</details>

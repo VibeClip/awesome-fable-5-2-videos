@@ -4,16 +4,11 @@
 
 [Back to collection](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.md)
 
-[![A little wizard launches Fable 5.2](https://pbs.twimg.com/amplify_video_thumb/2119884273071411200/img/pX6GYdfgg49q8YyP.jpg)](https://x.com/other__reality/status/2119885430627913784)
+[![A little wizard launches Fable 5.2](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/other-reality-913784.webp)](https://video.twimg.com/amplify_video/2119884273071411200/vid/avc1/1280x720/DwN1eSgpBgK8Wpa6.mp4?tag=14)
 
-**[▶ Watch original](https://x.com/other__reality/status/2119885430627913784)**
+**[▶ Watch](https://video.twimg.com/amplify_video/2119884273071411200/vid/avc1/1280x720/DwN1eSgpBgK8Wpa6.mp4?tag=14)** · [Original post](https://x.com/other__reality/status/2119885430627913784)
 
-- Creator: [@other__reality](https://x.com/other__reality)
-- Duration: 0:26
-- Model evidence: Model named in original post
-- Post availability checked: 2026-11-10
-
-The original post was checked. Generation and rendering were not independently reproduced.
+[other__reality](https://x.com/other__reality) · 0:26 · 2026-11-09
 
 ## Shared prompt
 
@@ -21,6 +16,16 @@ Original language, as shared by the creator. Follow the source for context and r
 
 > Create an animated video of clawd creating and releasing Claude Fable 5.2
 
-[Original post](https://x.com/other__reality/status/2119885430627913784)
+[Read the creator’s prompt](https://x.com/other__reality/status/2119885430627913784)
 
-[Discovered via](https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json) · [License & media rights](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+<details>
+<summary>Sources & verification</summary>
+
+- Model evidence: Model named in original post
+- Post availability checked: 2026-11-10 — Post available
+
+Source availability and video generation are separate checks. Generation and rendering were not independently reproduced.
+
+[License & media rights](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+
+</details>

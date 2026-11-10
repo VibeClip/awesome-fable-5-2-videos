@@ -4,19 +4,24 @@
 
 [一覧に戻る](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.ja.md)
 
-[![折りたたみスマホのヒンジの仕組み](https://pbs.twimg.com/amplify_video_thumb/2119891178682228736/img/A2SgfYYQHeNnleC6.jpg)](https://x.com/Avenoxai/status/2119891378352058821)
+[![折りたたみスマホのヒンジの仕組み](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/avenoxai-058821.webp)](https://video.twimg.com/amplify_video/2119891178682228736/vid/avc1/1920x1080/2q3_mQw6ZalpiaQz.mp4?tag=29)
 
-**[▶ 元の投稿を見る](https://x.com/Avenoxai/status/2119891378352058821)**
+**[▶ 本編](https://video.twimg.com/amplify_video/2119891178682228736/vid/avc1/1920x1080/2q3_mQw6ZalpiaQz.mp4?tag=29)** · [元の投稿](https://x.com/Avenoxai/status/2119891378352058821)
 
-- 作者: [@Avenoxai](https://x.com/Avenoxai)
-- 長さ: 1:00
-- モデル表記の根拠: 元の投稿にモデル名の記載あり
-- 投稿のアクセス確認日: 2026-11-10
-
-元の投稿を確認済み。生成やレンダリングを独立して再現していません。
+[Avenoxai](https://x.com/Avenoxai) · 1:00 · 2026-11-09
 
 ## 公開プロンプト
 
 公開プロンプトは未登録です。
 
-[発見元](https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json) · [ライセンスとメディアの権利](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+<details>
+<summary>出典と確認情報</summary>
+
+- モデル表記の根拠: 元の投稿にモデル名の記載あり
+- 投稿のアクセス確認日: 2026-11-10 — 投稿にアクセス可能
+
+投稿のアクセス確認と動画生成の再現は別です。生成やレンダリングを独立して再現していません。
+
+[ライセンスとメディアの権利](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+
+</details>

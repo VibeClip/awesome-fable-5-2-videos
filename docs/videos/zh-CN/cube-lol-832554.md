@@ -4,19 +4,24 @@
 
 [返回合集](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.zh-CN.md)
 
-[![没有一张生成图的 46 秒短片](https://pbs.twimg.com/amplify_video_thumb/2119904119569690624/img/CZMbLY6fB4shNZwk.jpg)](https://x.com/cube__lol/status/2119904449556832554)
+[![没有一张生成图的 46 秒短片](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/cube-lol-832554.webp)](https://video.twimg.com/amplify_video/2119904119569690624/vid/avc1/1080x1920/24p1AimqIbXNXJ-Z.mp4?tag=29)
 
-**[▶ 观看原帖](https://x.com/cube__lol/status/2119904449556832554)**
+**[▶ 完整视频](https://video.twimg.com/amplify_video/2119904119569690624/vid/avc1/1080x1920/24p1AimqIbXNXJ-Z.mp4?tag=29)** · [原始发布](https://x.com/cube__lol/status/2119904449556832554)
 
-- 创作者: [@cube__lol](https://x.com/cube__lol)
-- 时长: 0:46
-- 模型归属依据: 原帖明确提及该模型
-- 原帖可访问性检查日期: 2026-11-10
-
-已检查原帖；未独立复现生成和渲染过程。
+[cube__lol](https://x.com/cube__lol) · 0:46 · 2026-11-09
 
 ## 公开提示词
 
 暂未记录公开提示词。
 
-[发现来源](https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json) · [许可证与媒体权利](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+<details>
+<summary>来源与核验信息</summary>
+
+- 模型归属依据: 原帖明确提及该模型
+- 原帖可访问性检查日期: 2026-11-10 — 原帖可访问
+
+原帖可访问性检查不等于复现视频生成过程；生成与渲染未独立复现。
+
+[许可证与媒体权利](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+
+</details>

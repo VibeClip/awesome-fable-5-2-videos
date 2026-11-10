@@ -4,19 +4,24 @@
 
 [Volver a la colección](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.es.md)
 
-[![Por qué el cielo es azul, explicado en japonés](https://pbs.twimg.com/amplify_video_thumb/2119907073026899968/img/VuCkv-ordRIonDUg.jpg)](https://x.com/yzr_koba/status/2119907670077722932)
+[![Por qué el cielo es azul, explicado en japonés](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/yzr-koba-722932.webp)](https://video.twimg.com/amplify_video/2119907073026899968/vid/avc1/1920x1080/fJ7CuLzKleGXCpkO.mp4?tag=29)
 
-**[▶ Ver original](https://x.com/yzr_koba/status/2119907670077722932)**
+**[▶ Ver vídeo](https://video.twimg.com/amplify_video/2119907073026899968/vid/avc1/1920x1080/fJ7CuLzKleGXCpkO.mp4?tag=29)** · [Publicación original](https://x.com/yzr_koba/status/2119907670077722932)
 
-- Creador: [@yzr_koba](https://x.com/yzr_koba)
-- Duración: 0:55
-- Evidencia del modelo: El modelo se menciona en la publicación original
-- Accesibilidad de la publicación comprobada: 2026-11-10
-
-Se comprobó la publicación original. No se reprodujeron de forma independiente la generación ni el renderizado.
+[yzr_koba](https://x.com/yzr_koba) · 0:55 · 2026-11-09
 
 ## Prompt compartido
 
 No hay un prompt público registrado.
 
-[Descubierto en](https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json) · [Licencia y derechos del contenido](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+<details>
+<summary>Fuentes y comprobaciones</summary>
+
+- Evidencia del modelo: El modelo se menciona en la publicación original
+- Accesibilidad de la publicación comprobada: 2026-11-10 — Publicación accesible
+
+Comprobar el acceso a una publicación no equivale a reproducir su generación. La generación y el renderizado no se reprodujeron de forma independiente.
+
+[Licencia y derechos del contenido](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+
+</details>

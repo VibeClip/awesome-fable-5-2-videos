@@ -4,16 +4,11 @@
 
 [Volver a la colección](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.es.md)
 
-[![Fable 5.2 anima su propia presentación](https://pbs.twimg.com/amplify_video_thumb/2119910244302065664/img/Xisc7fBP7Cht9YGS.jpg)](https://x.com/grafikcem/status/2119910525064937806)
+[![Fable 5.2 anima su propia presentación](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/grafikcem-937806.webp)](https://video.twimg.com/amplify_video/2119910244302065664/vid/avc1/1920x1080/gupDBW1gZCSwiXO5.mp4?tag=29)
 
-**[▶ Ver original](https://x.com/grafikcem/status/2119910525064937806)**
+**[▶ Ver vídeo](https://video.twimg.com/amplify_video/2119910244302065664/vid/avc1/1920x1080/gupDBW1gZCSwiXO5.mp4?tag=29)** · [Publicación original](https://x.com/grafikcem/status/2119910525064937806)
 
-- Creador: [@grafikcem](https://x.com/grafikcem)
-- Duración: 1:00
-- Evidencia del modelo: El modelo se menciona en la publicación original
-- Accesibilidad de la publicación comprobada: 2026-11-10
-
-Se comprobó la publicación original. No se reprodujeron de forma independiente la generación ni el renderizado.
+[grafikcem](https://x.com/grafikcem) · 1:00 · 2026-11-09
 
 ## Prompt compartido
 
@@ -21,6 +16,16 @@ Texto original compartido por el creador. Consulta la fuente para conocer el con
 
 > Bugün duyurulmana özel Fable 5.2 modeli için opus 5.5 subagentları kullanarak kendine 60 saniyelik bir tanıtım animasyon filmi hazırla.
 
-[Publicación original](https://x.com/grafikcem/status/2119910525064937806)
+[Leer el prompt del creador](https://x.com/grafikcem/status/2119910525064937806)
 
-[Descubierto en](https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json) · [Licencia y derechos del contenido](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+<details>
+<summary>Fuentes y comprobaciones</summary>
+
+- Evidencia del modelo: El modelo se menciona en la publicación original
+- Accesibilidad de la publicación comprobada: 2026-11-10 — Publicación accesible
+
+Comprobar el acceso a una publicación no equivale a reproducir su generación. La generación y el renderizado no se reprodujeron de forma independiente.
+
+[Licencia y derechos del contenido](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+
+</details>

@@ -4,19 +4,24 @@
 
 [Volver a la colección](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.es.md)
 
-[![Cómo funciona la bisagra de un móvil plegable](https://pbs.twimg.com/amplify_video_thumb/2119891178682228736/img/A2SgfYYQHeNnleC6.jpg)](https://x.com/Avenoxai/status/2119891378352058821)
+[![Cómo funciona la bisagra de un móvil plegable](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/avenoxai-058821.webp)](https://video.twimg.com/amplify_video/2119891178682228736/vid/avc1/1920x1080/2q3_mQw6ZalpiaQz.mp4?tag=29)
 
-**[▶ Ver original](https://x.com/Avenoxai/status/2119891378352058821)**
+**[▶ Ver vídeo](https://video.twimg.com/amplify_video/2119891178682228736/vid/avc1/1920x1080/2q3_mQw6ZalpiaQz.mp4?tag=29)** · [Publicación original](https://x.com/Avenoxai/status/2119891378352058821)
 
-- Creador: [@Avenoxai](https://x.com/Avenoxai)
-- Duración: 1:00
-- Evidencia del modelo: El modelo se menciona en la publicación original
-- Accesibilidad de la publicación comprobada: 2026-11-10
-
-Se comprobó la publicación original. No se reprodujeron de forma independiente la generación ni el renderizado.
+[Avenoxai](https://x.com/Avenoxai) · 1:00 · 2026-11-09
 
 ## Prompt compartido
 
 No hay un prompt público registrado.
 
-[Descubierto en](https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json) · [Licencia y derechos del contenido](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+<details>
+<summary>Fuentes y comprobaciones</summary>
+
+- Evidencia del modelo: El modelo se menciona en la publicación original
+- Accesibilidad de la publicación comprobada: 2026-11-10 — Publicación accesible
+
+Comprobar el acceso a una publicación no equivale a reproducir su generación. La generación y el renderizado no se reprodujeron de forma independiente.
+
+[Licencia y derechos del contenido](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+
+</details>

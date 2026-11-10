@@ -4,16 +4,11 @@
 
 [返回合集](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.zh-CN.md)
 
-[![57 分钟给自己写出的发布片](https://pbs.twimg.com/amplify_video_thumb/2119895300718374912/img/wH0sH30IILNmKysI.jpg)](https://x.com/furkancavlakcom/status/2119896886345695521)
+[![57 分钟给自己写出的发布片](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/furkancavlakcom-695521.webp)](https://video.twimg.com/amplify_video/2119895300718374912/vid/avc1/1920x1080/L3VgxovNI7ppzHi8.mp4?tag=29)
 
-**[▶ 观看原帖](https://x.com/furkancavlakcom/status/2119896886345695521)**
+**[▶ 完整视频](https://video.twimg.com/amplify_video/2119895300718374912/vid/avc1/1920x1080/L3VgxovNI7ppzHi8.mp4?tag=29)** · [原始发布](https://x.com/furkancavlakcom/status/2119896886345695521)
 
-- 创作者: [@furkancavlakcom](https://x.com/furkancavlakcom)
-- 时长: 1:14
-- 模型归属依据: 原帖明确提及该模型
-- 原帖可访问性检查日期: 2026-11-10
-
-已检查原帖；未独立复现生成和渲染过程。
+[furkancavlakcom](https://x.com/furkancavlakcom) · 1:14 · 2026-11-09
 
 ## 公开提示词
 
@@ -21,6 +16,16 @@
 
 > Kendi lansman videonu yap. Sadece kodla.
 
-[原始发布](https://x.com/furkancavlakcom/status/2119896886345695521)
+[查看作者公开提示词](https://x.com/furkancavlakcom/status/2119896886345695521)
 
-[发现来源](https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json) · [许可证与媒体权利](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+<details>
+<summary>来源与核验信息</summary>
+
+- 模型归属依据: 原帖明确提及该模型
+- 原帖可访问性检查日期: 2026-11-10 — 原帖可访问
+
+原帖可访问性检查不等于复现视频生成过程；生成与渲染未独立复现。
+
+[许可证与媒体权利](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+
+</details>

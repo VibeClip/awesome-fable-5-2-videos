@@ -4,16 +4,11 @@
 
 [모음으로 돌아가기](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.ko.md)
 
-[![자신의 발표 영상을 만든 Fable 5.2](https://pbs.twimg.com/amplify_video_thumb/2119910244302065664/img/Xisc7fBP7Cht9YGS.jpg)](https://x.com/grafikcem/status/2119910525064937806)
+[![자신의 발표 영상을 만든 Fable 5.2](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/grafikcem-937806.webp)](https://video.twimg.com/amplify_video/2119910244302065664/vid/avc1/1920x1080/gupDBW1gZCSwiXO5.mp4?tag=29)
 
-**[▶ 원본 보기](https://x.com/grafikcem/status/2119910525064937806)**
+**[▶ 전체 영상](https://video.twimg.com/amplify_video/2119910244302065664/vid/avc1/1920x1080/gupDBW1gZCSwiXO5.mp4?tag=29)** · [원본 게시물](https://x.com/grafikcem/status/2119910525064937806)
 
-- 창작자: [@grafikcem](https://x.com/grafikcem)
-- 길이: 1:00
-- 모델 표기의 근거: 원본 게시물에 모델명 명시
-- 게시물 접근 확인 날짜: 2026-11-10
-
-원본 게시물을 확인했습니다. 생성 및 렌더링 과정은 독립적으로 재현하지 않았습니다.
+[grafikcem](https://x.com/grafikcem) · 1:00 · 2026-11-09
 
 ## 공개 프롬프트
 
@@ -21,6 +16,16 @@
 
 > Bugün duyurulmana özel Fable 5.2 modeli için opus 5.5 subagentları kullanarak kendine 60 saniyelik bir tanıtım animasyon filmi hazırla.
 
-[원본 게시물](https://x.com/grafikcem/status/2119910525064937806)
+[창작자의 공개 프롬프트 보기](https://x.com/grafikcem/status/2119910525064937806)
 
-[발견 출처](https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json) · [라이선스 및 미디어 권리](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+<details>
+<summary>출처 및 확인 정보</summary>
+
+- 모델 표기의 근거: 원본 게시물에 모델명 명시
+- 게시물 접근 확인 날짜: 2026-11-10 — 게시물 접근 가능
+
+게시물 접근 확인과 영상 생성 재현은 별개입니다. 생성 및 렌더링 과정은 독립적으로 재현하지 않았습니다.
+
+[라이선스 및 미디어 권리](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+
+</details>

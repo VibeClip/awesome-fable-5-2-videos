@@ -4,16 +4,11 @@
 
 [Back to collection](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.md)
 
-[![Fable 5.2 animates its own announcement](https://pbs.twimg.com/amplify_video_thumb/2119910244302065664/img/Xisc7fBP7Cht9YGS.jpg)](https://x.com/grafikcem/status/2119910525064937806)
+[![Fable 5.2 animates its own announcement](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/grafikcem-937806.webp)](https://video.twimg.com/amplify_video/2119910244302065664/vid/avc1/1920x1080/gupDBW1gZCSwiXO5.mp4?tag=29)
 
-**[▶ Watch original](https://x.com/grafikcem/status/2119910525064937806)**
+**[▶ Watch](https://video.twimg.com/amplify_video/2119910244302065664/vid/avc1/1920x1080/gupDBW1gZCSwiXO5.mp4?tag=29)** · [Original post](https://x.com/grafikcem/status/2119910525064937806)
 
-- Creator: [@grafikcem](https://x.com/grafikcem)
-- Duration: 1:00
-- Model evidence: Model named in original post
-- Post availability checked: 2026-11-10
-
-The original post was checked. Generation and rendering were not independently reproduced.
+[grafikcem](https://x.com/grafikcem) · 1:00 · 2026-11-09
 
 ## Shared prompt
 
@@ -21,6 +16,16 @@ Original language, as shared by the creator. Follow the source for context and r
 
 > Bugün duyurulmana özel Fable 5.2 modeli için opus 5.5 subagentları kullanarak kendine 60 saniyelik bir tanıtım animasyon filmi hazırla.
 
-[Original post](https://x.com/grafikcem/status/2119910525064937806)
+[Read the creator’s prompt](https://x.com/grafikcem/status/2119910525064937806)
 
-[Discovered via](https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json) · [License & media rights](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+<details>
+<summary>Sources & verification</summary>
+
+- Model evidence: Model named in original post
+- Post availability checked: 2026-11-10 — Post available
+
+Source availability and video generation are separate checks. Generation and rendering were not independently reproduced.
+
+[License & media rights](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+
+</details>

@@ -4,16 +4,11 @@
 
 [一覧に戻る](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.ja.md)
 
-[![自分のためにコードで作った発表映像](https://pbs.twimg.com/amplify_video_thumb/2119895300718374912/img/wH0sH30IILNmKysI.jpg)](https://x.com/furkancavlakcom/status/2119896886345695521)
+[![自分のためにコードで作った発表映像](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/furkancavlakcom-695521.webp)](https://video.twimg.com/amplify_video/2119895300718374912/vid/avc1/1920x1080/L3VgxovNI7ppzHi8.mp4?tag=29)
 
-**[▶ 元の投稿を見る](https://x.com/furkancavlakcom/status/2119896886345695521)**
+**[▶ 本編](https://video.twimg.com/amplify_video/2119895300718374912/vid/avc1/1920x1080/L3VgxovNI7ppzHi8.mp4?tag=29)** · [元の投稿](https://x.com/furkancavlakcom/status/2119896886345695521)
 
-- 作者: [@furkancavlakcom](https://x.com/furkancavlakcom)
-- 長さ: 1:14
-- モデル表記の根拠: 元の投稿にモデル名の記載あり
-- 投稿のアクセス確認日: 2026-11-10
-
-元の投稿を確認済み。生成やレンダリングを独立して再現していません。
+[furkancavlakcom](https://x.com/furkancavlakcom) · 1:14 · 2026-11-09
 
 ## 公開プロンプト
 
@@ -21,6 +16,16 @@
 
 > Kendi lansman videonu yap. Sadece kodla.
 
-[元の投稿](https://x.com/furkancavlakcom/status/2119896886345695521)
+[作者の公開プロンプトを読む](https://x.com/furkancavlakcom/status/2119896886345695521)
 
-[発見元](https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json) · [ライセンスとメディアの権利](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+<details>
+<summary>出典と確認情報</summary>
+
+- モデル表記の根拠: 元の投稿にモデル名の記載あり
+- 投稿のアクセス確認日: 2026-11-10 — 投稿にアクセス可能
+
+投稿のアクセス確認と動画生成の再現は別です。生成やレンダリングを独立して再現していません。
+
+[ライセンスとメディアの権利](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+
+</details>

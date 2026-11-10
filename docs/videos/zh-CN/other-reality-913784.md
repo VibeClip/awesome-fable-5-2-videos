@@ -4,16 +4,11 @@
 
 [返回合集](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.zh-CN.md)
 
-[![小巫师放飞了 Fable 5.2](https://pbs.twimg.com/amplify_video_thumb/2119884273071411200/img/pX6GYdfgg49q8YyP.jpg)](https://x.com/other__reality/status/2119885430627913784)
+[![小巫师放飞了 Fable 5.2](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/other-reality-913784.webp)](https://video.twimg.com/amplify_video/2119884273071411200/vid/avc1/1280x720/DwN1eSgpBgK8Wpa6.mp4?tag=14)
 
-**[▶ 观看原帖](https://x.com/other__reality/status/2119885430627913784)**
+**[▶ 完整视频](https://video.twimg.com/amplify_video/2119884273071411200/vid/avc1/1280x720/DwN1eSgpBgK8Wpa6.mp4?tag=14)** · [原始发布](https://x.com/other__reality/status/2119885430627913784)
 
-- 创作者: [@other__reality](https://x.com/other__reality)
-- 时长: 0:26
-- 模型归属依据: 原帖明确提及该模型
-- 原帖可访问性检查日期: 2026-11-10
-
-已检查原帖；未独立复现生成和渲染过程。
+[other__reality](https://x.com/other__reality) · 0:26 · 2026-11-09
 
 ## 公开提示词
 
@@ -21,6 +16,16 @@
 
 > Create an animated video of clawd creating and releasing Claude Fable 5.2
 
-[原始发布](https://x.com/other__reality/status/2119885430627913784)
+[查看作者公开提示词](https://x.com/other__reality/status/2119885430627913784)
 
-[发现来源](https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json) · [许可证与媒体权利](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+<details>
+<summary>来源与核验信息</summary>
+
+- 模型归属依据: 原帖明确提及该模型
+- 原帖可访问性检查日期: 2026-11-10 — 原帖可访问
+
+原帖可访问性检查不等于复现视频生成过程；生成与渲染未独立复现。
+
+[许可证与媒体权利](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+
+</details>

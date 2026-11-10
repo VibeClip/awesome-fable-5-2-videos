@@ -4,19 +4,24 @@
 
 [Back to collection](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.md)
 
-[![A product film made in 10 minutes](https://pbs.twimg.com/amplify_video_thumb/2119877729222848512/img/blEOherbyiPjheJp.jpg)](https://x.com/mathiaschpl/status/2119878412181676283)
+[![A product film made in 10 minutes](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/mathiaschpl-676283.webp)](https://video.twimg.com/amplify_video/2119877729222848512/vid/avc1/1920x1080/BDXNMfflBjXeOcju.mp4?tag=29)
 
-**[▶ Watch original](https://x.com/mathiaschpl/status/2119878412181676283)**
+**[▶ Watch](https://video.twimg.com/amplify_video/2119877729222848512/vid/avc1/1920x1080/BDXNMfflBjXeOcju.mp4?tag=29)** · [Original post](https://x.com/mathiaschpl/status/2119878412181676283)
 
-- Creator: [@mathiaschpl](https://x.com/mathiaschpl)
-- Duration: 0:36
-- Model evidence: Model named in original post
-- Post availability checked: 2026-11-10
-
-The original post was checked. Generation and rendering were not independently reproduced.
+[mathiaschpl](https://x.com/mathiaschpl) · 0:36 · 2026-11-09
 
 ## Shared prompt
 
 No public prompt recorded.
 
-[Discovered via](https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json) · [License & media rights](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+<details>
+<summary>Sources & verification</summary>
+
+- Model evidence: Model named in original post
+- Post availability checked: 2026-11-10 — Post available
+
+Source availability and video generation are separate checks. Generation and rendering were not independently reproduced.
+
+[License & media rights](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+
+</details>

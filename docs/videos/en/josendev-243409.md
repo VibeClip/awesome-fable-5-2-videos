@@ -4,19 +4,24 @@
 
 [Back to collection](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.md)
 
-[![An isometric floating village](https://pbs.twimg.com/amplify_video_thumb/2119876092433510400/img/rQCTcZhDzJbVQxZH.jpg)](https://x.com/josendev/status/2119876164051243409)
+[![An isometric floating village](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/josendev-243409.webp)](https://video.twimg.com/amplify_video/2119876092433510400/vid/avc1/1920x1080/FdZgIOU9olLEHOKV.mp4?tag=29)
 
-**[▶ Watch original](https://x.com/josendev/status/2119876164051243409)**
+**[▶ Watch](https://video.twimg.com/amplify_video/2119876092433510400/vid/avc1/1920x1080/FdZgIOU9olLEHOKV.mp4?tag=29)** · [Original post](https://x.com/josendev/status/2119876164051243409)
 
-- Creator: [@josendev](https://x.com/josendev)
-- Duration: 0:08
-- Model evidence: Model named in original post
-- Post availability checked: 2026-11-10
-
-The original post was checked. Generation and rendering were not independently reproduced.
+[josendev](https://x.com/josendev) · 0:08 · 2026-11-09
 
 ## Shared prompt
 
 No public prompt recorded.
 
-[Discovered via](https://github.com/yihui-dev/awesome-fable5-2-videos/blob/6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f/data/videos.json) · [License & media rights](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+<details>
+<summary>Sources & verification</summary>
+
+- Model evidence: Model named in original post
+- Post availability checked: 2026-11-10 — Post available
+
+Source availability and video generation are separate checks. Generation and rendering were not independently reproduced.
+
+[License & media rights](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/MEDIA-RIGHTS.md)
+
+</details>

@@ -1,6 +1,6 @@
-# Third-party notices
+# Third-party notice
 
-Initial listing metadata is adapted from [yihui-dev/awesome-fable5-2-videos](https://github.com/yihui-dev/awesome-fable5-2-videos), commit `6270cf7274fc8c1f7ad72efa7c261d9bad8cfa0f`. Original media rights are excluded; see [media rights](docs/MEDIA-RIGHTS.md).
+The initial catalog adapted MIT-licensed metadata. Its required notice is retained below. This notice does not license creator media.
 
 ```text
 MIT License
