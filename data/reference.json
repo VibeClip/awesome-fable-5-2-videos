@@ -715,5 +715,12 @@
       "source_url": "https://www.youtube.com/watch?v=ggt074Cb2m8"
     }
   ],
-  "checked_at": "2026-11-10T12:27:00.513115+00:00"
+  "checked_at": "2026-11-10T15:22:59.996939+00:00",
+  "expected_total": 179,
+  "pending_entries": [
+    {
+      "id": "ercankeskinx-713531",
+      "source_url": "https://x.com/ercankeskinx/status/2120147659306713531"
+    }
+  ]
 }

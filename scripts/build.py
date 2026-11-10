@@ -97,6 +97,21 @@ def load():
     for entry in baseline['entries']:
         assert entry['id'] in by_id, 'Coverage baseline entry missing'
         assert by_id[entry['id']]['source_url'].lower() == entry['source_url'].lower(), 'Coverage source changed'
+    pending = baseline.get('pending_entries', [])
+    assert baseline.get('expected_total', len(baseline['entries'])) == len(baseline['entries']) + len(pending), 'Coverage total mismatch'
+    covered_sources = {entry['source_url'].lower() for entry in baseline['entries']}
+    pending_sources = {entry['source_url'].lower() for entry in pending}
+    assert len(covered_sources) == len(baseline['entries']), 'Duplicate covered source'
+    assert len({entry['id'] for entry in baseline['entries'] + pending}) == len(baseline['entries']) + len(pending), 'Duplicate coverage ID'
+    assert len(pending_sources) == len(pending) and not covered_sources & pending_sources, 'Duplicate pending source'
+    if pending:
+        candidates = json.loads((ROOT / 'data/candidates.json').read_text())['candidates']
+        candidates_by_source = {entry['source_url'].lower(): entry for entry in candidates}
+        for entry in pending:
+            assert entry['id'] not in by_id and entry['source_url'].lower() not in {source.lower() for source in sources}, 'Pending work counted as formal'
+            candidate = candidates_by_source.get(entry['source_url'].lower())
+            assert candidate and candidate['status'].startswith('held-'), 'Pending coverage needs held candidate'
+            assert candidate.get('source_check', {}).get('availability') == 'unconfirmed', 'Pending source needs availability evidence'
     return data, strings
 
 

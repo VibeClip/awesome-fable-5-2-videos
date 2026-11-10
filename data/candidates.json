@@ -19,6 +19,21 @@
       "status": "held-insufficient-workflow-evidence",
       "reason": "The original post credits the final video to Seedance 2.5 and names Fable 5.2 without describing its role. Keep as a candidate until the Fable contribution is established.",
       "checked_at": "2026-11-10T12:27:23.036353+00:00"
+    },
+    {
+      "source_url": "https://x.com/ercankeskinx/status/2120147659306713531",
+      "creator": {
+        "name": "ercankeskinx",
+        "url": "https://x.com/ercankeskinx"
+      },
+      "status": "held-unavailable-source",
+      "reason": "The original post returned HTTP 404 through both X official oEmbed and the media metadata endpoint. A local animated preview and an original-platform full video could not be verified; excluded from the formal count.",
+      "source_check": {
+        "checked_on": "2026-11-10",
+        "method": "X official oEmbed and original-post media metadata",
+        "availability": "unconfirmed",
+        "http_status": 404
+      }
     }
   ]
 }

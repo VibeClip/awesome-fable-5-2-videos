@@ -10,4 +10,6 @@ Short looping previews are stored in this repository. Full-video links point to 
 
 The machine-readable coverage baseline is in `data/reference.json`. New discoveries are distinguished from baseline coverage, and original media IDs are used to avoid counting reposts as new works.
 
+The latest coverage target contains 179 sources: 178 are represented in the catalog, and one newly listed source is pending because its original post returned HTTP 404 and no original-platform video or local preview could be verified. Pending sources appear in `data/candidates.json` and are excluded from video totals. Previously archived entries retain their explicit unavailable-source labels.
+
 Required notices for retained third-party material are centralized in `THIRD-PARTY-NOTICES.md`. These notices are not promotional placements and do not grant rights to creator videos.
