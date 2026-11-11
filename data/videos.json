@@ -10370,8 +10370,8 @@
       "native_media_id": "2120117891240742914",
       "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
       "discovery_group": "independent-x",
-      "curation_reason": "Strong camera movement, lighting and a coherent flying-page motif. The creator names the model; the exact production toolchain is not disclosed.",
-      "workflow": "creator-attributed-unspecified-workflow",
+      "curation_reason": "A finished short follows sheets of paper through a moonlit reading room. The creator’s production note describes Blender Cycles, a NumPy page simulation, sampled music and an FFmpeg finish.",
+      "workflow": "creator-reported-code",
       "engagement_snapshots": [
         {
           "checked_at": "2026-11-10T12:19:56.940874+00:00",
@@ -10404,14 +10404,40 @@
           "reposts": 34,
           "replies": 63,
           "bookmarks": 137
+        },
+        {
+          "checked_at": "2026-11-11T22:36:59.686265+00:00",
+          "views": 74943,
+          "likes": 539,
+          "reposts": 51,
+          "replies": 97,
+          "bookmarks": 285
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 355.9,
-        "views_delta": 25678,
-        "likes_delta": 262,
-        "reposts_delta": 30
+        "window_minutes": 1701.2,
+        "views_delta": 47150,
+        "likes_delta": 229,
+        "reposts_delta": 17
+      },
+      "workflow_source_urls": [
+        "https://x.com/lemomo_ai/status/2120447593771847834"
+      ],
+      "workflow_source_checks": [
+        {
+          "source_url": "https://x.com/lemomo_ai/status/2120447593771847834",
+          "checked_at": "2026-11-11T22:38:21.296183+00:00",
+          "method": "X official oEmbed",
+          "post_sha256": "785f1ed6373de2a55b1e3e5b11b56b635124ff2d6c8040a2e36dab61fc484f71"
+        }
+      ],
+      "workflow_notes": {
+        "en": "The creator says Fable 5.2 wrote Python scripts for Blender Cycles. The workflow used NumPy for the flying pages, sampled instruments for the score and FFmpeg for assembly and color.",
+        "zh-CN": "作者称 Fable 5.2 编写 Python 脚本，驱动 Blender Cycles 渲染。飞页由 NumPy 模拟，配乐使用乐器采样，并通过 FFmpeg 合成与调色。",
+        "ja": "作者によると、Fable 5.2がBlender Cycles用のPythonスクリプトを書きました。紙の動きはNumPyで計算し、音楽に楽器サンプルを使い、FFmpegで合成と色調整を行いました。",
+        "ko": "제작자는 Fable 5.2가 Blender Cycles용 Python 스크립트를 작성했다고 설명합니다. NumPy로 종이의 움직임을 계산하고, 악기 샘플로 음악을 만들고, FFmpeg로 합성과 색을 조정했습니다.",
+        "es": "El autor explica que Fable 5.2 escribió scripts de Python para Blender Cycles. Usó NumPy para simular el papel, muestras de instrumentos para la música y FFmpeg para el montaje y el color."
       }
     },
     {
@@ -14232,14 +14258,22 @@
           "reposts": 708,
           "replies": 232,
           "bookmarks": 4176
+        },
+        {
+          "checked_at": "2026-11-11T22:36:59.721721+00:00",
+          "views": 19901246,
+          "likes": 9775,
+          "reposts": 720,
+          "replies": 232,
+          "bookmarks": 4229
         }
       ],
       "momentum": {
         "state": "established",
-        "window_minutes": 356.4,
-        "views_delta": 5222889,
-        "likes_delta": 307,
-        "reposts_delta": 40
+        "window_minutes": 181.0,
+        "views_delta": 1295865,
+        "likes_delta": 118,
+        "reposts_delta": 12
       },
       "workflow_source_urls": [
         "https://x.com/anxuanng/status/2120336814578024702",
@@ -14408,14 +14442,22 @@
           "reposts": 239,
           "replies": 263,
           "bookmarks": 2746
+        },
+        {
+          "checked_at": "2026-11-11T22:36:59.668947+00:00",
+          "views": 274954,
+          "likes": 5420,
+          "reposts": 261,
+          "replies": 282,
+          "bookmarks": 3000
         }
       ],
       "momentum": {
         "state": "established",
-        "window_minutes": 356.6,
-        "views_delta": 94770,
-        "likes_delta": 1840,
-        "reposts_delta": 87
+        "window_minutes": 181.0,
+        "views_delta": 30780,
+        "likes_delta": 513,
+        "reposts_delta": 22
       }
     },
     {
@@ -14806,6 +14848,649 @@
         "window_minutes": 1.9,
         "views_delta": 13,
         "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "hkkojima-2120124260954014152",
+      "titles": {
+        "en": "Six equations in motion",
+        "zh-CN": "六个方程如何动起来",
+        "ja": "6つの方程式を動きで見る",
+        "ko": "움직임으로 보는 여섯 가지 방정식",
+        "es": "Seis ecuaciones en movimiento"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "hkkojima",
+        "url": "https://x.com/hkkojima"
+      },
+      "source_url": "https://x.com/hkkojima/status/2120124260954014152",
+      "published_at": "2026-11-10T11:59:48Z",
+      "duration_seconds": 67,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120124118414798848/img/e0U0woG2Lu5nC2EA.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/hkkojima-2120124260954014152.webp",
+      "preview_path": "assets/previews/hkkojima-2120124260954014152.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120124118414798848/vid/avc1/1280x720/R0wF3MTXikpdyCZC.mp4?tag=14",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-11T22:38:07.088922+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "ea6045d8e884c9a0ad1bcd02b62454965b65c9bd3e119c48bb3be216855d5f84",
+        "model_named": true,
+        "video_checked_at": "2026-11-11T22:38:41.907475+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120124118414798848",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "This Japanese explainer transitions from spiraling galaxies to oscillation, interference patterns and fractals, using labels to connect the motion to the equations.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator says Fable 5.2 programmed six equations and drew their calculated results. The post leaves the renderer unspecified.",
+        "zh-CN": "作者称 Fable 5.2 把六个方程写成程序，并绘出计算结果。原帖未披露渲染器。",
+        "ja": "作者によると、Fable 5.2が6つの方程式をプログラムにして、計算結果を描画しました。レンダラーは未公開です。",
+        "ko": "제작자는 Fable 5.2가 여섯 방정식을 프로그램으로 구현하고 계산 결과를 그렸다고 밝혔습니다. 렌더러는 공개하지 않았습니다.",
+        "es": "El autor indica que Fable 5.2 programó seis ecuaciones y dibujó sus resultados. La publicación no especifica el motor de renderizado."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-11T22:37:41.655244+00:00",
+          "views": 89,
+          "likes": 2,
+          "reposts": 0,
+          "replies": 2,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-11T22:38:42.769880+00:00",
+          "views": 89,
+          "likes": 2,
+          "reposts": 0,
+          "replies": 2,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 1.0,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "okknews-2120093425739706435",
+      "titles": {
+        "en": "Model Wars, an animated final-boss reveal",
+        "zh-CN": "《Model Wars》模型大战的终极 Boss 登场",
+        "ja": "『Model Wars』のラスボス登場アニメーション",
+        "ko": "최종 보스가 등장하는 Model Wars 애니메이션",
+        "es": "Model Wars, la aparición animada del jefe final"
+      },
+      "category": "short-films",
+      "creator": {
+        "name": "okknews",
+        "url": "https://x.com/okknews"
+      },
+      "source_url": "https://x.com/okknews/status/2120093425739706435",
+      "published_at": "2026-11-10T09:57:16Z",
+      "duration_seconds": 21,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120093387827408896/img/-EHmyxQudDD6m8F5.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/okknews-2120093425739706435.webp",
+      "preview_path": "assets/previews/okknews-2120093425739706435.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120093387827408896/vid/avc1/1280x720/smY9JD24a6IJBHmb.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-11T22:38:07.115475+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "0ab5258b368dd9902d282705045f9f3f0e2eedf8150af7ba60038b57c6a95d48",
+        "model_named": true,
+        "video_checked_at": "2026-11-11T22:38:41.908077+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120093387827408896",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A short title sequence gives rival models dragon avatars and builds to a final-boss reveal. The author discloses a supplied image and reports that the sequence was drawn in code.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator supplied one image as input and attributes the code-drawn short to Fable 5.2.",
+        "zh-CN": "作者提供了一张参考图，并将用代码绘制的短片归功于 Fable 5.2。",
+        "ja": "作者は画像1枚を入力として渡し、Fable 5.2がコードで短編を描いたと説明しています。",
+        "ko": "제작자는 이미지 한 장을 입력으로 제공했고, Fable 5.2가 코드로 단편을 그렸다고 설명합니다.",
+        "es": "El autor aportó una imagen como entrada y atribuye a Fable 5.2 el corto dibujado con código."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-11T22:37:41.768037+00:00",
+          "views": 83,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-11T22:38:42.824081+00:00",
+          "views": 83,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 1.0,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "hajimetwi3-2120093427731943510",
+      "titles": {
+        "en": "A real-time visual poem in a single HTML file",
+        "zh-CN": "一个 HTML 文件里的实时影像诗",
+        "ja": "単一HTMLファイルで動くリアルタイム映像詩",
+        "ko": "HTML 파일 하나로 만든 실시간 영상시",
+        "es": "Un poema visual en tiempo real en un solo archivo HTML"
+      },
+      "category": "short-films",
+      "creator": {
+        "name": "hajimetwi3",
+        "url": "https://x.com/hajimetwi3"
+      },
+      "source_url": "https://x.com/hajimetwi3/status/2120093427731943510",
+      "published_at": "2026-11-10T09:57:17Z",
+      "duration_seconds": 202.166,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120091572830388224/img/gxhzsez51Gu3z53b.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/hajimetwi3-2120093427731943510.webp",
+      "preview_path": "assets/previews/hajimetwi3-2120093427731943510.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120091572830388224/vid/avc1/1212x668/4dpNdt1GmAYYx4ix.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-11T22:38:11.004797+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "a497040049d4c7698a19c8b397cd3474f4d3a226bdb82e511628d4b70f6a85c7",
+        "model_named": true,
+        "video_checked_at": "2026-11-11T22:38:41.900392+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": "凄いものを作って！！",
+        "source_url": "https://x.com/hajimetwi3/status/2120093427731943510"
+      },
+      "native_media_id": "2120091572830388224",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A multi-chapter short moves from a point of light and particles to a snow-covered mountain range and abstract forms. The creator shares the short opening request.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator attributes the single-file work to Fable 5.2 and describes visuals computed by WebGL2 shaders and audio synthesized with Web Audio.",
+        "zh-CN": "作者将这部单文件作品归功于 Fable 5.2，并说明画面由 WebGL2 着色器计算，声音通过 Web Audio 合成。",
+        "ja": "作者は単一HTMLの作品をFable 5.2で制作し、WebGL2シェーダーで描画、Web Audioで音を合成したと紹介しています。",
+        "ko": "제작자는 단일 HTML 작품을 Fable 5.2로 만들었으며 WebGL2 셰이더로 화면을 그려 Web Audio로 소리를 합성했다고 소개합니다.",
+        "es": "El autor atribuye la obra de un solo archivo a Fable 5.2. Describe imágenes calculadas por shaders de WebGL2 y sonido sintetizado con Web Audio."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-11T22:37:41.785650+00:00",
+          "views": 6223,
+          "likes": 27,
+          "reposts": 5,
+          "replies": 4,
+          "bookmarks": 10
+        },
+        {
+          "checked_at": "2026-11-11T22:38:42.875009+00:00",
+          "views": 6223,
+          "likes": 27,
+          "reposts": 5,
+          "replies": 4,
+          "bookmarks": 10
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 1.0,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "hajimetwi3-2120245907115651521",
+      "titles": {
+        "en": "A Three.js campfire lit against the dark",
+        "zh-CN": "黑暗里燃烧的 Three.js 篝火",
+        "ja": "暗闇に灯るThree.jsのたき火",
+        "ko": "어둠 속에서 타오르는 Three.js 모닥불",
+        "es": "Una hoguera de Three.js encendida en la oscuridad"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "hajimetwi3",
+        "url": "https://x.com/hajimetwi3"
+      },
+      "source_url": "https://x.com/hajimetwi3/status/2120245907115651521",
+      "published_at": "2026-11-10T20:03:11Z",
+      "duration_seconds": 32.466,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120245103516364800/img/LSP-NzHztC-LtVYy.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/hajimetwi3-2120245907115651521.webp",
+      "preview_path": "assets/previews/hajimetwi3-2120245907115651521.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120245103516364800/vid/avc1/758x714/qnjU8gDkvq3f7_-K.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-11T22:38:11.305131+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "9f129142225b5c4f9b28cb244170d855098922aea774d4c66f5b14d9e8c6806e",
+        "model_named": true,
+        "video_checked_at": "2026-11-11T22:38:41.901692+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": "AAA級のたき火が見たい！！",
+        "source_url": "https://x.com/hajimetwi3/status/2120245907115651521"
+      },
+      "native_media_id": "2120245103516364800",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The recording uses a dark setting to isolate flame movement, sparks and light on the ground. The creator discloses a generated still reference and shares a smaller-flame revision.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 and Three.js for the scene and Codex for a still reference image. The linked reply shows a revised flame size.",
+        "zh-CN": "作者称场景使用 Fable 5.2 与 Three.js，静态参考图由 Codex 生成。后续回复展示了减小火焰的版本。",
+        "ja": "作者によると、Fable 5.2とThree.jsでシーンを作り、Codexで参考画像を生成しました。返信では炎を小さくした版を公開しています。",
+        "ko": "제작자는 Fable 5.2와 Three.js로 장면을 만들고 Codex로 정지 참고 이미지를 생성했다고 설명합니다. 후속 답글은 불꽃을 줄인 버전을 보여 줍니다.",
+        "es": "El autor atribuye la escena a Fable 5.2 y Three.js, y la imagen fija de referencia a Codex. La respuesta enlazada muestra una versión con llamas más pequeñas."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-11T22:37:41.802480+00:00",
+          "views": 1395,
+          "likes": 16,
+          "reposts": 0,
+          "replies": 5,
+          "bookmarks": 7
+        },
+        {
+          "checked_at": "2026-11-11T22:38:42.875870+00:00",
+          "views": 1395,
+          "likes": 16,
+          "reposts": 0,
+          "replies": 5,
+          "bookmarks": 7
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 1.0,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      },
+      "workflow_source_urls": [
+        "https://x.com/hajimetwi3/status/2120249012087619873"
+      ],
+      "workflow_source_checks": [
+        {
+          "source_url": "https://x.com/hajimetwi3/status/2120249012087619873",
+          "checked_at": "2026-11-11T22:38:21.205992+00:00",
+          "method": "X official oEmbed",
+          "post_sha256": "c3e010ca602305138d6a5c320a2d42de194a0a2091b1a63da4ddefcee18b49a1"
+        }
+      ]
+    },
+    {
+      "id": "deedydas-2119930300990177509",
+      "titles": {
+        "en": "A real-time WebGL honey simulation",
+        "zh-CN": "WebGL 实时蜂蜜流体模拟",
+        "ja": "WebGLで描くリアルタイムの蜂蜜シミュレーション",
+        "ko": "WebGL 실시간 꿀 시뮬레이션",
+        "es": "Una simulación de miel en WebGL en tiempo real"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "deedydas",
+        "url": "https://x.com/deedydas"
+      },
+      "source_url": "https://x.com/deedydas/status/2119930300990177509",
+      "published_at": "2026-11-09T23:09:04Z",
+      "duration_seconds": 50.883,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119930095406288896/img/CYsJw4SdJYX8i7lk.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/deedydas-2119930300990177509.webp",
+      "preview_path": "assets/previews/deedydas-2119930300990177509.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2119930095406288896/vid/avc1/3456x1438/QrvS6vt8W2VY3Fld.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-11T22:38:15.145952+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "7d2faba251bd538079733dc424c91ee758284a126083d6238a7c83b21fdebf13",
+        "model_named": true,
+        "video_checked_at": "2026-11-11T22:38:41.898397+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": "Can you write the most intricate photorealistic simulation of honey in WebGL in the browser",
+        "source_url": "https://x.com/deedydas/status/2119930300990177509"
+      },
+      "native_media_id": "2119930095406288896",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "Close shots show honey falling, pooling and spreading across a board. The creator describes a physics-based WebGL render and gives the exact short prompt.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 with the browser simulation and describes the video as a real-time physics-based render.",
+        "zh-CN": "作者将浏览器模拟归功于 Fable 5.2，并称视频是基于物理计算的实时渲染。",
+        "ja": "作者によると、Fable 5.2がブラウザー上のシミュレーションを作り、物理計算に基づいてリアルタイム描画しました。",
+        "ko": "제작자는 Fable 5.2로 브라우저 시뮬레이션을 만들었으며 물리 기반으로 실시간 렌더링했다고 설명합니다.",
+        "es": "El autor atribuye la simulación de navegador a Fable 5.2 y describe el vídeo como un renderizado físico en tiempo real."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-11T13:38:57.142260+00:00",
+          "views": 47403,
+          "likes": 407,
+          "reposts": 13,
+          "replies": 31,
+          "bookmarks": 135
+        },
+        {
+          "checked_at": "2026-11-11T22:36:58.715315+00:00",
+          "views": 48023,
+          "likes": 411,
+          "reposts": 13,
+          "replies": 31,
+          "bookmarks": 133
+        },
+        {
+          "checked_at": "2026-11-11T22:38:42.789610+00:00",
+          "views": 48023,
+          "likes": 411,
+          "reposts": 13,
+          "replies": 31,
+          "bookmarks": 133
+        }
+      ],
+      "momentum": {
+        "state": "rising",
+        "window_minutes": 539.8,
+        "views_delta": 620,
+        "likes_delta": 4,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "amirmushich-2119937977426338283",
+      "titles": {
+        "en": "Worm Rider, a code-built desert game",
+        "zh-CN": "《Worm Rider》用代码打造的沙漠游戏",
+        "ja": "コードで作った砂漠のゲーム「Worm Rider」",
+        "ko": "코드로 만든 사막 게임 Worm Rider",
+        "es": "Worm Rider, un juego desértico creado con código"
+      },
+      "category": "interactive",
+      "creator": {
+        "name": "AmirMushich",
+        "url": "https://x.com/AmirMushich"
+      },
+      "source_url": "https://x.com/AmirMushich/status/2119937977426338283",
+      "published_at": "2026-11-09T23:39:35Z",
+      "duration_seconds": 21.641,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119936256498962432/img/Md1DWGijRFEEm1Z_.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/amirmushich-2119937977426338283.webp",
+      "preview_path": "assets/previews/amirmushich-2119937977426338283.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2119936256498962432/vid/avc1/1920x1080/pYXo58uow7BeKq9v.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-11T22:38:15.547181+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "f2fb16c7a4af76ae7b76a4b950426bba001519bd34ec0d50c5d5dc39238dab52",
+        "model_named": true,
+        "video_checked_at": "2026-11-11T22:38:43.508148+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2119936256498962432",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A short game trailer shows a large segmented sandworm, desert traversal and close-range impacts. The author reports building the game and its models in code.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator says Fable 5.2 produced the game and that the models were built from scratch in Claude Code. The video is a showcase.",
+        "zh-CN": "作者称游戏由 Fable 5.2 制作，模型在 Claude Code 中从零构建。视频为作品演示。",
+        "ja": "作者によると、Fable 5.2でゲームを作り、Claude Codeでモデルを一から構築しました。映像は作品紹介です。",
+        "ko": "제작자는 Fable 5.2로 게임을 만들고 Claude Code에서 모델을 처음부터 구축했다고 설명합니다. 영상은 작품 소개입니다.",
+        "es": "El autor afirma que Fable 5.2 produjo el juego y que los modelos se construyeron desde cero en Claude Code. El vídeo presenta el resultado."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-11T13:38:54.003705+00:00",
+          "views": 57832,
+          "likes": 242,
+          "reposts": 9,
+          "replies": 38,
+          "bookmarks": 140
+        },
+        {
+          "checked_at": "2026-11-11T22:36:58.725698+00:00",
+          "views": 59508,
+          "likes": 248,
+          "reposts": 9,
+          "replies": 38,
+          "bookmarks": 147
+        },
+        {
+          "checked_at": "2026-11-11T22:38:44.385471+00:00",
+          "views": 59509,
+          "likes": 248,
+          "reposts": 9,
+          "replies": 38,
+          "bookmarks": 147
+        }
+      ],
+      "momentum": {
+        "state": "rising",
+        "window_minutes": 539.8,
+        "views_delta": 1677,
+        "likes_delta": 6,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "seanaiux-2120222459110789574",
+      "titles": {
+        "en": "A translucent web menu over shifting gradients",
+        "zh-CN": "渐变背景上的半透明网页菜单",
+        "ja": "色が移ろう背景と半透明のウェブメニュー",
+        "ko": "변하는 그라데이션 위의 반투명 웹 메뉴",
+        "es": "Un menú web translúcido sobre degradados cambiantes"
+      },
+      "category": "product",
+      "creator": {
+        "name": "seanaiux",
+        "url": "https://x.com/seanaiux"
+      },
+      "source_url": "https://x.com/seanaiux/status/2120222459110789574",
+      "published_at": "2026-11-10T18:30:00Z",
+      "duration_seconds": 11.25,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120188041356877824/img/W-5q7YPdyg1xuAhV.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/seanaiux-2120222459110789574.webp",
+      "preview_path": "assets/previews/seanaiux-2120222459110789574.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120188041356877824/vid/avc1/1920x1080/c6-X7sxlSfZs2Tg5.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-11T22:38:19.276945+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "dbe23a77431cf7566f158f9e032b9145eee11d05856e18b1df93633f86fc3ce6",
+        "model_named": true,
+        "video_checked_at": "2026-11-11T22:38:43.516252+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120188041356877824",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A compact web interface uses an outlined menu, a soft glow and warm-to-cool gradient shifts to give visual feedback.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for the menu design. The post leaves the implementation tools unspecified.",
+        "zh-CN": "作者将菜单设计归功于 Fable 5.2，未披露实现工具。",
+        "ja": "作者はメニューのデザインにFable 5.2を使ったと説明しています。実装ツールは未公開です。",
+        "ko": "제작자는 메뉴 디자인에 Fable 5.2를 사용했다고 밝혔습니다. 구현 도구는 공개하지 않았습니다.",
+        "es": "El autor atribuye a Fable 5.2 el diseño del menú. La publicación no especifica las herramientas de implementación."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-11T13:38:36.574374+00:00",
+          "views": 35387,
+          "likes": 1007,
+          "reposts": 34,
+          "replies": 33,
+          "bookmarks": 706
+        },
+        {
+          "checked_at": "2026-11-11T22:36:58.707598+00:00",
+          "views": 42867,
+          "likes": 1149,
+          "reposts": 38,
+          "replies": 38,
+          "bookmarks": 813
+        },
+        {
+          "checked_at": "2026-11-11T22:38:44.477785+00:00",
+          "views": 42871,
+          "likes": 1149,
+          "reposts": 38,
+          "replies": 38,
+          "bookmarks": 813
+        }
+      ],
+      "momentum": {
+        "state": "rising",
+        "window_minutes": 540.1,
+        "views_delta": 7484,
+        "likes_delta": 142,
+        "reposts_delta": 4
+      }
+    },
+    {
+      "id": "lexnlin-2120167637133238295",
+      "titles": {
+        "en": "A book folds into the Claude mark",
+        "zh-CN": "书页折叠成 Claude 标志的动效",
+        "ja": "本が折りたたまれてClaudeのロゴになる映像",
+        "ko": "책이 접혀 Claude 로고가 되는 애니메이션",
+        "es": "Un libro se pliega hasta formar el símbolo de Claude"
+      },
+      "category": "motion",
+      "creator": {
+        "name": "LexnLin",
+        "url": "https://x.com/LexnLin"
+      },
+      "source_url": "https://x.com/LexnLin/status/2120167637133238295",
+      "published_at": "2026-11-10T14:52:10Z",
+      "duration_seconds": 30,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120167523039518720/img/z7QrGgNnnENhBtxB.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/lexnlin-2120167637133238295.webp",
+      "preview_path": "assets/previews/lexnlin-2120167637133238295.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120167523039518720/vid/avc1/2560x1440/1zRebOXK7I92mAvT.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-11T22:38:38.988792+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "ac1379fcdf0bdb7dc863c2dfb7b0ea88d8df562f0f44b559e3b5b15aac07db0c",
+        "model_named": true,
+        "video_checked_at": "2026-11-11T22:38:43.545652+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120167523039518720",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The animation transforms a stack of pages into a book, then resolves into the Claude mark under studio-style lighting.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for this logo animation. The post leaves the production tools unspecified.",
+        "zh-CN": "作者将这支标志动效归功于 Fable 5.2，未披露制作工具。",
+        "ja": "作者はFable 5.2でロゴアニメーションを制作したと説明しています。制作ツールは未公開です。",
+        "ko": "제작자는 Fable 5.2로 로고 애니메이션을 만들었다고 밝혔습니다. 제작 도구는 공개하지 않았습니다.",
+        "es": "El autor atribuye la animación del logotipo a Fable 5.2. La publicación no especifica las herramientas de producción."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-11T13:38:36.738636+00:00",
+          "views": 76571,
+          "likes": 541,
+          "reposts": 7,
+          "replies": 23,
+          "bookmarks": 122
+        },
+        {
+          "checked_at": "2026-11-11T22:36:58.725310+00:00",
+          "views": 105393,
+          "likes": 609,
+          "reposts": 7,
+          "replies": 25,
+          "bookmarks": 140
+        },
+        {
+          "checked_at": "2026-11-11T22:38:44.394551+00:00",
+          "views": 105400,
+          "likes": 609,
+          "reposts": 7,
+          "replies": 25,
+          "bookmarks": 140
+        }
+      ],
+      "momentum": {
+        "state": "established",
+        "window_minutes": 540.1,
+        "views_delta": 28829,
+        "likes_delta": 68,
         "reposts_delta": 0
       }
     }

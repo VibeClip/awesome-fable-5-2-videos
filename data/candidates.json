@@ -33,7 +33,7 @@
         "method": "X official oEmbed and original-post media metadata",
         "availability": "unconfirmed",
         "http_status": 404,
-        "checked_at": "2026-11-11T19:34:02.852668+00:00"
+        "checked_at": "2026-11-11T22:37:01.121410+00:00"
       }
     },
     {
@@ -44,7 +44,7 @@
       },
       "status": "held-insufficient-workflow-evidence",
       "reason": "The creator uploaded two playable music demos from a same-prompt comparison, but the post does not identify which video is the Fable 5.2 output. Hold until the assignment is confirmed.",
-      "checked_at": "2026-11-11T16:29:31.593733+00:00"
+      "checked_at": "2026-11-11T22:37:03.748493+00:00"
     },
     {
       "source_url": "https://x.com/theoardley/status/2120124748159996152",
