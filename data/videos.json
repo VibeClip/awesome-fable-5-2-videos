@@ -13097,15 +13097,23 @@
           "reposts": 99,
           "replies": 123,
           "bookmarks": 845
+        },
+        {
+          "checked_at": "2026-11-11T19:34:01.692306+00:00",
+          "views": 118656,
+          "likes": 1608,
+          "reposts": 102,
+          "replies": 126,
+          "bookmarks": 889
         }
       ],
       "discovery_group": "independent-x",
       "momentum": {
         "state": "established",
-        "window_minutes": 168.7,
-        "views_delta": 13207,
-        "likes_delta": 139,
-        "reposts_delta": 14
+        "window_minutes": 184.5,
+        "views_delta": 7720,
+        "likes_delta": 81,
+        "reposts_delta": 3
       }
     },
     {
@@ -13251,15 +13259,23 @@
           "reposts": 116,
           "replies": 61,
           "bookmarks": 626
+        },
+        {
+          "checked_at": "2026-11-11T19:34:01.688632+00:00",
+          "views": 109947,
+          "likes": 2521,
+          "reposts": 138,
+          "replies": 72,
+          "bookmarks": 713
         }
       ],
       "discovery_group": "independent-x",
       "momentum": {
-        "state": "rising",
-        "window_minutes": 168.7,
-        "views_delta": 17603,
-        "likes_delta": 474,
-        "reposts_delta": 26
+        "state": "established",
+        "window_minutes": 184.5,
+        "views_delta": 24031,
+        "likes_delta": 342,
+        "reposts_delta": 22
       }
     },
     {
@@ -14139,6 +14155,656 @@
         "state": "new",
         "window_minutes": 2.1,
         "views_delta": 1,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "anxuanng-2120088745139638375",
+      "titles": {
+        "en": "From Zeno's halving to a close-up of contact",
+        "zh-CN": "从芝诺二分法到指尖接触的微观示意",
+        "ja": "ゼノンの二分法から指先の接触の拡大へ",
+        "ko": "제논의 이분법에서 손끝 접촉의 확대 장면까지",
+        "es": "De la dicotomía de Zenón a un primer plano del contacto"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "anxuanng",
+        "url": "https://x.com/anxuanng"
+      },
+      "source_url": "https://x.com/anxuanng/status/2120088745139638375",
+      "published_at": "2026-11-10T09:38:40Z",
+      "duration_seconds": 43.5,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120088578005098496/img/CgpZet_MNtzMc34J.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/anxuanng-2120088745139638375.webp",
+      "preview_path": "assets/previews/anxuanng-2120088745139638375.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120088578005098496/vid/avc1/1920x1080/XMPOsp7PKvG1sYn-.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-11T19:34:35.771973+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "be6be40c21a1845410d374f720018e50f9afad5c3bc3b5769faddba7ff70b7dc",
+        "model_named": true,
+        "video_checked_at": "2026-11-11T19:35:59.491297+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120088578005098496",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A continuous 3D zoom shifts from two approaching fingers to a microscopic illustration. In replies the creator distinguishes the mathematical setup from the physical sequence and describes the rendering workflow.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator says Fable 5.2 drove a 67.js scene through MCP. The film uses Zeno's halving as a narrative opening before switching to an illustration of contact physics.",
+        "zh-CN": "作者称 Fable 5.2 通过 MCP 驱动 67.js 场景。短片以芝诺二分法开场，随后转入接触物理的示意。",
+        "ja": "作者はFable 5.2がMCP経由で67.jsのシーンを操作したと説明しています。ゼノンの二分法で始まり、後半は接触の物理を図解します。",
+        "ko": "제작자는 Fable 5.2가 MCP를 통해 67.js 장면을 구동했다고 설명합니다. 영상은 제논의 이분법으로 시작해 접촉 물리의 시각화로 이어집니다.",
+        "es": "El autor explica que Fable 5.2 controló una escena de 67.js mediante MCP. El vídeo abre con la dicotomía de Zenón y pasa a ilustrar la física del contacto."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-11T13:39:34.726485+00:00",
+          "views": 13382492,
+          "likes": 9350,
+          "reposts": 668,
+          "replies": 226,
+          "bookmarks": 4050
+        },
+        {
+          "checked_at": "2026-11-11T19:34:01.002000+00:00",
+          "views": 18587574,
+          "likes": 9656,
+          "reposts": 708,
+          "replies": 232,
+          "bookmarks": 4176
+        },
+        {
+          "checked_at": "2026-11-11T19:36:00.470811+00:00",
+          "views": 18605381,
+          "likes": 9657,
+          "reposts": 708,
+          "replies": 232,
+          "bookmarks": 4176
+        }
+      ],
+      "momentum": {
+        "state": "established",
+        "window_minutes": 356.4,
+        "views_delta": 5222889,
+        "likes_delta": 307,
+        "reposts_delta": 40
+      },
+      "workflow_source_urls": [
+        "https://x.com/anxuanng/status/2120336814578024702",
+        "https://x.com/anxuanng/status/2120334047159443959"
+      ],
+      "workflow_source_checks": [
+        {
+          "source_url": "https://x.com/anxuanng/status/2120336814578024702",
+          "checked_at": "2026-11-11T19:35:26.026359+00:00",
+          "method": "X official oEmbed",
+          "post_sha256": "d099dbdcccf2af2cce61e4f745330c54a87526a58b0bf53fbcded5bea5b86391"
+        },
+        {
+          "source_url": "https://x.com/anxuanng/status/2120334047159443959",
+          "checked_at": "2026-11-11T19:35:26.019224+00:00",
+          "method": "X official oEmbed",
+          "post_sha256": "a67bea8f069ea39f549ca6408a58a2b3c137bc387362e94d72943104efdf12c1"
+        }
+      ]
+    },
+    {
+      "id": "anxuanng-2120441299568619897",
+      "titles": {
+        "en": "From an ant to the scale of the observable universe",
+        "zh-CN": "从一只蚂蚁拉远到可观测宇宙",
+        "ja": "アリから観測可能な宇宙のスケールまで",
+        "ko": "개미에서 관측 가능한 우주의 규모까지",
+        "es": "De una hormiga a la escala del universo observable"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "anxuanng",
+        "url": "https://x.com/anxuanng"
+      },
+      "source_url": "https://x.com/anxuanng/status/2120441299568619897",
+      "published_at": "2026-11-11T08:59:36Z",
+      "duration_seconds": 48.8,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120441073596354560/img/pV1E-tuRBo0tD4MF.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/anxuanng-2120441299568619897.webp",
+      "preview_path": "assets/previews/anxuanng-2120441299568619897.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120441073596354560/vid/avc1/1920x1080/X-fzihrCy46mRyEM.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-11T19:35:27.789358+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "fe1b9177e1f0bd01c1bf442b10a8baa04ac0d55b0129a8412ba7f40ccbc09a22",
+        "model_named": true,
+        "video_checked_at": "2026-11-11T19:35:59.634393+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120441073596354560",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A new continuous zoom moves from an ant and a person to planetary and galactic scales. A changing scale bar connects the transitions.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator attributes this 3D film to Fable 5.2. It uses an observer-centered view to illustrate scale.",
+        "zh-CN": "作者将这部 3D 短片归功于 Fable 5.2。画面以观察者为出发点展示尺度变化。",
+        "ja": "作者はこの3D映像をFable 5.2で制作したと説明しています。観測者を起点にスケールの変化を描きます。",
+        "ko": "제작자는 이 3D 영상에 Fable 5.2를 사용했다고 밝혔습니다. 관측자를 기준으로 규모의 변화를 보여 줍니다.",
+        "es": "El autor atribuye la pieza 3D a Fable 5.2. La cámara parte del observador para ilustrar los cambios de escala."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-11T19:35:24.622585+00:00",
+          "views": 2122,
+          "likes": 4,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 5
+        },
+        {
+          "checked_at": "2026-11-11T19:36:00.588004+00:00",
+          "views": 2122,
+          "likes": 4,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 5
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.6,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "blendibyl-2120341251178594532",
+      "titles": {
+        "en": "A brushstroke-rendered forest game in the browser",
+        "zh-CN": "浏览器里用笔触渲染的森林游戏",
+        "ja": "ブラウザーで動く筆致のある森のゲーム",
+        "ko": "브라우저에서 구동되는 붓 터치 스타일의 숲 게임",
+        "es": "Un juego de bosque con pinceladas en el navegador"
+      },
+      "category": "interactive",
+      "creator": {
+        "name": "BlendiByl",
+        "url": "https://x.com/BlendiByl"
+      },
+      "source_url": "https://x.com/BlendiByl/status/2120341251178594532",
+      "published_at": "2026-11-11T02:22:02Z",
+      "duration_seconds": 16.068,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120339928337031168/img/aHdhdY_SsCUmvUpc.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/blendibyl-2120341251178594532.webp",
+      "preview_path": "assets/previews/blendibyl-2120341251178594532.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120339928337031168/vid/avc1/2560x1440/efsgZg5CNfhT9tWC.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-11T19:34:23.884005+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "fdccba58570bc36f487ec03f28415fb73b9b2ff3f5c2bbd0b24445f207b16de0",
+        "model_named": true,
+        "video_checked_at": "2026-11-11T19:35:57.855670+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120339928337031168",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The footage follows a character through a sunlit forest rendered with a painterly brushstroke effect. The creator reports that the scene runs in a browser.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 and describes a real-time brushstroke renderer in the browser. Performance figures are creator-reported.",
+        "zh-CN": "作者将作品归功于 Fable 5.2，并描述了浏览器里的实时笔触渲染。性能数据为作者自述。",
+        "ja": "作者はFable 5.2を使い、ブラウザーで筆致をリアルタイムに描画したと説明しています。性能の数値は作者による報告です。",
+        "ko": "제작자는 Fable 5.2로 브라우저 실시간 붓 터치 렌더링을 구현했다고 설명합니다. 성능 수치는 제작자가 공개한 값입니다.",
+        "es": "El autor atribuye la obra a Fable 5.2 y describe un renderizado de pinceladas en tiempo real en el navegador. Las cifras de rendimiento proceden del autor."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-11T13:39:23.014165+00:00",
+          "views": 149404,
+          "likes": 3067,
+          "reposts": 152,
+          "replies": 186,
+          "bookmarks": 1821
+        },
+        {
+          "checked_at": "2026-11-11T19:34:00.841271+00:00",
+          "views": 243854,
+          "likes": 4899,
+          "reposts": 239,
+          "replies": 263,
+          "bookmarks": 2742
+        },
+        {
+          "checked_at": "2026-11-11T19:35:58.714046+00:00",
+          "views": 244174,
+          "likes": 4907,
+          "reposts": 239,
+          "replies": 263,
+          "bookmarks": 2746
+        }
+      ],
+      "momentum": {
+        "state": "established",
+        "window_minutes": 356.6,
+        "views_delta": 94770,
+        "likes_delta": 1840,
+        "reposts_delta": 87
+      }
+    },
+    {
+      "id": "theojaffee-2120312766544437738",
+      "titles": {
+        "en": "A Bay Area history map with a year slider",
+        "zh-CN": "可沿年份滑动的旧金山湾区历史地图",
+        "ja": "年を切り替えて見るサンフランシスコ湾岸の歴史地図",
+        "ko": "연도를 바꿔 보는 샌프란시스코 베이 지역 역사 지도",
+        "es": "Un mapa histórico del Área de la Bahía con selector de año"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "theojaffee",
+        "url": "https://x.com/theojaffee"
+      },
+      "source_url": "https://x.com/theojaffee/status/2120312766544437738",
+      "published_at": "2026-11-11T00:28:51Z",
+      "duration_seconds": 33.346,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120309793521074176/img/IasJnb1YZt-rmbuY.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/theojaffee-2120312766544437738.webp",
+      "preview_path": "assets/previews/theojaffee-2120312766544437738.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120309793521074176/vid/avc1/3024x1590/AI4JHsH3UdoxpUpG.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-11T19:34:23.701546+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "a22ea2e805504c1079a752223f70281a8fc99082cbe0b0b9d0eecc8cccf3f434",
+        "model_named": true,
+        "video_checked_at": "2026-11-11T19:35:58.241263+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120309793521074176",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The demonstration advances a timeline through a single mapped region, showing how neighborhoods and terrain are visualized at different dates.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for an interactive reconstruction of Bay Area history. The map is presented as a simulation.",
+        "zh-CN": "作者将湾区历史的交互式重建归功于 Fable 5.2，并将地图描述为模拟。",
+        "ja": "作者はサンフランシスコ湾岸の歴史をインタラクティブに再現するためにFable 5.2を使ったと説明しています。地図はシミュレーションです。",
+        "ko": "제작자는 베이 지역 역사의 인터랙티브 재구성에 Fable 5.2를 사용했다고 설명합니다. 지도는 시뮬레이션으로 소개됩니다.",
+        "es": "El autor atribuye la reconstrucción interactiva de la historia del Área de la Bahía a Fable 5.2. Presenta el mapa como una simulación."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-11T13:39:43.108107+00:00",
+          "views": 19505,
+          "likes": 306,
+          "reposts": 21,
+          "replies": 28,
+          "bookmarks": 114
+        },
+        {
+          "checked_at": "2026-11-11T19:34:01.050885+00:00",
+          "views": 23504,
+          "likes": 359,
+          "reposts": 21,
+          "replies": 30,
+          "bookmarks": 132
+        },
+        {
+          "checked_at": "2026-11-11T19:35:59.087188+00:00",
+          "views": 23530,
+          "likes": 359,
+          "reposts": 21,
+          "replies": 30,
+          "bookmarks": 132
+        }
+      ],
+      "momentum": {
+        "state": "rising",
+        "window_minutes": 356.3,
+        "views_delta": 4025,
+        "likes_delta": 53,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "sin-ceriously-2120318808216981986",
+      "titles": {
+        "en": "A marble-powered chain reaction in Lattice",
+        "zh-CN": "Lattice 里的弹珠连锁机关",
+        "ja": "Latticeで作るビー玉の連鎖装置",
+        "ko": "Lattice로 만든 구슬 연쇄 장치",
+        "es": "Una reacción en cadena con canicas en Lattice"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "sin_ceriously",
+        "url": "https://x.com/sin_ceriously"
+      },
+      "source_url": "https://x.com/sin_ceriously/status/2120318808216981986",
+      "published_at": "2026-11-11T00:52:52Z",
+      "duration_seconds": 24.6,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120314560297021440/img/5SSQwseM6f3b57fa.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/sin-ceriously-2120318808216981986.webp",
+      "preview_path": "assets/previews/sin-ceriously-2120318808216981986.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120314560297021440/vid/avc1/3840x2160/7HGk23L88dFl3nSk.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-11T19:34:27.938269+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "7e1148769f06c8e52a7d6618ac7b834d995758d90c3704a12093659a7b2ea008",
+        "model_named": true,
+        "video_checked_at": "2026-11-11T19:35:57.885742+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120314560297021440",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The recording follows moving pieces in a tabletop chain reaction and shows the 3D scene inside the Lattice editor.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator says Fable 5.2 built the scene in Lattice with a custom gravity and collision module.",
+        "zh-CN": "作者称 Fable 5.2 在 Lattice 中制作场景，并编写了自定义重力与碰撞模块。",
+        "ja": "作者によると、Fable 5.2はLatticeでシーンを作り、重力と衝突の独自モジュールを実装しました。",
+        "ko": "제작자는 Fable 5.2가 Lattice에서 장면을 만들고 맞춤형 중력·충돌 모듈을 구현했다고 설명합니다.",
+        "es": "El autor dice que Fable 5.2 creó la escena en Lattice con un módulo propio de gravedad y colisiones."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-11T13:39:43.034115+00:00",
+          "views": 2230,
+          "likes": 8,
+          "reposts": 3,
+          "replies": 2,
+          "bookmarks": 4
+        },
+        {
+          "checked_at": "2026-11-11T19:34:00.861642+00:00",
+          "views": 2338,
+          "likes": 8,
+          "reposts": 3,
+          "replies": 2,
+          "bookmarks": 4
+        },
+        {
+          "checked_at": "2026-11-11T19:35:58.785156+00:00",
+          "views": 2339,
+          "likes": 8,
+          "reposts": 3,
+          "replies": 2,
+          "bookmarks": 4
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 356.3,
+        "views_delta": 109,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "kevin-t-ngo-2120540964909711415",
+      "titles": {
+        "en": "A retro animated show opening rendered in Blender",
+        "zh-CN": "用 Blender 渲染的复古动画片头",
+        "ja": "Blenderでレンダリングしたレトロな番組オープニング",
+        "ko": "Blender로 렌더링한 복고풍 애니메이션 오프닝",
+        "es": "Una cabecera animada retro renderizada en Blender"
+      },
+      "category": "motion",
+      "creator": {
+        "name": "kevin_t_ngo",
+        "url": "https://x.com/kevin_t_ngo"
+      },
+      "source_url": "https://x.com/kevin_t_ngo/status/2120540964909711415",
+      "published_at": "2026-11-11T15:35:38Z",
+      "duration_seconds": 45,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120540485764927488/img/ZlQ26R5ndNl5vcrG.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kevin-t-ngo-2120540964909711415.webp",
+      "preview_path": "assets/previews/kevin-t-ngo-2120540964909711415.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120540485764927488/vid/avc1/1920x1080/xC8eOMGaTeccgQUH.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-11T19:34:28.060780+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "0f4aadc7f14a45f2ddfeea74bf58dd58c5053f61f45fac33aca7f1bcaf114980",
+        "model_named": true,
+        "video_checked_at": "2026-11-11T19:35:57.885891+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120540485764927488",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A finished show opening uses bold graphic shapes, costume changes and rapid cuts in a retro broadcast style.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 with the visual code, animated in Python and rendered in Blender.",
+        "zh-CN": "作者将画面代码归功于 Fable 5.2，动画使用 Python 制作，画面通过 Blender 渲染。",
+        "ja": "作者によると、映像はFable 5.2のコードを使い、Pythonでアニメーションを付けてBlenderでレンダリングしました。",
+        "ko": "제작자는 Fable 5.2가 시각 요소의 코드를 작성했고, Python으로 애니메이션을 만든 뒤 Blender로 렌더링했다고 설명합니다.",
+        "es": "El autor atribuye el código visual a Fable 5.2, con animación en Python y renderizado en Blender."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-11T19:34:03.772154+00:00",
+          "views": 10606,
+          "likes": 285,
+          "reposts": 12,
+          "replies": 35,
+          "bookmarks": 184
+        },
+        {
+          "checked_at": "2026-11-11T19:35:58.736142+00:00",
+          "views": 10651,
+          "likes": 288,
+          "reposts": 12,
+          "replies": 35,
+          "bookmarks": 187
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 1.9,
+        "views_delta": 45,
+        "likes_delta": 3,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "untitled-sys-2120265921390621058",
+      "titles": {
+        "en": "A Blender short built around light in a quiet room",
+        "zh-CN": "用光线讲述安静房间的 Blender 短片",
+        "ja": "静かな室内の光を描くBlender短編",
+        "ko": "고요한 방의 빛을 담은 Blender 단편",
+        "es": "Un corto en Blender sobre la luz en una habitación silenciosa"
+      },
+      "category": "short-films",
+      "creator": {
+        "name": "untitled_sys",
+        "url": "https://x.com/untitled_sys"
+      },
+      "source_url": "https://x.com/untitled_sys/status/2120265921390621058",
+      "published_at": "2026-11-10T21:22:42Z",
+      "duration_seconds": 20.48,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120265887135715328/img/MicomaI0vZuM57oM.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/untitled-sys-2120265921390621058.webp",
+      "preview_path": "assets/previews/untitled-sys-2120265921390621058.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120265887135715328/vid/avc1/1920x1080/6M8UYJ2wXkM5cgJM.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-11T19:34:31.790318+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "592af7d7226a59bf7ce4ed29218332cfcdfbc01aaa15089f8ee4a00c8e75493b",
+        "model_named": true,
+        "video_checked_at": "2026-11-11T19:35:57.895050+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120265887135715328",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The finished short uses soft window light, a dim interior and changing framing to show a quiet room. The creator describes follow-up requests for sound and rendering.",
+      "workflow": "creator-reported-multitool",
+      "workflow_notes": {
+        "en": "The creator says Fable 5.2 built the short in Blender from an initial request and follow-ups to adjust the sound and render it.",
+        "zh-CN": "作者称 Fable 5.2 用 Blender 制作了短片，随后通过补充指令调整声音并渲染。",
+        "ja": "作者はFable 5.2でBlender短編を制作し、追加の指示で音を調整してレンダリングしたと説明しています。",
+        "ko": "제작자는 Fable 5.2로 Blender 단편을 만든 뒤 후속 지시로 소리를 조정하고 렌더링했다고 설명합니다.",
+        "es": "El autor explica que Fable 5.2 creó el corto en Blender y recibió instrucciones adicionales para ajustar el sonido y renderizarlo."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-11T19:34:03.949591+00:00",
+          "views": 2903,
+          "likes": 46,
+          "reposts": 2,
+          "replies": 4,
+          "bookmarks": 23
+        },
+        {
+          "checked_at": "2026-11-11T19:35:58.778400+00:00",
+          "views": 2906,
+          "likes": 46,
+          "reposts": 2,
+          "replies": 4,
+          "bookmarks": 23
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 1.9,
+        "views_delta": 3,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "kevin-t-ngo-2120308118127309173",
+      "titles": {
+        "en": "A code-drawn 1990s-style cereal commercial",
+        "zh-CN": "全用代码绘制的 90 年代风格麦片广告",
+        "ja": "コードで描いた90年代風シリアルCM",
+        "ko": "코드로 그린 1990년대풍 시리얼 광고",
+        "es": "Un anuncio de cereales noventero dibujado con código"
+      },
+      "category": "product",
+      "creator": {
+        "name": "kevin_t_ngo",
+        "url": "https://x.com/kevin_t_ngo"
+      },
+      "source_url": "https://x.com/kevin_t_ngo/status/2120308118127309173",
+      "published_at": "2026-11-11T00:10:23Z",
+      "duration_seconds": 64,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120306941243314176/img/ukK6tbrQTbLUqyZj.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kevin-t-ngo-2120308118127309173.webp",
+      "preview_path": "assets/previews/kevin-t-ngo-2120308118127309173.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120306941243314176/vid/avc1/1080x1080/pz2C3rnTYJ4qnu3O.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-11T19:34:32.148104+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "04114581fdc4bd674260434ec9815addea7e01f5cbe32b677a3abd450bd36eac",
+        "model_named": true,
+        "video_checked_at": "2026-11-11T19:35:59.495616+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120306941243314176",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A finished retro commercial combines a curved television frame, a cereal-box mascot and sing-along typography. Its footage is distinct from the creator's earlier toy commercial.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator attributes the code-drawn cereal commercial to Fable 5.2. The post describes the visuals as drawn in code.",
+        "zh-CN": "作者称这支麦片广告由 Fable 5.2 制作，画面用代码绘制。",
+        "ja": "作者はFable 5.2で制作したシリアルCMと説明しています。映像はコードで描画されています。",
+        "ko": "제작자는 Fable 5.2로 시리얼 광고를 만들고 화면을 코드로 그렸다고 설명합니다.",
+        "es": "El autor atribuye el anuncio de cereales a Fable 5.2 y describe las imágenes como dibujadas con código."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-11T19:34:03.858355+00:00",
+          "views": 17993,
+          "likes": 559,
+          "reposts": 32,
+          "replies": 18,
+          "bookmarks": 240
+        },
+        {
+          "checked_at": "2026-11-11T19:36:00.472533+00:00",
+          "views": 18006,
+          "likes": 559,
+          "reposts": 32,
+          "replies": 18,
+          "bookmarks": 240
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 1.9,
+        "views_delta": 13,
         "likes_delta": 0,
         "reposts_delta": 0
       }

@@ -33,7 +33,7 @@
         "method": "X official oEmbed and original-post media metadata",
         "availability": "unconfirmed",
         "http_status": 404,
-        "checked_at": "2026-11-11T16:31:28.048645+00:00"
+        "checked_at": "2026-11-11T19:34:02.852668+00:00"
       }
     },
     {
@@ -45,6 +45,26 @@
       "status": "held-insufficient-workflow-evidence",
       "reason": "The creator uploaded two playable music demos from a same-prompt comparison, but the post does not identify which video is the Fable 5.2 output. Hold until the assignment is confirmed.",
       "checked_at": "2026-11-11T16:29:31.593733+00:00"
+    },
+    {
+      "source_url": "https://x.com/theoardley/status/2120124748159996152",
+      "creator": {
+        "name": "theoardley",
+        "url": "https://x.com/theoardley"
+      },
+      "status": "held-insufficient-workflow-evidence",
+      "reason": "The creator discusses both Fable 5.2 and Opus 5.5 with a shared prompt. The attached cut has not yet been matched to a specific model output.",
+      "checked_at": "2026-11-11T19:34:00.942267+00:00"
+    },
+    {
+      "source_url": "https://x.com/dominikmartn/status/2120154832694858224",
+      "creator": {
+        "name": "dominikmartn",
+        "url": "https://x.com/dominikmartn"
+      },
+      "status": "held-insufficient-workflow-evidence",
+      "reason": "The attached design montage is animated and mentions Fable 5.2. The short caption leaves the model’s role in the montage and the underlying components unclear.",
+      "checked_at": "2026-11-11T19:34:00.851727+00:00"
     }
   ]
 }

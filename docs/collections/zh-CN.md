@@ -8,12 +8,19 @@
 
 <a id="short-films"></a>
 
-## 短片与叙事 · 26
+## 短片与叙事 · 27
 
 角色故事、动漫短片、电影感叙事与音乐视频。
 
 <table>
 <tr>
+<td width="33%" valign="top">
+<a href="https://video.twimg.com/amplify_video/2120265887135715328/vid/avc1/1920x1080/6M8UYJ2wXkM5cgJM.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/untitled-sys-2120265921390621058.webp" alt="用光线讲述安静房间的 Blender 短片 — @untitled_sys" width="100%" loading="lazy"></a><br>
+<b>用光线讲述安静房间的 Blender 短片</b><br>
+<sub><b>新发现</b> · <a href="https://x.com/untitled_sys">@untitled_sys</a> · 0:20 · 2026-11-10</sub><br>
+<a href="https://video.twimg.com/amplify_video/2120265887135715328/vid/avc1/1920x1080/6M8UYJ2wXkM5cgJM.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/untitled_sys/status/2120265921390621058">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/untitled-sys-2120265921390621058.md">作品详情</a>
+
+</td>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120128135681470464/vid/avc1/910x512/z_FMx9vV7-Tja50p.mp4?tag=14"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kosen-labo-2120128253327474845.webp" alt="代码绘制的日本高专主题短片 — @kosen_labo" width="100%" loading="lazy"></a><br>
 <b>代码绘制的日本高专主题短片</b><br>
@@ -28,6 +35,8 @@
 <a href="https://video.twimg.com/amplify_video/2120128077975977984/vid/avc1/1280x720/m9IjLTrfzffl_S5p.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/Uraharastudio/status/2120128234499002537">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/uraharastudio-2120128234499002537.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120117891240742914/vid/avc1/1920x1080/-2LACPT73SSi5tr7.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/lemomo-ai-2120118194409193682.webp" alt="月光下书页飞舞的图书馆 — @lemomo_ai" width="100%" loading="lazy"></a><br>
 <b>月光下书页飞舞的图书馆</b><br>
@@ -35,8 +44,6 @@
 <a href="https://video.twimg.com/amplify_video/2120117891240742914/vid/avc1/1920x1080/-2LACPT73SSi5tr7.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/lemomo_ai/status/2120118194409193682">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/lemomo-ai-2120118194409193682.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120100208990371842/vid/avc1/1920x1080/AvuwxFaTzQOwI2tO.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/argofowl-2120100759195000942.webp" alt="一条走廊里的时间流逝 — @argofowl" width="100%" loading="lazy"></a><br>
 <b>一条走廊里的时间流逝</b><br>
@@ -51,6 +58,8 @@
 <a href="https://video.twimg.com/amplify_video/2120076635022176256/vid/avc1/1920x1080/_pMVSUXNU5xgUqUo.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/rute1203d/status/2120077147872391540">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/rute1203d-2120077147872391540.md">作品详情</a>
 <details><summary>📝 展开提示词</summary><p>作者在下方链接分享了提示词，请结合原始上下文、参考素材和后续指令阅读。</p><p><a href="https://x.com/rute1203d/status/2120077147872391540">查看作者公开提示词</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120073390942048256/vid/avc1/3024x1714/xZRjyNo0Fwszd5WF.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/haileyailabs-2120075292043890890.webp" alt="《禁止触碰》：分镜图驱动的 3D 短片 — @HaileyAILabs" width="100%" loading="lazy"></a><br>
 <b>《禁止触碰》：分镜图驱动的 3D 短片</b><br>
@@ -58,8 +67,6 @@
 <a href="https://video.twimg.com/amplify_video/2120073390942048256/vid/avc1/3024x1714/xZRjyNo0Fwszd5WF.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/HaileyAILabs/status/2120075292043890890">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/haileyailabs-2120075292043890890.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120014231450034176/vid/avc1/1920x1080/7CaA0vV2Tej61d3g.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/wshuyi-2120014892040417720.webp" alt="剑齿虎捕猎的代码动画 — @wshuyi" width="100%" loading="lazy"></a><br>
 <b>剑齿虎捕猎的代码动画</b><br>
@@ -74,6 +81,8 @@
 <a href="https://video.twimg.com/amplify_video/2120010999818289152/vid/avc1/1920x1080/IWfi7bdM6kIQXIB4.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/anabology/status/2120011096287297557">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/anabology-2120011096287297557.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119959154026840064/vid/avc1/1920x1080/xTHXVvf_6YhKOkmx.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/renoiseai-2119959294716326280.webp" alt="一只不肯照剧本演的猫 — @renoiseai" width="100%" loading="lazy"></a><br>
 <b>一只不肯照剧本演的猫</b><br>
@@ -81,8 +90,6 @@
 <a href="https://video.twimg.com/amplify_video/2119959154026840064/vid/avc1/1920x1080/xTHXVvf_6YhKOkmx.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/renoiseai/status/2119959294716326280">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/renoiseai-2119959294716326280.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119937132647313408/vid/avc1/1080x1080/T2W6Dhpu_gMoxVTM.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kevin-t-ngo-2119938129079808282.webp" alt="逐帧用 JavaScript 绘制的动画短片 — @kevin_t_ngo" width="100%" loading="lazy"></a><br>
 <b>逐帧用 JavaScript 绘制的动画短片</b><br>
@@ -97,6 +104,8 @@
 <a href="https://video.twimg.com/amplify_video/2119910396719177728/vid/avc1/1280x720/0X1wTe1JivqZgtXw.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/WesRoth/status/2119911161386934330">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/wesroth-934330.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119909698367557632/vid/avc1/1920x1080/EkOxfDMK1PSG_XOD.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kloss-xyz-2119910613828980846.webp" alt="Fable 5.2 策划、Opus 5.5 制作的 Blender 短片 — @kloss_xyz" width="100%" loading="lazy"></a><br>
 <b>Fable 5.2 策划、Opus 5.5 制作的 Blender 短片</b><br>
@@ -104,8 +113,6 @@
 <a href="https://video.twimg.com/amplify_video/2119909698367557632/vid/avc1/1920x1080/EkOxfDMK1PSG_XOD.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/kloss_xyz/status/2119910613828980846">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/kloss-xyz-2119910613828980846.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119904158409256960/vid/avc1/1920x1080/FHiVbLKGnw5mFlJ7.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/engmoelgaraihy-643141.webp" alt="一只猫唤醒了一台旧机器人 — @EngMoElgaraihy" width="100%" loading="lazy"></a><br>
 <b>一只猫唤醒了一台旧机器人</b><br>
@@ -120,6 +127,8 @@
 <a href="https://video.twimg.com/amplify_video/2119904119569690624/vid/avc1/1080x1920/24p1AimqIbXNXJ-Z.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/cube__lol/status/2119904449556832554">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/cube-lol-832554.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119904334397792256/vid/avc1/1920x1080/Sz-4m8aagrACSa85.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/g-beyrouti-780943.webp" alt="代码渲染的深海潜水 — @g_beyrouti" width="100%" loading="lazy"></a><br>
 <b>代码渲染的深海潜水</b><br>
@@ -127,8 +136,6 @@
 <a href="https://video.twimg.com/amplify_video/2119904334397792256/vid/avc1/1920x1080/Sz-4m8aagrACSa85.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/g_beyrouti/status/2119904386826780943">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/g-beyrouti-780943.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119900741783400450/vid/avc1/1920x1080/m--vaF5s-VQhaEAL.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/0kncn-543073.webp" alt="蒸汽机车动漫短片 — @0kncn" width="100%" loading="lazy"></a><br>
 <b>蒸汽机车动漫短片</b><br>
@@ -143,6 +150,8 @@
 <a href="https://video.twimg.com/amplify_video/2119899951345893376/vid/avc1/1920x1080/YjLMjLxfThe6MUXI.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/noisyb0y1/status/2119900528197218472">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/noisyb0y1-218472.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119897357940621312/vid/avc1/1920x1080/ZjoaXFviS7F_qc-m.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/yinyangyoeshi-001317.webp" alt="Three.js 短片《Discovery》 — @YinYangYoeshi" width="100%" loading="lazy"></a><br>
 <b>Three.js 短片《Discovery》</b><br>
@@ -150,8 +159,6 @@
 <a href="https://video.twimg.com/amplify_video/2119897357940621312/vid/avc1/1920x1080/ZjoaXFviS7F_qc-m.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/YinYangYoeshi/status/2119897840965001317">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/yinyangyoeshi-001317.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119895450509586432/vid/avc1/1920x1080/AS5GlEaPMeHXKU5d.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/jessalanfields-392730.webp" alt="《我从未见过的海》 — @jessalanfields" width="100%" loading="lazy"></a><br>
 <b>《我从未见过的海》</b><br>
@@ -166,6 +173,8 @@
 <a href="https://video.twimg.com/amplify_video/2119892377045237760/vid/avc1/1920x1080/u8IeGB-A3MQgl4XE.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/devteamdrew/status/2119892540950241283">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/devteamdrew-241283.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/osmanaga-146194.md"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/osmanaga-146194.webp" alt="《呐喊》背后的故事短片 — @osmanaga__" width="100%" loading="lazy"></a><br>
 <b>《呐喊》背后的故事短片</b><br>
@@ -173,8 +182,6 @@
 原帖暂不可用 · <a href="https://x.com/osmanaga__/status/2119892099437146194">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/osmanaga-146194.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119889346706673664/vid/avc1/1920x1080/VxlTVaaElWO17W42.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/marvellousdev-380563.webp" alt="灯塔守护人的短片 — @MarvellousDev" width="100%" loading="lazy"></a><br>
 <b>灯塔守护人的短片</b><br>
@@ -189,6 +196,8 @@
 <a href="https://video.twimg.com/amplify_video/2119887881321787392/vid/avc1/1920x1080/zPvL0-S5VSv6SkYI.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/ponken00/status/2119888362148622656">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/ponken00-622656.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/ext_tw_video/2119885702250786816/pu/vid/avc1/1280x720/vaqq1fwB8qUuFlPu.mp4?tag=27"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/peach2k2-738033.webp" alt="重音 Teto 主唱的 Vocaloid 情歌 — @peach2k2" width="100%" loading="lazy"></a><br>
 <b>重音 Teto 主唱的 Vocaloid 情歌</b><br>
@@ -196,8 +205,6 @@
 <a href="https://video.twimg.com/ext_tw_video/2119885702250786816/pu/vid/avc1/1280x720/vaqq1fwB8qUuFlPu.mp4?tag=27">▶ 完整视频</a> · <a href="https://x.com/peach2k2/status/2119885741773738033">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/peach2k2-738033.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119880037172146176/vid/avc1/1920x1080/E4G1BysAeWIl4yTX.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/lexnlin-977333.webp" alt="飞越一片生机勃勃的世界 — @LexnLin" width="100%" loading="lazy"></a><br>
 <b>飞越一片生机勃勃的世界</b><br>
@@ -212,18 +219,24 @@
 <a href="https://video.twimg.com/amplify_video/2119874130904502272/vid/avc1/1920x1080/FVx09qWfu11d8QIK.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/abhinavflac/status/2119875975131676827">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/abhinavflac-676827.md">作品详情</a>
 
 </td>
-<td width="33%"></td>
 </tr>
 </table>
 
 <a id="motion"></a>
 
-## 动态设计与动画 · 37
+## 动态设计与动画 · 38
 
 动态字体、粒子动画、生成艺术、SVG 动画与视觉实验。
 
 <table>
 <tr>
+<td width="33%" valign="top">
+<a href="https://video.twimg.com/amplify_video/2120540485764927488/vid/avc1/1920x1080/xC8eOMGaTeccgQUH.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kevin-t-ngo-2120540964909711415.webp" alt="用 Blender 渲染的复古动画片头 — @kevin_t_ngo" width="100%" loading="lazy"></a><br>
+<b>用 Blender 渲染的复古动画片头</b><br>
+<sub><b>新发现</b> · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · 0:45 · 2026-11-11</sub><br>
+<a href="https://video.twimg.com/amplify_video/2120540485764927488/vid/avc1/1920x1080/xC8eOMGaTeccgQUH.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/kevin_t_ngo/status/2120540964909711415">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/kevin-t-ngo-2120540964909711415.md">作品详情</a>
+
+</td>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120230145994694656/vid/avc1/1080x1920/ikcB__RdST1QlByH.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/iamwesleysmits-2120230414568599912.webp" alt="AI 宣布接管软件工程的动效短片 — @iamwesleysmits" width="100%" loading="lazy"></a><br>
 <b>AI 宣布接管软件工程的动效短片</b><br>
@@ -238,6 +251,8 @@
 <a href="https://video.twimg.com/amplify_video/2120171639031865344/vid/avc1/1920x1080/ePpeMCdemHzHeXby.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/argofowl/status/2120172009972003115">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/argofowl-2120172009972003115.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120127355821948928/vid/avc1/1048x720/YvT2SPzL_LdlCRo4.mp4?tag=14"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/nakachan-2120127995625316511.webp" alt="液态金属实时视听演示 — @Nakachan" width="100%" loading="lazy"></a><br>
 <b>液态金属实时视听演示</b><br>
@@ -245,8 +260,6 @@
 <a href="https://video.twimg.com/amplify_video/2120127355821948928/vid/avc1/1048x720/YvT2SPzL_LdlCRo4.mp4?tag=14">▶ 完整视频</a> · <a href="https://x.com/Nakachan/status/2120127995625316511">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/nakachan-2120127995625316511.md">作品详情</a>
 <details><summary>📝 展开提示词</summary><blockquote>Fable 5.2の考える最強のメガデモを作って</blockquote><p><a href="https://x.com/Nakachan/status/2120127995625316511">查看作者公开提示词</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120112581515829248/vid/avc1/2304x1440/FuMsMyEM4q9Lj-I7.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/maxt3chno-2120113578531234172.webp" alt="用参考视频驱动 Blender 中的 Tripo 角色动画 — @maxt3chno" width="100%" loading="lazy"></a><br>
 <b>用参考视频驱动 Blender 中的 Tripo 角色动画</b><br>
@@ -261,6 +274,8 @@
 <a href="https://video.twimg.com/amplify_video/2120030599155195904/vid/avc1/1128x1280/gg7e4hW5e7l_HZcs.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/akakuma0219/status/2120030634248929556">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/akakuma0219-2120030634248929556.md">作品详情</a>
 <details><summary>📝 展开提示词</summary><p>作者在下方链接分享了提示词，请结合原始上下文、参考素材和后续指令阅读。</p><p><a href="https://x.com/akakuma0219/status/2120030634248929556">查看作者公开提示词</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119953670280478720/vid/avc1/1920x1080/jpEsi7C-DU6eEvmL.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/leviwoyun-2119955625820258308.webp" alt="动态设计师作品集短片 — @Leviwoyun" width="100%" loading="lazy"></a><br>
 <b>动态设计师作品集短片</b><br>
@@ -268,8 +283,6 @@
 <a href="https://video.twimg.com/amplify_video/2119953670280478720/vid/avc1/1920x1080/jpEsi7C-DU6eEvmL.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/Leviwoyun/status/2119955625820258308">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/leviwoyun-2119955625820258308.md">作品详情</a>
 <details><summary>📝 展开提示词</summary><p>作者在下方链接分享了提示词，请结合原始上下文、参考素材和后续指令阅读。</p><p><a href="https://x.com/Leviwoyun/status/2119955625820258308">查看作者公开提示词</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119941109262815232/vid/avc1/1280x720/M2pIcNz3WNz2L3_c.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/muku-sns-2119941490969624679.webp" alt="电影片头设计：Fable 5.2 与 Opus 5.5 — @muku_sns" width="100%" loading="lazy"></a><br>
 <b>电影片头设计：Fable 5.2 与 Opus 5.5</b><br>
@@ -284,6 +297,8 @@
 <a href="https://video.twimg.com/amplify_video/2119909898960130048/vid/avc1/1440x1080/frJSbqPklB--YVmT.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/higgsfield_ai/status/2119909938969580024">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/higgsfield-ai-580024.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119906292542459904/vid/avc1/1920x1080/hSTBPKQjjpo8EiKA.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/higgsfield-ai-957629.webp" alt="让代码开口说话的共振峰合成器 — @higgsfield_ai" width="100%" loading="lazy"></a><br>
 <b>让代码开口说话的共振峰合成器</b><br>
@@ -291,8 +306,6 @@
 <a href="https://video.twimg.com/amplify_video/2119906292542459904/vid/avc1/1920x1080/hSTBPKQjjpo8EiKA.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/higgsfield_ai/status/2119906332077957629">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/higgsfield-ai-957629.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119903274031828992/vid/avc1/1920x1080/NG1jRcBKfR-B1SsJ.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kaif9998-761287.webp" alt="一条向 Opus 5.5 道别的样片 — @kaif9998" width="100%" loading="lazy"></a><br>
 <b>一条向 Opus 5.5 道别的样片</b><br>
@@ -307,6 +320,8 @@
 <a href="https://video.twimg.com/amplify_video/2119902893394337792/vid/avc1/1440x748/Qs1TOP9hXZf08Xkl.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/internetphysics/status/2119903808935313778">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/internetphysics-313778.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119902252723023872/vid/avc1/1920x1080/p0Q91YuD0ECQfDLv.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/heypearlai-113116.webp" alt="同一条提示词做出的动效样片 — @heypearlai" width="100%" loading="lazy"></a><br>
 <b>同一条提示词做出的动效样片</b><br>
@@ -314,8 +329,6 @@
 <a href="https://video.twimg.com/amplify_video/2119902252723023872/vid/avc1/1920x1080/p0Q91YuD0ECQfDLv.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/heypearlai/status/2119903760529113116">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/heypearlai-113116.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119903258588086272/vid/avc1/1808x1722/-oRMSGBL9FaVhUCA.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/jbabatalks-694319.webp" alt="一次生成的像素风树林 — @JBabaTalks" width="100%" loading="lazy"></a><br>
 <b>一次生成的像素风树林</b><br>
@@ -330,6 +343,8 @@
 <a href="https://video.twimg.com/amplify_video/2119902402643890177/vid/avc1/1920x918/dO0GyuVK6-YhKfS9.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/leoy_dev/status/2119903166149922853">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/leoy-dev-922853.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119900235761688576/vid/avc1/1080x1080/cejGINOI5PNwIMrQ.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/eluchocha-635455.webp" alt="剪纸风的日出动画 — @eluchocha" width="100%" loading="lazy"></a><br>
 <b>剪纸风的日出动画</b><br>
@@ -337,8 +352,6 @@
 <a href="https://video.twimg.com/amplify_video/2119900235761688576/vid/avc1/1080x1080/cejGINOI5PNwIMrQ.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/eluchocha/status/2119902302001635455">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/eluchocha-635455.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119901144256299009/vid/avc1/1080x1080/5idfS03gAdRsJT3k.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ici-dab-098351.webp" alt="粒子从混沌拼成一句 hello — @ici_dab" width="100%" loading="lazy"></a><br>
 <b>粒子从混沌拼成一句 hello</b><br>
@@ -353,6 +366,8 @@
 <a href="https://video.twimg.com/amplify_video/2119899709913579520/vid/avc1/1920x1080/3p4USJ7fdJfCsE8Y.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/techfren/status/2119899949756539056">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/techfren-539056.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119898688180850688/vid/avc1/1600x1200/iBBPAJliWGeytp-Y.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/eyadnour-910886.webp" alt="一个 SVG 做成的鹈鹕骑车动画 — @eyadnour" width="100%" loading="lazy"></a><br>
 <b>一个 SVG 做成的鹈鹕骑车动画</b><br>
@@ -360,8 +375,6 @@
 <a href="https://video.twimg.com/amplify_video/2119898688180850688/vid/avc1/1600x1200/iBBPAJliWGeytp-Y.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/eyadnour/status/2119899260606910886">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/eyadnour-910886.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119894212145778688/vid/avc1/1920x1080/nsF2E4hVVA0HQ4Uu.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/sverma-231-570708.webp" alt="瓦拉纳西河岸的天神排灯节 — @sverma_231" width="100%" loading="lazy"></a><br>
 <b>瓦拉纳西河岸的天神排灯节</b><br>
@@ -376,6 +389,8 @@
 <a href="https://video.twimg.com/amplify_video/2119892925077143552/vid/avc1/1920x1080/SEaLFBXtc8dukb55.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/benjistacked/status/2119893035240849805">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/benjistacked-849805.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119889498527969281/vid/avc1/960x540/EqG79zEwj6BDTrPE.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/mattshumer-147409.webp" alt="在家就能造的宠物机器人 — @mattshumer_" width="100%" loading="lazy"></a><br>
 <b>在家就能造的宠物机器人</b><br>
@@ -383,8 +398,6 @@
 <a href="https://video.twimg.com/amplify_video/2119889498527969281/vid/avc1/960x540/EqG79zEwj6BDTrPE.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/mattshumer_/status/2119889518564147409">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/mattshumer-147409.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119889199935447041/vid/avc1/2048x2048/TrgMbHC6HoEL8LT9.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/dummerspast39-432389.webp" alt="鹈鹕、自行车和一只手柄 — @dummerspast39" width="100%" loading="lazy"></a><br>
 <b>鹈鹕、自行车和一只手柄</b><br>
@@ -399,6 +412,8 @@
 原帖暂不可用 · <a href="https://x.com/titouangillet_/status/2119885739769131093">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/titouangillet-131093.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119884897305190402/vid/avc1/1920x1080/S18ZsHUYlSo8vdOU.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/maaaaaaadiii-714946.webp" alt="由细小棱镜组成的贴纸招牌 — @Maaaaaaadiii" width="100%" loading="lazy"></a><br>
 <b>由细小棱镜组成的贴纸招牌</b><br>
@@ -406,8 +421,6 @@
 <a href="https://video.twimg.com/amplify_video/2119884897305190402/vid/avc1/1920x1080/S18ZsHUYlSo8vdOU.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/Maaaaaaadiii/status/2119885527243714946">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/maaaaaaadiii-714946.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119884273071411200/vid/avc1/1280x720/DwN1eSgpBgK8Wpa6.mp4?tag=14"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/other-reality-913784.webp" alt="小巫师放飞了 Fable 5.2 — @other__reality" width="100%" loading="lazy"></a><br>
 <b>小巫师放飞了 Fable 5.2</b><br>
@@ -422,6 +435,8 @@
 <a href="https://video.twimg.com/amplify_video/2119884921611460608/vid/avc1/1920x1080/P5jqJNDpsShsC-ka.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/QRoonjha/status/2119885167045300593">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/qroonjha-300593.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119884053226651648/vid/avc1/1920x1080/PTIheNUul9mU31Ay.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/jumperz-757436.webp" alt="一座漂浮的像素小岛 — @jumperz" width="100%" loading="lazy"></a><br>
 <b>一座漂浮的像素小岛</b><br>
@@ -429,8 +444,6 @@
 <a href="https://video.twimg.com/amplify_video/2119884053226651648/vid/avc1/1920x1080/PTIheNUul9mU31Ay.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/jumperz/status/2119884258789757436">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/jumperz-757436.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119884052622876672/vid/avc1/1920x1080/cKq9zTwAltKH6RX3.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/abhinavflac-581980.webp" alt="完整动起来的鹈鹕骑车 — @abhinavflac" width="100%" loading="lazy"></a><br>
 <b>完整动起来的鹈鹕骑车</b><br>
@@ -445,6 +458,8 @@
 <a href="https://video.twimg.com/amplify_video/2119883683788460032/vid/avc1/1920x1080/uhCV24iRRwiw6DZD.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/octuedit/status/2119883810133397978">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/octuedit-397978.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/immadiuttej-538626.md"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/immadiuttej-538626.webp" alt="40 万粒子的完美循环 — @immadiuttej" width="100%" loading="lazy"></a><br>
 <b>40 万粒子的完美循环</b><br>
@@ -452,8 +467,6 @@
 原帖暂不可用 · <a href="https://x.com/immadiuttej/status/2119882515410538626">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/immadiuttej-538626.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119881783424827392/vid/avc1/720x1278/izAE8abvXqtU_pQN.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/aimi-teno-229421.webp" alt="印象派像素画里的小河 — @aimi_teno" width="100%" loading="lazy"></a><br>
 <b>印象派像素画里的小河</b><br>
@@ -468,6 +481,8 @@
 <a href="https://video.twimg.com/amplify_video/2119871816848084993/vid/avc1/3840x2160/KTr_-pLweRTaTs_F.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/dfeinition/status/2119881243990859818">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/dfeinition-859818.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119879938488811520/vid/avc1/3840x2160/0a9v9wYF2-6m0Ibf.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/octuedit-171806.webp" alt="一段行星主题的片头 — @octuedit" width="100%" loading="lazy"></a><br>
 <b>一段行星主题的片头</b><br>
@@ -475,8 +490,6 @@
 <a href="https://video.twimg.com/amplify_video/2119879938488811520/vid/avc1/3840x2160/0a9v9wYF2-6m0Ibf.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/octuedit/status/2119880089039171806">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/octuedit-171806.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119878913857888257/vid/avc1/1920x1080/ydaWAIBjAaoGY3Ei.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/dariuusnv-329192.webp" alt="一段讲自己的十秒动画 — @dariuusnv" width="100%" loading="lazy"></a><br>
 <b>一段讲自己的十秒动画</b><br>
@@ -491,6 +504,8 @@
 <a href="https://video.twimg.com/amplify_video/2119871818400231424/vid/avc1/1920x1080/18OA01YaRqLibwCV.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/seanaiux/status/2119877685044240526">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/seanaiux-240526.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119876092433510400/vid/avc1/1920x1080/FdZgIOU9olLEHOKV.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/josendev-243409.webp" alt="等距视角的漂浮村庄 — @josendev" width="100%" loading="lazy"></a><br>
 <b>等距视角的漂浮村庄</b><br>
@@ -498,8 +513,6 @@
 <a href="https://video.twimg.com/amplify_video/2119876092433510400/vid/avc1/1920x1080/FdZgIOU9olLEHOKV.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/josendev/status/2119876164051243409">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/josendev-243409.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119875459819450368/vid/avc1/1160x1200/m_1yxd9t-C37pVN-.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/devsvn2-070289.webp" alt="一笔一笔画成的人像 — @devsvn2" width="100%" loading="lazy"></a><br>
 <b>一笔一笔画成的人像</b><br>
@@ -508,18 +521,24 @@
 
 </td>
 <td width="33%"></td>
-<td width="33%"></td>
 </tr>
 </table>
 
 <a id="3d"></a>
 
-## 3D 世界与模拟 · 70
+## 3D 世界与模拟 · 71
 
 程序化世界、虚拟城市、Blender 场景与物理模拟。
 
 <table>
 <tr>
+<td width="33%" valign="top">
+<a href="https://video.twimg.com/amplify_video/2120314560297021440/vid/avc1/3840x2160/7HGk23L88dFl3nSk.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/sin-ceriously-2120318808216981986.webp" alt="Lattice 里的弹珠连锁机关 — @sin_ceriously" width="100%" loading="lazy"></a><br>
+<b>Lattice 里的弹珠连锁机关</b><br>
+<sub><b>新发现</b> · <a href="https://x.com/sin_ceriously">@sin_ceriously</a> · 0:25 · 2026-11-11</sub><br>
+<a href="https://video.twimg.com/amplify_video/2120314560297021440/vid/avc1/3840x2160/7HGk23L88dFl3nSk.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/sin_ceriously/status/2120318808216981986">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/sin-ceriously-2120318808216981986.md">作品详情</a>
+
+</td>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120265385471574016/vid/avc1/1920x1080/fIfzIciKght3vPN5.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/oalanicolas-2120266468780585456.webp" alt="从平面图和照片生成 3D 住宅漫游 — @oalanicolas" width="100%" loading="lazy"></a><br>
 <b>从平面图和照片生成 3D 住宅漫游</b><br>
@@ -534,6 +553,8 @@
 <a href="https://video.twimg.com/amplify_video/2120225991066779648/vid/avc1/3840x2160/4z8saQVTMhPUC8Cw.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/tornikegomareli/status/2120227696261120225">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/tornikegomareli-2120227696261120225.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120113092512436224/vid/avc1/3380x2026/IoUOfTQR_hB4fWMx.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/jsnnsa-2120113469290901850.webp" alt="带有细腻石面起伏的鹅卵石庭院 — @jsnnsa" width="100%" loading="lazy"></a><br>
 <b>带有细腻石面起伏的鹅卵石庭院</b><br>
@@ -541,8 +562,6 @@
 <a href="https://video.twimg.com/amplify_video/2120113092512436224/vid/avc1/3380x2026/IoUOfTQR_hB4fWMx.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/jsnnsa/status/2120113469290901850">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/jsnnsa-2120113469290901850.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120098419654230017/vid/avc1/1920x1080/oFLDhtXCqoMaEWyp.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kanaworks-ai-2120098607382880627.webp" alt="穿越不断变换的 3D 世界的连续飞行 — @KanaWorks_AI" width="100%" loading="lazy"></a><br>
 <b>穿越不断变换的 3D 世界的连续飞行</b><br>
@@ -557,6 +576,8 @@
 <a href="https://video.twimg.com/amplify_video/2120071508370640896/vid/avc1/3586x2160/cVxJQZsnnBLew_X_.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/adamdotnew/status/2120071630139621540">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/adamdotnew-2120071630139621540.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119997805469343744/vid/avc1/1920x1080/k9AwH2MwZ_uq1Npk.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kanaworks-ai-2119998466143490282.webp" alt="搭配 ElevenLabs 音频的 Blender 草地世界 — @KanaWorks_AI" width="100%" loading="lazy"></a><br>
 <b>搭配 ElevenLabs 音频的 Blender 草地世界</b><br>
@@ -564,8 +585,6 @@
 <a href="https://video.twimg.com/amplify_video/2119997805469343744/vid/avc1/1920x1080/k9AwH2MwZ_uq1Npk.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/KanaWorks_AI/status/2119998466143490282">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/kanaworks-ai-2119998466143490282.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119965554627014656/vid/avc1/1920x1080/5kgrvrWg41_GG_7E.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/xikhar-2119966147328299284.webp" alt="参考图驱动的布加迪 Tourbillon Blender 短片 — @xikhar" width="100%" loading="lazy"></a><br>
 <b>参考图驱动的布加迪 Tourbillon Blender 短片</b><br>
@@ -580,6 +599,8 @@
 <a href="https://video.twimg.com/amplify_video/2119931613010108416/vid/avc1/1920x1080/ajuuqeO_AOInKjjo.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/loktar00/status/2119958719362666708">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/loktar00-2119958719362666708.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119955491941949440/vid/avc1/1080x1216/I1OZU6Yuz2YtpyCA.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/mrtacticalx-2119955647542542439.webp" alt="玻璃泳池：Fable 5.2 与 Opus 5.5 对比 — @MrTacticalX" width="100%" loading="lazy"></a><br>
 <b>玻璃泳池：Fable 5.2 与 Opus 5.5 对比</b><br>
@@ -587,8 +608,6 @@
 <a href="https://video.twimg.com/amplify_video/2119955491941949440/vid/avc1/1080x1216/I1OZU6Yuz2YtpyCA.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/MrTacticalX/status/2119955647542542439">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/mrtacticalx-2119955647542542439.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119950297183166464/vid/avc1/1920x1080/Rlaw9k2rNAElPEi1.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/maxxwilliamson-2119953172634677533.webp" alt="地中海风格的太空栖居地 — @MaxXWilliamson" width="100%" loading="lazy"></a><br>
 <b>地中海风格的太空栖居地</b><br>
@@ -603,6 +622,8 @@
 <a href="https://video.twimg.com/amplify_video/2119915176354885632/vid/avc1/1920x1080/KKtYnQwg6iF7nZO0.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/higgsfield_ai/status/2119918834841010320">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/higgsfield-ai-2119918834841010320.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119918430635626496/vid/avc1/1080x1210/P1HVkhM5lHbULv8J.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/higgsfield-ai-2119918838490010008.webp" alt="用代码构建的美式餐厅 — @higgsfield_ai" width="100%" loading="lazy"></a><br>
 <b>用代码构建的美式餐厅</b><br>
@@ -610,8 +631,6 @@
 <a href="https://video.twimg.com/amplify_video/2119918430635626496/vid/avc1/1080x1210/P1HVkhM5lHbULv8J.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/higgsfield_ai/status/2119918838490010008">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/higgsfield-ai-2119918838490010008.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119910441837305856/vid/avc1/2300x1080/9Jjvi_wR23hStOua.mp4?tag=16"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/handsher-ngu-789655.webp" alt="飞进一座旋涡星系 — @handsher_NGU" width="100%" loading="lazy"></a><br>
 <b>飞进一座旋涡星系</b><br>
@@ -626,6 +645,8 @@
 <a href="https://video.twimg.com/amplify_video/2119909152743194624/vid/avc1/1920x1080/F_ZjzZnw1Sh-Mmb8.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/higgsfield_ai/status/2119910344998912507">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/higgsfield-ai-912507.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119909700862943233/vid/avc1/1920x1080/FN2antQKJ-tZoIhH.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/scratcherrrr-785332.webp" alt="会自己拆解的 3D 食人鱼 — @Scratcherrrr" width="100%" loading="lazy"></a><br>
 <b>会自己拆解的 3D 食人鱼</b><br>
@@ -633,8 +654,6 @@
 <a href="https://video.twimg.com/amplify_video/2119909700862943233/vid/avc1/1920x1080/FN2antQKJ-tZoIhH.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/Scratcherrrr/status/2119909780269785332">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/scratcherrrr-785332.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/ext_tw_video/2119909140998823936/pu/vid/avc1/1280x720/Le9VVnckc0pwI3QT.mp4?tag=12"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/s-matysik-213380.webp" alt="给 Agent 系统做的指挥中心 — @s_matysik" width="100%" loading="lazy"></a><br>
 <b>给 Agent 系统做的指挥中心</b><br>
@@ -649,6 +668,8 @@
 <a href="https://video.twimg.com/amplify_video/2119908342663651330/vid/avc1/1920x1080/qPUbaNsET2HB1nmF.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/higgsfield_ai/status/2119908486880342326">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/higgsfield-ai-342326.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119907568432934912/vid/avc1/1920x1080/eq_KAVRRnNt9sJcM.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/higgsfield-ai-496421.webp" alt="苍蝇眼里的世界 — @higgsfield_ai" width="100%" loading="lazy"></a><br>
 <b>苍蝇眼里的世界</b><br>
@@ -656,8 +677,6 @@
 <a href="https://video.twimg.com/amplify_video/2119907568432934912/vid/avc1/1920x1080/eq_KAVRRnNt9sJcM.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/higgsfield_ai/status/2119907841599496421">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/higgsfield-ai-496421.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119907107449544704/vid/avc1/2880x2880/aQsdilYUcKwF_4Di.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/envoldev-2119907318729245180.webp" alt="冰之教堂：Fable 5.2 与 Opus 5.5 对比 — @EnvolDev" width="100%" loading="lazy"></a><br>
 <b>冰之教堂：Fable 5.2 与 Opus 5.5 对比</b><br>
@@ -672,6 +691,8 @@
 <a href="https://video.twimg.com/amplify_video/2119906290478559232/vid/avc1/1880x1280/d1J65qUiPlX62ABY.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/LuminaBench/status/2119907096636657696">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/luminabench-657696.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119906227853602816/vid/avc1/1920x1080/N4YdoIeKUPkbvTzU.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/fuoeba-307074.webp" alt="不用 3D 软件，从零写的光线追踪器 — @fuoeba" width="100%" loading="lazy"></a><br>
 <b>不用 3D 软件，从零写的光线追踪器</b><br>
@@ -679,8 +700,6 @@
 <a href="https://video.twimg.com/amplify_video/2119906227853602816/vid/avc1/1920x1080/N4YdoIeKUPkbvTzU.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/fuoeba/status/2119906486017307074">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/fuoeba-307074.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119905289743020032/vid/avc1/1920x1080/etz_eCYQ6b-Lj5MO.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/higgsfield-ai-945977.webp" alt="纯代码搭出的墨西哥城集市 — @higgsfield_ai" width="100%" loading="lazy"></a><br>
 <b>纯代码搭出的墨西哥城集市</b><br>
@@ -695,6 +714,8 @@
 <a href="https://video.twimg.com/amplify_video/2119906148698484736/vid/avc1/1920x1080/Sgdo6c9D1mBdZbhn.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/josendev/status/2119906280118845704">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/josendev-845704.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119905884365074432/vid/avc1/1922x1080/SgmAc5CFTaaJq3tq.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/sprinntt-988961.webp" alt="东京雨夜里的拉面摊 — @sprinntt" width="100%" loading="lazy"></a><br>
 <b>东京雨夜里的拉面摊</b><br>
@@ -702,8 +723,6 @@
 <a href="https://video.twimg.com/amplify_video/2119905884365074432/vid/avc1/1922x1080/SgmAc5CFTaaJq3tq.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/sprinntt/status/2119906202330988961">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/sprinntt-988961.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119904377221910528/vid/avc1/1920x1080/NVeak_ycaNknS-mN.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/notjazii-122575.webp" alt="横渡大洋的海盗船 — @notjazii" width="100%" loading="lazy"></a><br>
 <b>横渡大洋的海盗船</b><br>
@@ -718,6 +737,8 @@
 <a href="https://video.twimg.com/amplify_video/2119904157574279169/vid/avc1/1440x1080/sQX85HkDqeEicshB.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/MooncastOnline/status/2119905190254145963">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/mooncastonline-145963.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119903112425066496/vid/avc1/1920x1080/m1x8bc6dk1l-gRsQ.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/higgsfield-ai-484595.webp" alt="不用视频模型做出的东京雨巷 — @higgsfield_ai" width="100%" loading="lazy"></a><br>
 <b>不用视频模型做出的东京雨巷</b><br>
@@ -725,8 +746,6 @@
 <a href="https://video.twimg.com/amplify_video/2119903112425066496/vid/avc1/1920x1080/m1x8bc6dk1l-gRsQ.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/higgsfield_ai/status/2119905141822484595">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/higgsfield-ai-484595.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119903375407878145/vid/avc1/1920x1080/CLp6m1t05mkdAtEV.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/adityavg13-799971.webp" alt="用 Blender 搭出的星球大战战场 — @adityavg13" width="100%" loading="lazy"></a><br>
 <b>用 Blender 搭出的星球大战战场</b><br>
@@ -741,6 +760,8 @@
 <a href="https://video.twimg.com/amplify_video/2119902373770334209/vid/avc1/1920x1080/vCU11lupXlFgCNwm.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/AmirMushich/status/2119903338078564844">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/amirmushich-564844.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119901650827489280/vid/avc1/1920x1080/jGY1FHT06IKubKX6.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/pleometric-186234.webp" alt="致敬 90 年代 Bryce 光线追踪 — @pleometric" width="100%" loading="lazy"></a><br>
 <b>致敬 90 年代 Bryce 光线追踪</b><br>
@@ -748,8 +769,6 @@
 <a href="https://video.twimg.com/amplify_video/2119901650827489280/vid/avc1/1920x1080/jGY1FHT06IKubKX6.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/pleometric/status/2119901747930186234">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/pleometric-186234.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119900521687314432/vid/avc1/1920x1080/jEvZ74FxOfPJmnWp.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kplikethebird-902732.webp" alt="沉浸式古耶路撒冷 3D 模型 — @kplikethebird" width="100%" loading="lazy"></a><br>
 <b>沉浸式古耶路撒冷 3D 模型</b><br>
@@ -764,6 +783,8 @@
 <a href="https://video.twimg.com/amplify_video/2119899434121330688/vid/avc1/1920x1080/TejXiGNAzz3Ug7pm.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/rohit3a/status/2119899684999487954">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/rohit3a-487954.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119883625831538689/vid/avc1/1920x1080/oYiIXmDxdlAt7KPN.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/sakshamships-310965.webp" alt="15 分钟建出的旧金山模型 — @sakshamships" width="100%" loading="lazy"></a><br>
 <b>15 分钟建出的旧金山模型</b><br>
@@ -771,8 +792,6 @@
 <a href="https://video.twimg.com/amplify_video/2119883625831538689/vid/avc1/1920x1080/oYiIXmDxdlAt7KPN.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/sakshamships/status/2119898573135310965">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/sakshamships-310965.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119898031696887808/vid/avc1/1280x960/23BJrLg2vEzkewba.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/convictionfaq-937131.webp" alt="PS2 画风的核爆 — @ConvictionFAQ" width="100%" loading="lazy"></a><br>
 <b>PS2 画风的核爆</b><br>
@@ -787,6 +806,8 @@
 <a href="https://video.twimg.com/amplify_video/2119896430353534976/vid/avc1/1920x1080/J3yEymSqwiVofoL_.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/0xVe1vet/status/2119896809669849204">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/0xve1vet-849204.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119896529141907456/vid/avc1/2250x1440/xC2zlZFZ03UvSURS.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/maxt3chno-467952.webp" alt="用 Blender MCP 雕出的僵尸鹰 — @maxt3chno" width="100%" loading="lazy"></a><br>
 <b>用 Blender MCP 雕出的僵尸鹰</b><br>
@@ -794,8 +815,6 @@
 <a href="https://video.twimg.com/amplify_video/2119896529141907456/vid/avc1/2250x1440/xC2zlZFZ03UvSURS.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/maxt3chno/status/2119896698281467952">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/maxt3chno-467952.md">作品详情</a>
 <details><summary>📝 展开提示词</summary><p>作者在下方链接分享了提示词，请结合原始上下文、参考素材和后续指令阅读。</p><p><a href="https://x.com/maxt3chno/status/2119896909062058411">查看作者公开提示词</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119896354348470272/vid/avc1/1920x1080/DrkpfAkS2c4i2-N5.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/rezait00-020389.webp" alt="中等思考强度下做出的汽车配置器 — @RezAIT00" width="100%" loading="lazy"></a><br>
 <b>中等思考强度下做出的汽车配置器</b><br>
@@ -810,6 +829,8 @@
 <a href="https://video.twimg.com/amplify_video/2119894403456040960/vid/avc1/1920x1080/imN7Z7KJWRG_8ad3.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/filicroval/status/2119896439010811943">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/filicroval-811943.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119896067659436032/vid/avc1/1906x848/TE0E4Re4hx1qXj2V.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/viewsfrom02108-437907.webp" alt="照片级写实的日落灯塔 — @viewsfrom02108" width="100%" loading="lazy"></a><br>
 <b>照片级写实的日落灯塔</b><br>
@@ -817,8 +838,6 @@
 <a href="https://video.twimg.com/amplify_video/2119896067659436032/vid/avc1/1906x848/TE0E4Re4hx1qXj2V.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/viewsfrom02108/status/2119896345729437907">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/viewsfrom02108-437907.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119895988517343232/vid/avc1/1920x1080/40ePOR3KPdp1Eqd3.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/zirkomirko-529121.webp" alt="不到两分钟做出的火箭发射 — @ZirkoMirko" width="100%" loading="lazy"></a><br>
 <b>不到两分钟做出的火箭发射</b><br>
@@ -833,6 +852,8 @@
 <a href="https://video.twimg.com/amplify_video/2119895394016522240/vid/avc1/1920x1080/OE8d18z8O2VOXnQ5.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/Ldataengineer/status/2119896030993146101">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/ldataengineer-146101.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119895528955617280/vid/avc1/1920x1080/F7m3cnVjtmBdlqPK.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ericskavinski-016005.webp" alt="Three.js 里的日落海面 — @ericskavinski" width="100%" loading="lazy"></a><br>
 <b>Three.js 里的日落海面</b><br>
@@ -840,8 +861,6 @@
 <a href="https://video.twimg.com/amplify_video/2119895528955617280/vid/avc1/1920x1080/F7m3cnVjtmBdlqPK.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/ericskavinski/status/2119895601580016005">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/ericskavinski-016005.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119894442358222848/vid/avc1/1080x1150/e2AYnwUWdNOCcvtU.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/higgsfield-ai-168558.webp" alt="根据一段环绕视频建出的仿生人头 — @higgsfield_ai" width="100%" loading="lazy"></a><br>
 <b>根据一段环绕视频建出的仿生人头</b><br>
@@ -856,6 +875,8 @@
 <a href="https://video.twimg.com/amplify_video/2119894096084910080/vid/avc1/1920x1080/7-lN899uuXxwQv1y.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/RezAIT00/status/2119894257519767656">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/rezait00-767656.md">作品详情</a>
 <details><summary>📝 展开提示词</summary><p>作者在下方链接分享了提示词，请结合原始上下文、参考素材和后续指令阅读。</p><p><a href="https://x.com/RezAIT00/status/2119898136894156960">查看作者公开提示词</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119893746644840448/vid/avc1/1880x1280/eNjCHemdxyEBKfdz.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/luminabench-807746.webp" alt="贴着海面起飞的水上飞机 — @LuminaBench" width="100%" loading="lazy"></a><br>
 <b>贴着海面起飞的水上飞机</b><br>
@@ -863,8 +884,6 @@
 <a href="https://video.twimg.com/amplify_video/2119893746644840448/vid/avc1/1880x1280/eNjCHemdxyEBKfdz.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/LuminaBench/status/2119894130943807746">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/luminabench-807746.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119894029424828416/vid/avc1/1080x1080/yTttnmO-BNIQd7SD.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/josendev-730048.webp" alt="抖动像素风的土星 — @josendev" width="100%" loading="lazy"></a><br>
 <b>抖动像素风的土星</b><br>
@@ -879,6 +898,8 @@
 <a href="https://video.twimg.com/amplify_video/2119888131575205888/vid/avc1/1920x1080/9qPoYSv2XDOLxkOX.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/higgsfield_ai/status/2119893970897490135">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/higgsfield-ai-490135.md">作品详情</a>
 <details><summary>📝 展开提示词</summary><p>作者在下方链接分享了提示词，请结合原始上下文、参考素材和后续指令阅读。</p><p><a href="https://higgsfield.ai/zh/@higgsfield.studio/blogs/bring-a-zombie-hand-to-life-with-fable-5-2-blender">查看作者公开提示词</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119893810201411584/vid/avc1/1920x1080/KGUGqEyqh334QrTo.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/abhinavflac-859332.webp" alt="用汽水罐改装的科幻爆能枪 — @abhinavflac" width="100%" loading="lazy"></a><br>
 <b>用汽水罐改装的科幻爆能枪</b><br>
@@ -886,8 +907,6 @@
 <a href="https://video.twimg.com/amplify_video/2119893810201411584/vid/avc1/1920x1080/KGUGqEyqh334QrTo.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/abhinavflac/status/2119893868816859332">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/abhinavflac-859332.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119891121857871872/vid/avc1/1920x1080/luZ3TJiesksBThce.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/simonasltu1-622262.webp" alt="Three.js 人体解剖浏览器 — @SimonasLTU1" width="100%" loading="lazy"></a><br>
 <b>Three.js 人体解剖浏览器</b><br>
@@ -902,6 +921,8 @@
 <a href="https://video.twimg.com/amplify_video/2119891371049861120/vid/avc1/1908x1080/PkN_icMknPZh5G7T.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/ioTanjiro/status/2119891527438606534">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/iotanjiro-606534.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119890640389451776/vid/avc1/1920x858/MZRufVqslQKy01c9.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/marcthecreatorr-054072.webp" alt="云海之上的金色帆船 — @marcthecreatorr" width="100%" loading="lazy"></a><br>
 <b>云海之上的金色帆船</b><br>
@@ -909,8 +930,6 @@
 <a href="https://video.twimg.com/amplify_video/2119890640389451776/vid/avc1/1920x858/MZRufVqslQKy01c9.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/marcthecreatorr/status/2119890973560054072">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/marcthecreatorr-054072.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119890352924479488/vid/avc1/1888x788/OS0DZVhnM9SbIhhK.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/paulgrowthlab-499382.webp" alt="一个口袋黑洞 — @paulgrowthlab" width="100%" loading="lazy"></a><br>
 <b>一个口袋黑洞</b><br>
@@ -925,6 +944,8 @@
 <a href="https://video.twimg.com/amplify_video/2119890001999880192/vid/avc1/1920x1080/CjYHuGQSGo5-pMNi.mp4?tag=16">▶ 完整视频</a> · <a href="https://x.com/higgsfield_ai/status/2119890046748938248">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/higgsfield-ai-938248.md">作品详情</a>
 <details><summary>📝 展开提示词</summary><p>作者在下方链接分享了提示词，请结合原始上下文、参考素材和后续指令阅读。</p><p><a href="https://higgsfield.ai/zh/@higgsfield.studio/blogs/how-we-built-a-transparent-glass-head-in-3d-with-claude-and-one-360-video">查看作者公开提示词</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119889136433733632/vid/avc1/1080x1228/EDx7xjJIZ2ONA83t.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/trymirage-972028.webp" alt="白宫的过去与现在 — @trymirage" width="100%" loading="lazy"></a><br>
 <b>白宫的过去与现在</b><br>
@@ -932,8 +953,6 @@
 <a href="https://video.twimg.com/amplify_video/2119889136433733632/vid/avc1/1080x1228/EDx7xjJIZ2ONA83t.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/trymirage/status/2119889897200972028">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/trymirage-972028.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119887691294932992/vid/avc1/1280x720/EjANhoPD5I8ooX55.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/zrymiller-106941.webp" alt="从黄金时刻到暴风雨的海面 — @ZryMiller" width="100%" loading="lazy"></a><br>
 <b>从黄金时刻到暴风雨的海面</b><br>
@@ -948,6 +967,8 @@
 <a href="https://video.twimg.com/amplify_video/2119887223810076672/vid/avc1/1920x1080/K6WJ5UYNKbbENVTI.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/danteeonsol/status/2119887623070077213">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/danteeonsol-077213.md">作品详情</a>
 <details><summary>📝 展开提示词</summary><p>作者在下方链接分享了提示词，请结合原始上下文、参考素材和后续指令阅读。</p><p><a href="https://x.com/danteeonsol/status/2119887623070077213">查看作者公开提示词</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119886346873364480/vid/avc1/1920x1080/kfnhup5vHOkgbHDt.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/handsher-ngu-863367.webp" alt="20 分钟渲染出的星系 — @handsher_NGU" width="100%" loading="lazy"></a><br>
 <b>20 分钟渲染出的星系</b><br>
@@ -955,8 +976,6 @@
 <a href="https://video.twimg.com/amplify_video/2119886346873364480/vid/avc1/1920x1080/kfnhup5vHOkgbHDt.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/handsher_NGU/status/2119887298292863367">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/handsher-ngu-863367.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119885516627685376/vid/avc1/3442x2160/7U_wQnmQ-ZIsZ463.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/scottstts-734829.webp" alt="八条腿的机械漫游车 — @scottstts" width="100%" loading="lazy"></a><br>
 <b>八条腿的机械漫游车</b><br>
@@ -971,6 +990,8 @@
 <a href="https://video.twimg.com/amplify_video/2119886495347867648/vid/avc1/1920x1080/8nAOHCNBnOTAqt0t.mp4?tag=16">▶ 完整视频</a> · <a href="https://x.com/petergyang/status/2119886560992854431">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/petergyang-854431.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119885405017231360/vid/avc1/3840x2160/JC0qROK6I5UsQ7vf.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/dfeinition-625062.webp" alt="午后阳光下晾着的衣服 — @dfeinition" width="100%" loading="lazy"></a><br>
 <b>午后阳光下晾着的衣服</b><br>
@@ -978,8 +999,6 @@
 <a href="https://video.twimg.com/amplify_video/2119885405017231360/vid/avc1/3840x2160/JC0qROK6I5UsQ7vf.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/dfeinition/status/2119886262211625062">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/dfeinition-625062.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119884723724181504/vid/avc1/1920x1080/FCwoqJyjTApsUnhD.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/sudophoenix-655872.webp" alt="蜘蛛把一个标志织进了网里 — @sudoPhoeniX" width="100%" loading="lazy"></a><br>
 <b>蜘蛛把一个标志织进了网里</b><br>
@@ -994,6 +1013,8 @@
 <a href="https://video.twimg.com/amplify_video/2119877995053920256/vid/avc1/3840x1748/sAyC8nBMMumprGvV.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/TekonBurns/status/2119880835121963500">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/tekonburns-963500.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119878879212949505/vid/avc1/1728x854/OExPzr7l-bAJgpyk.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/mattshumer-766782.webp" alt="在 Mirror Earth 里的雨夜驾驶 — @mattshumer_" width="100%" loading="lazy"></a><br>
 <b>在 Mirror Earth 里的雨夜驾驶</b><br>
@@ -1001,8 +1022,6 @@
 <a href="https://video.twimg.com/amplify_video/2119878879212949505/vid/avc1/1728x854/OExPzr7l-bAJgpyk.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/mattshumer_/status/2119879860344766782">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/mattshumer-766782.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119876740310835201/vid/avc1/3840x1916/WFwbynhEGY1SxPup.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/petergostev-394520.webp" alt="一条提示词建出的伊斯坦布尔 — @petergostev" width="100%" loading="lazy"></a><br>
 <b>一条提示词建出的伊斯坦布尔</b><br>
@@ -1017,6 +1036,8 @@
 <a href="https://video.twimg.com/amplify_video/2119873847369621504/vid/avc1/1080x1080/LDbZJxUYD0WsXDWe.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/hello_amani/status/2119873980786237842">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/hello-amani-237842.md">作品详情</a>
 <details><summary>📝 展开提示词</summary><blockquote>make my logo reveal in 3D with chromatic metal and grids</blockquote><p><a href="https://x.com/hello_amani/status/2119890392456073525">查看作者公开提示词</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119871695930490880/vid/avc1/1920x1080/mZO4hKSagiOfBukM.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/hammer-mt-346319.webp" alt="3D 版纽约之战 — @hammer_mt" width="100%" loading="lazy"></a><br>
 <b>3D 版纽约之战</b><br>
@@ -1024,8 +1045,6 @@
 <a href="https://video.twimg.com/amplify_video/2119871695930490880/vid/avc1/1920x1080/mZO4hKSagiOfBukM.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/hammer_mt/status/2119871817561346319">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/hammer-mt-346319.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119871440292077568/vid/avc1/3840x1748/UY8m3TUPRs8yFPMs.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/tekonburns-660260.webp" alt="自己组装起来的病毒衣壳 — @TekonBurns" width="100%" loading="lazy"></a><br>
 <b>自己组装起来的病毒衣壳</b><br>
@@ -1040,6 +1059,8 @@
 <a href="https://video.twimg.com/amplify_video/2119870538436767745/vid/avc1/1280x720/Rul4Oy5QL34LIwQ6.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/mattshumer_/status/2119870965106483384">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/mattshumer-483384.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119868287026892800/vid/avc1/1920x1080/aeL8BZjCQk_hzNJ0.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/matthewberman-060195.webp" alt="每个居民都会思考的欧洲小镇 — @MatthewBerman" width="100%" loading="lazy"></a><br>
 <b>每个居民都会思考的欧洲小镇</b><br>
@@ -1047,8 +1068,6 @@
 <a href="https://video.twimg.com/amplify_video/2119868287026892800/vid/avc1/1920x1080/aeL8BZjCQk_hzNJ0.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/MatthewBerman/status/2119868638929060195">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/matthewberman-060195.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119868225114783744/vid/avc1/1920x1080/uLOwWFt5YQwDDqN9.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/matthewberman-953017.webp" alt="子弹穿过水气球 — @MatthewBerman" width="100%" loading="lazy"></a><br>
 <b>子弹穿过水气球</b><br>
@@ -1057,13 +1076,12 @@
 
 </td>
 <td width="33%"></td>
-<td width="33%"></td>
 </tr>
 </table>
 
 <a id="product"></a>
 
-## 产品影像与网页体验 · 30
+## 产品影像与网页体验 · 31
 
 品牌宣传片、SaaS 演示、产品发布视频与网页动效。
 
@@ -1077,12 +1095,21 @@
 
 </td>
 <td width="33%" valign="top">
+<a href="https://video.twimg.com/amplify_video/2120306941243314176/vid/avc1/1080x1080/pz2C3rnTYJ4qnu3O.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kevin-t-ngo-2120308118127309173.webp" alt="全用代码绘制的 90 年代风格麦片广告 — @kevin_t_ngo" width="100%" loading="lazy"></a><br>
+<b>全用代码绘制的 90 年代风格麦片广告</b><br>
+<sub><b>新发现</b> · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · 1:04 · 2026-11-11</sub><br>
+<a href="https://video.twimg.com/amplify_video/2120306941243314176/vid/avc1/1080x1080/pz2C3rnTYJ4qnu3O.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/kevin_t_ngo/status/2120308118127309173">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/kevin-t-ngo-2120308118127309173.md">作品详情</a>
+
+</td>
+<td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120127470120968192/vid/avc1/1920x1080/5HOZAyjOLS3dUDC-.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/aryamgoyal1-2120128188936503343.webp" alt="Amy 学习应用发布短片 — @AryamGoyal1" width="100%" loading="lazy"></a><br>
 <b>Amy 学习应用发布短片</b><br>
 <sub><b>新发现</b> · <a href="https://x.com/AryamGoyal1">@AryamGoyal1</a> · 0:56 · 2026-11-10</sub><br>
 <a href="https://video.twimg.com/amplify_video/2120127470120968192/vid/avc1/1920x1080/5HOZAyjOLS3dUDC-.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/AryamGoyal1/status/2120128188936503343">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/aryamgoyal1-2120128188936503343.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120127890226360321/vid/avc1/1920x1080/9pzTacRoZLu3YTxw.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/biduletechtal-2120127941598380265.webp" alt="Rio 教程助手产品演示片 — @biduletechtal" width="100%" loading="lazy"></a><br>
 <b>Rio 教程助手产品演示片</b><br>
@@ -1090,8 +1117,6 @@
 <a href="https://video.twimg.com/amplify_video/2120127890226360321/vid/avc1/1920x1080/9pzTacRoZLu3YTxw.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/biduletechtal/status/2120127941598380265">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/biduletechtal-2120127941598380265.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120115535107264512/vid/avc1/1900x856/vM_oqNfck4QvROH9.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/argofowl-2120116358793085186.webp" alt="可交互的折叠手机开箱 — @argofowl" width="100%" loading="lazy"></a><br>
 <b>可交互的折叠手机开箱</b><br>
@@ -1106,6 +1131,8 @@
 <a href="https://video.twimg.com/amplify_video/2120101910556655616/vid/avc1/1646x1080/0W8fDGgFnviIjIA2.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/argofowl/status/2120102506256859510">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/argofowl-2120102506256859510.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119970272552095744/vid/avc1/1080x1080/m_hmwoGBOY58o1RD.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kevin-t-ngo-2119972124211454139.webp" alt="用 Blender 渲染的九十年代风格玩具广告 — @kevin_t_ngo" width="100%" loading="lazy"></a><br>
 <b>用 Blender 渲染的九十年代风格玩具广告</b><br>
@@ -1113,8 +1140,6 @@
 <a href="https://video.twimg.com/amplify_video/2119970272552095744/vid/avc1/1080x1080/m_hmwoGBOY58o1RD.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/kevin_t_ngo/status/2119972124211454139">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/kevin-t-ngo-2119972124211454139.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119910244302065664/vid/avc1/1920x1080/gupDBW1gZCSwiXO5.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/grafikcem-937806.webp" alt="Fable 5.2 给自己做的发布动画 — @grafikcem" width="100%" loading="lazy"></a><br>
 <b>Fable 5.2 给自己做的发布动画</b><br>
@@ -1129,6 +1154,8 @@
 <a href="https://video.twimg.com/amplify_video/2119909870539300864/vid/avc1/1920x1080/ZxvNnuf07HECALKp.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/hugo_grndd/status/2119909979381723615">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/hugo-grndd-723615.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119909314685001728/vid/avc1/2914x1510/nKvOGrIwpv1kbj37.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/webilyco-626667.webp" alt="3D 建筑工地落地页 — @Webilyco" width="100%" loading="lazy"></a><br>
 <b>3D 建筑工地落地页</b><br>
@@ -1136,8 +1163,6 @@
 <a href="https://video.twimg.com/amplify_video/2119909314685001728/vid/avc1/2914x1510/nKvOGrIwpv1kbj37.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/Webilyco/status/2119909604431626667">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/webilyco-626667.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119899852679073793/vid/avc1/3840x2160/VQJVKlvH7bVri0kw.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/geniusyinka-832704.webp" alt="翻新 Mac 的发布片 — @geniusyinka" width="100%" loading="lazy"></a><br>
 <b>翻新 Mac 的发布片</b><br>
@@ -1152,6 +1177,8 @@
 <a href="https://video.twimg.com/amplify_video/2119904715479654400/vid/avc1/1920x648/CpD30xA5VWvI9X1O.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/Miguel07Code/status/2119904748900167836">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/miguel07code-2119904748900167836.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119903161444163586/vid/avc1/3024x1896/drKirRhYFgKBUZJN.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/pratyushrungta-945416.webp" alt="一路滚进深海的落地页 — @pratyushrungta" width="100%" loading="lazy"></a><br>
 <b>一路滚进深海的落地页</b><br>
@@ -1159,8 +1186,6 @@
 <a href="https://video.twimg.com/amplify_video/2119903161444163586/vid/avc1/3024x1896/drKirRhYFgKBUZJN.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/pratyushrungta/status/2119903348354945416">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/pratyushrungta-945416.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/ysuf-dmrkprn1-585449.md"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ysuf-dmrkprn1-585449.webp" alt="一个 HTML 文件拍完的自家发布片 — @ysuf_dmrkprn1" width="100%" loading="lazy"></a><br>
 <b>一个 HTML 文件拍完的自家发布片</b><br>
@@ -1175,6 +1200,8 @@
 <a href="https://video.twimg.com/amplify_video/2119897796736131072/vid/avc1/3840x2160/pzacfkpXtKVX4i85.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/rileybrown/status/2119902109709537708">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/rileybrown-537708.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119899114720694272/vid/avc1/1920x1080/zcmr0ZQtg48MLyrV.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/maybeflorent-792255.webp" alt="一次生成的六组网站动效 — @MaybeFlorent" width="100%" loading="lazy"></a><br>
 <b>一次生成的六组网站动效</b><br>
@@ -1182,8 +1209,6 @@
 <a href="https://video.twimg.com/amplify_video/2119899114720694272/vid/avc1/1920x1080/zcmr0ZQtg48MLyrV.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/MaybeFlorent/status/2119899685011792255">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/maybeflorent-792255.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119895300718374912/vid/avc1/1920x1080/L3VgxovNI7ppzHi8.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/furkancavlakcom-695521.webp" alt="57 分钟给自己写出的发布片 — @furkancavlakcom" width="100%" loading="lazy"></a><br>
 <b>57 分钟给自己写出的发布片</b><br>
@@ -1198,6 +1223,8 @@
 <a href="https://video.twimg.com/amplify_video/2119896097871020033/vid/avc1/1080x1350/74MeMX8TbhcEEtI_.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/RuslanKyrch/status/2119896220814762218">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/ruslankyrch-762218.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119893862743191552/vid/avc1/3452x2156/uJj4RtsG2ToSrtEr.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/yalcinwebb-286374.webp" alt="一条提示词加一份简报做出的完整落地页 — @yalcinwebb" width="100%" loading="lazy"></a><br>
 <b>一条提示词加一份简报做出的完整落地页</b><br>
@@ -1205,8 +1232,6 @@
 <a href="https://video.twimg.com/amplify_video/2119893862743191552/vid/avc1/3452x2156/uJj4RtsG2ToSrtEr.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/yalcinwebb/status/2119895050163286374">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/yalcinwebb-286374.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119893041322287104/vid/avc1/3840x2160/UXsFkYv6hX0YYC54.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/amihai-205099.webp" alt="在设计画布上画出的火箭发射页 — @amihai" width="100%" loading="lazy"></a><br>
 <b>在设计画布上画出的火箭发射页</b><br>
@@ -1221,6 +1246,8 @@
 <a href="https://video.twimg.com/amplify_video/2119892759670829056/vid/avc1/1814x1020/WCoJ0TFnVUHhiw_I.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/h00mankind/status/2119892979297165617">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/h00mankind-165617.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119891999679787008/vid/avc1/1916x944/P2xizmcev9bpjkQb.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/zrymiller-190684.webp" alt="「能倒出来的磁铁」落地页 — @ZryMiller" width="100%" loading="lazy"></a><br>
 <b>「能倒出来的磁铁」落地页</b><br>
@@ -1228,8 +1255,6 @@
 <a href="https://video.twimg.com/amplify_video/2119891999679787008/vid/avc1/1916x944/P2xizmcev9bpjkQb.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/ZryMiller/status/2119892074464190684">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/zrymiller-190684.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119890367994576896/vid/avc1/1080x1920/3jDc1Y3iXxUQ7ByL.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/al-maxgo-591040.webp" alt="一款图表工具的预告片 — @al_maxgo" width="100%" loading="lazy"></a><br>
 <b>一款图表工具的预告片</b><br>
@@ -1244,6 +1269,8 @@
 <a href="https://video.twimg.com/amplify_video/2119887904818294784/vid/avc1/1920x1080/iEHSU_81HjuqY3Dk.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/itssotsot/status/2119888070283845716">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/itssotsot-845716.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119887599032483840/vid/avc1/1920x1080/ZspRgODva5MvP6jO.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ruchtheophile-715560.webp" alt="30 分钟一次成片的产品视频 — @RuchTheophile" width="100%" loading="lazy"></a><br>
 <b>30 分钟一次成片的产品视频</b><br>
@@ -1251,8 +1278,6 @@
 <a href="https://video.twimg.com/amplify_video/2119887599032483840/vid/avc1/1920x1080/ZspRgODva5MvP6jO.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/RuchTheophile/status/2119887652845715560">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/ruchtheophile-715560.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119882693596917760/vid/avc1/1920x1080/DGvARh2eAwgOmqOy.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/imjustnewatai-434649.webp" alt="Fable 5.2 给自己做的发布片 — @imjustnewatai" width="100%" loading="lazy"></a><br>
 <b>Fable 5.2 给自己做的发布片</b><br>
@@ -1267,6 +1292,8 @@
 <a href="https://video.twimg.com/amplify_video/2119879389663879168/vid/avc1/1920x1080/BSWn-PeyGrjMFD2B.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/Gregoirechp/status/2119879667457073355">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/gregoirechp-073355.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119877729222848512/vid/avc1/1920x1080/BDXNMfflBjXeOcju.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/mathiaschpl-676283.webp" alt="10 分钟做出的产品片 — @mathiaschpl" width="100%" loading="lazy"></a><br>
 <b>10 分钟做出的产品片</b><br>
@@ -1274,8 +1301,6 @@
 <a href="https://video.twimg.com/amplify_video/2119877729222848512/vid/avc1/1920x1080/BDXNMfflBjXeOcju.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/mathiaschpl/status/2119878412181676283">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/mathiaschpl-676283.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119876266346065920/vid/avc1/1080x1920/TxLYgmtQKYLqmloV.mp4?tag=16"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/midudev-203273.webp" alt="10 分钟做出的课程预告片 — @midudev" width="100%" loading="lazy"></a><br>
 <b>10 分钟做出的课程预告片</b><br>
@@ -1290,6 +1315,8 @@
 <a href="https://video.twimg.com/amplify_video/2119875571832467456/vid/avc1/1080x1080/ii8tBT-fiAzDt78M.mp4?tag=16">▶ 完整视频</a> · <a href="https://x.com/AskVenice/status/2119875657954152572">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/askvenice-152572.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://www.youtube.com/watch?v=ggt074Cb2m8"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/jaonie-4cb2m8.webp" alt="一个蝴蝶图鉴网站 — @Jaonie" width="100%" loading="lazy"></a><br>
 <b>一个蝴蝶图鉴网站</b><br>
@@ -1297,29 +1324,54 @@
 <a href="https://www.youtube.com/watch?v=ggt074Cb2m8">▶ 完整视频</a> · <a href="https://www.youtube.com/watch?v=ggt074Cb2m8">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/jaonie-4cb2m8.md">作品详情</a>
 
 </td>
+<td width="33%"></td>
+<td width="33%"></td>
 </tr>
 </table>
 
 <a id="explainers"></a>
 
-## 知识可视化与音乐 · 30
+## 知识可视化与音乐 · 33
 
 科普动画、科学可视化、乐谱演奏与代码合成声音。
 
 <table>
 <tr>
 <td width="33%" valign="top">
+<a href="https://video.twimg.com/amplify_video/2120441073596354560/vid/avc1/1920x1080/X-fzihrCy46mRyEM.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/anxuanng-2120441299568619897.webp" alt="从一只蚂蚁拉远到可观测宇宙 — @anxuanng" width="100%" loading="lazy"></a><br>
+<b>从一只蚂蚁拉远到可观测宇宙</b><br>
+<sub><b>新发现</b> · <a href="https://x.com/anxuanng">@anxuanng</a> · 0:49 · 2026-11-11</sub><br>
+<a href="https://video.twimg.com/amplify_video/2120441073596354560/vid/avc1/1920x1080/X-fzihrCy46mRyEM.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/anxuanng/status/2120441299568619897">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/anxuanng-2120441299568619897.md">作品详情</a>
+
+</td>
+<td width="33%" valign="top">
+<a href="https://video.twimg.com/amplify_video/2120309793521074176/vid/avc1/3024x1590/AI4JHsH3UdoxpUpG.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/theojaffee-2120312766544437738.webp" alt="可沿年份滑动的旧金山湾区历史地图 — @theojaffee" width="100%" loading="lazy"></a><br>
+<b>可沿年份滑动的旧金山湾区历史地图</b><br>
+<sub><b>↗ 正在起量</b> · <a href="https://x.com/theojaffee">@theojaffee</a> · 0:33 · 2026-11-11</sub><br>
+<a href="https://video.twimg.com/amplify_video/2120309793521074176/vid/avc1/3024x1590/AI4JHsH3UdoxpUpG.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/theojaffee/status/2120312766544437738">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/theojaffee-2120312766544437738.md">作品详情</a>
+
+</td>
+<td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120212244919160832/vid/avc1/1080x1920/wgu0fYjgfK6Xl25p.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/aollivier82-2120260208245043663.webp" alt="用一座灯塔演示计算机图形史 — @aollivier82" width="100%" loading="lazy"></a><br>
 <b>用一座灯塔演示计算机图形史</b><br>
-<sub><b>↗ 正在起量</b> · <a href="https://x.com/aollivier82">@aollivier82</a> · 0:28 · 2026-11-10</sub><br>
+<sub><a href="https://x.com/aollivier82">@aollivier82</a> · 0:28 · 2026-11-10</sub><br>
 <a href="https://video.twimg.com/amplify_video/2120212244919160832/vid/avc1/1080x1920/wgu0fYjgfK6Xl25p.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/aollivier82/status/2120260208245043663">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/aollivier82-2120260208245043663.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/ext_tw_video/2120118492892643328/pu/vid/avc1/1280x720/3fWpNaTnslgmcWG8.mp4?tag=12"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/bide-taro-2120118659540721770.webp" alt="从星系碰撞开场的日语科普短片 — @bide_taro" width="100%" loading="lazy"></a><br>
 <b>从星系碰撞开场的日语科普短片</b><br>
 <sub><b>新发现</b> · <a href="https://x.com/bide_taro">@bide_taro</a> · 0:38 · 2026-11-10</sub><br>
 <a href="https://video.twimg.com/ext_tw_video/2120118492892643328/pu/vid/avc1/1280x720/3fWpNaTnslgmcWG8.mp4?tag=12">▶ 完整视频</a> · <a href="https://x.com/bide_taro/status/2120118659540721770">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/bide-taro-2120118659540721770.md">作品详情</a>
+
+</td>
+<td width="33%" valign="top">
+<a href="https://video.twimg.com/amplify_video/2120088578005098496/vid/avc1/1920x1080/XMPOsp7PKvG1sYn-.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/anxuanng-2120088745139638375.webp" alt="从芝诺二分法到指尖接触的微观示意 — @anxuanng" width="100%" loading="lazy"></a><br>
+<b>从芝诺二分法到指尖接触的微观示意</b><br>
+<sub><a href="https://x.com/anxuanng">@anxuanng</a> · 0:44 · 2026-11-10</sub><br>
+<a href="https://video.twimg.com/amplify_video/2120088578005098496/vid/avc1/1920x1080/XMPOsp7PKvG1sYn-.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/anxuanng/status/2120088745139638375">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/anxuanng-2120088745139638375.md">作品详情</a>
 
 </td>
 <td width="33%" valign="top">
@@ -1541,12 +1593,19 @@
 
 <a id="interactive"></a>
 
-## 游戏与交互创作 · 54
+## 游戏与交互创作 · 55
 
 浏览器游戏、可玩世界、创意工具与交互界面设计。
 
 <table>
 <tr>
+<td width="33%" valign="top">
+<a href="https://video.twimg.com/amplify_video/2120339928337031168/vid/avc1/2560x1440/efsgZg5CNfhT9tWC.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/blendibyl-2120341251178594532.webp" alt="浏览器里用笔触渲染的森林游戏 — @BlendiByl" width="100%" loading="lazy"></a><br>
+<b>浏览器里用笔触渲染的森林游戏</b><br>
+<sub><a href="https://x.com/BlendiByl">@BlendiByl</a> · 0:16 · 2026-11-11</sub><br>
+<a href="https://video.twimg.com/amplify_video/2120339928337031168/vid/avc1/2560x1440/efsgZg5CNfhT9tWC.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/BlendiByl/status/2120341251178594532">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/blendibyl-2120341251178594532.md">作品详情</a>
+
+</td>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120282020399984640/vid/avc1/1920x1080/ajQOizdMhg4SwqVj.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/mattshumer-2120282133503820150.webp" alt="开放世界游戏原型的城市航拍 — @mattshumer_" width="100%" loading="lazy"></a><br>
 <b>开放世界游戏原型的城市航拍</b><br>
@@ -1561,6 +1620,8 @@
 <a href="https://video.twimg.com/amplify_video/2120253027571601408/vid/avc1/1898x1080/P8E_h3btMpQ54LCL.mp4?tag=16">▶ 完整视频</a> · <a href="https://x.com/M__Houser/status/2120253236309569696">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/m-houser-2120253236309569696.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120248122982985728/vid/avc1/1144x1076/1Aa5_PvPzNWweA5Q.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/emollick-2120248525254742318.webp" alt="《Dread &amp; District》奇幻交通模拟 — @emollick" width="100%" loading="lazy"></a><br>
 <b>《Dread &amp; District》奇幻交通模拟</b><br>
@@ -1568,8 +1629,6 @@
 <a href="https://video.twimg.com/amplify_video/2120248122982985728/vid/avc1/1144x1076/1Aa5_PvPzNWweA5Q.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/emollick/status/2120248525254742318">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/emollick-2120248525254742318.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120233931744391168/vid/avc1/1920x1080/qbytKTQjkq4MuaXz.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kevin-t-ngo-2120238844754923874.webp" alt="浏览器里的暗黑奇幻 Boss 战 — @kevin_t_ngo" width="100%" loading="lazy"></a><br>
 <b>浏览器里的暗黑奇幻 Boss 战</b><br>
@@ -1584,6 +1643,8 @@
 <a href="https://video.twimg.com/amplify_video/2120189727152230400/vid/avc1/1920x1080/773Fe7f-xdoEUjp2.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/teortaxesTex/status/2120189862162657753">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/teortaxestex-2120189862162657753.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120127605894701057/vid/avc1/1920x1080/vmX1EZ4VHCC4dij2.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/sara-kumodeck-2120127706675417428.webp" alt="玻璃可击碎的 WebGPU 水箱 — @sara_kumodeck" width="100%" loading="lazy"></a><br>
 <b>玻璃可击碎的 WebGPU 水箱</b><br>
@@ -1591,8 +1652,6 @@
 <a href="https://video.twimg.com/amplify_video/2120127605894701057/vid/avc1/1920x1080/vmX1EZ4VHCC4dij2.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/sara_kumodeck/status/2120127706675417428">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/sara-kumodeck-2120127706675417428.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120109165393715200/vid/avc1/1920x1080/nJhRHKUF8oxEnIPb.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/maxblade-2120109725740159390.webp" alt="《Sit With Her》虚幻引擎恐怖游戏演示 — @_MaxBlade" width="100%" loading="lazy"></a><br>
 <b>《Sit With Her》虚幻引擎恐怖游戏演示</b><br>
@@ -1607,6 +1666,8 @@
 <a href="https://video.twimg.com/amplify_video/2120084094549987328/vid/avc1/1920x1080/ZIT4h5bEZdMnBsHV.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/op7418/status/2120085300185833878">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/op7418-2120085300185833878.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119973140008726528/vid/avc1/1728x1002/cAU-dap7QOqUYxWD.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/pleometric-2119973274402668852.webp" alt="BRYCEBALL：把渲染器变成游戏 — @pleometric" width="100%" loading="lazy"></a><br>
 <b>BRYCEBALL：把渲染器变成游戏</b><br>
@@ -1614,8 +1675,6 @@
 <a href="https://video.twimg.com/amplify_video/2119973140008726528/vid/avc1/1728x1002/cAU-dap7QOqUYxWD.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/pleometric/status/2119973274402668852">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/pleometric-2119973274402668852.md">作品详情</a>
 <details><summary>📝 展开提示词</summary><p>作者在下方链接分享了提示词，请结合原始上下文、参考素材和后续指令阅读。</p><p><a href="https://x.com/pleometric/status/2119973274402668852">查看作者公开提示词</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119959903062183936/vid/avc1/1280x720/X10eV4fLngmXri42.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/lexnlin-2119966127149429093.webp" alt="在后室中扮演怪物的游戏 — @LexnLin" width="100%" loading="lazy"></a><br>
 <b>在后室中扮演怪物的游戏</b><br>
@@ -1630,6 +1689,8 @@
 <a href="https://video.twimg.com/amplify_video/2119922739230445568/vid/avc1/1920x1080/1eCM-Y_xZwPgP5Pv.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/techartist_/status/2119946891106394518">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/techartist-2119946891106394518.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119935171541831680/vid/avc1/1280x720/xSA0i-YfHsQC-kLT.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/sholtodouglas-2119935331499925557.webp" alt="带传送门的竞技场射击游戏 — @_sholtodouglas" width="100%" loading="lazy"></a><br>
 <b>带传送门的竞技场射击游戏</b><br>
@@ -1637,8 +1698,6 @@
 <a href="https://video.twimg.com/amplify_video/2119935171541831680/vid/avc1/1280x720/xSA0i-YfHsQC-kLT.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/_sholtodouglas/status/2119935331499925557">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/sholtodouglas-2119935331499925557.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119926035043237888/vid/avc1/1568x1080/6oTKgoLPQHeLU1Q7.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/theo-2119926277801144695.webp" alt="Fishslop 游戏的新一轮尝试 — @theo" width="100%" loading="lazy"></a><br>
 <b>Fishslop 游戏的新一轮尝试</b><br>
@@ -1653,6 +1712,8 @@
 <a href="https://video.twimg.com/amplify_video/2119919821538447360/vid/avc1/3648x2022/y1dhMLmyKZ-oidQ6.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/felixrieseberg/status/2119925633564463609">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/felixrieseberg-2119925633564463609.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119916822719840256/vid/avc1/1280x720/lEbniPMiC8aWDbWF.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/emollick-2119918307457577163.webp" alt="穿过相连世界的无尽旅程 — @emollick" width="100%" loading="lazy"></a><br>
 <b>穿过相连世界的无尽旅程</b><br>
@@ -1660,8 +1721,6 @@
 <a href="https://video.twimg.com/amplify_video/2119916822719840256/vid/avc1/1280x720/lEbniPMiC8aWDbWF.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/emollick/status/2119918307457577163">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/emollick-2119918307457577163.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119916917502926849/vid/avc1/1080x1350/LDBsZC4Ong-7XOt4.mp4?tag=16"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/alexalbert-2119916954337349737.webp" alt="让达芬奇笔记里的发明动起来 — @alexalbert__" width="100%" loading="lazy"></a><br>
 <b>让达芬奇笔记里的发明动起来</b><br>
@@ -1676,6 +1735,8 @@
 <a href="https://video.twimg.com/amplify_video/2119909172820979712/vid/avc1/1920x1080/P7SbkhLDRCMxZ--E.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/mihawkxxxxx/status/2119909865296699749">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/mihawkxxxxx-699749.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119906798345818112/vid/avc1/3840x1950/dpgHMhE-Gqz3Kf9j.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/itssotsot-491720.webp" alt="玩具房里的冒险游戏 — @itssotsot" width="100%" loading="lazy"></a><br>
 <b>玩具房里的冒险游戏</b><br>
@@ -1683,8 +1744,6 @@
 <a href="https://video.twimg.com/amplify_video/2119906798345818112/vid/avc1/3840x1950/dpgHMhE-Gqz3Kf9j.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/itssotsot/status/2119909017216491720">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/itssotsot-491720.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119907774444261377/vid/avc1/3840x2160/9SQx2NvOeH6bfmiM.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/elizaveta-ai-125485.webp" alt="藏着一片深海的音量滑块 — @Elizaveta_ai" width="100%" loading="lazy"></a><br>
 <b>藏着一片深海的音量滑块</b><br>
@@ -1699,6 +1758,8 @@
 <a href="https://video.twimg.com/amplify_video/2119905440352055296/vid/avc1/1920x1080/iC79cUKiFb-L77DB.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/clairevo/status/2119905651359142132">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/clairevo-2119905651359142132.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119905452037169152/vid/avc1/1080x1982/SHxRz6YwnG5hBSb8.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/evrentkg-272283.webp" alt="在手机上跑的 AR 对战小游戏 — @evrentkg" width="100%" loading="lazy"></a><br>
 <b>在手机上跑的 AR 对战小游戏</b><br>
@@ -1706,8 +1767,6 @@
 <a href="https://video.twimg.com/amplify_video/2119905452037169152/vid/avc1/1080x1982/SHxRz6YwnG5hBSb8.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/evrentkg/status/2119905501601272283">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/evrentkg-272283.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119903779336118272/vid/avc1/1920x1080/ArLIv6GtbXBbhr7e.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/tymarsha-810582.webp" alt="一条提示词做出的武士对决 — @tymarsha" width="100%" loading="lazy"></a><br>
 <b>一条提示词做出的武士对决</b><br>
@@ -1722,6 +1781,8 @@
 <a href="https://video.twimg.com/amplify_video/2119901977794519040/vid/avc1/1920x1080/bldsUQv-9Jwz1bxk.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/RezAIT00/status/2119902470205997344">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/rezait00-997344.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119901596008263680/vid/avc1/1920x1080/bZzGqWp4QvSXV_vV.mp4?tag=16"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/petergyang-358005.webp" alt="浏览器里的 3D 卡丁车游戏 Turbo Tails — @petergyang" width="100%" loading="lazy"></a><br>
 <b>浏览器里的 3D 卡丁车游戏 Turbo Tails</b><br>
@@ -1729,8 +1790,6 @@
 <a href="https://video.twimg.com/amplify_video/2119901596008263680/vid/avc1/1920x1080/bZzGqWp4QvSXV_vV.mp4?tag=16">▶ 完整视频</a> · <a href="https://x.com/petergyang/status/2119901658394358005">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/petergyang-358005.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119899054520061952/vid/avc1/3840x2160/HbsyW6krobPpdwwM.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kevin-t-ngo-622171.webp" alt="浏览器里的 1v1 射击游戏 Gilt &amp; Gutter — @kevin_t_ngo" width="100%" loading="lazy"></a><br>
 <b>浏览器里的 1v1 射击游戏 Gilt &amp; Gutter</b><br>
@@ -1745,6 +1804,8 @@
 <a href="https://video.twimg.com/amplify_video/2119899124728217600/vid/avc1/1920x1080/YcrTSKlU-3rhGo3x.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/teortaxesTex/status/2119899511317225567">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/teortaxestex-225567.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119898682531430400/vid/avc1/1920x1080/SCNQd6ltHRSLHpQ4.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/repodoting-765513.webp" alt="里面藏着小世界的滑块 — @repodoting" width="100%" loading="lazy"></a><br>
 <b>里面藏着小世界的滑块</b><br>
@@ -1752,8 +1813,6 @@
 <a href="https://video.twimg.com/amplify_video/2119898682531430400/vid/avc1/1920x1080/SCNQd6ltHRSLHpQ4.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/repodoting/status/2119898879340765513">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/repodoting-765513.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119897032118960128/vid/avc1/1080x1120/7QwIbWUI-6I7Pb9b.mp4?tag=16"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/higgsfield-ai-529605.webp" alt="用 Blender 和 Unreal 做的科幻射击游戏 — @higgsfield_ai" width="100%" loading="lazy"></a><br>
 <b>用 Blender 和 Unreal 做的科幻射击游戏</b><br>
@@ -1768,6 +1827,8 @@
 <a href="https://video.twimg.com/amplify_video/2119895838927548416/vid/avc1/2880x2160/-pnpOu_0XJg6SYgF.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/NFT_Chen/status/2119897058597609967">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/nft-chen-609967.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119893759680749568/vid/avc1/1920x1080/i-Pvhaojp1uGU1Cp.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/pumpnasterr-609238.webp" alt="守望先锋式的英雄乱斗 — @Pumpnasterr" width="100%" loading="lazy"></a><br>
 <b>守望先锋式的英雄乱斗</b><br>
@@ -1775,8 +1836,6 @@
 <a href="https://video.twimg.com/amplify_video/2119893759680749568/vid/avc1/1920x1080/i-Pvhaojp1uGU1Cp.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/Pumpnasterr/status/2119895877250609238">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/pumpnasterr-609238.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119894054234107904/vid/avc1/1920x1080/DK_kuHlmGekNQkIK.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/jonathanhamiche-145756.webp" alt="有十个关卡的引力弹弓游戏 — @jonathanhamiche" width="100%" loading="lazy"></a><br>
 <b>有十个关卡的引力弹弓游戏</b><br>
@@ -1791,6 +1850,8 @@
 <a href="https://video.twimg.com/amplify_video/2119894505490935809/vid/avc1/1280x480/M7SRjks4Ivlr4XUs.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/joshvlc/status/2119894656221958575">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/joshvlc-958575.md">作品详情</a>
 <details><summary>📝 展开提示词</summary><p>作者在下方链接分享了提示词，请结合原始上下文、参考素材和后续指令阅读。</p><p><a href="https://x.com/joshvlc/status/2119894940595695756">查看作者公开提示词</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119894021472473089/vid/avc1/1080x1080/s5bteQ4U9HF7p2yO.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/crtvteknologist-606617.webp" alt="会盖城堡的密码强度指示器 — @crtvTeknologist" width="100%" loading="lazy"></a><br>
 <b>会盖城堡的密码强度指示器</b><br>
@@ -1798,8 +1859,6 @@
 <a href="https://video.twimg.com/amplify_video/2119894021472473089/vid/avc1/1080x1080/s5bteQ4U9HF7p2yO.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/crtvTeknologist/status/2119894073024606617">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/crtvteknologist-606617.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/ext_tw_video/2119893860503400449/pu/vid/avc1/1276x720/7kCA0PlTFaYS97QG.mp4?tag=12"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ozantrai-231568.webp" alt="昼夜交替的平台跳跃游戏 — @OzanTRAI" width="100%" loading="lazy"></a><br>
 <b>昼夜交替的平台跳跃游戏</b><br>
@@ -1814,6 +1873,8 @@
 <a href="https://video.twimg.com/amplify_video/2119890796250021888/vid/avc1/3024x1896/CwC_7D7ZixZoFpUZ.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/pratyushrungta/status/2119891187511501310">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/pratyushrungta-501310.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119890100733784064/vid/avc1/3024x1898/hMpvuGQnH1hGMQoN.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ashwinntwt-603459.webp" alt="受 GTA 启发的驾驶模拟器 — @ashwinntwt" width="100%" loading="lazy"></a><br>
 <b>受 GTA 启发的驾驶模拟器</b><br>
@@ -1821,8 +1882,6 @@
 <a href="https://video.twimg.com/amplify_video/2119890100733784064/vid/avc1/3024x1898/hMpvuGQnH1hGMQoN.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/ashwinntwt/status/2119890312382603459">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/ashwinntwt-603459.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119888823903469568/vid/avc1/3802x2160/a5mkJz2c2gBFB0CJ.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/0xbunny-391575.webp" alt="30 分钟做出的体素射击游戏 — @0xBunny" width="100%" loading="lazy"></a><br>
 <b>30 分钟做出的体素射击游戏</b><br>
@@ -1837,6 +1896,8 @@
 <a href="https://video.twimg.com/amplify_video/2119885465025380352/vid/avc1/1920x1080/DneINmglfP3Csmjv.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/parallelao/status/2119889035149877365">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/parallelao-877365.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119888506004672512/vid/avc1/1080x1080/ci1wEkpCQQ0JBpuu.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/crtvteknologist-200528.webp" alt="像拨篝火一样拨动的滑块 — @crtvTeknologist" width="100%" loading="lazy"></a><br>
 <b>像拨篝火一样拨动的滑块</b><br>
@@ -1844,8 +1905,6 @@
 <a href="https://video.twimg.com/amplify_video/2119888506004672512/vid/avc1/1080x1080/ci1wEkpCQQ0JBpuu.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/crtvTeknologist/status/2119888532886200528">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/crtvteknologist-200528.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119872724013326336/vid/avc1/1920x1080/h4GF7z7dZfj83gjJ.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/seanaiux-505512.webp" alt="像素画风的切换开关 — @seanaiux" width="100%" loading="lazy"></a><br>
 <b>像素画风的切换开关</b><br>
@@ -1860,6 +1919,8 @@
 <a href="https://video.twimg.com/amplify_video/2119885862599106560/vid/avc1/1920x1080/G8v9gNgB0dbqki-C.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/BertrandDiouly/status/2119886197648765001">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/bertranddiouly-765001.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119883519157506049/vid/avc1/1920x1080/IP2GewMfLfh2jVOs.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/n1njacodex-001387.webp" alt="装着海底世界的音量滑块 — @N1njaCodex" width="100%" loading="lazy"></a><br>
 <b>装着海底世界的音量滑块</b><br>
@@ -1867,8 +1928,6 @@
 <a href="https://video.twimg.com/amplify_video/2119883519157506049/vid/avc1/1920x1080/IP2GewMfLfh2jVOs.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/N1njaCodex/status/2119883560937001387">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/n1njacodex-001387.md">作品详情</a>
 <details><summary>📝 展开提示词</summary><p>作者在下方链接分享了提示词，请结合原始上下文、参考素材和后续指令阅读。</p><p><a href="https://x.com/N1njaCodex/status/2119884222475522068">查看作者公开提示词</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119882634582949888/vid/avc1/1920x1080/17IPCJugCRTgzICK.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/onehitkilldev-709524.webp" alt="一次生成的魂系 Boss 战 — @OneHitKillDev" width="100%" loading="lazy"></a><br>
 <b>一次生成的魂系 Boss 战</b><br>
@@ -1883,6 +1942,8 @@
 <a href="https://video.twimg.com/amplify_video/2119880385467400192/vid/avc1/1920x1080/JE0D_sTwzBisfzxv.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/samsonfraser_/status/2119880736044159458">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/samsonfraser-159458.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119880356325154816/vid/avc1/3008x1222/W3Dj5sqzmnpiCcwd.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/nikodemszymansk-435022.webp" alt="霓虹东京的夜间赛车 — @nikodemszymansk" width="100%" loading="lazy"></a><br>
 <b>霓虹东京的夜间赛车</b><br>
@@ -1890,8 +1951,6 @@
 <a href="https://video.twimg.com/amplify_video/2119880356325154816/vid/avc1/3008x1222/W3Dj5sqzmnpiCcwd.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/nikodemszymansk/status/2119880518875435022">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/nikodemszymansk-435022.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119876453340782592/vid/avc1/1920x1080/fHB6cN_UkwptVASd.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/mattshumer-036047.webp" alt="Mirror Earth：把整个地球做成游戏 — @mattshumer_" width="100%" loading="lazy"></a><br>
 <b>Mirror Earth：把整个地球做成游戏</b><br>
@@ -1906,6 +1965,8 @@
 <a href="https://video.twimg.com/amplify_video/2119876729435033600/vid/avc1/1920x1080/QB_mINigwFKRIql6.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/vib3coded/status/2119876781700505627">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/vib3coded-505627.md">作品详情</a>
 <details><summary>📝 展开提示词</summary><p>作者在下方链接分享了提示词，请结合原始上下文、参考素材和后续指令阅读。</p><p><a href="https://x.com/vib3coded/status/2119877121732419838">查看作者公开提示词</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119876130807197696/vid/avc1/1920x1080/dXuwXYdOdQQhPX84.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/emollick-540554.webp" alt="反向史酷比：这次由你来吓人 — @emollick" width="100%" loading="lazy"></a><br>
 <b>反向史酷比：这次由你来吓人</b><br>
@@ -1913,8 +1974,6 @@
 <a href="https://video.twimg.com/amplify_video/2119876130807197696/vid/avc1/1920x1080/dXuwXYdOdQQhPX84.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/emollick/status/2119876449494540554">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/emollick-540554.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119871902541881344/vid/avc1/1920x1080/cTrCH0UyeCYMxFoS.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/mattshumer-810226.webp" alt="哈利·波特遇上堡垒之夜 — @mattshumer_" width="100%" loading="lazy"></a><br>
 <b>哈利·波特遇上堡垒之夜</b><br>
@@ -1929,6 +1988,8 @@
 <a href="https://video.twimg.com/amplify_video/2119868302541586432/vid/avc1/3672x2160/ZRNjJilFvJjvoR9y.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/kieranklaassen/status/2119871673294037280">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/kieranklaassen-2119871673294037280.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119868394363367424/vid/avc1/1920x1080/CrAv3IqRv4_2D7bU.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kevin-t-ngo-695818.webp" alt="乘船穿过八个梦境般的世界 — @kevin_t_ngo" width="100%" loading="lazy"></a><br>
 <b>乘船穿过八个梦境般的世界</b><br>
@@ -1936,8 +1997,6 @@
 <a href="https://video.twimg.com/amplify_video/2119868394363367424/vid/avc1/1920x1080/CrAv3IqRv4_2D7bU.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/kevin_t_ngo/status/2119868968307695818">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/kevin-t-ngo-695818.md">作品详情</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119868000237170688/vid/avc1/1920x1080/-hWd-wkqJOCliYjA.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/matthewberman-789992.webp" alt="Unreal 里的战争机器式射击游戏 — @MatthewBerman" width="100%" loading="lazy"></a><br>
 <b>Unreal 里的战争机器式射击游戏</b><br>
@@ -1952,6 +2011,8 @@
 <a href="https://video.twimg.com/amplify_video/2119868044831002624/vid/avc1/1920x1080/7QVSQ6q2CIXBr-xD.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/MatthewBerman/status/2119868630989254665">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/matthewberman-254665.md">作品详情</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119867717532753920/vid/avc1/3390x2160/ylf8maSlUvJKA0OZ.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kieranklaassen-2119868196773929160.webp" alt="与 Claude 一起造的氛围音乐工作室 — @kieranklaassen" width="100%" loading="lazy"></a><br>
 <b>与 Claude 一起造的氛围音乐工作室</b><br>
@@ -1959,5 +2020,7 @@
 <a href="https://video.twimg.com/amplify_video/2119867717532753920/vid/avc1/3390x2160/ylf8maSlUvJKA0OZ.mp4?tag=29">▶ 完整视频</a> · <a href="https://x.com/kieranklaassen/status/2119868196773929160">原帖</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/zh-CN/kieranklaassen-2119868196773929160.md">作品详情</a>
 
 </td>
+<td width="33%"></td>
+<td width="33%"></td>
 </tr>
 </table>
