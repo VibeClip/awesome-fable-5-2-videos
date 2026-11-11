@@ -1,6 +1,6 @@
 {
   "baseline_id": "baseline-2026-11-10",
-  "checked_on": "2026-11-10",
+  "checked_on": "2026-11-11",
   "entries": [
     {
       "id": "wesroth-934330",
@@ -713,10 +713,14 @@
     {
       "id": "jaonie-4cb2m8",
       "source_url": "https://www.youtube.com/watch?v=ggt074Cb2m8"
+    },
+    {
+      "id": "iamwesleysmits-2120230414568599912",
+      "source_url": "https://x.com/iamwesleysmits/status/2120230414568599912"
     }
   ],
-  "checked_at": "2026-11-10T15:22:59.996939+00:00",
-  "expected_total": 179,
+  "checked_at": "2026-11-11T13:42:41.382880+00:00",
+  "expected_total": 180,
   "pending_entries": [
     {
       "id": "ercankeskinx-713531",

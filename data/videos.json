@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "updated_on": "2026-11-10",
+  "updated_on": "2026-11-11",
   "featured_ids": [
     "higgsfield-ai-2119918834841010320",
     "imjustnewatai-2119919644836347926",
@@ -8553,16 +8553,24 @@
           "reposts": 4,
           "replies": 23,
           "bookmarks": 70
+        },
+        {
+          "checked_at": "2026-11-10T18:15:37.629180+00:00",
+          "views": 10920,
+          "likes": 234,
+          "reposts": 6,
+          "replies": 24,
+          "bookmarks": 72
         }
       ],
       "preview_path": "assets/previews/rasmic-2119919466163093768.webp",
       "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/rasmic-2119919466163093768.webp",
       "momentum": {
         "state": "rising",
-        "window_minutes": 367.6,
-        "views_delta": 1631,
-        "likes_delta": 33,
-        "reposts_delta": 2
+        "window_minutes": 540.4,
+        "views_delta": 2093,
+        "likes_delta": 44,
+        "reposts_delta": 4
       },
       "curation_reason": "Uses motion design to explain an actual backend product, rather than a generic model announcement."
     },
@@ -8634,14 +8642,22 @@
           "reposts": 1,
           "replies": 5,
           "bookmarks": 46
+        },
+        {
+          "checked_at": "2026-11-10T18:15:36.850167+00:00",
+          "views": 4410,
+          "likes": 86,
+          "reposts": 1,
+          "replies": 5,
+          "bookmarks": 47
         }
       ],
       "preview_path": "assets/previews/miguel07code-2119904748900167836.webp",
       "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/miguel07code-2119904748900167836.webp",
       "momentum": {
         "state": "rising",
-        "window_minutes": 367.6,
-        "views_delta": 262,
+        "window_minutes": 540.4,
+        "views_delta": 332,
         "likes_delta": 8,
         "reposts_delta": 0
       },
@@ -8715,16 +8731,24 @@
           "reposts": 32,
           "replies": 17,
           "bookmarks": 430
+        },
+        {
+          "checked_at": "2026-11-10T18:15:37.640961+00:00",
+          "views": 51778,
+          "likes": 655,
+          "reposts": 36,
+          "replies": 20,
+          "bookmarks": 467
         }
       ],
       "preview_path": "assets/previews/higgsfield-ai-2119918834841010320.webp",
       "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/higgsfield-ai-2119918834841010320.webp",
       "momentum": {
         "state": "rising",
-        "window_minutes": 366.8,
-        "views_delta": 14262,
-        "likes_delta": 171,
-        "reposts_delta": 6
+        "window_minutes": 539.6,
+        "views_delta": 20260,
+        "likes_delta": 217,
+        "reposts_delta": 10
       },
       "curation_reason": "A six-shot market sequence with scene and camera variation. The code-generation claim is the creator’s attribution."
     },
@@ -8796,16 +8820,24 @@
           "reposts": 72,
           "replies": 70,
           "bookmarks": 368
+        },
+        {
+          "checked_at": "2026-11-10T18:15:37.639279+00:00",
+          "views": 98038,
+          "likes": 760,
+          "reposts": 83,
+          "replies": 77,
+          "bookmarks": 423
         }
       ],
       "preview_path": "assets/previews/imjustnewatai-2119919644836347926.webp",
       "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/imjustnewatai-2119919644836347926.webp",
       "momentum": {
         "state": "rising",
-        "window_minutes": 366.8,
-        "views_delta": 32484,
-        "likes_delta": 190,
-        "reposts_delta": 26
+        "window_minutes": 539.6,
+        "views_delta": 52312,
+        "likes_delta": 279,
+        "reposts_delta": 37
       },
       "curation_reason": "Connects a generated musical score, its performance and the visual output in one inspectable example."
     },
@@ -8877,16 +8909,24 @@
           "reposts": 2,
           "replies": 4,
           "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-10T18:15:39.935280+00:00",
+          "views": 3225,
+          "likes": 14,
+          "reposts": 3,
+          "replies": 5,
+          "bookmarks": 0
         }
       ],
       "preview_path": "assets/previews/renoiseai-2119959294716326280.webp",
       "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/renoiseai-2119959294716326280.webp",
       "momentum": {
-        "state": "new",
-        "window_minutes": 366.4,
-        "views_delta": 477,
-        "likes_delta": 1,
-        "reposts_delta": 0
+        "state": "rising",
+        "window_minutes": 539.2,
+        "views_delta": 626,
+        "likes_delta": 3,
+        "reposts_delta": 1
       },
       "workflow_notes": {
         "en": "The creator reports a Fable 5.2 and Renoise MCP workflow that generates the shots, score and Japanese dubbing within a conversation.",
@@ -8965,16 +9005,24 @@
           "reposts": 513,
           "replies": 529,
           "bookmarks": 5211
+        },
+        {
+          "checked_at": "2026-11-10T18:15:39.997742+00:00",
+          "views": 2237523,
+          "likes": 9538,
+          "reposts": 606,
+          "replies": 585,
+          "bookmarks": 6133
         }
       ],
       "preview_path": "assets/previews/felixrieseberg-2119925633564463609.webp",
       "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/felixrieseberg-2119925633564463609.webp",
       "momentum": {
         "state": "established",
-        "window_minutes": 367.1,
-        "views_delta": 850534,
-        "likes_delta": 2412,
-        "reposts_delta": 177
+        "window_minutes": 539.9,
+        "views_delta": 1446631,
+        "likes_delta": 3624,
+        "reposts_delta": 270
       },
       "curation_reason": "Turns a child’s drawings into a complete fighting-game demonstration; strong observed reach, already established rather than an early signal."
     },
@@ -9046,16 +9094,24 @@
           "reposts": 144,
           "replies": 193,
           "bookmarks": 838
+        },
+        {
+          "checked_at": "2026-11-10T18:15:39.992486+00:00",
+          "views": 88025,
+          "likes": 1719,
+          "reposts": 154,
+          "replies": 203,
+          "bookmarks": 900
         }
       ],
       "preview_path": "assets/previews/emollick-2119918307457577163.webp",
       "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/emollick-2119918307457577163.webp",
       "momentum": {
         "state": "rising",
-        "window_minutes": 367.1,
-        "views_delta": 16863,
-        "likes_delta": 307,
-        "reposts_delta": 33
+        "window_minutes": 539.9,
+        "views_delta": 22508,
+        "likes_delta": 400,
+        "reposts_delta": 43
       },
       "curation_reason": "Explores connected generated worlds as a continuous journey, with a playable artifact."
     },
@@ -9127,16 +9183,24 @@
           "reposts": 206,
           "replies": 111,
           "bookmarks": 760
+        },
+        {
+          "checked_at": "2026-11-10T18:15:41.294142+00:00",
+          "views": 81641,
+          "likes": 2186,
+          "reposts": 237,
+          "replies": 125,
+          "bookmarks": 855
         }
       ],
       "preview_path": "assets/previews/alexalbert-2119916954337349737.webp",
       "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/alexalbert-2119916954337349737.webp",
       "momentum": {
         "state": "rising",
-        "window_minutes": 367.6,
-        "views_delta": 15861,
-        "likes_delta": 337,
-        "reposts_delta": 43
+        "window_minutes": 540.4,
+        "views_delta": 23730,
+        "likes_delta": 553,
+        "reposts_delta": 74
       },
       "curation_reason": "Turns historical notebook drawings into manipulable educational objects; substantial recent engagement growth."
     },
@@ -9208,15 +9272,23 @@
           "reposts": 2,
           "replies": 1,
           "bookmarks": 56
+        },
+        {
+          "checked_at": "2026-11-10T18:18:40.279641+00:00",
+          "views": 6850,
+          "likes": 99,
+          "reposts": 2,
+          "replies": 1,
+          "bookmarks": 60
         }
       ],
       "preview_path": "assets/previews/matthewberman-2119868633086378471.webp",
       "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/matthewberman-2119868633086378471.webp",
       "momentum": {
         "state": "rising",
-        "window_minutes": 367.7,
-        "views_delta": 298,
-        "likes_delta": 6,
+        "window_minutes": 543.5,
+        "views_delta": 424,
+        "likes_delta": 8,
         "reposts_delta": 0
       },
       "curation_reason": "An educational motion-graphics example explaining language models, distinct from a talking-head model review."
@@ -9290,14 +9362,22 @@
           "reposts": 0,
           "replies": 5,
           "bookmarks": 3
+        },
+        {
+          "checked_at": "2026-11-10T18:15:42.186180+00:00",
+          "views": 4212,
+          "likes": 11,
+          "reposts": 0,
+          "replies": 5,
+          "bookmarks": 3
         }
       ],
       "preview_path": "assets/previews/wshuyi-2120014892040417720.webp",
       "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/wshuyi-2120014892040417720.webp",
       "momentum": {
         "state": "rising",
-        "window_minutes": 365.7,
-        "views_delta": 1063,
+        "window_minutes": 538.6,
+        "views_delta": 1245,
         "likes_delta": 2,
         "reposts_delta": 0
       },
@@ -9371,16 +9451,24 @@
           "reposts": 7,
           "replies": 8,
           "bookmarks": 183
+        },
+        {
+          "checked_at": "2026-11-10T18:15:42.184648+00:00",
+          "views": 17030,
+          "likes": 212,
+          "reposts": 9,
+          "replies": 9,
+          "bookmarks": 204
         }
       ],
       "preview_path": "assets/previews/kieranklaassen-2119871673294037280.webp",
       "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kieranklaassen-2119871673294037280.webp",
       "momentum": {
         "state": "rising",
-        "window_minutes": 366.8,
-        "views_delta": 2593,
-        "likes_delta": 24,
-        "reposts_delta": 0
+        "window_minutes": 539.6,
+        "views_delta": 3894,
+        "likes_delta": 40,
+        "reposts_delta": 2
       },
       "curation_reason": "A wine-making learning game with concrete process interactions, rather than a generic playable clone."
     },
@@ -9452,16 +9540,24 @@
           "reposts": 9,
           "replies": 25,
           "bookmarks": 104
+        },
+        {
+          "checked_at": "2026-11-10T18:15:44.138814+00:00",
+          "views": 16882,
+          "likes": 189,
+          "reposts": 10,
+          "replies": 29,
+          "bookmarks": 119
         }
       ],
       "preview_path": "assets/previews/clairevo-2119905651359142132.webp",
       "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/clairevo-2119905651359142132.webp",
       "momentum": {
         "state": "rising",
-        "window_minutes": 367.4,
-        "views_delta": 3161,
-        "likes_delta": 28,
-        "reposts_delta": 1
+        "window_minutes": 540.3,
+        "views_delta": 4969,
+        "likes_delta": 38,
+        "reposts_delta": 2
       },
       "curation_reason": "A functional browser typewriter and writing environment; a distinctive 3D interaction example."
     },
@@ -9533,15 +9629,23 @@
           "reposts": 28,
           "replies": 147,
           "bookmarks": 174
+        },
+        {
+          "checked_at": "2026-11-10T18:15:44.745214+00:00",
+          "views": 122907,
+          "likes": 2175,
+          "reposts": 28,
+          "replies": 148,
+          "bookmarks": 182
         }
       ],
       "preview_path": "assets/previews/theo-2119926277801144695.webp",
       "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/theo-2119926277801144695.webp",
       "momentum": {
         "state": "established",
-        "window_minutes": 365.9,
-        "views_delta": 16675,
-        "likes_delta": 250,
+        "window_minutes": 538.8,
+        "views_delta": 23804,
+        "likes_delta": 353,
         "reposts_delta": 6
       },
       "curation_reason": "A bounded game benchmark with disclosed run time and cost; those remain creator claims."
@@ -9616,16 +9720,24 @@
           "reposts": 3,
           "replies": 11,
           "bookmarks": 17
+        },
+        {
+          "checked_at": "2026-11-10T18:15:45.012042+00:00",
+          "views": 14168,
+          "likes": 111,
+          "reposts": 4,
+          "replies": 15,
+          "bookmarks": 24
         }
       ],
       "preview_path": "assets/previews/anabology-2120011096287297557.webp",
       "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/anabology-2120011096287297557.webp",
       "momentum": {
         "state": "rising",
-        "window_minutes": 367.6,
-        "views_delta": 4439,
-        "likes_delta": 36,
-        "reposts_delta": 0
+        "window_minutes": 540.4,
+        "views_delta": 10223,
+        "likes_delta": 61,
+        "reposts_delta": 1
       },
       "workflow_notes": {
         "en": "A creator-reported mixed production workflow. The linked context attributes the project to Fable 5.2; the individual video and audio tools are not fully disclosed.",
@@ -9707,16 +9819,24 @@
           "reposts": 39,
           "replies": 48,
           "bookmarks": 557
+        },
+        {
+          "checked_at": "2026-11-10T18:15:45.490158+00:00",
+          "views": 41376,
+          "likes": 800,
+          "reposts": 44,
+          "replies": 50,
+          "bookmarks": 630
         }
       ],
       "preview_path": "assets/previews/kieranklaassen-2119868196773929160.webp",
       "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kieranklaassen-2119868196773929160.webp",
       "momentum": {
         "state": "rising",
-        "window_minutes": 366.7,
-        "views_delta": 4155,
-        "likes_delta": 89,
-        "reposts_delta": 6
+        "window_minutes": 539.6,
+        "views_delta": 8125,
+        "likes_delta": 160,
+        "reposts_delta": 11
       },
       "curation_reason": "An ambient-music creation tool demonstrating generated software and interactive composition."
     },
@@ -9784,12 +9904,20 @@
           "reposts": 0,
           "replies": 1,
           "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-10T18:15:45.755965+00:00",
+          "views": 114,
+          "likes": 1,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 0
         }
       ],
       "momentum": {
         "state": "new",
-        "window_minutes": 183.3,
-        "views_delta": 81,
+        "window_minutes": 356.2,
+        "views_delta": 97,
         "likes_delta": 1,
         "reposts_delta": 0
       }
@@ -9858,12 +9986,20 @@
           "reposts": 0,
           "replies": 0,
           "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-10T18:15:45.931537+00:00",
+          "views": 168,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
         }
       ],
       "momentum": {
         "state": "new",
-        "window_minutes": 183.3,
-        "views_delta": 117,
+        "window_minutes": 356.2,
+        "views_delta": 142,
         "likes_delta": 0,
         "reposts_delta": 0
       }
@@ -9932,12 +10068,20 @@
           "reposts": 0,
           "replies": 1,
           "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-10T18:15:45.932285+00:00",
+          "views": 62,
+          "likes": 1,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 0
         }
       ],
       "momentum": {
         "state": "new",
-        "window_minutes": 183.3,
-        "views_delta": 49,
+        "window_minutes": 356.2,
+        "views_delta": 51,
         "likes_delta": 0,
         "reposts_delta": 0
       }
@@ -10006,12 +10150,20 @@
           "reposts": 0,
           "replies": 0,
           "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-10T18:15:46.518965+00:00",
+          "views": 740,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
         }
       ],
       "momentum": {
         "state": "new",
-        "window_minutes": 183.3,
-        "views_delta": 474,
+        "window_minutes": 356.2,
+        "views_delta": 723,
         "likes_delta": 0,
         "reposts_delta": 0
       }
@@ -10080,11 +10232,19 @@
           "reposts": 0,
           "replies": 0,
           "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-10T18:15:49.316203+00:00",
+          "views": 34,
+          "likes": 1,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
         }
       ],
       "momentum": {
         "state": "new",
-        "window_minutes": 183.3,
+        "window_minutes": 356.2,
         "views_delta": 9,
         "likes_delta": 0,
         "reposts_delta": 0
@@ -10154,13 +10314,21 @@
           "reposts": 0,
           "replies": 1,
           "bookmarks": 1
+        },
+        {
+          "checked_at": "2026-11-10T18:15:49.227443+00:00",
+          "views": 231,
+          "likes": 5,
+          "reposts": 0,
+          "replies": 2,
+          "bookmarks": 1
         }
       ],
       "momentum": {
-        "state": "new",
-        "window_minutes": 183.3,
-        "views_delta": 193,
-        "likes_delta": 3,
+        "state": "rising",
+        "window_minutes": 356.2,
+        "views_delta": 228,
+        "likes_delta": 4,
         "reposts_delta": 0
       }
     },
@@ -10228,14 +10396,22 @@
           "reposts": 23,
           "replies": 56,
           "bookmarks": 100
+        },
+        {
+          "checked_at": "2026-11-10T18:15:49.270733+00:00",
+          "views": 27793,
+          "likes": 310,
+          "reposts": 34,
+          "replies": 63,
+          "bookmarks": 137
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 182.9,
-        "views_delta": 16908,
-        "likes_delta": 182,
-        "reposts_delta": 19
+        "window_minutes": 355.9,
+        "views_delta": 25678,
+        "likes_delta": 262,
+        "reposts_delta": 30
       }
     },
     {
@@ -10302,13 +10478,21 @@
           "reposts": 1,
           "replies": 12,
           "bookmarks": 16
+        },
+        {
+          "checked_at": "2026-11-10T18:15:51.852010+00:00",
+          "views": 5318,
+          "likes": 80,
+          "reposts": 1,
+          "replies": 15,
+          "bookmarks": 18
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 182.9,
-        "views_delta": 2791,
-        "likes_delta": 40,
+        "window_minutes": 355.9,
+        "views_delta": 3816,
+        "likes_delta": 55,
         "reposts_delta": 0
       }
     },
@@ -10381,6 +10565,14 @@
           "reposts": 7,
           "replies": 15,
           "bookmarks": 66
+        },
+        {
+          "checked_at": "2026-11-10T18:15:55.905781+00:00",
+          "views": 6476,
+          "likes": 124,
+          "reposts": 9,
+          "replies": 17,
+          "bookmarks": 82
         }
       ],
       "workflow_source_urls": [
@@ -10395,10 +10587,10 @@
       },
       "momentum": {
         "state": "rising",
-        "window_minutes": 182.9,
-        "views_delta": 3987,
-        "likes_delta": 76,
-        "reposts_delta": 5
+        "window_minutes": 356.0,
+        "views_delta": 5453,
+        "likes_delta": 99,
+        "reposts_delta": 7
       }
     },
     {
@@ -10465,14 +10657,22 @@
           "reposts": 4,
           "replies": 9,
           "bookmarks": 10
+        },
+        {
+          "checked_at": "2026-11-10T18:15:54.204606+00:00",
+          "views": 6206,
+          "likes": 105,
+          "reposts": 5,
+          "replies": 11,
+          "bookmarks": 11
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 182.9,
-        "views_delta": 2895,
-        "likes_delta": 40,
-        "reposts_delta": 2
+        "window_minutes": 356.0,
+        "views_delta": 4910,
+        "likes_delta": 66,
+        "reposts_delta": 3
       }
     },
     {
@@ -10539,13 +10739,21 @@
           "reposts": 0,
           "replies": 12,
           "bookmarks": 5
+        },
+        {
+          "checked_at": "2026-11-10T18:15:55.840786+00:00",
+          "views": 1395,
+          "likes": 26,
+          "reposts": 0,
+          "replies": 15,
+          "bookmarks": 5
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 181.9,
-        "views_delta": 532,
-        "likes_delta": 16,
+        "window_minutes": 354.9,
+        "views_delta": 739,
+        "likes_delta": 19,
         "reposts_delta": 0
       }
     },
@@ -10613,6 +10821,14 @@
           "reposts": 0,
           "replies": 14,
           "bookmarks": 5
+        },
+        {
+          "checked_at": "2026-11-10T18:15:57.037228+00:00",
+          "views": 1284,
+          "likes": 18,
+          "reposts": 0,
+          "replies": 15,
+          "bookmarks": 5
         }
       ],
       "workflow_notes": {
@@ -10623,9 +10839,9 @@
         "es": "El autor indica que proporcionó un prompt y una imagen de storyboard para guiar el corto 3D. El tiempo, coste y controles autónomos declarados no se han reproducido de forma independiente."
       },
       "momentum": {
-        "state": "new",
-        "window_minutes": 181.9,
-        "views_delta": 186,
+        "state": "rising",
+        "window_minutes": 354.9,
+        "views_delta": 257,
         "likes_delta": 2,
         "reposts_delta": 0
       }
@@ -10694,14 +10910,22 @@
           "reposts": 3,
           "replies": 23,
           "bookmarks": 31
+        },
+        {
+          "checked_at": "2026-11-10T18:15:59.284756+00:00",
+          "views": 11690,
+          "likes": 67,
+          "reposts": 5,
+          "replies": 25,
+          "bookmarks": 47
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 181.9,
-        "views_delta": 2989,
-        "likes_delta": 13,
-        "reposts_delta": 0
+        "window_minutes": 355.0,
+        "views_delta": 7150,
+        "likes_delta": 32,
+        "reposts_delta": 2
       }
     },
     {
@@ -10768,14 +10992,22 @@
           "reposts": 28,
           "replies": 19,
           "bookmarks": 120
+        },
+        {
+          "checked_at": "2026-11-10T18:15:57.075410+00:00",
+          "views": 19448,
+          "likes": 352,
+          "reposts": 35,
+          "replies": 24,
+          "bookmarks": 167
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 181.4,
-        "views_delta": 9400,
-        "likes_delta": 178,
-        "reposts_delta": 17
+        "window_minutes": 354.5,
+        "views_delta": 14793,
+        "likes_delta": 253,
+        "reposts_delta": 24
       }
     },
     {
@@ -10842,6 +11074,14 @@
           "reposts": 9,
           "replies": 6,
           "bookmarks": 19
+        },
+        {
+          "checked_at": "2026-11-10T18:15:58.454611+00:00",
+          "views": 1940,
+          "likes": 47,
+          "reposts": 9,
+          "replies": 6,
+          "bookmarks": 19
         }
       ],
       "creator_disclosure": "Original post includes #ElevenLabsAmbassador.",
@@ -10854,9 +11094,9 @@
       },
       "momentum": {
         "state": "rising",
-        "window_minutes": 181.5,
-        "views_delta": 329,
-        "likes_delta": 5,
+        "window_minutes": 354.5,
+        "views_delta": 432,
+        "likes_delta": 8,
         "reposts_delta": 1
       }
     },
@@ -10916,6 +11156,14 @@
           "reposts": 77,
           "replies": 125,
           "bookmarks": 522
+        },
+        {
+          "checked_at": "2026-11-10T18:15:58.403784+00:00",
+          "views": 288292,
+          "likes": 1975,
+          "reposts": 83,
+          "replies": 131,
+          "bookmarks": 553
         }
       ],
       "comparison_models": [
@@ -10931,10 +11179,10 @@
       },
       "momentum": {
         "state": "established",
-        "window_minutes": 6.1,
-        "views_delta": 870,
-        "likes_delta": 4,
-        "reposts_delta": 0
+        "window_minutes": 179.2,
+        "views_delta": 20179,
+        "likes_delta": 111,
+        "reposts_delta": 6
       }
     },
     {
@@ -10993,6 +11241,14 @@
           "reposts": 21,
           "replies": 24,
           "bookmarks": 281
+        },
+        {
+          "checked_at": "2026-11-10T18:15:58.277558+00:00",
+          "views": 164453,
+          "likes": 1136,
+          "reposts": 27,
+          "replies": 25,
+          "bookmarks": 345
         }
       ],
       "comparison_models": [
@@ -11008,10 +11264,10 @@
       },
       "momentum": {
         "state": "established",
-        "window_minutes": 6.2,
-        "views_delta": 873,
-        "likes_delta": 9,
-        "reposts_delta": 0
+        "window_minutes": 179.3,
+        "views_delta": 27845,
+        "likes_delta": 176,
+        "reposts_delta": 6
       }
     },
     {
@@ -11070,14 +11326,22 @@
           "reposts": 78,
           "replies": 103,
           "bookmarks": 437
+        },
+        {
+          "checked_at": "2026-11-10T18:16:06.808392+00:00",
+          "views": 125279,
+          "likes": 1735,
+          "reposts": 81,
+          "replies": 109,
+          "bookmarks": 465
         }
       ],
       "momentum": {
         "state": "established",
-        "window_minutes": 6.2,
-        "views_delta": 373,
-        "likes_delta": 3,
-        "reposts_delta": 0
+        "window_minutes": 179.4,
+        "views_delta": 11242,
+        "likes_delta": 81,
+        "reposts_delta": 3
       }
     },
     {
@@ -11136,14 +11400,22 @@
           "reposts": 41,
           "replies": 59,
           "bookmarks": 395
+        },
+        {
+          "checked_at": "2026-11-10T18:16:06.385957+00:00",
+          "views": 61505,
+          "likes": 1109,
+          "reposts": 47,
+          "replies": 64,
+          "bookmarks": 415
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 6.3,
-        "views_delta": 246,
-        "likes_delta": 3,
-        "reposts_delta": 0
+        "window_minutes": 179.4,
+        "views_delta": 6281,
+        "likes_delta": 60,
+        "reposts_delta": 6
       }
     },
     {
@@ -11202,14 +11474,22 @@
           "reposts": 17,
           "replies": 30,
           "bookmarks": 458
+        },
+        {
+          "checked_at": "2026-11-10T18:18:40.304743+00:00",
+          "views": 43256,
+          "likes": 619,
+          "reposts": 18,
+          "replies": 32,
+          "bookmarks": 483
         }
       ],
       "momentum": {
-        "state": "new",
-        "window_minutes": 6.2,
-        "views_delta": 111,
-        "likes_delta": 4,
-        "reposts_delta": 0
+        "state": "rising",
+        "window_minutes": 182.0,
+        "views_delta": 2543,
+        "likes_delta": 41,
+        "reposts_delta": 1
       }
     },
     {
@@ -11268,14 +11548,22 @@
           "reposts": 22,
           "replies": 101,
           "bookmarks": 171
+        },
+        {
+          "checked_at": "2026-11-10T18:16:11.731756+00:00",
+          "views": 44790,
+          "likes": 426,
+          "reposts": 27,
+          "replies": 111,
+          "bookmarks": 203
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 6.6,
-        "views_delta": 473,
-        "likes_delta": 2,
-        "reposts_delta": 0
+        "window_minutes": 179.9,
+        "views_delta": 7053,
+        "likes_delta": 59,
+        "reposts_delta": 5
       }
     },
     {
@@ -11334,14 +11622,22 @@
           "reposts": 25,
           "replies": 11,
           "bookmarks": 304
+        },
+        {
+          "checked_at": "2026-11-10T18:16:23.277602+00:00",
+          "views": 39689,
+          "likes": 539,
+          "reposts": 26,
+          "replies": 12,
+          "bookmarks": 326
         }
       ],
       "momentum": {
-        "state": "new",
-        "window_minutes": 6.2,
-        "views_delta": 82,
-        "likes_delta": 3,
-        "reposts_delta": 0
+        "state": "rising",
+        "window_minutes": 179.6,
+        "views_delta": 2851,
+        "likes_delta": 30,
+        "reposts_delta": 1
       }
     },
     {
@@ -11400,6 +11696,14 @@
           "reposts": 11,
           "replies": 2,
           "bookmarks": 61
+        },
+        {
+          "checked_at": "2026-11-10T18:18:41.609272+00:00",
+          "views": 27969,
+          "likes": 99,
+          "reposts": 11,
+          "replies": 2,
+          "bookmarks": 67
         }
       ],
       "comparison_models": [
@@ -11414,10 +11718,10 @@
         "es": "Esta comparación incluye resultados de Fable 5.2 y Opus 5.5, identificados por las etiquetas del autor. El tiempo y el coste son datos declarados por el creador."
       },
       "momentum": {
-        "state": "new",
-        "window_minutes": 6.2,
-        "views_delta": 139,
-        "likes_delta": 0,
+        "state": "rising",
+        "window_minutes": 182.0,
+        "views_delta": 1886,
+        "likes_delta": 3,
         "reposts_delta": 0
       }
     },
@@ -11477,14 +11781,22 @@
           "reposts": 14,
           "replies": 15,
           "bookmarks": 69
+        },
+        {
+          "checked_at": "2026-11-10T18:18:41.597475+00:00",
+          "views": 23875,
+          "likes": 211,
+          "reposts": 15,
+          "replies": 16,
+          "bookmarks": 76
         }
       ],
       "momentum": {
-        "state": "new",
-        "window_minutes": 6.3,
-        "views_delta": 100,
-        "likes_delta": 1,
-        "reposts_delta": 0
+        "state": "rising",
+        "window_minutes": 182.0,
+        "views_delta": 2004,
+        "likes_delta": 7,
+        "reposts_delta": 1
       }
     },
     {
@@ -11543,14 +11855,22 @@
           "reposts": 22,
           "replies": 38,
           "bookmarks": 311
+        },
+        {
+          "checked_at": "2026-11-10T18:16:26.764323+00:00",
+          "views": 24702,
+          "likes": 744,
+          "reposts": 26,
+          "replies": 39,
+          "bookmarks": 344
         }
       ],
       "momentum": {
-        "state": "new",
-        "window_minutes": 6.2,
-        "views_delta": 96,
-        "likes_delta": 1,
-        "reposts_delta": 0
+        "state": "rising",
+        "window_minutes": 179.7,
+        "views_delta": 3486,
+        "likes_delta": 49,
+        "reposts_delta": 4
       }
     },
     {
@@ -11609,14 +11929,22 @@
           "reposts": 7,
           "replies": 26,
           "bookmarks": 86
+        },
+        {
+          "checked_at": "2026-11-10T18:18:45.905988+00:00",
+          "views": 20048,
+          "likes": 158,
+          "reposts": 9,
+          "replies": 26,
+          "bookmarks": 99
         }
       ],
       "momentum": {
-        "state": "new",
-        "window_minutes": 6.3,
-        "views_delta": 104,
-        "likes_delta": 0,
-        "reposts_delta": 0
+        "state": "rising",
+        "window_minutes": 182.1,
+        "views_delta": 2121,
+        "likes_delta": 16,
+        "reposts_delta": 2
       }
     },
     {
@@ -11675,14 +12003,22 @@
           "reposts": 25,
           "replies": 18,
           "bookmarks": 70
+        },
+        {
+          "checked_at": "2026-11-10T18:18:45.829902+00:00",
+          "views": 13979,
+          "likes": 256,
+          "reposts": 26,
+          "replies": 18,
+          "bookmarks": 71
         }
       ],
       "momentum": {
-        "state": "new",
-        "window_minutes": 6.3,
-        "views_delta": 45,
-        "likes_delta": 0,
-        "reposts_delta": 0
+        "state": "rising",
+        "window_minutes": 182.1,
+        "views_delta": 1991,
+        "likes_delta": 15,
+        "reposts_delta": 1
       }
     },
     {
@@ -11741,14 +12077,22 @@
           "reposts": 21,
           "replies": 31,
           "bookmarks": 153
+        },
+        {
+          "checked_at": "2026-11-10T18:18:47.351307+00:00",
+          "views": 16791,
+          "likes": 512,
+          "reposts": 26,
+          "replies": 43,
+          "bookmarks": 225
         }
       ],
       "momentum": {
-        "state": "new",
-        "window_minutes": 6.3,
-        "views_delta": 160,
-        "likes_delta": 6,
-        "reposts_delta": 0
+        "state": "rising",
+        "window_minutes": 182.1,
+        "views_delta": 5965,
+        "likes_delta": 143,
+        "reposts_delta": 5
       }
     },
     {
@@ -11807,13 +12151,21 @@
           "reposts": 12,
           "replies": 16,
           "bookmarks": 112
+        },
+        {
+          "checked_at": "2026-11-10T18:16:32.849220+00:00",
+          "views": 11609,
+          "likes": 346,
+          "reposts": 12,
+          "replies": 17,
+          "bookmarks": 118
         }
       ],
       "momentum": {
-        "state": "new",
-        "window_minutes": 6.3,
-        "views_delta": 36,
-        "likes_delta": 4,
+        "state": "rising",
+        "window_minutes": 179.8,
+        "views_delta": 885,
+        "likes_delta": 25,
         "reposts_delta": 0
       }
     },
@@ -11873,13 +12225,21 @@
           "reposts": 15,
           "replies": 24,
           "bookmarks": 46
+        },
+        {
+          "checked_at": "2026-11-10T18:16:32.848174+00:00",
+          "views": 6351,
+          "likes": 188,
+          "reposts": 15,
+          "replies": 24,
+          "bookmarks": 47
         }
       ],
       "momentum": {
-        "state": "new",
-        "window_minutes": 6.3,
-        "views_delta": 24,
-        "likes_delta": 1,
+        "state": "rising",
+        "window_minutes": 179.9,
+        "views_delta": 589,
+        "likes_delta": 9,
         "reposts_delta": 1
       }
     },
@@ -11939,13 +12299,21 @@
           "reposts": 0,
           "replies": 8,
           "bookmarks": 5
+        },
+        {
+          "checked_at": "2026-11-10T18:16:32.850641+00:00",
+          "views": 6060,
+          "likes": 60,
+          "reposts": 0,
+          "replies": 8,
+          "bookmarks": 5
         }
       ],
       "momentum": {
-        "state": "new",
-        "window_minutes": 6.3,
-        "views_delta": 17,
-        "likes_delta": 1,
+        "state": "rising",
+        "window_minutes": 179.9,
+        "views_delta": 341,
+        "likes_delta": 3,
         "reposts_delta": 0
       }
     },
@@ -12005,14 +12373,22 @@
           "reposts": 9,
           "replies": 3,
           "bookmarks": 52
+        },
+        {
+          "checked_at": "2026-11-10T18:16:32.840285+00:00",
+          "views": 6135,
+          "likes": 93,
+          "reposts": 10,
+          "replies": 3,
+          "bookmarks": 55
         }
       ],
       "momentum": {
-        "state": "new",
-        "window_minutes": 6.2,
-        "views_delta": 35,
-        "likes_delta": 0,
-        "reposts_delta": 0
+        "state": "rising",
+        "window_minutes": 179.8,
+        "views_delta": 416,
+        "likes_delta": 5,
+        "reposts_delta": 1
       }
     },
     {
@@ -12071,14 +12447,22 @@
           "reposts": 9,
           "replies": 13,
           "bookmarks": 38
+        },
+        {
+          "checked_at": "2026-11-10T18:16:41.713450+00:00",
+          "views": 5865,
+          "likes": 123,
+          "reposts": 10,
+          "replies": 13,
+          "bookmarks": 42
         }
       ],
       "momentum": {
-        "state": "new",
-        "window_minutes": 6.3,
-        "views_delta": 9,
-        "likes_delta": 0,
-        "reposts_delta": 0
+        "state": "rising",
+        "window_minutes": 180.0,
+        "views_delta": 424,
+        "likes_delta": 3,
+        "reposts_delta": 1
       }
     },
     {
@@ -12137,13 +12521,21 @@
           "reposts": 0,
           "replies": 7,
           "bookmarks": 23
+        },
+        {
+          "checked_at": "2026-11-10T18:16:42.739208+00:00",
+          "views": 5371,
+          "likes": 89,
+          "reposts": 0,
+          "replies": 8,
+          "bookmarks": 23
         }
       ],
       "momentum": {
-        "state": "new",
-        "window_minutes": 6.3,
-        "views_delta": 19,
-        "likes_delta": 0,
+        "state": "rising",
+        "window_minutes": 180.0,
+        "views_delta": 307,
+        "likes_delta": 3,
         "reposts_delta": 0
       }
     },
@@ -12203,6 +12595,14 @@
           "reposts": 2,
           "replies": 14,
           "bookmarks": 22
+        },
+        {
+          "checked_at": "2026-11-10T18:16:40.638293+00:00",
+          "views": 5109,
+          "likes": 68,
+          "reposts": 1,
+          "replies": 14,
+          "bookmarks": 24
         }
       ],
       "workflow_notes": {
@@ -12214,9 +12614,854 @@
       },
       "momentum": {
         "state": "new",
-        "window_minutes": 6.2,
-        "views_delta": 4,
+        "window_minutes": 179.9,
+        "views_delta": 127,
+        "likes_delta": 2,
+        "reposts_delta": -1
+      }
+    },
+    {
+      "id": "akakuma0219-2120030634248929556",
+      "titles": {
+        "en": "Motion previz: jogging, sprinting and dashing",
+        "zh-CN": "慢跑、冲刺与高速突进的动作预演",
+        "ja": "ジョギング・全力疾走・超高速ダッシュのプリビズ",
+        "ko": "조깅·전력 질주·고속 대시 모션 프리비즈",
+        "es": "Previsualización de movimiento: trote, esprint y carrera rápida"
+      },
+      "category": "motion",
+      "creator": {
+        "name": "akakuma0219",
+        "url": "https://x.com/akakuma0219"
+      },
+      "source_url": "https://x.com/akakuma0219/status/2120030634248929556",
+      "published_at": "2026-11-10T05:47:46Z",
+      "duration_seconds": 10.041,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120030599155195904/img/abqVbyiES39-UYiU.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/akakuma0219-2120030634248929556.webp",
+      "preview_path": "assets/previews/akakuma0219-2120030634248929556.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120030599155195904/vid/avc1/1128x1280/gg7e4hW5e7l_HZcs.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-11",
+        "checked_at": "2026-11-10T18:18:07.994448+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "1615291d7d48fa3b9ae0a90da2434c8add9dce071e0537d57ad9db704260a118",
+        "model_named": true
+      },
+      "prompt": {
+        "text": null,
+        "source_url": "https://x.com/akakuma0219/status/2120030634248929556"
+      },
+      "native_media_id": "2120030599155195904",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The original creator attributes the upper previz motion to Fable 5.2. The lower character footage has an incompletely disclosed production stage, so the entry limits its model attribution to the motion study.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator attributes the upper previz motion to Fable 5.2. The lower character-video stage is not fully specified in the original post.",
+        "zh-CN": "作者将上半部分的动作预演归因于 Fable 5.2；下半部分角色成片的制作阶段未在原帖中完整披露。",
+        "ja": "作者は上段のプリビズ動作をFable 5.2によるものと説明。下段のキャラクター映像の制作工程は元投稿ですべて公開されていません。",
+        "ko": "제작자는 위쪽 프리비즈 동작을 Fable 5.2의 결과로 설명합니다. 아래쪽 캐릭터 영상의 제작 과정은 원문에 모두 공개되어 있지 않습니다.",
+        "es": "El autor atribuye el movimiento de la previsualización superior a Fable 5.2. La producción del vídeo de personajes inferior no se detalla por completo en la publicación original."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-10T18:17:13.507754+00:00",
+          "views": 58846,
+          "likes": 940,
+          "reposts": 82,
+          "replies": 36,
+          "bookmarks": 803
+        },
+        {
+          "checked_at": "2026-11-10T18:20:47.286460+00:00",
+          "views": 58944,
+          "likes": 940,
+          "reposts": 82,
+          "replies": 36,
+          "bookmarks": 806
+        },
+        {
+          "checked_at": "2026-11-11T13:40:49.145792+00:00",
+          "views": 108698,
+          "likes": 1333,
+          "reposts": 129,
+          "replies": 49,
+          "bookmarks": 1188
+        }
+      ],
+      "momentum": {
+        "state": "established",
+        "window_minutes": 1160.0,
+        "views_delta": 49754,
+        "likes_delta": 393,
+        "reposts_delta": 47
+      }
+    },
+    {
+      "id": "linxiaobei888-2119978892861829227",
+      "titles": {
+        "en": "A code-rendered English-learning cartoon",
+        "zh-CN": "用代码渲染的儿童英语启蒙动画",
+        "ja": "コードで描く子ども向け英語学習アニメ",
+        "ko": "코드로 렌더링한 어린이 영어 학습 애니메이션",
+        "es": "Una animación educativa de inglés renderizada con código"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "linxiaobei888",
+        "url": "https://x.com/linxiaobei888"
+      },
+      "source_url": "https://x.com/linxiaobei888/status/2119978892861829227",
+      "published_at": "2026-11-10T02:22:10Z",
+      "duration_seconds": 147,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119974634523344896/img/tcAAbKQf7ji_9GuK.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/linxiaobei888-2119978892861829227.webp",
+      "preview_path": "assets/previews/linxiaobei888-2119978892861829227.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2119974634523344896/vid/avc1/1920x1080/7EzivlAR3lILCLs4.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-11",
+        "checked_at": "2026-11-10T18:18:07.974333+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "46598b8694d4e2f345fa4754e8af681642e5d30cd8baa739e5e26b50e90578a2",
+        "model_named": true
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2119974634523344896",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A finished educational cartoon with recurring questions, vocabulary cards and response pauses. The creator discloses Codex-generated character art and third-party TTS. A follow-up explains the workflow and gives a sample instruction for a different lesson.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator discloses Codex-generated character art and external TTS. A follow-up describes Canvas rendering, Playwright frame capture, Python audio, FFmpeg mixing and Fish Audio voices. The sample instruction there is for a different lesson.",
+        "zh-CN": "作者披露了 Codex 生成的角色图和第三方 TTS。后续原帖说明了 Canvas 渲染、Playwright 出帧、Python 音效、FFmpeg 混音与 Fish Audio 配音，其中的示例指令用于另一节课。",
+        "ja": "作者はCodexで生成したキャラクター画像と外部TTSの使用を公開しています。続く投稿ではCanvas、Playwright、Python音声、FFmpegでのミックス、Fish Audioの音声を解説しています。掲載された制作指示の例は別のレッスン向けです。",
+        "ko": "제작자는 Codex로 만든 캐릭터 이미지와 외부 TTS 사용을 공개했습니다. 후속 글에서 Canvas 렌더링, Playwright 프레임 캡처, Python 오디오, FFmpeg 믹싱, Fish Audio 음성을 설명합니다. 예시 지시는 다른 수업에 쓰였습니다.",
+        "es": "El autor declara usar ilustraciones generadas con Codex y TTS externo. Una publicación posterior describe Canvas, captura con Playwright, audio con Python, mezcla con FFmpeg y voces de Fish Audio. La instrucción de ejemplo corresponde a otra lección."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-10T18:17:14.710576+00:00",
+          "views": 33281,
+          "likes": 109,
+          "reposts": 12,
+          "replies": 17,
+          "bookmarks": 129
+        },
+        {
+          "checked_at": "2026-11-10T18:20:47.275926+00:00",
+          "views": 33375,
+          "likes": 109,
+          "reposts": 12,
+          "replies": 17,
+          "bookmarks": 129
+        },
+        {
+          "checked_at": "2026-11-11T13:40:49.548923+00:00",
+          "views": 68630,
+          "likes": 147,
+          "reposts": 15,
+          "replies": 21,
+          "bookmarks": 176
+        }
+      ],
+      "workflow_source_urls": [
+        "https://x.com/linxiaobei888/status/2120050837347258451"
+      ],
+      "workflow_source_checks": [
+        {
+          "source_url": "https://x.com/linxiaobei888/status/2120050837347258451",
+          "checked_at": "2026-11-10T18:17:13.691585+00:00",
+          "method": "Original creator full-note text via FxTwitter; X official oEmbed availability check",
+          "post_sha256": "1a8a80f926c4c0dc8031f21c75c4a600ebb97526ca59496b171b53919b6f1f62"
+        }
+      ],
+      "momentum": {
+        "state": "rising",
+        "window_minutes": 1160.0,
+        "views_delta": 35255,
+        "likes_delta": 38,
+        "reposts_delta": 3
+      }
+    },
+    {
+      "id": "adamdotnew-2120071630139621540",
+      "titles": {
+        "en": "Adam Tamagotchi: PCB, enclosure and Blender render",
+        "zh-CN": "Adam 电子宠物：电路板、外壳与 Blender 渲染",
+        "ja": "Adamたまごっち：基板・筐体・Blenderレンダリング",
+        "ko": "Adam 다마고치: PCB·인클로저·Blender 렌더",
+        "es": "Adam Tamagotchi: PCB, carcasa y render de Blender"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "adamdotnew",
+        "url": "https://x.com/adamdotnew"
+      },
+      "source_url": "https://x.com/adamdotnew/status/2120071630139621540",
+      "published_at": "2026-11-10T08:30:40Z",
+      "duration_seconds": 8.6,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120071508370640896/img/qc0XXzxj8T5pl3Cv.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/adamdotnew-2120071630139621540.webp",
+      "preview_path": "assets/previews/adamdotnew-2120071630139621540.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120071508370640896/vid/avc1/3586x2160/cVxJQZsnnBLew_X_.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-11",
+        "checked_at": "2026-11-10T18:18:14.585624+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "3b84693dc4b61f13e60e4e455d5f9e216abe472dd9de1869c38b73c28dcc70ef",
+        "model_named": true
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120071508370640896",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A hardware-design recording with visible PCB, enclosure and product rendering. KiCad, Inventor and Blender are explicitly named; physical function and fabrication readiness were not independently tested.",
+      "workflow": "creator-reported-multitool",
+      "workflow_notes": {
+        "en": "The creator reports that Fable 5.2 coordinated KiCad PCB layout, Inventor enclosure design and Blender rendering. This recording shows the design/render workflow; fabrication and electrical function were not independently tested.",
+        "zh-CN": "作者称 Fable 5.2 协调了 KiCad 电路板布局、Inventor 外壳设计与 Blender 渲染。视频展示设计和渲染流程；制造可行性与电气功能尚未独立测试。",
+        "ja": "作者によると、Fable 5.2がKiCadの基板設計、Inventorの筐体設計、Blenderのレンダリングを連携。製造可能性や電気的機能は独立に検証していません。",
+        "ko": "제작자는 Fable 5.2가 KiCad PCB 레이아웃, Inventor 인클로저 설계와 Blender 렌더링을 조율했다고 설명합니다. 제조 가능성과 전기적 기능은 독립적으로 테스트하지 않았습니다.",
+        "es": "El autor indica que Fable 5.2 coordinó el PCB en KiCad, la carcasa en Inventor y el render en Blender. La fabricación y el funcionamiento eléctrico no se han probado de forma independiente."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-10T18:17:09.468025+00:00",
+          "views": 19494,
+          "likes": 442,
+          "reposts": 21,
+          "replies": 16,
+          "bookmarks": 232
+        },
+        {
+          "checked_at": "2026-11-10T18:20:47.598142+00:00",
+          "views": 19606,
+          "likes": 445,
+          "reposts": 21,
+          "replies": 16,
+          "bookmarks": 233
+        },
+        {
+          "checked_at": "2026-11-11T13:40:50.218294+00:00",
+          "views": 33253,
+          "likes": 682,
+          "reposts": 34,
+          "replies": 21,
+          "bookmarks": 388
+        }
+      ],
+      "momentum": {
+        "state": "rising",
+        "window_minutes": 1160.0,
+        "views_delta": 13647,
+        "likes_delta": 237,
+        "reposts_delta": 13
+      }
+    },
+    {
+      "id": "teortaxestex-2120189862162657753",
+      "titles": {
+        "en": "FLATROOMS V0.1 showcase video",
+        "zh-CN": "FLATROOMS V0.1 世界展示视频",
+        "ja": "FLATROOMS V0.1のショーケース映像",
+        "ko": "FLATROOMS V0.1 쇼케이스 영상",
+        "es": "Vídeo de presentación de FLATROOMS V0.1"
+      },
+      "category": "interactive",
+      "creator": {
+        "name": "teortaxesTex",
+        "url": "https://x.com/teortaxesTex"
+      },
+      "source_url": "https://x.com/teortaxesTex/status/2120189862162657753",
+      "published_at": "2026-11-10T16:20:29Z",
+      "duration_seconds": 51.937,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120189727152230400/img/NITAX8EgD_csVWWs.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/teortaxestex-2120189862162657753.webp",
+      "preview_path": "assets/previews/teortaxestex-2120189862162657753.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120189727152230400/vid/avc1/1920x1080/773Fe7f-xdoEUjp2.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-11",
+        "checked_at": "2026-11-10T18:18:17.093116+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "f68ac976157a5d3c270e845eb70882687cf0d3ef6a8840b87040f8ccbc6f7c9f",
+        "model_named": true
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120189727152230400",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A distinctive spatial/game showcase. The author credits the video to Fable 5.2; the roles of game creation, capture and editing are not fully separated in the post and are kept unspecified.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The author credits this showcase video to Fable 5.2. The source does not fully distinguish game creation, scene capture and video editing, so those individual roles remain unspecified.",
+        "zh-CN": "作者将这段展示视频归因于 Fable 5.2。原帖未完整区分游戏制作、场景录制和视频剪辑的各自角色，本条保留这些不确定性。",
+        "ja": "作者はこの紹介映像をFable 5.2によるものと記載。ゲーム制作・撮影・動画編集の分担は元投稿で明確に分けられていません。",
+        "ko": "작성자는 이 쇼케이스 영상을 Fable 5.2의 결과로 표기합니다. 원문에서 게임 제작, 장면 캡처와 영상 편집의 역할을 명확히 구분하지 않아 세부 역할은 미확정으로 남겨 둡니다.",
+        "es": "El autor atribuye este vídeo a Fable 5.2. La fuente no distingue completamente la creación del juego, la captura y la edición, por lo que sus funciones individuales quedan sin especificar."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-10T18:15:42.270107+00:00",
+          "views": 2221,
+          "likes": 22,
+          "reposts": 0,
+          "replies": 2,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-10T18:20:47.549698+00:00",
+          "views": 2253,
+          "likes": 22,
+          "reposts": 0,
+          "replies": 2,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-11T13:40:51.397222+00:00",
+          "views": 3463,
+          "likes": 35,
+          "reposts": 0,
+          "replies": 2,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "rising",
+        "window_minutes": 1160.1,
+        "views_delta": 1210,
+        "likes_delta": 13,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "iamwesleysmits-2120230414568599912",
+      "titles": {
+        "en": "An AI declares a takeover of software engineering",
+        "zh-CN": "AI 宣布接管软件工程的动效短片",
+        "ja": "AIがソフトウェア開発の乗っ取りを宣言する映像",
+        "ko": "AI가 소프트웨어 엔지니어링 장악을 선언하는 영상",
+        "es": "Una IA anuncia que se apoderará de la ingeniería de software"
+      },
+      "category": "motion",
+      "creator": {
+        "name": "iamwesleysmits",
+        "url": "https://x.com/iamwesleysmits"
+      },
+      "source_url": "https://x.com/iamwesleysmits/status/2120230414568599912",
+      "published_at": "2026-11-10T19:01:37Z",
+      "duration_seconds": 47.5,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120230145994694656/img/Ih3StyraMTj02lME.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/iamwesleysmits-2120230414568599912.webp",
+      "preview_path": "assets/previews/iamwesleysmits-2120230414568599912.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120230145994694656/vid/avc1/1080x1920/ikcB__RdST1QlByH.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-11",
+        "checked_at": "2026-11-11T13:38:37.645560+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "f3008208ada224f8916c1266f89fe7d4f7dc38265fd8a5568a1b34e65a358fb7",
+        "model_named": true
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120230145994694656",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "curation_reason": "A satirical vertical motion piece switches between high-contrast type, a mock migration dashboard and an animated robot. It is a distinct new work inspired by another video.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 in T3 Code for the code-rendered piece.",
+        "zh-CN": "作者称用 T3 Code 中的 Fable 5.2 编写代码并渲染成片。",
+        "ja": "作者によると、T3 Code上のFable 5.2でコードを書いて制作した映像です。",
+        "ko": "제작자는 T3 Code에서 Fable 5.2로 코드를 작성해 영상을 제작했다고 설명합니다.",
+        "es": "El autor atribuye la pieza renderizada por código a Fable 5.2 en T3 Code."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-11T13:38:05.787843+00:00",
+          "views": 21,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-11T13:40:48.595796+00:00",
+          "views": 21,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 2.7,
+        "views_delta": 0,
         "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "kevin-t-ngo-2120238844754923874",
+      "titles": {
+        "en": "A dark-fantasy boss fight in the browser",
+        "zh-CN": "浏览器里的暗黑奇幻 Boss 战",
+        "ja": "ブラウザーで動くダークファンタジーのボス戦",
+        "ko": "브라우저에서 펼쳐지는 다크 판타지 보스전",
+        "es": "Un combate contra un jefe de fantasía oscura en el navegador"
+      },
+      "category": "interactive",
+      "creator": {
+        "name": "kevin_t_ngo",
+        "url": "https://x.com/kevin_t_ngo"
+      },
+      "source_url": "https://x.com/kevin_t_ngo/status/2120238844754923874",
+      "published_at": "2026-11-10T19:35:07Z",
+      "duration_seconds": 137.983,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120233931744391168/img/Fzk7dWEfYuOgywxF.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kevin-t-ngo-2120238844754923874.webp",
+      "preview_path": "assets/previews/kevin-t-ngo-2120238844754923874.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120233931744391168/vid/avc1/1920x1080/qbytKTQjkq4MuaXz.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-11",
+        "checked_at": "2026-11-11T13:38:37.643818+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "f8f8a266627c66db2e26f3ac9212a8470f1a0b64a208c6053653d64555846c99",
+        "model_named": true
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120233931744391168",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "curation_reason": "The recording shows a cathedral arena, attack effects and a multi-phase encounter with visible player movement. The creator describes the demo as browser-playable.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for the game demo. The post does not specify the engine or asset workflow.",
+        "zh-CN": "作者将游戏演示归功于 Fable 5.2，原帖未披露引擎或资产制作流程。",
+        "ja": "作者はゲームデモをFable 5.2で作ったと説明しています。エンジンや素材の制作工程は未公開です。",
+        "ko": "제작자는 Fable 5.2로 게임 데모를 만들었다고 밝혔습니다. 엔진과 에셋 제작 과정은 공개하지 않았습니다.",
+        "es": "El autor atribuye la demo a Fable 5.2. La publicación no especifica el motor ni el proceso de creación de recursos."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-11T13:38:11.772100+00:00",
+          "views": 97516,
+          "likes": 1385,
+          "reposts": 85,
+          "replies": 113,
+          "bookmarks": 761
+        },
+        {
+          "checked_at": "2026-11-11T13:40:48.179955+00:00",
+          "views": 97729,
+          "likes": 1388,
+          "reposts": 85,
+          "replies": 113,
+          "bookmarks": 764
+        }
+      ],
+      "discovery_group": "independent-x",
+      "momentum": {
+        "state": "new",
+        "window_minutes": 2.6,
+        "views_delta": 213,
+        "likes_delta": 3,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "oalanicolas-2120266468780585456",
+      "titles": {
+        "en": "A 3D house tour from a floor plan and photos",
+        "zh-CN": "从平面图和照片生成 3D 住宅漫游",
+        "ja": "間取り図と写真から作る住宅の3Dツアー",
+        "ko": "평면도와 사진으로 만든 3D 주택 투어",
+        "es": "Un recorrido 3D de una casa a partir de planos y fotos"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "oalanicolas",
+        "url": "https://x.com/oalanicolas"
+      },
+      "source_url": "https://x.com/oalanicolas/status/2120266468780585456",
+      "published_at": "2026-11-10T21:24:53Z",
+      "duration_seconds": 45.033,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120265385471574016/img/DhSJ-M6aTwnoO9Z_.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/oalanicolas-2120266468780585456.webp",
+      "preview_path": "assets/previews/oalanicolas-2120266468780585456.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120265385471574016/vid/avc1/1920x1080/fIfzIciKght3vPN5.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-11",
+        "checked_at": "2026-11-11T13:38:57.138672+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "dfe872b49ab39e2de09f69145df356038870b4da8233333fc56cd9463fc81db4",
+        "model_named": true
+      },
+      "prompt": {
+        "text": null,
+        "source_url": "https://x.com/oalanicolas/status/2120266474950389779"
+      },
+      "native_media_id": "2120265385471574016",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "curation_reason": "The original recording moves from an exterior orbit to a continuous walk through furnished rooms. The creator supplied a floor plan and reference photos and published the 3D creation prompt in the thread.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator says Fable 5.2 used a floor plan and reference photos to build the browser walkthrough and record the tour.",
+        "zh-CN": "作者称 Fable 5.2 使用平面图与参考照片构建浏览器漫游，并录制了这段导览。",
+        "ja": "作者によると、Fable 5.2は間取り図と参考写真を使ってブラウザー上の住宅を作り、ツアーを録画しました。",
+        "ko": "제작자는 Fable 5.2가 평면도와 참고 사진을 바탕으로 브라우저에서 둘러볼 수 있는 주택을 만들고 투어를 녹화했다고 설명합니다.",
+        "es": "El autor indica que Fable 5.2 usó un plano y fotos de referencia para crear y grabar el recorrido en el navegador."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-11T13:38:26.715087+00:00",
+          "views": 24593,
+          "likes": 351,
+          "reposts": 22,
+          "replies": 11,
+          "bookmarks": 356
+        },
+        {
+          "checked_at": "2026-11-11T13:40:48.245455+00:00",
+          "views": 24650,
+          "likes": 353,
+          "reposts": 22,
+          "replies": 11,
+          "bookmarks": 358
+        }
+      ],
+      "discovery_group": "independent-x",
+      "momentum": {
+        "state": "new",
+        "window_minutes": 2.4,
+        "views_delta": 57,
+        "likes_delta": 2,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "aollivier82-2120260208245043663",
+      "titles": {
+        "en": "A lighthouse traces the history of computer graphics",
+        "zh-CN": "用一座灯塔演示计算机图形史",
+        "ja": "灯台でたどるコンピューターグラフィックスの歴史",
+        "ko": "등대로 살펴보는 컴퓨터 그래픽의 역사",
+        "es": "Un faro recorre la historia de los gráficos por ordenador"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "aollivier82",
+        "url": "https://x.com/aollivier82"
+      },
+      "source_url": "https://x.com/aollivier82/status/2120260208245043663",
+      "published_at": "2026-11-10T21:00:00Z",
+      "duration_seconds": 28.5,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120212244919160832/img/4a_EYaqxyhvTyKOh.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/aollivier82-2120260208245043663.webp",
+      "preview_path": "assets/previews/aollivier82-2120260208245043663.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120212244919160832/vid/avc1/1080x1920/wgu0fYjgfK6Xl25p.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-11",
+        "checked_at": "2026-11-11T13:39:26.812069+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "b7b968b7ae9def9d48d560aaa2b2d4f93c06dc55d4c75feb729066d0f783ed2f",
+        "model_named": true
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120212244919160832",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "curation_reason": "A consistent lighthouse composition lets the viewer compare wireframe, textured and more photorealistic eras of computer graphics in a short animation.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator asked Fable 5.2 to animate the history of computer graphics. The post leaves the rendering tools unspecified.",
+        "zh-CN": "作者请 Fable 5.2 把计算机图形史做成动画，原帖未披露渲染工具。",
+        "ja": "作者はFable 5.2にCGの歴史をアニメ化するよう依頼しました。使用したレンダリングツールは未公開です。",
+        "ko": "제작자는 Fable 5.2에 컴퓨터 그래픽의 역사를 애니메이션으로 만들어 달라고 요청했습니다. 렌더링 도구는 공개하지 않았습니다.",
+        "es": "El autor pidió a Fable 5.2 que animara la historia de los gráficos por ordenador. La publicación no indica las herramientas de renderizado."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-11T13:38:35.006755+00:00",
+          "views": 68101,
+          "likes": 1697,
+          "reposts": 90,
+          "replies": 48,
+          "bookmarks": 479
+        },
+        {
+          "checked_at": "2026-11-11T13:40:47.911385+00:00",
+          "views": 68313,
+          "likes": 1705,
+          "reposts": 90,
+          "replies": 49,
+          "bookmarks": 479
+        }
+      ],
+      "discovery_group": "independent-x",
+      "momentum": {
+        "state": "new",
+        "window_minutes": 2.2,
+        "views_delta": 212,
+        "likes_delta": 8,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "rute1203d-2120077147872391540",
+      "titles": {
+        "en": "A Japanese short from particle studies to a cherry-blossom scene",
+        "zh-CN": "从粒子实验走向樱花场景的日语短片",
+        "ja": "粒子の実験から桜の風景へ移る短編映像",
+        "ko": "입자 실험에서 벚꽃 풍경으로 이어지는 일본어 단편",
+        "es": "Un corto japonés que pasa de partículas a una escena de cerezos en flor"
+      },
+      "category": "short-films",
+      "creator": {
+        "name": "rute1203d",
+        "url": "https://x.com/rute1203d"
+      },
+      "source_url": "https://x.com/rute1203d/status/2120077147872391540",
+      "published_at": "2026-11-10T08:52:35Z",
+      "duration_seconds": 146.005,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120076635022176256/img/Wq1TnhPjaT2Qy5hj.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/rute1203d-2120077147872391540.webp",
+      "preview_path": "assets/previews/rute1203d-2120077147872391540.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120076635022176256/vid/avc1/1920x1080/_pMVSUXNU5xgUqUo.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-11",
+        "checked_at": "2026-11-11T13:39:26.772765+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "e79a1c959be23665d7ff9e04ca52ee4a0e0885415bf72117eb24001eb6caeadc",
+        "model_named": true
+      },
+      "prompt": {
+        "text": null,
+        "source_url": "https://x.com/rute1203d/status/2120077147872391540"
+      },
+      "native_media_id": "2120076635022176256",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "curation_reason": "A finished short shifts from abstract particle and orbit studies to a landscape with cherry blossoms and Japanese text. The creator shares an excerpt of the brief.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The post attributes the short to a Fable 5.2 request and quotes part of the brief. Rendering and asset tools are unspecified.",
+        "zh-CN": "作者说明短片来自给 Fable 5.2 的创作请求，并公开了部分指令。渲染与资产工具未披露。",
+        "ja": "作者はFable 5.2への依頼で制作した短編として紹介し、依頼文の一部を公開しています。レンダリングや素材のツールは未公開です。",
+        "ko": "제작자는 Fable 5.2에 요청해 만든 단편이라며 지시문의 일부를 공개했습니다. 렌더링과 에셋 도구는 공개하지 않았습니다.",
+        "es": "El autor atribuye el corto a un encargo a Fable 5.2 y cita parte de las instrucciones. Las herramientas de renderizado y creación de recursos no se especifican."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-11T13:38:46.751855+00:00",
+          "views": 63899,
+          "likes": 603,
+          "reposts": 53,
+          "replies": 25,
+          "bookmarks": 465
+        },
+        {
+          "checked_at": "2026-11-11T13:40:48.984796+00:00",
+          "views": 63942,
+          "likes": 603,
+          "reposts": 53,
+          "replies": 25,
+          "bookmarks": 464
+        }
+      ],
+      "discovery_group": "independent-x",
+      "momentum": {
+        "state": "new",
+        "window_minutes": 2.0,
+        "views_delta": 43,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "jackywine-2120376448280400338",
+      "titles": {
+        "en": "A step-by-step 12306 train boarding guide concept",
+        "zh-CN": "12306 分步乘车引导原型",
+        "ja": "12306の乗車をステップごとに案内するUIの試作",
+        "ko": "12306 단계별 열차 탑승 안내 프로토타입",
+        "es": "Un prototipo de guía de embarque paso a paso para 12306"
+      },
+      "category": "product",
+      "creator": {
+        "name": "Jackywine",
+        "url": "https://x.com/Jackywine"
+      },
+      "source_url": "https://x.com/Jackywine/status/2120376448280400338",
+      "published_at": "2026-11-11T04:41:54Z",
+      "duration_seconds": 29.166,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120376229509648384/img/xKOjmqeDqkzODXm6.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/jackywine-2120376448280400338.webp",
+      "preview_path": "assets/previews/jackywine-2120376448280400338.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120376229509648384/vid/avc1/1528x1440/K2IOCINEgTRsQwG2.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-11",
+        "checked_at": "2026-11-11T13:39:34.006431+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "fd4c6f4ae8aecd06f14292351fecb388ef2c5007444995a51f3fb7b4633bda36",
+        "model_named": true
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120376229509648384",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "curation_reason": "A mobile prototype turns station entry, platform navigation and seat finding into successive steps with illustrated screens and tap feedback.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator describes this as a Fable 5.2 prototype for a boarding guide. It is a concept for the 12306 experience.",
+        "zh-CN": "作者将其描述为用 Fable 5.2 制作的乘车引导原型，属于 12306 使用体验的概念演示。",
+        "ja": "作者はFable 5.2で制作した12306の乗車案内のコンセプトとして紹介しています。",
+        "ko": "제작자는 Fable 5.2로 만든 12306 탑승 안내 콘셉트 프로토타입이라고 설명합니다.",
+        "es": "El autor lo presenta como un prototipo conceptual de guía de embarque para 12306, creado con Fable 5.2."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-11T13:38:49.406624+00:00",
+          "views": 11823,
+          "likes": 135,
+          "reposts": 5,
+          "replies": 34,
+          "bookmarks": 51
+        },
+        {
+          "checked_at": "2026-11-11T13:40:48.834299+00:00",
+          "views": 11844,
+          "likes": 135,
+          "reposts": 5,
+          "replies": 34,
+          "bookmarks": 51
+        }
+      ],
+      "discovery_group": "independent-x",
+      "momentum": {
+        "state": "new",
+        "window_minutes": 2.0,
+        "views_delta": 21,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "maxblade-2120109725740159390",
+      "titles": {
+        "en": "Sit With Her, an Unreal Engine horror game demo",
+        "zh-CN": "《Sit With Her》虚幻引擎恐怖游戏演示",
+        "ja": "Unreal Engineのホラーゲームデモ「Sit With Her」",
+        "ko": "언리얼 엔진 공포 게임 데모 Sit With Her",
+        "es": "Sit With Her, una demo de terror en Unreal Engine"
+      },
+      "category": "interactive",
+      "creator": {
+        "name": "_MaxBlade",
+        "url": "https://x.com/_MaxBlade"
+      },
+      "source_url": "https://x.com/_MaxBlade/status/2120109725740159390",
+      "published_at": "2026-11-10T11:02:03Z",
+      "duration_seconds": 121.45,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120109165393715200/img/XfDIvEOr15QVOkHJ.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/maxblade-2120109725740159390.webp",
+      "preview_path": "assets/previews/maxblade-2120109725740159390.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120109165393715200/vid/avc1/1920x1080/nJhRHKUF8oxEnIPb.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-11",
+        "checked_at": "2026-11-11T13:39:36.653306+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "8c663c36b328d4ffd1e6b0ac50c3c3bf06ffbf592511bad4ec5b29098ce6b527",
+        "model_named": true
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120109165393715200",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "curation_reason": "A first-person recording explores a dim domestic interior. The game footage includes a small presenter inset; the main visual is the playable horror prototype.",
+      "workflow": "creator-reported-multitool",
+      "workflow_notes": {
+        "en": "The creator reports giving Fable 5.2 access to Unreal Engine 5.9 beta through MCP.",
+        "zh-CN": "作者称通过 MCP 让 Fable 5.2 使用 Unreal Engine 5.9 测试版。",
+        "ja": "作者によると、MCP経由でFable 5.2にUnreal Engine 5.9ベータ版へのアクセスを与えました。",
+        "ko": "제작자는 MCP를 통해 Fable 5.2에 언리얼 엔진 5.9 베타 접근 권한을 줬다고 설명합니다.",
+        "es": "El autor declara que dio a Fable 5.2 acceso a la beta de Unreal Engine 5.9 mediante MCP."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-11T13:39:00.932006+00:00",
+          "views": 194955,
+          "likes": 1632,
+          "reposts": 63,
+          "replies": 91,
+          "bookmarks": 959
+        },
+        {
+          "checked_at": "2026-11-11T13:40:49.296298+00:00",
+          "views": 195040,
+          "likes": 1633,
+          "reposts": 63,
+          "replies": 91,
+          "bookmarks": 959
+        }
+      ],
+      "discovery_group": "independent-x",
+      "momentum": {
+        "state": "established",
+        "window_minutes": 1.8,
+        "views_delta": 85,
+        "likes_delta": 1,
         "reposts_delta": 0
       }
     }
