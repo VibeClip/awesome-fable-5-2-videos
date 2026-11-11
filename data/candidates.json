@@ -1,5 +1,5 @@
 {
-  "checked_on": "2026-11-11",
+  "checked_on": "2026-11-12",
   "candidates": [
     {
       "source_url": "https://x.com/AlchainHust/status/2119949075898675292",
@@ -29,11 +29,11 @@
       "status": "held-unavailable-source",
       "reason": "The original post returned HTTP 404 through both X official oEmbed and the media metadata endpoint. A local animated preview and an original-platform full video could not be verified; excluded from the formal count.",
       "source_check": {
-        "checked_on": "2026-11-11",
+        "checked_on": "2026-11-12",
         "method": "X official oEmbed and original-post media metadata",
         "availability": "unconfirmed",
         "http_status": 404,
-        "checked_at": "2026-11-11T13:38:04.263006+00:00"
+        "checked_at": "2026-11-11T16:31:28.048645+00:00"
       }
     },
     {
@@ -44,7 +44,7 @@
       },
       "status": "held-insufficient-workflow-evidence",
       "reason": "The creator uploaded two playable music demos from a same-prompt comparison, but the post does not identify which video is the Fable 5.2 output. Hold until the assignment is confirmed.",
-      "checked_at": "2026-11-11T13:39:09.883423+00:00"
+      "checked_at": "2026-11-11T16:29:31.593733+00:00"
     }
   ]
 }

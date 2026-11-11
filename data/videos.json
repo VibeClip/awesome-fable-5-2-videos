@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "updated_on": "2026-11-11",
+  "updated_on": "2026-11-12",
   "featured_ids": [
     "higgsfield-ai-2119918834841010320",
     "imjustnewatai-2119919644836347926",
@@ -13089,15 +13089,23 @@
           "reposts": 85,
           "replies": 113,
           "bookmarks": 764
+        },
+        {
+          "checked_at": "2026-11-11T16:29:32.268728+00:00",
+          "views": 110936,
+          "likes": 1527,
+          "reposts": 99,
+          "replies": 123,
+          "bookmarks": 845
         }
       ],
       "discovery_group": "independent-x",
       "momentum": {
-        "state": "new",
-        "window_minutes": 2.6,
-        "views_delta": 213,
-        "likes_delta": 3,
-        "reposts_delta": 0
+        "state": "established",
+        "window_minutes": 168.7,
+        "views_delta": 13207,
+        "likes_delta": 139,
+        "reposts_delta": 14
       }
     },
     {
@@ -13235,15 +13243,23 @@
           "reposts": 90,
           "replies": 49,
           "bookmarks": 479
+        },
+        {
+          "checked_at": "2026-11-11T16:29:32.593517+00:00",
+          "views": 85916,
+          "likes": 2179,
+          "reposts": 116,
+          "replies": 61,
+          "bookmarks": 626
         }
       ],
       "discovery_group": "independent-x",
       "momentum": {
-        "state": "new",
-        "window_minutes": 2.2,
-        "views_delta": 212,
-        "likes_delta": 8,
-        "reposts_delta": 0
+        "state": "rising",
+        "window_minutes": 168.7,
+        "views_delta": 17603,
+        "likes_delta": 474,
+        "reposts_delta": 26
       }
     },
     {
@@ -13462,6 +13478,668 @@
         "window_minutes": 1.8,
         "views_delta": 85,
         "likes_delta": 1,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "emollick-2120248525254742318",
+      "titles": {
+        "en": "Dread & District, a fantasy transit game",
+        "zh-CN": "《Dread & District》奇幻交通模拟",
+        "ja": "ファンタジー交通ゲーム「Dread & District」",
+        "ko": "판타지 교통 게임 Dread & District",
+        "es": "Dread & District, un juego de transporte fantástico"
+      },
+      "category": "interactive",
+      "creator": {
+        "name": "emollick",
+        "url": "https://x.com/emollick"
+      },
+      "source_url": "https://x.com/emollick/status/2120248525254742318",
+      "published_at": "2026-11-10T20:13:35Z",
+      "duration_seconds": 18.506,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120248122982985728/img/ksDfFUCb4EWBtTjL.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/emollick-2120248525254742318.webp",
+      "preview_path": "assets/previews/emollick-2120248525254742318.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120248122982985728/vid/avc1/1144x1076/1Aa5_PvPzNWweA5Q.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-11T16:29:58.326792+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "f89dc0e80915323b71a0bc553a62fa96d2fdb5b7d32952440b4e5d055e897e01",
+        "model_named": true,
+        "video_checked_at": "2026-11-11T16:33:24.816281+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120248122982985728",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "An animated parchment map builds up a transit network as vehicles move between settlements. The source video showcases the game's title screen and transport theme.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 and an agent workflow for the game. The posted clip shows the animated title screen.",
+        "zh-CN": "作者将游戏归因于 Fable 5.2 和代理协作。原帖视频展示带动画的标题界面。",
+        "ja": "作者はFable 5.2とエージェントを使ってゲームを制作しました。投稿映像はアニメーション付きのタイトル画面です。",
+        "ko": "제작자는 Fable 5.2와 에이전트 작업으로 게임을 만들었다고 밝혔습니다. 영상은 움직이는 타이틀 화면을 보여 줍니다.",
+        "es": "El autor atribuye el juego a Fable 5.2 y a un flujo con agentes. El clip muestra la pantalla de título animada."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-11T13:39:43.935552+00:00",
+          "views": 24259,
+          "likes": 255,
+          "reposts": 10,
+          "replies": 94,
+          "bookmarks": 117
+        },
+        {
+          "checked_at": "2026-11-11T16:29:30.339516+00:00",
+          "views": 25694,
+          "likes": 270,
+          "reposts": 13,
+          "replies": 99,
+          "bookmarks": 127
+        },
+        {
+          "checked_at": "2026-11-11T16:33:26.551101+00:00",
+          "views": 25721,
+          "likes": 270,
+          "reposts": 13,
+          "replies": 99,
+          "bookmarks": 127
+        }
+      ],
+      "momentum": {
+        "state": "rising",
+        "window_minutes": 173.7,
+        "views_delta": 1462,
+        "likes_delta": 15,
+        "reposts_delta": 3
+      }
+    },
+    {
+      "id": "argofowl-2120100759195000942",
+      "titles": {
+        "en": "A hallway marks the passage of time",
+        "zh-CN": "一条走廊里的时间流逝",
+        "ja": "廊下で描く時の流れ",
+        "ko": "복도로 그린 시간의 흐름",
+        "es": "El paso del tiempo en un pasillo"
+      },
+      "category": "short-films",
+      "creator": {
+        "name": "argofowl",
+        "url": "https://x.com/argofowl"
+      },
+      "source_url": "https://x.com/argofowl/status/2120100759195000942",
+      "published_at": "2026-11-10T10:26:25Z",
+      "duration_seconds": 16,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120100208990371842/img/QeW1jA8eIolF0Wfe.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/argofowl-2120100759195000942.webp",
+      "preview_path": "assets/previews/argofowl-2120100759195000942.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120100208990371842/vid/avc1/1920x1080/AvuwxFaTzQOwI2tO.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-11T16:29:58.298160+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "d48bea4ccb76f4bbfeac2531d4d38197f60b2eaa1147f7b7c7ba0688e9a976ee",
+        "model_named": true,
+        "video_checked_at": "2026-11-11T16:33:24.833286+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120100208990371842",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A fixed hallway shot conveys time through changing light, decor and passing characters. The creator separately credits generated code and ElevenLabs audio.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 with the film's code and ElevenLabs with the audio.",
+        "zh-CN": "作者称短片代码由 Fable 5.2 生成，音频使用 ElevenLabs。",
+        "ja": "作者によると、映像のコードはFable 5.2、音声はElevenLabsで制作しました。",
+        "ko": "제작자는 영상 코드는 Fable 5.2로, 오디오는 ElevenLabs로 만들었다고 설명합니다.",
+        "es": "El autor atribuye el código de la película a Fable 5.2 y el audio a ElevenLabs."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-11T13:40:22.823676+00:00",
+          "views": 2097,
+          "likes": 50,
+          "reposts": 1,
+          "replies": 8,
+          "bookmarks": 4
+        },
+        {
+          "checked_at": "2026-11-11T16:29:30.298490+00:00",
+          "views": 2112,
+          "likes": 50,
+          "reposts": 1,
+          "replies": 8,
+          "bookmarks": 4
+        },
+        {
+          "checked_at": "2026-11-11T16:33:26.358009+00:00",
+          "views": 2112,
+          "likes": 50,
+          "reposts": 1,
+          "replies": 8,
+          "bookmarks": 4
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 173.1,
+        "views_delta": 15,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      },
+      "workflow_source_urls": [
+        "https://x.com/argofowl/status/2120100762563096899"
+      ],
+      "workflow_source_checks": [
+        {
+          "source_url": "https://x.com/argofowl/status/2120100762563096899",
+          "checked_at": "2026-11-11T16:31:25.841894+00:00",
+          "method": "X official oEmbed",
+          "post_sha256": "e421598b9104f5533772aceb9ccfb1e92f4cf357af407a2c9a896c6a82cdebd1"
+        }
+      ]
+    },
+    {
+      "id": "m-houser-2120253236309569696",
+      "titles": {
+        "en": "Age of Dragon, an open-world RPG showcase",
+        "zh-CN": "《Age of Dragon》开放世界角色扮演演示",
+        "ja": "オープンワールドRPG「Age of Dragon」のデモ",
+        "ko": "오픈 월드 RPG Age of Dragon 시연",
+        "es": "Age of Dragon, una muestra de un RPG de mundo abierto"
+      },
+      "category": "interactive",
+      "creator": {
+        "name": "M__Houser",
+        "url": "https://x.com/M__Houser"
+      },
+      "source_url": "https://x.com/M__Houser/status/2120253236309569696",
+      "published_at": "2026-11-10T20:32:18Z",
+      "duration_seconds": 116.099,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120253027571601408/img/vBCJYCjqWpE4Fj1O.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/m-houser-2120253236309569696.webp",
+      "preview_path": "assets/previews/m-houser-2120253236309569696.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120253027571601408/vid/avc1/1898x1080/P8E_h3btMpQ54LCL.mp4?tag=16",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-11T16:30:07.317356+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "87462758355f752119f20ae7cc5638eca4ed1f2f27c991d04f0a31c001f87fb4",
+        "model_named": true,
+        "video_checked_at": "2026-11-11T16:33:25.198460+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120253027571601408",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A game showcase moves through outdoor exploration, castle vistas and combat. The creator lists several models and 3D tools, so Fable 5.2 is credited as one part of the production.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator lists Fable 5.2, Opus 5.5, Tesana, Three.js, Tripo and Blender. The exact contribution of each model is unspecified.",
+        "zh-CN": "作者披露使用 Fable 5.2、Opus 5.5、Tesana、Three.js、Tripo 与 Blender。各模型的具体分工未披露。",
+        "ja": "作者はFable 5.2、Opus 5.5、Tesana、Three.js、Tripo、Blenderの使用を明記しています。各モデルの具体的な担当は未公開です。",
+        "ko": "제작자는 Fable 5.2, Opus 5.5, Tesana, Three.js, Tripo, Blender를 사용했다고 밝혔습니다. 각 모델의 세부 역할은 공개하지 않았습니다.",
+        "es": "El autor menciona Fable 5.2, Opus 5.5, Tesana, Three.js, Tripo y Blender. La aportación exacta de cada modelo queda sin especificar."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-11T13:38:40.433765+00:00",
+          "views": 154270,
+          "likes": 1469,
+          "reposts": 98,
+          "replies": 134,
+          "bookmarks": 1209
+        },
+        {
+          "checked_at": "2026-11-11T16:29:30.375545+00:00",
+          "views": 222361,
+          "likes": 1898,
+          "reposts": 129,
+          "replies": 178,
+          "bookmarks": 1529
+        },
+        {
+          "checked_at": "2026-11-11T16:33:26.483941+00:00",
+          "views": 224419,
+          "likes": 1903,
+          "reposts": 129,
+          "replies": 179,
+          "bookmarks": 1536
+        }
+      ],
+      "momentum": {
+        "state": "established",
+        "window_minutes": 174.8,
+        "views_delta": 70149,
+        "likes_delta": 434,
+        "reposts_delta": 31
+      }
+    },
+    {
+      "id": "tornikegomareli-2120227696261120225",
+      "titles": {
+        "en": "A flythrough of a rain-soaked green city",
+        "zh-CN": "雨夜绿光城市的飞行漫游",
+        "ja": "緑に光る雨の街を飛ぶ",
+        "ko": "비 내리는 녹빛 도시를 나는 장면",
+        "es": "Un vuelo por una ciudad verde bajo la lluvia"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "tornikegomareli",
+        "url": "https://x.com/tornikegomareli"
+      },
+      "source_url": "https://x.com/tornikegomareli/status/2120227696261120225",
+      "published_at": "2026-11-10T18:50:49Z",
+      "duration_seconds": 70.15,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120225991066779648/img/f3XOZqD7_j3pML2p.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/tornikegomareli-2120227696261120225.webp",
+      "preview_path": "assets/previews/tornikegomareli-2120227696261120225.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120225991066779648/vid/avc1/3840x2160/4z8saQVTMhPUC8Cw.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-11T16:30:08.207103+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "28d1892f279122eef1854555b3f820866806bf3218d05473b81fab5a32d89b4b",
+        "model_named": true,
+        "video_checked_at": "2026-11-11T16:33:24.849305+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120225991066779648",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A dark city flythrough uses green lighting, rainfall and deep street canyons to evoke The Matrix. The author describes the city as an explorable scene.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 with the city. The rendering and asset workflow is unspecified.",
+        "zh-CN": "作者将城市场景归功于 Fable 5.2，未披露渲染和资产制作流程。",
+        "ja": "作者はFable 5.2で街を制作したと説明しています。レンダリングや素材の制作工程は未公開です。",
+        "ko": "제작자는 Fable 5.2로 도시를 만들었다고 밝혔습니다. 렌더링과 에셋 제작 과정은 공개하지 않았습니다.",
+        "es": "El autor atribuye la ciudad a Fable 5.2. El proceso de renderizado y de creación de recursos queda sin especificar."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-11T13:40:23.852658+00:00",
+          "views": 777,
+          "likes": 27,
+          "reposts": 3,
+          "replies": 4,
+          "bookmarks": 3
+        },
+        {
+          "checked_at": "2026-11-11T16:29:30.817893+00:00",
+          "views": 853,
+          "likes": 28,
+          "reposts": 3,
+          "replies": 4,
+          "bookmarks": 3
+        },
+        {
+          "checked_at": "2026-11-11T16:33:26.233946+00:00",
+          "views": 854,
+          "likes": 28,
+          "reposts": 3,
+          "replies": 4,
+          "bookmarks": 3
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 173.0,
+        "views_delta": 77,
+        "likes_delta": 1,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "bide-taro-2120118659540721770",
+      "titles": {
+        "en": "A Japanese explainer opens with a galaxy collision",
+        "zh-CN": "从星系碰撞开场的日语科普短片",
+        "ja": "銀河衝突から始まる日本語の解説映像",
+        "ko": "은하 충돌로 시작하는 일본어 설명 영상",
+        "es": "Un vídeo explicativo en japonés que abre con una colisión de galaxias"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "bide_taro",
+        "url": "https://x.com/bide_taro"
+      },
+      "source_url": "https://x.com/bide_taro/status/2120118659540721770",
+      "published_at": "2026-11-10T11:37:32Z",
+      "duration_seconds": 38.3,
+      "thumbnail_url": "https://pbs.twimg.com/ext_tw_video_thumb/2120118492892643328/pu/img/nTqNRrti8mq4iGEV.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/bide-taro-2120118659540721770.webp",
+      "preview_path": "assets/previews/bide-taro-2120118659540721770.webp",
+      "video_url": "https://video.twimg.com/ext_tw_video/2120118492892643328/pu/vid/avc1/1280x720/3fWpNaTnslgmcWG8.mp4?tag=12",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-11T16:30:15.979009+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "b8d5ce513e2c8ce94913333c9e81bbd25d1db46af5555a2d9158fde45f675f84",
+        "model_named": true,
+        "video_checked_at": "2026-11-11T16:33:25.195029+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120118492892643328",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The finished explainer combines a galaxy collision, falling blocks and Japanese captions. The creator describes the motion as computed for the film.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 with the calculations, visuals and editing. The gravity sequence is an illustration for the film.",
+        "zh-CN": "作者将计算、画面与剪辑归因于 Fable 5.2。引力段落是为短片制作的示意动画。",
+        "ja": "作者は計算、映像、編集をFable 5.2に任せたと説明しています。重力の場面は映像用のシミュレーションです。",
+        "ko": "제작자는 계산, 영상, 편집을 Fable 5.2에 맡겼다고 밝혔습니다. 중력 장면은 영상을 위한 시각화입니다.",
+        "es": "El autor atribuye el cálculo, las imágenes y el montaje a Fable 5.2. La secuencia gravitatoria ilustra el fenómeno para el vídeo."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-11T16:29:31.308604+00:00",
+          "views": 15,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-11T16:33:26.483255+00:00",
+          "views": 15,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 3.9,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "mattshumer-2120282133503820150",
+      "titles": {
+        "en": "A city flyover from an open-world game prototype",
+        "zh-CN": "开放世界游戏原型的城市航拍",
+        "ja": "オープンワールドゲーム試作の都市上空ツアー",
+        "ko": "오픈 월드 게임 프로토타입의 도시 비행 장면",
+        "es": "Un vuelo urbano de un prototipo de juego de mundo abierto"
+      },
+      "category": "interactive",
+      "creator": {
+        "name": "mattshumer_",
+        "url": "https://x.com/mattshumer_"
+      },
+      "source_url": "https://x.com/mattshumer_/status/2120282133503820150",
+      "published_at": "2026-11-10T22:27:08Z",
+      "duration_seconds": 63.831,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120282020399984640/img/U79DvcGbQI1ZOkYk.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/mattshumer-2120282133503820150.webp",
+      "preview_path": "assets/previews/mattshumer-2120282133503820150.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120282020399984640/vid/avc1/1920x1080/ajQOizdMhg4SwqVj.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-11T16:30:15.980202+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "cb119ed5bac57ac626dd78d084c66e6bda47862a86cfc22ebec3c45f95768554",
+        "model_named": true,
+        "video_checked_at": "2026-11-11T16:33:27.603553+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120282020399984640",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The source clip flies between a recognizable skyline and dense street blocks. A separate video from the creator shows the prototype being played on a laptop.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator attributes the prototype to Fable 5.2. The linked follow-up shows gameplay on a MacBook.",
+        "zh-CN": "作者将原型归功于 Fable 5.2，后续原帖展示了在 MacBook 上操作的画面。",
+        "ja": "作者はFable 5.2による試作と説明しています。続く投稿でMacBook上のプレイ映像を公開しています。",
+        "ko": "제작자는 프로토타입을 Fable 5.2로 만들었다고 밝혔습니다. 후속 게시물에서 MacBook 플레이 영상을 보여 줍니다.",
+        "es": "El autor atribuye el prototipo a Fable 5.2. En la publicación posterior muestra una partida en un MacBook."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-11T13:39:11.043268+00:00",
+          "views": 721737,
+          "likes": 4007,
+          "reposts": 143,
+          "replies": 345,
+          "bookmarks": 958
+        },
+        {
+          "checked_at": "2026-11-11T16:29:31.287353+00:00",
+          "views": 1088724,
+          "likes": 4557,
+          "reposts": 166,
+          "replies": 384,
+          "bookmarks": 1093
+        },
+        {
+          "checked_at": "2026-11-11T16:33:29.471913+00:00",
+          "views": 1096525,
+          "likes": 4567,
+          "reposts": 166,
+          "replies": 385,
+          "bookmarks": 1096
+        }
+      ],
+      "momentum": {
+        "state": "established",
+        "window_minutes": 174.3,
+        "views_delta": 374788,
+        "likes_delta": 560,
+        "reposts_delta": 23
+      },
+      "workflow_source_urls": [
+        "https://x.com/mattshumer_/status/2120308139153326225"
+      ],
+      "workflow_source_checks": [
+        {
+          "source_url": "https://x.com/mattshumer_/status/2120308139153326225",
+          "checked_at": "2026-11-11T16:31:24.081415+00:00",
+          "method": "X official oEmbed",
+          "post_sha256": "62d62d9ead35bc5cb71097b65f76f2d1087f28e1ff6e8102b37f6e7554aaa54b"
+        }
+      ]
+    },
+    {
+      "id": "argofowl-2120102506256859510",
+      "titles": {
+        "en": "A switch that spills ferrofluid",
+        "zh-CN": "会溢出磁流体的开关",
+        "ja": "磁性流体があふれるスイッチ",
+        "ko": "자성 유체가 흘러나오는 스위치",
+        "es": "Un interruptor que derrama ferrofluido"
+      },
+      "category": "product",
+      "creator": {
+        "name": "argofowl",
+        "url": "https://x.com/argofowl"
+      },
+      "source_url": "https://x.com/argofowl/status/2120102506256859510",
+      "published_at": "2026-11-10T10:33:21Z",
+      "duration_seconds": 33.633,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120101910556655616/img/U6csAUZ_kVw1r9F2.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/argofowl-2120102506256859510.webp",
+      "preview_path": "assets/previews/argofowl-2120102506256859510.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120101910556655616/vid/avc1/1646x1080/0W8fDGgFnviIjIA2.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-11T16:31:58.036739+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "8fa0c591aa5522b5be512694ce9851f7c7cdc6b2ee169a56fb9b23dfb0f62349",
+        "model_named": true,
+        "video_checked_at": "2026-11-11T16:33:27.635971+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120101910556655616",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A small toggle uses a spreading black liquid and pointer response as its interaction feedback. The author identifies this recording as the Fable 5.2 version.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator credits this version to Fable 5.2. The quoted post describes an earlier Opus 5.5 version.",
+        "zh-CN": "作者将本段演示归因于 Fable 5.2。引用帖展示的是更早的 Opus 5.5 版本。",
+        "ja": "作者はこの映像をFable 5.2版と説明しています。引用先は先に公開されたOpus 5.5版です。",
+        "ko": "제작자는 이 영상이 Fable 5.2 버전이라고 밝혔습니다. 인용 게시물은 앞서 공개한 Opus 5.5 버전입니다.",
+        "es": "El autor atribuye esta versión a Fable 5.2. La publicación citada muestra una versión anterior con Opus 5.5."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-11T16:31:20.266837+00:00",
+          "views": 10449,
+          "likes": 186,
+          "reposts": 5,
+          "replies": 13,
+          "bookmarks": 95
+        },
+        {
+          "checked_at": "2026-11-11T16:33:29.495470+00:00",
+          "views": 10449,
+          "likes": 186,
+          "reposts": 5,
+          "replies": 13,
+          "bookmarks": 95
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 2.2,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "argofowl-2120172009972003115",
+      "titles": {
+        "en": "A potato versus a room full of blue chairs",
+        "zh-CN": "土豆大战一屋蓝椅子",
+        "ja": "ジャガイモが青い椅子を壊すループ映像",
+        "ko": "파란 의자를 부수는 감자 애니메이션",
+        "es": "Una patata contra una sala de sillas azules"
+      },
+      "category": "motion",
+      "creator": {
+        "name": "argofowl",
+        "url": "https://x.com/argofowl"
+      },
+      "source_url": "https://x.com/argofowl/status/2120172009972003115",
+      "published_at": "2026-11-10T15:09:32Z",
+      "duration_seconds": 12,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120171639031865344/img/n5N-BOZPwcy-0X1v.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/argofowl-2120172009972003115.webp",
+      "preview_path": "assets/previews/argofowl-2120172009972003115.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120171639031865344/vid/avc1/1920x1080/ePpeMCdemHzHeXby.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-11T16:31:58.319844+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "89f4ad7a9a09d033323c93c214f652df92d0c4f218235fa7e155230de72e3859",
+        "model_named": true,
+        "video_checked_at": "2026-11-11T16:33:27.598419+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120171639031865344",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A comic 3D loop uses repeated impacts, flying chairs and a character reaction to make a compact physical gag.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator describes this loop as made entirely with code using Fable 5.2.",
+        "zh-CN": "作者称这段循环动画由 Fable 5.2 全程用代码制作。",
+        "ja": "作者によると、Fable 5.2を使ってコードだけで制作したループ映像です。",
+        "ko": "제작자는 Fable 5.2를 사용해 코드만으로 이 반복 애니메이션을 만들었다고 설명합니다.",
+        "es": "El autor describe este bucle como una pieza hecha íntegramente con código mediante Fable 5.2."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-11T16:31:21.236389+00:00",
+          "views": 2360,
+          "likes": 59,
+          "reposts": 3,
+          "replies": 5,
+          "bookmarks": 3
+        },
+        {
+          "checked_at": "2026-11-11T16:33:29.425332+00:00",
+          "views": 2361,
+          "likes": 59,
+          "reposts": 3,
+          "replies": 5,
+          "bookmarks": 3
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 2.1,
+        "views_delta": 1,
+        "likes_delta": 0,
         "reposts_delta": 0
       }
     }
