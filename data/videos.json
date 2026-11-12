@@ -8979,11 +8979,11 @@
     {
       "id": "felixrieseberg-2119925633564463609",
       "titles": {
-        "en": "A fighting game from a child's drawings",
-        "zh-CN": "从孩子画稿变成的格斗游戏",
-        "ja": "子どもの絵から生まれた格闘ゲーム",
-        "ko": "아이의 그림에서 탄생한 격투 게임",
-        "es": "Un juego de lucha nacido de dibujos infantiles"
+        "en": "Saltline, a first-person game in a rainy cargo port",
+        "zh-CN": "《Saltline》雨夜集装箱码头的第一人称游戏",
+        "ja": "雨の貨物港を舞台にした一人称ゲーム『Saltline』",
+        "ko": "비 내리는 화물 항구의 1인칭 게임 Saltline",
+        "es": "Saltline, un juego en primera persona en un puerto de carga bajo la lluvia"
       },
       "category": "interactive",
       "creator": {
@@ -8995,15 +8995,16 @@
       "model": "Claude Fable 5.2",
       "model_evidence": "primary-post",
       "source_check": {
-        "checked_on": "2026-11-10",
-        "method": "original-post text and media metadata via FxTwitter",
+        "checked_on": "2026-11-12",
+        "method": "X official oEmbed and original media metadata via FxTwitter",
         "availability": "available",
-        "post_sha256": "e0605dfb5b8174ee5bc4b70957bb07cedeadbcc742d5c3fafcdf57cbcb269782",
-        "model_named": true
+        "post_sha256": "ccb798e8426e1f82173d6bded2c5dce4ce1383631b7d58cef6d1d383b90f260b",
+        "model_named": true,
+        "checked_at": "2026-11-12T13:46:42.062812+00:00"
       },
       "prompt": {
         "text": null,
-        "source_url": null
+        "source_url": "https://x.com/felixrieseberg/status/2119927483994907024"
       },
       "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
       "discovery_group": "independent-x",
@@ -9052,18 +9053,44 @@
           "reposts": 606,
           "replies": 585,
           "bookmarks": 6133
+        },
+        {
+          "checked_at": "2026-11-12T13:45:18.533405+00:00",
+          "views": 4252126,
+          "likes": 14374,
+          "reposts": 1107,
+          "replies": 816,
+          "bookmarks": 9970
         }
       ],
       "preview_path": "assets/previews/felixrieseberg-2119925633564463609.webp",
       "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/felixrieseberg-2119925633564463609.webp",
       "momentum": {
         "state": "established",
-        "window_minutes": 539.9,
-        "views_delta": 1446631,
-        "likes_delta": 3624,
-        "reposts_delta": 270
+        "window_minutes": 2609.6,
+        "views_delta": 2014603,
+        "likes_delta": 4836,
+        "reposts_delta": 501
       },
-      "curation_reason": "Turns a child’s drawings into a complete fighting-game demonstration; strong observed reach, already established rather than an early signal."
+      "curation_reason": "The original recording shows a rainy container port from a first-person view, with procedural materials and movement through the level. The creator explains the shader workflow and shares the original brief in replies.",
+      "workflow_source_urls": [
+        "https://x.com/felixrieseberg/status/2120245629725409758"
+      ],
+      "workflow_source_checks": [
+        {
+          "source_url": "https://x.com/felixrieseberg/status/2120245629725409758",
+          "checked_at": "2026-11-12T13:48:56.291689+00:00",
+          "method": "X official oEmbed",
+          "post_sha256": "8037f9903bc62a18b0e9612bdb60eca3abc46f9882034042df0f5d1976dad12b"
+        }
+      ],
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for the game and describes generating textures and models as functions and shaders.",
+        "zh-CN": "作者将游戏归功于 Fable 5.2，并说明纹理和模型由函数与着色器生成。",
+        "ja": "作者はFable 5.2でゲームを作り、テクスチャやモデルを関数とシェーダーで生成したと説明しています。",
+        "ko": "제작자는 Fable 5.2로 게임을 만들었으며 텍스처와 모델을 함수와 셰이더로 생성했다고 밝혔습니다.",
+        "es": "El autor atribuye el juego a Fable 5.2 y describe cómo generó texturas y modelos con funciones y shaders."
+      }
     },
     {
       "id": "emollick-2119918307457577163",
@@ -16655,14 +16682,22 @@
           "reposts": 48,
           "replies": 44,
           "bookmarks": 528
+        },
+        {
+          "checked_at": "2026-11-12T13:45:19.045709+00:00",
+          "views": 32503,
+          "likes": 963,
+          "reposts": 66,
+          "replies": 48,
+          "bookmarks": 659
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 184.5,
-        "views_delta": 7445,
-        "likes_delta": 199,
-        "reposts_delta": 14
+        "window_minutes": 184.4,
+        "views_delta": 7757,
+        "likes_delta": 173,
+        "reposts_delta": 18
       }
     },
     {
@@ -17555,14 +17590,22 @@
           "reposts": 625,
           "replies": 387,
           "bookmarks": 3589
+        },
+        {
+          "checked_at": "2026-11-12T13:45:19.001365+00:00",
+          "views": 625245,
+          "likes": 7689,
+          "reposts": 665,
+          "replies": 405,
+          "bookmarks": 3797
         }
       ],
       "momentum": {
         "state": "established",
-        "window_minutes": 0.7,
-        "views_delta": 87,
-        "likes_delta": 1,
-        "reposts_delta": 1
+        "window_minutes": 183.6,
+        "views_delta": 56515,
+        "likes_delta": 482,
+        "reposts_delta": 40
       }
     },
     {
@@ -18086,6 +18129,576 @@
         "state": "new",
         "window_minutes": 0.8,
         "views_delta": 1,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "mengto-2120501283304153438",
+      "titles": {
+        "en": "Seerveil, a trailer built from an existing Three.js game",
+        "zh-CN": "《Seerveil》用已有 Three.js 游戏制作的预告片",
+        "ja": "既存のThree.jsゲームから作った『Seerveil』予告編",
+        "ko": "기존 Three.js 게임으로 만든 Seerveil 예고편",
+        "es": "Seerveil, un tráiler creado a partir de un juego existente en Three.js"
+      },
+      "category": "product",
+      "creator": {
+        "name": "MengTo",
+        "url": "https://x.com/MengTo"
+      },
+      "source_url": "https://x.com/MengTo/status/2120501283304153438",
+      "published_at": "2026-11-11T12:57:57Z",
+      "duration_seconds": 60,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120501022607183872/img/0Y_16j8z2cKp09FW.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/mengto-2120501283304153438.webp",
+      "preview_path": "assets/previews/mengto-2120501283304153438.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120501022607183872/vid/avc1/2560x1440/LtYxtiVb1VYHP7Fi.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-12T13:46:18.960033+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "eda65715235ca4dd70d384d89521ac09336ebd5fa1aa1c512ab388369dea1f65",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T13:46:26.509072+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120501022607183872",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A finished trailer cuts from village characters to overhead spell effects and night combat. The creator confirms the underlying game predates this trailer.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 with making a trailer from an existing Three.js game and confirms that the footage uses its game assets.",
+        "zh-CN": "作者将预告片制作归功于 Fable 5.2，并说明短片来自已有的 Three.js 游戏，使用了游戏内资产。",
+        "ja": "作者は既存のThree.jsゲームからFable 5.2で予告編を作り、ゲームの素材を使ったと説明しています。",
+        "ko": "제작자는 기존 Three.js 게임에서 Fable 5.2로 예고편을 만들었으며 게임 에셋을 사용했다고 밝혔습니다.",
+        "es": "El autor atribuye a Fable 5.2 un tráiler de un juego existente en Three.js y confirma que se usaron recursos del juego."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T13:45:18.537897+00:00",
+          "views": 18505,
+          "likes": 266,
+          "reposts": 7,
+          "replies": 35,
+          "bookmarks": 106
+        },
+        {
+          "checked_at": "2026-11-12T13:46:26.981220+00:00",
+          "views": 18507,
+          "likes": 266,
+          "reposts": 7,
+          "replies": 35,
+          "bookmarks": 106
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 1.1,
+        "views_delta": 2,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      },
+      "workflow_source_urls": [
+        "https://x.com/MengTo/status/2120509836421116189",
+        "https://x.com/MengTo/status/2120520413793157610"
+      ],
+      "workflow_source_checks": [
+        {
+          "source_url": "https://x.com/MengTo/status/2120509836421116189",
+          "checked_at": "2026-11-12T13:46:42.082338+00:00",
+          "method": "X official oEmbed",
+          "post_sha256": "79a6381eddd1b26052cf1e4eb3663d8bc643196c85ef725a84fd0352f76c3669"
+        },
+        {
+          "source_url": "https://x.com/MengTo/status/2120520413793157610",
+          "checked_at": "2026-11-12T13:46:42.082164+00:00",
+          "method": "X official oEmbed",
+          "post_sha256": "87405ace68ed689d0f5bbbd7bdda9d2e6e848f8f4d1062e40e09eacc114b31ee"
+        }
+      ]
+    },
+    {
+      "id": "mengto-2120316203738829180",
+      "titles": {
+        "en": "A Three.js apartment recreated in Blender",
+        "zh-CN": "在 Blender 里重建 Three.js 公寓",
+        "ja": "Three.jsの部屋をBlenderで再構成",
+        "ko": "Three.js 아파트를 Blender로 재현",
+        "es": "Un apartamento de Three.js recreado en Blender"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "MengTo",
+        "url": "https://x.com/MengTo"
+      },
+      "source_url": "https://x.com/MengTo/status/2120316203738829180",
+      "published_at": "2026-11-11T00:42:31Z",
+      "duration_seconds": 52,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120315007900819456/img/gYeyL1mEFS3yExVT.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/mengto-2120316203738829180.webp",
+      "preview_path": "assets/previews/mengto-2120316203738829180.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120315007900819456/vid/avc1/1920x1080/GZkLFadi9AtkYzAJ.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-12T13:46:18.750809+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "e884017c6e093fc74a5ffc8c6362fab3beb4cdccd4986e716bf2a57849179d07",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T13:46:26.510239+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120315007900819456",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The published sequence shows close views of a furnished apartment, a monitor and desk objects to illustrate a scene rebuilt in Blender.",
+      "workflow": "creator-reported-multitool",
+      "workflow_notes": {
+        "en": "The creator says Fable 5.2 recreated an existing Three.js apartment scene in Blender.",
+        "zh-CN": "作者称 Fable 5.2 将已有的 Three.js 公寓场景在 Blender 中重建。",
+        "ja": "作者は既存のThree.jsの部屋をFable 5.2でBlenderに再構成したと説明しています。",
+        "ko": "제작자는 Fable 5.2가 기존 Three.js 아파트 장면을 Blender로 재현했다고 밝혔습니다.",
+        "es": "El autor dice que Fable 5.2 recreó en Blender un apartamento que ya existía en Three.js."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T13:45:21.341572+00:00",
+          "views": 27073,
+          "likes": 484,
+          "reposts": 29,
+          "replies": 27,
+          "bookmarks": 470
+        },
+        {
+          "checked_at": "2026-11-12T13:46:26.991239+00:00",
+          "views": 27076,
+          "likes": 484,
+          "reposts": 29,
+          "replies": 27,
+          "bookmarks": 470
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 1.1,
+        "views_delta": 3,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "op7418-2120694045299327187",
+      "titles": {
+        "en": "A snowy 3D action game in one HTML file",
+        "zh-CN": "一个 HTML 文件里的雪地 3D 动作游戏",
+        "ja": "単一HTMLで動く雪景色の3Dアクションゲーム",
+        "ko": "HTML 파일 하나로 구동되는 설원 3D 액션 게임",
+        "es": "Un juego de acción 3D en la nieve dentro de un solo archivo HTML"
+      },
+      "category": "interactive",
+      "creator": {
+        "name": "op7418",
+        "url": "https://x.com/op7418"
+      },
+      "source_url": "https://x.com/op7418/status/2120694045299327187",
+      "published_at": "2026-11-12T01:43:55Z",
+      "duration_seconds": 66.153,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120692796327968768/img/CexsRABoPsALcj3U.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/op7418-2120694045299327187.webp",
+      "preview_path": "assets/previews/op7418-2120694045299327187.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120692796327968768/vid/avc1/2134x1080/IgnOSwRg5XNSEAmN.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-12T13:46:20.868904+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "4993a3ce4489a197e8ce4b7b090df8f8c0380673ec39603e0e10803989aa5b64",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T13:46:26.510816+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120692796327968768",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The recording shows traversal and an encounter in a snow-covered environment, with visible movement and combat effects. The author separately discloses how assets were generated.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 with game development and packaging. A reply identifies Jimeng CLI and Tripo for concept images and 3D assets.",
+        "zh-CN": "作者将游戏开发和打包归功于 Fable 5.2。后续回复披露用即梦 CLI 与 Tripo 制作设定图和 3D 资产。",
+        "ja": "作者はゲーム開発とパッケージ化をFable 5.2に帰属させています。返信ではコンセプト画像と3D素材に即夢CLIとTripoを使ったと説明しています。",
+        "ko": "제작자는 게임 개발과 패키징에 Fable 5.2를 사용했다고 밝혔습니다. 후속 답글에는 콘셉트 이미지와 3D 에셋에 Jimeng CLI와 Tripo를 썼다고 설명합니다.",
+        "es": "El autor atribuye a Fable 5.2 el desarrollo y el empaquetado. En una respuesta menciona Jimeng CLI y Tripo para las imágenes conceptuales y los recursos 3D."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T13:45:18.570712+00:00",
+          "views": 160866,
+          "likes": 703,
+          "reposts": 68,
+          "replies": 204,
+          "bookmarks": 577
+        },
+        {
+          "checked_at": "2026-11-12T13:46:27.009028+00:00",
+          "views": 161064,
+          "likes": 706,
+          "reposts": 68,
+          "replies": 204,
+          "bookmarks": 581
+        }
+      ],
+      "momentum": {
+        "state": "established",
+        "window_minutes": 1.1,
+        "views_delta": 198,
+        "likes_delta": 3,
+        "reposts_delta": 0
+      },
+      "workflow_source_urls": [
+        "https://x.com/op7418/status/2120694594409312403"
+      ],
+      "workflow_source_checks": [
+        {
+          "source_url": "https://x.com/op7418/status/2120694594409312403",
+          "checked_at": "2026-11-12T13:46:43.430107+00:00",
+          "method": "X official oEmbed",
+          "post_sha256": "79cb462bea37ba7781572b0849552227ad563f712a82c62302d8f3ef696d900c"
+        }
+      ]
+    },
+    {
+      "id": "ryansael-2120695866684231998",
+      "titles": {
+        "en": "Farewell Light, a stormy lighthouse game demo",
+        "zh-CN": "《Farewell Light》风暴中的灯塔游戏演示",
+        "ja": "嵐の灯台ゲーム『Farewell Light』のデモ",
+        "ko": "폭풍 속 등대 게임 Farewell Light 시연",
+        "es": "Farewell Light, una demo de juego en un faro bajo la tormenta"
+      },
+      "category": "interactive",
+      "creator": {
+        "name": "RyanSael",
+        "url": "https://x.com/RyanSael"
+      },
+      "source_url": "https://x.com/RyanSael/status/2120695866684231998",
+      "published_at": "2026-11-12T01:51:09Z",
+      "duration_seconds": 144.866,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120694422136647680/img/EQ6wXlebfH8pRoYt.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ryansael-2120695866684231998.webp",
+      "preview_path": "assets/previews/ryansael-2120695866684231998.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120694422136647680/vid/avc1/1706x1080/cuxS5q7B87MFwq6W.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-12T13:46:21.180355+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "dd32d2c31be35aae501ecbbbe3c5c55f09021fdf0109dd98163b216121af4a96",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T13:46:26.559577+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120694422136647680",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The recording builds an encounter around a dark shoreline, luminous barriers and a character moving through the storm.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for the gameplay demo. The post does not identify the engine or asset workflow.",
+        "zh-CN": "作者将游戏演示归功于 Fable 5.2，未披露引擎或资产制作流程。",
+        "ja": "作者はゲームデモをFable 5.2で作ったと説明しています。エンジンや素材の制作工程は未公開です。",
+        "ko": "제작자는 게임 데모를 Fable 5.2로 만들었다고 밝혔습니다. 엔진과 에셋 제작 과정은 공개하지 않았습니다.",
+        "es": "El autor atribuye la demo a Fable 5.2. La publicación no identifica el motor ni el proceso de creación de recursos."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T13:45:59.747081+00:00",
+          "views": 3051,
+          "likes": 31,
+          "reposts": 3,
+          "replies": 4,
+          "bookmarks": 14
+        },
+        {
+          "checked_at": "2026-11-12T13:46:27.032227+00:00",
+          "views": 3053,
+          "likes": 31,
+          "reposts": 3,
+          "replies": 4,
+          "bookmarks": 14
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.5,
+        "views_delta": 2,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "ryansael-2120544205558915329",
+      "titles": {
+        "en": "An interactive concert map that previews each seat’s view",
+        "zh-CN": "能预览每个座位视角的演唱会地图",
+        "ja": "座席ごとの見え方を確認できるコンサート会場マップ",
+        "ko": "좌석마다 시야를 미리 보는 콘서트 좌석 지도",
+        "es": "Un mapa interactivo de conciertos que muestra la vista desde cada asiento"
+      },
+      "category": "product",
+      "creator": {
+        "name": "RyanSael",
+        "url": "https://x.com/RyanSael"
+      },
+      "source_url": "https://x.com/RyanSael/status/2120544205558915329",
+      "published_at": "2026-11-11T15:48:31Z",
+      "duration_seconds": 21.066,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120540769178259456/img/cMuJfhv0kIwq2rB6.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ryansael-2120544205558915329.webp",
+      "preview_path": "assets/previews/ryansael-2120544205558915329.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120540769178259456/vid/avc1/1920x1080/Jthjy2FP0kte76J5.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-12T13:46:22.780774+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "4eed2a894fc674312bc4c50354c23f07fed91855b69c176c90708c1aeebd9690",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T13:46:26.559373+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120540769178259456",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The prototype moves from a venue overview to a seat-level view of a lit stage, making a common ticketing decision visible.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator attributes the interactive seat-view prototype to Fable 5.2. Rendering tools are unspecified.",
+        "zh-CN": "作者将可交互的座位视角原型归功于 Fable 5.2，未披露渲染工具。",
+        "ja": "作者は座席からの見え方を確認できる試作をFable 5.2で作ったと説明しています。描画ツールは未公開です。",
+        "ko": "제작자는 좌석별 시야를 보여 주는 프로토타입을 Fable 5.2로 만들었다고 밝혔습니다. 렌더링 도구는 공개하지 않았습니다.",
+        "es": "El autor atribuye el prototipo interactivo de vistas desde los asientos a Fable 5.2. Las herramientas de renderizado quedan sin especificar."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T13:45:59.798200+00:00",
+          "views": 1952,
+          "likes": 36,
+          "reposts": 3,
+          "replies": 5,
+          "bookmarks": 17
+        },
+        {
+          "checked_at": "2026-11-12T13:46:27.033015+00:00",
+          "views": 1952,
+          "likes": 36,
+          "reposts": 3,
+          "replies": 5,
+          "bookmarks": 17
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.5,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "0xapexai-2120268733360779645",
+      "titles": {
+        "en": "A Blender character rigging comparison from Tripo assets",
+        "zh-CN": "从 Tripo 模型开始的 Blender 角色绑定对照",
+        "ja": "Tripo素材から始めるBlenderキャラクターリグ比較",
+        "ko": "Tripo 에셋으로 시작하는 Blender 캐릭터 리깅 비교",
+        "es": "Una comparación de rigging en Blender a partir de recursos de Tripo"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "0xApexAi",
+        "url": "https://x.com/0xApexAi"
+      },
+      "source_url": "https://x.com/0xApexAi/status/2120268733360779645",
+      "published_at": "2026-11-10T21:33:53Z",
+      "duration_seconds": 28.053,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120267796810473472/img/AMVkgjZWYEXBd_CJ.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/0xapexai-2120268733360779645.webp",
+      "preview_path": "assets/previews/0xapexai-2120268733360779645.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120267796810473472/vid/avc1/1920x1080/KSmjuhKzCxmnfnXo.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-12T13:46:23.349358+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "c35ef5d101f746d62a3375cbf2f2da897bc5832cd1d697698c534e02cea507fd",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T13:46:27.389526+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120267796810473472",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The labeled split screen follows mesh cleanup, rigging and textured results on each side, making the two workflows easy to compare.",
+      "workflow": "model-comparison",
+      "workflow_notes": {
+        "en": "The creator started both workflows from Tripo assets in Blender. The video labels Opus 5.5 on the left and Fable 5.2 on the right.",
+        "zh-CN": "作者在 Blender 中以 Tripo 资产作为两组流程的起点。视频标注左侧为 Opus 5.5，右侧为 Fable 5.2。",
+        "ja": "作者はBlender上で両方の作業をTripo素材から始めました。映像では左がOpus 5.5、右がFable 5.2です。",
+        "ko": "제작자는 Blender에서 두 작업 모두 Tripo 에셋으로 시작했습니다. 영상은 왼쪽을 Opus 5.5, 오른쪽을 Fable 5.2로 표시합니다.",
+        "es": "El autor inició ambos flujos en Blender con recursos de Tripo. El vídeo identifica Opus 5.5 a la izquierda y Fable 5.2 a la derecha."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T10:40:57.880960+00:00",
+          "views": 2029,
+          "likes": 22,
+          "reposts": 0,
+          "replies": 4,
+          "bookmarks": 12
+        },
+        {
+          "checked_at": "2026-11-12T13:45:18.568180+00:00",
+          "views": 2142,
+          "likes": 22,
+          "reposts": 0,
+          "replies": 4,
+          "bookmarks": 12
+        },
+        {
+          "checked_at": "2026-11-12T13:46:27.919941+00:00",
+          "views": 2142,
+          "likes": 22,
+          "reposts": 0,
+          "replies": 4,
+          "bookmarks": 12
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 185.5,
+        "views_delta": 113,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "iamshankhadeep-2120601879029907520",
+      "titles": {
+        "en": "A reel of browser-rendered short films",
+        "zh-CN": "一支浏览器渲染短片的混剪",
+        "ja": "ブラウザーで描画する短編作品のリール",
+        "ko": "브라우저로 렌더링한 단편 영상 모음",
+        "es": "Un montaje de cortos renderizados en el navegador"
+      },
+      "category": "short-films",
+      "creator": {
+        "name": "Iamshankhadeep",
+        "url": "https://x.com/Iamshankhadeep"
+      },
+      "source_url": "https://x.com/Iamshankhadeep/status/2120601879029907520",
+      "published_at": "2026-11-11T19:37:41Z",
+      "duration_seconds": 48,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120601647760261120/img/pf0oMQF1-9ZEePwL.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/iamshankhadeep-2120601879029907520.webp",
+      "preview_path": "assets/previews/iamshankhadeep-2120601879029907520.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120601647760261120/vid/avc1/1920x1080/IAnqlZZmZKQrtPKZ.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-12T13:46:24.763794+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "a53bf23a511c01f340cc27a734c50e989c653fc3a81d32a61c755d848dfb9300",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T13:46:27.500690+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120601647760261120",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The posted reel moves between lanterns, abstract line work, lightning and geometric tunnels. It is one montage of the creator’s experiments.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for browser-rendered shorts using Canvas, WebGL and Three.js and says some source films start from generated images. The X post contains a 48-second reel.",
+        "zh-CN": "作者称 Fable 5.2 用 Canvas、WebGL 与 Three.js 制作了浏览器渲染短片，部分原片以生成图为起点。X 原帖为 48 秒混剪。",
+        "ja": "作者はCanvas、WebGL、Three.jsを使ったブラウザー短編をFable 5.2で作り、一部の作品は生成画像から始めたと説明しています。元投稿は48秒のリールです。",
+        "ko": "제작자는 Fable 5.2로 Canvas, WebGL, Three.js 단편을 만들었으며 일부는 생성 이미지에서 시작했다고 밝혔습니다. X 게시물에는 48초 모음 영상이 올라와 있습니다.",
+        "es": "El autor atribuye a Fable 5.2 cortos en Canvas, WebGL y Three.js. Algunas piezas parten de imágenes generadas. La publicación de X contiene un montaje de 48 segundos."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T10:40:57.827572+00:00",
+          "views": 104,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-12T13:45:18.537374+00:00",
+          "views": 107,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-12T13:46:27.971601+00:00",
+          "views": 107,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 185.5,
+        "views_delta": 3,
         "likes_delta": 0,
         "reposts_delta": 0
       }
