@@ -18768,14 +18768,22 @@
           "reposts": 0,
           "replies": 2,
           "bookmarks": 16
+        },
+        {
+          "checked_at": "2026-11-12T22:47:29.226588+00:00",
+          "views": 2130,
+          "likes": 25,
+          "reposts": 1,
+          "replies": 2,
+          "bookmarks": 19
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 362.9,
-        "views_delta": 1257,
-        "likes_delta": 13,
-        "reposts_delta": 0
+        "window_minutes": 363.3,
+        "views_delta": 270,
+        "likes_delta": 1,
+        "reposts_delta": 1
       }
     },
     {
@@ -18843,14 +18851,22 @@
           "reposts": 5,
           "replies": 1,
           "bookmarks": 17
+        },
+        {
+          "checked_at": "2026-11-12T22:47:29.266485+00:00",
+          "views": 4072,
+          "likes": 55,
+          "reposts": 5,
+          "replies": 1,
+          "bookmarks": 22
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 363.2,
-        "views_delta": 699,
+        "window_minutes": 363.3,
+        "views_delta": 569,
         "likes_delta": 11,
-        "reposts_delta": 1
+        "reposts_delta": 0
       }
     },
     {
@@ -19406,13 +19422,21 @@
           "reposts": 0,
           "replies": 4,
           "bookmarks": 7
+        },
+        {
+          "checked_at": "2026-11-12T22:47:29.351523+00:00",
+          "views": 1245,
+          "likes": 41,
+          "reposts": 0,
+          "replies": 5,
+          "bookmarks": 9
         }
       ],
       "momentum": {
         "state": "new",
-        "window_minutes": 2.4,
-        "views_delta": 3,
-        "likes_delta": 0,
+        "window_minutes": 181.9,
+        "views_delta": 154,
+        "likes_delta": 6,
         "reposts_delta": 0
       }
     },
@@ -19489,14 +19513,22 @@
           "reposts": 4,
           "replies": 10,
           "bookmarks": 9
+        },
+        {
+          "checked_at": "2026-11-12T22:47:29.217309+00:00",
+          "views": 2725,
+          "likes": 60,
+          "reposts": 5,
+          "replies": 11,
+          "bookmarks": 15
         }
       ],
       "momentum": {
-        "state": "new",
-        "window_minutes": 2.4,
-        "views_delta": 3,
-        "likes_delta": 0,
-        "reposts_delta": 0
+        "state": "rising",
+        "window_minutes": 181.9,
+        "views_delta": 727,
+        "likes_delta": 14,
+        "reposts_delta": 1
       }
     },
     {
@@ -20043,6 +20075,764 @@
       "momentum": {
         "state": "new",
         "window_minutes": 0.8,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "loktar00-2121005021131083851",
+      "titles": {
+        "en": "A hang-gliding game above a patchwork island",
+        "zh-CN": "在拼布般的小岛上空滑翔的游戏",
+        "ja": "パッチワークの島を飛ぶハンググライダーゲーム",
+        "ko": "조각보 같은 섬 위를 나는 행글라이더 게임",
+        "es": "Un juego de ala delta sobre una isla de campos de colores"
+      },
+      "category": "interactive",
+      "creator": {
+        "name": "loktar00",
+        "url": "https://x.com/loktar00"
+      },
+      "source_url": "https://x.com/loktar00/status/2121005021131083851",
+      "published_at": "2026-11-12T22:19:38Z",
+      "duration_seconds": 60,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121003810583683072/img/srbibNvHblAJmtw_.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/loktar00-2121005021131083851.webp",
+      "preview_path": "assets/previews/loktar00-2121005021131083851.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2121003810583683072/vid/avc1/1920x1080/ez-WbJx3u3EpJRds.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-12T22:46:27.416131+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "8242ca005391f1afcf3b707d2545de9025e6cbd250847f8b9fa13dd954a0f86a",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T22:47:19.615527+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2121003810583683072",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The camera follows the glider from a wooded hill toward colorful fields below. The recording shows the terrain as part of a playable course.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for the hang-gliding game and challenges players to reach the target.",
+        "zh-CN": "作者将滑翔游戏归功于 Fable 5.2，并邀请玩家飞到终点。",
+        "ja": "作者はFable 5.2でハンググライダーゲームを作り、ゴールを目指す遊び方を紹介しています。",
+        "ko": "제작자는 Fable 5.2로 행글라이더 게임을 만들었으며 목표 지점까지 비행하도록 구성했다고 밝혔습니다.",
+        "es": "El autor atribuye el juego de ala delta a Fable 5.2 y propone llegar al objetivo final."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T22:46:05.135070+00:00",
+          "views": 463,
+          "likes": 14,
+          "reposts": 0,
+          "replies": 3,
+          "bookmarks": 2
+        },
+        {
+          "checked_at": "2026-11-12T22:47:20.088117+00:00",
+          "views": 470,
+          "likes": 14,
+          "reposts": 0,
+          "replies": 3,
+          "bookmarks": 2
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 1.2,
+        "views_delta": 7,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "scottstts-2120977157396533678",
+      "titles": {
+        "en": "Celestial Palace, a 3D palace above the clouds",
+        "zh-CN": "《Celestial Palace》云海之上的 3D 宫殿",
+        "ja": "雲海に浮かぶ3D宮殿『Celestial Palace』",
+        "ko": "구름 위 3D 궁전 Celestial Palace",
+        "es": "Celestial Palace, un palacio 3D sobre las nubes"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "scottstts",
+        "url": "https://x.com/scottstts"
+      },
+      "source_url": "https://x.com/scottstts/status/2120977157396533678",
+      "published_at": "2026-11-12T20:28:54Z",
+      "duration_seconds": 120,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120975845300879360/img/hcMjicIJerhdM_Lo.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/scottstts-2120977157396533678.webp",
+      "preview_path": "assets/previews/scottstts-2120977157396533678.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120975845300879360/vid/avc1/3840x2160/aUvUHaQSajvWcVJf.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-12T22:46:27.408643+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "59bf2f486f1ad5c538cdcc8c7eaab820a9e3cc70bd480271ff9a666fd3eff9bf",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T22:47:19.624465+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120975845300879360",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The flythrough climbs from pale stairways in cloud cover to a tiered palace framed by gold dragons. The creator discloses a multi-tool workflow.",
+      "workflow": "creator-reported-multitool",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 and Tripo for the scene and names Three.js as the renderer.",
+        "zh-CN": "作者将场景归功于 Fable 5.2 与 Tripo，并说明使用 Three.js 渲染。",
+        "ja": "作者はFable 5.2とTripoでシーンを制作し、Three.jsで描画したと説明しています。",
+        "ko": "제작자는 Fable 5.2와 Tripo로 장면을 만들고 Three.js로 렌더링했다고 밝혔습니다.",
+        "es": "El autor atribuye la escena a Fable 5.2 y Tripo e identifica Three.js como motor de renderizado."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T22:46:05.133491+00:00",
+          "views": 606,
+          "likes": 16,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 6
+        },
+        {
+          "checked_at": "2026-11-12T22:47:20.080821+00:00",
+          "views": 606,
+          "likes": 16,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 6
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 1.2,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "kevin-t-ngo-2120948511038648596",
+      "titles": {
+        "en": "An ’80s-style music video animated in Blender",
+        "zh-CN": "用 Blender 制作的八十年代风格音乐视频",
+        "ja": "Blenderで作った1980年代風ミュージックビデオ",
+        "ko": "Blender로 만든 1980년대풍 뮤직비디오",
+        "es": "Un videoclip de estilo ochentero animado en Blender"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "kevin_t_ngo",
+        "url": "https://x.com/kevin_t_ngo"
+      },
+      "source_url": "https://x.com/kevin_t_ngo/status/2120948511038648596",
+      "published_at": "2026-11-12T18:35:05Z",
+      "duration_seconds": 138.5,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120947367142981632/img/vY4DrsS94me7mFGU.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kevin-t-ngo-2120948511038648596.webp",
+      "preview_path": "assets/previews/kevin-t-ngo-2120948511038648596.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120947367142981632/vid/avc1/2160x2160/JErOSxM1cooLCIA5.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-12T22:46:48.575097+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "8991a08cd132fa8511ab7d2de7cf5a5b8e4b88f3aefe8698fadd42c6e4666cdc",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T22:47:20.514673+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120947367142981632",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The music video cuts from a corridor lined with illuminated panels to a performance staged around a wall of screens. The author specifies the visual pipeline.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator says Fable 5.2 produced the visuals in code, using Python animation and Blender rendering.",
+        "zh-CN": "作者称画面由 Fable 5.2 通过代码生成，以 Python 制作动画，并在 Blender 渲染。",
+        "ja": "作者は映像をFable 5.2がコードで作り、Pythonで動かしてBlenderで描画したと説明しています。",
+        "ko": "제작자는 Fable 5.2로 화면을 코드로 만들고 Python으로 애니메이션을 제작해 Blender로 렌더링했다고 밝혔습니다.",
+        "es": "El autor afirma que Fable 5.2 creó las imágenes mediante código, con animación en Python y renderizado en Blender."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T22:46:28.651853+00:00",
+          "views": 3821,
+          "likes": 107,
+          "reposts": 0,
+          "replies": 24,
+          "bookmarks": 43
+        },
+        {
+          "checked_at": "2026-11-12T22:47:20.975732+00:00",
+          "views": 3829,
+          "likes": 107,
+          "reposts": 0,
+          "replies": 24,
+          "bookmarks": 43
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.9,
+        "views_delta": 8,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "yegor-2120689760595276193",
+      "titles": {
+        "en": "COO, a bird’s-eye trailer for a living Toronto",
+        "zh-CN": "《COO》从飞鸟视角看多伦多的预告片",
+        "ja": "鳥の視点でトロントを巡る『COO』予告編",
+        "ko": "새의 시점으로 토론토를 둘러보는 COO 예고편",
+        "es": "COO, un tráiler de Toronto a vista de pájaro"
+      },
+      "category": "interactive",
+      "creator": {
+        "name": "yegor",
+        "url": "https://x.com/yegor"
+      },
+      "source_url": "https://x.com/yegor/status/2120689760595276193",
+      "published_at": "2026-11-12T01:26:54Z",
+      "duration_seconds": 72.938,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120684600557006848/img/ANx0KAu4_U4iiuS6.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/yegor-2120689760595276193.webp",
+      "preview_path": "assets/previews/yegor-2120689760595276193.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120684600557006848/vid/avc1/1920x1080/VEcNvdW3v6fKtdCn.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-12T22:46:48.565861+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "32bae97ebd6ca7d841415a818c98c1bccb56d8bea72ba47414cf758ae51cd1bd",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T22:47:20.523072+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120684600557006848",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The trailer moves between a high view of roads, street-level travel and the interior of a transit car. The creator distinguishes the new mode from the existing game.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator says Fable 5.2 expanded an existing bird simulator and made this trailer for its new city mode.",
+        "zh-CN": "作者称 Fable 5.2 扩展了已有的飞鸟模拟器，并为新增城市模式制作了预告片。",
+        "ja": "作者によると、Fable 5.2が既存の鳥シミュレーターを拡張し、新しい都市モードの予告編を作りました。",
+        "ko": "제작자는 Fable 5.2가 기존 조류 시뮬레이터를 확장하고 새 도시 모드 예고편을 만들었다고 밝혔습니다.",
+        "es": "El autor cuenta que Fable 5.2 amplió un simulador de aves existente y preparó este tráiler de su nuevo modo urbano."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T22:46:29.142822+00:00",
+          "views": 15928,
+          "likes": 216,
+          "reposts": 13,
+          "replies": 22,
+          "bookmarks": 123
+        },
+        {
+          "checked_at": "2026-11-12T22:47:21.005851+00:00",
+          "views": 15934,
+          "likes": 216,
+          "reposts": 13,
+          "replies": 22,
+          "bookmarks": 123
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.9,
+        "views_delta": 6,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "hajimetwi3-2120910386614690098",
+      "titles": {
+        "en": "A VRM avatar built from a character reference",
+        "zh-CN": "从参考图制作的 VRM 角色",
+        "ja": "参考画像から作ったVRMアバター",
+        "ko": "캐릭터 참고 이미지로 만든 VRM 아바타",
+        "es": "Un avatar VRM creado a partir de una referencia"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "hajimetwi3",
+        "url": "https://x.com/hajimetwi3"
+      },
+      "source_url": "https://x.com/hajimetwi3/status/2120910386614690098",
+      "published_at": "2026-11-12T16:03:35Z",
+      "duration_seconds": 32.416,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120909338009370624/img/Zpia8L1BABYsS3hE.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/hajimetwi3-2120910386614690098.webp",
+      "preview_path": "assets/previews/hajimetwi3-2120910386614690098.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120909338009370624/vid/avc1/1332x752/dq-euZULQItG3ci3.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-12T22:46:30.418151+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "600e3838e2a512c0194064f2e38c7c84a5ea15eb10291feba8d077cf5fb4c218",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T22:47:19.635894+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120909338009370624",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A slow turntable and close-ups show the shape, clothing and face of the stylized avatar. The source discloses the separate image reference.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator names Fable 5.2 and Blender for the VRM experiment and says the reference image was generated in ChatGPT.",
+        "zh-CN": "作者说明 VRM 实验使用了 Fable 5.2 和 Blender，参考图由 ChatGPT 生成。",
+        "ja": "作者はVRMの試作にFable 5.2とBlenderを使い、参考画像をChatGPTで生成したと説明しています。",
+        "ko": "제작자는 VRM 실험에 Fable 5.2와 Blender를 사용했으며 참고 이미지는 ChatGPT에서 생성했다고 밝혔습니다.",
+        "es": "El autor identifica Fable 5.2 y Blender en el experimento con VRM e indica que la imagen de referencia salió de ChatGPT."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T22:46:05.671147+00:00",
+          "views": 1020,
+          "likes": 14,
+          "reposts": 0,
+          "replies": 2,
+          "bookmarks": 6
+        },
+        {
+          "checked_at": "2026-11-12T22:47:20.165972+00:00",
+          "views": 1021,
+          "likes": 14,
+          "reposts": 0,
+          "replies": 2,
+          "bookmarks": 6
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 1.2,
+        "views_delta": 1,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "theoardley-2120561850802929711",
+      "titles": {
+        "en": "Seven Wonders as a code-drawn pop-up book",
+        "zh-CN": "用代码绘制的世界七大奇迹立体书",
+        "ja": "コードで描いた世界七不思議のポップアップ絵本",
+        "ko": "코드로 그린 세계 7대 불가사의 팝업북",
+        "es": "Las siete maravillas en un libro desplegable dibujado con código"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "theoardley",
+        "url": "https://x.com/theoardley"
+      },
+      "source_url": "https://x.com/theoardley/status/2120561850802929711",
+      "published_at": "2026-11-11T16:58:38Z",
+      "duration_seconds": 38.89,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120561818313576448/img/vkuBQS0wvT7PlgMb.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/theoardley-2120561850802929711.webp",
+      "preview_path": "assets/previews/theoardley-2120561850802929711.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120561818313576448/vid/avc1/1008x1152/f28Cp0gRI6BQw11T.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-12T22:46:30.419189+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "c3b97ce9be3f249effdc098aee6514f51cf63929f58ef4e24d4ffc958f309e8a",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T22:47:19.636395+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120561818313576448",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The labeled split screen lets viewers compare paper folds, page turns and illustrated monuments from the same brief.",
+      "workflow": "model-comparison",
+      "workflow_notes": {
+        "en": "The creator identifies Opus 5.5 on the left and Fable 5.2 on the right. Both used the same prompt and one round of notes, and the pages were drawn in code.",
+        "zh-CN": "作者标注左侧是 Opus 5.5，右侧是 Fable 5.2。两个版本使用同一提示词和一轮反馈，页面均由代码绘制。",
+        "ja": "作者の説明では左がOpus 5.5、右がFable 5.2です。同じ指示で1回ずつ修正し、各ページをコードで描いています。",
+        "ko": "제작자는 왼쪽이 Opus 5.5, 오른쪽이 Fable 5.2라고 표시했습니다. 같은 프롬프트와 한 차례의 피드백으로 각 페이지를 코드로 그렸습니다.",
+        "es": "El autor identifica a Opus 5.5 a la izquierda y Fable 5.2 a la derecha. Ambos usaron la misma instrucción y una ronda de comentarios, con páginas dibujadas mediante código."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T22:46:08.307132+00:00",
+          "views": 2086,
+          "likes": 27,
+          "reposts": 1,
+          "replies": 3,
+          "bookmarks": 20
+        },
+        {
+          "checked_at": "2026-11-12T22:47:20.095215+00:00",
+          "views": 2088,
+          "likes": 27,
+          "reposts": 1,
+          "replies": 3,
+          "bookmarks": 20
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 1.2,
+        "views_delta": 2,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "vib3coded-2120104517282775514",
+      "titles": {
+        "en": "A miniature voxel world inside a bottle",
+        "zh-CN": "玻璃瓶里的微型体素世界",
+        "ja": "瓶の中の小さなボクセル世界",
+        "ko": "병 안에 들어 있는 작은 복셀 세계",
+        "es": "Un pequeño mundo de vóxeles dentro de una botella"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "vib3coded",
+        "url": "https://x.com/vib3coded"
+      },
+      "source_url": "https://x.com/vib3coded/status/2120104517282775514",
+      "published_at": "2026-11-10T10:41:21Z",
+      "duration_seconds": 17,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120104433254068225/img/RmgDnWhZQNX8PS-L.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/vib3coded-2120104517282775514.webp",
+      "preview_path": "assets/previews/vib3coded-2120104517282775514.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120104433254068225/vid/avc1/1920x1080/TwqTpSJ125nfAGeC.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-12T22:46:32.056058+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "ce26f49b347b4793734f43fbf793cef83c805c2342d69fa82302b7e8baca80f1",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T22:47:19.616100+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120104433254068225",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A tabletop view shows tiny buildings, terrain and water through a sideways glass bottle, with the camera shifting to reveal its depth.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for the voxel scene shown in the recording.",
+        "zh-CN": "作者将录像中的体素场景归功于 Fable 5.2。",
+        "ja": "作者は映像のボクセルシーンをFable 5.2で作ったと説明しています。",
+        "ko": "제작자는 영상 속 복셀 장면을 Fable 5.2로 만들었다고 밝혔습니다.",
+        "es": "El autor atribuye a Fable 5.2 la escena de vóxeles de la grabación."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T22:46:10.637302+00:00",
+          "views": 7791,
+          "likes": 160,
+          "reposts": 19,
+          "replies": 31,
+          "bookmarks": 58
+        },
+        {
+          "checked_at": "2026-11-12T22:47:20.150046+00:00",
+          "views": 7791,
+          "likes": 160,
+          "reposts": 19,
+          "replies": 31,
+          "bookmarks": 58
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 1.2,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "dominikmartn-2120154832694858224",
+      "titles": {
+        "en": "A bill-splitting interface with coordinated components",
+        "zh-CN": "组件风格统一的分账应用界面",
+        "ja": "部品のデザインを統一した割り勘アプリUI",
+        "ko": "일관된 구성 요소로 만든 비용 분담 앱 UI",
+        "es": "Una interfaz de reparto de gastos con componentes coordinados"
+      },
+      "category": "product",
+      "creator": {
+        "name": "dominikmartn",
+        "url": "https://x.com/dominikmartn"
+      },
+      "source_url": "https://x.com/dominikmartn/status/2120154832694858224",
+      "published_at": "2026-11-10T14:01:17Z",
+      "duration_seconds": 24,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120154807218696192/img/G40Bbx5nKB4ZzySK.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/dominikmartn-2120154832694858224.webp",
+      "preview_path": "assets/previews/dominikmartn-2120154832694858224.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120154807218696192/vid/avc1/1440x1080/283MLjs7xLVK97kW.mp4?tag=16",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-12T22:46:33.594792+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "0de9b61b98dd590a651b9280f1bd64b0e14f79c1267a73b43032be0e3c3fb68a",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T22:47:20.447548+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120154807218696192",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The recording moves across a coherent set of cards, balance displays and controls for a bill-splitting app.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for the interface shown in the design demo.",
+        "zh-CN": "作者将演示中的界面设计归功于 Fable 5.2。",
+        "ja": "作者は映像のインターフェースをFable 5.2で作ったと説明しています。",
+        "ko": "제작자는 데모의 인터페이스를 Fable 5.2로 만들었다고 밝혔습니다.",
+        "es": "El autor atribuye a Fable 5.2 la interfaz de la demostración."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T19:42:37.886062+00:00",
+          "views": 360104,
+          "likes": 7198,
+          "reposts": 287,
+          "replies": 146,
+          "bookmarks": 5319
+        },
+        {
+          "checked_at": "2026-11-12T22:46:10.519246+00:00",
+          "views": 361149,
+          "likes": 7205,
+          "reposts": 287,
+          "replies": 146,
+          "bookmarks": 5324
+        },
+        {
+          "checked_at": "2026-11-12T22:47:20.905951+00:00",
+          "views": 361150,
+          "likes": 7205,
+          "reposts": 287,
+          "replies": 146,
+          "bookmarks": 5324
+        }
+      ],
+      "momentum": {
+        "state": "established",
+        "window_minutes": 184.7,
+        "views_delta": 1046,
+        "likes_delta": 7,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "seiiiiiiiiiiru-2120079029386588503",
+      "titles": {
+        "en": "River of Lanterns, a code-rendered night short",
+        "zh-CN": "《灯笼之河》用代码渲染的夜景短片",
+        "ja": "コードで描いた夜の短編『灯籠の川』",
+        "ko": "코드로 렌더링한 밤의 단편 등롱의 강",
+        "es": "Río de faroles, un corto nocturno renderizado por código"
+      },
+      "category": "short-films",
+      "creator": {
+        "name": "seiiiiiiiiiiru",
+        "url": "https://x.com/seiiiiiiiiiiru"
+      },
+      "source_url": "https://x.com/seiiiiiiiiiiru/status/2120079029386588503",
+      "published_at": "2026-11-10T09:00:04Z",
+      "duration_seconds": 30,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119959242413379584/img/Fdrtxm0FfFG87XKO.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/seiiiiiiiiiiru-2120079029386588503.webp",
+      "preview_path": "assets/previews/seiiiiiiiiiiru-2120079029386588503.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2119959242413379584/vid/avc1/1920x1080/wGI80-cGZLEwRMvR.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-12T22:47:16.176743+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "22e5691a84bb03566264178cc8f0909ecc3408c54643bb8387395607b4d37c15",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T22:47:21.303585+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2119959242413379584",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A candle flame leads to floating lanterns, reflections on the water and fireworks. The creator distinguishes direction, implementation, review and audio.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator says Fable 5.2 directed five Opus 5.5 agents, with Sonnet 5.5 reviewing. Three.js rendered the visuals, and the audio used Stable Audio 3 and Python synthesis.",
+        "zh-CN": "作者称 Fable 5.2 调度五个 Opus 5.5 执行者，Sonnet 5.5 检查结果。画面由 Three.js 渲染，音频使用 Stable Audio 3 与 Python 合成。",
+        "ja": "作者によると、Fable 5.2が5体のOpus 5.5を指揮し、Sonnet 5.5が確認しました。映像はThree.js、音はStable Audio 3とPython合成を使っています。",
+        "ko": "제작자는 Fable 5.2가 Opus 5.5 에이전트 다섯 개를 지휘하고 Sonnet 5.5가 검토했다고 밝혔습니다. 화면은 Three.js로 렌더링했고 오디오는 Stable Audio 3와 Python 합성을 사용했습니다.",
+        "es": "Según el autor, Fable 5.2 dirigió a cinco agentes Opus 5.5 y Sonnet 5.5 revisó el trabajo. Three.js renderizó la imagen y el audio combinó Stable Audio 3 con síntesis en Python."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T22:46:40.835993+00:00",
+          "views": 3146,
+          "likes": 59,
+          "reposts": 11,
+          "replies": 5,
+          "bookmarks": 25
+        },
+        {
+          "checked_at": "2026-11-12T22:47:21.787635+00:00",
+          "views": 3146,
+          "likes": 59,
+          "reposts": 11,
+          "replies": 5,
+          "bookmarks": 25
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.7,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "chetaslua-2120616372434837677",
+      "titles": {
+        "en": "A dawn chorus composed from modeled birdsong",
+        "zh-CN": "用模拟鸟鸣谱成的黎明合唱",
+        "ja": "鳥の鳴き声をモデル化した夜明けの合唱",
+        "ko": "새소리 모델로 작곡한 새벽 합창",
+        "es": "Un coro del amanecer compuesto con cantos de aves modelados"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "chetaslua",
+        "url": "https://x.com/chetaslua"
+      },
+      "source_url": "https://x.com/chetaslua/status/2120616372434837677",
+      "published_at": "2026-11-11T20:35:16Z",
+      "duration_seconds": 210.766,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120616202565480448/img/0ziey7fmgsuk-EkG.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/chetaslua-2120616372434837677.webp",
+      "preview_path": "assets/previews/chetaslua-2120616372434837677.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120616202565480448/vid/avc1/1920x1080/iaZdDW31ZHgJXkL4.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-12T22:47:16.196938+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "b30fb0e1db1a5858ae21342ae311bc5e8034220015fe5337fac5743c2ffcbc73",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T22:47:21.315529+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120616202565480448",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "Silhouetted birds gradually become visible as the sky brightens. The changing dawn light gives a visual structure to the synthesized chorus.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator reports that Fable 5.2 modeled nine birds and made the composition in code without recorded samples.",
+        "zh-CN": "作者称 Fable 5.2 用代码模拟了九只鸟的鸣叫并编排乐曲，未使用录音采样。",
+        "ja": "作者はFable 5.2が9羽の鳴き声をモデル化し、録音サンプルを使わずコードで作曲したと説明しています。",
+        "ko": "제작자는 Fable 5.2가 새 아홉 마리의 소리를 모델링하고 녹음 샘플 없이 코드로 작곡했다고 밝혔습니다.",
+        "es": "El autor afirma que Fable 5.2 modeló nueve aves y compuso la pieza mediante código sin muestras grabadas."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T22:46:38.824130+00:00",
+          "views": 7006,
+          "likes": 123,
+          "reposts": 9,
+          "replies": 15,
+          "bookmarks": 19
+        },
+        {
+          "checked_at": "2026-11-12T22:47:21.785822+00:00",
+          "views": 7006,
+          "likes": 123,
+          "reposts": 9,
+          "replies": 15,
+          "bookmarks": 19
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.7,
         "views_delta": 0,
         "likes_delta": 0,
         "reposts_delta": 0

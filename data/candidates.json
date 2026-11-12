@@ -89,6 +89,16 @@
       "status": "held-insufficient-workflow-evidence",
       "reason": "The original clip shows an audio-analysis interface and mentions Fable 5.2. The post does not specify whether Fable built the interface, mixed the recording or performed another task.",
       "checked_at": "2026-11-12T16:44:12.570995+00:00"
+    },
+    {
+      "source_url": "https://www.youtube.com/watch?v=KF9H7Av1t-s",
+      "creator": {
+        "name": "ManuelAbc",
+        "url": "https://www.youtube.com/@manuelABC"
+      },
+      "status": "held-insufficient-media-rights",
+      "reason": "The creator describes a Fable 5.2 SVG adaptation with separate narration and music. Permission to republish an excerpt from the full literary adaptation has not been verified.",
+      "checked_at": "2026-11-12T22:49:10.798215+00:00"
     }
   ]
 }
