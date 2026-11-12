@@ -16215,13 +16215,21 @@
           "reposts": 66,
           "replies": 76,
           "bookmarks": 833
+        },
+        {
+          "checked_at": "2026-11-12T10:40:57.806432+00:00",
+          "views": 96479,
+          "likes": 1069,
+          "reposts": 67,
+          "replies": 77,
+          "bookmarks": 832
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 174.5,
-        "views_delta": 639,
-        "likes_delta": 5,
+        "window_minutes": 184.5,
+        "views_delta": 590,
+        "likes_delta": 1,
         "reposts_delta": 1
       },
       "workflow_source_urls": [
@@ -16323,13 +16331,21 @@
           "reposts": 11,
           "replies": 16,
           "bookmarks": 128
+        },
+        {
+          "checked_at": "2026-11-12T10:40:57.899048+00:00",
+          "views": 40248,
+          "likes": 142,
+          "reposts": 11,
+          "replies": 17,
+          "bookmarks": 135
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 174.5,
-        "views_delta": 4129,
-        "likes_delta": 5,
+        "window_minutes": 184.5,
+        "views_delta": 10404,
+        "likes_delta": 13,
         "reposts_delta": 0
       }
     },
@@ -16631,14 +16647,22 @@
           "reposts": 34,
           "replies": 32,
           "bookmarks": 363
+        },
+        {
+          "checked_at": "2026-11-12T10:40:57.853569+00:00",
+          "views": 24746,
+          "likes": 790,
+          "reposts": 48,
+          "replies": 44,
+          "bookmarks": 528
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 174.5,
-        "views_delta": 8420,
-        "likes_delta": 251,
-        "reposts_delta": 17
+        "window_minutes": 184.5,
+        "views_delta": 7445,
+        "likes_delta": 199,
+        "reposts_delta": 14
       }
     },
     {
@@ -17387,6 +17411,681 @@
         "state": "new",
         "window_minutes": 0.8,
         "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "nakazakifam-2120257523425103914",
+      "titles": {
+        "en": "An Edo-era automaton reconstructed from drawings",
+        "zh-CN": "从图纸重建江户时代的机关人偶",
+        "ja": "江戸時代の図面から復元するからくり人形",
+        "ko": "에도 시대 도면을 바탕으로 재현한 자동인형",
+        "es": "Un autómata del período Edo reconstruido a partir de planos"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "nakazakifam",
+        "url": "https://x.com/nakazakifam"
+      },
+      "source_url": "https://x.com/nakazakifam/status/2120257523425103914",
+      "published_at": "2026-11-10T20:49:20Z",
+      "duration_seconds": 184.041,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120256332066365440/img/22k-ntl621QFezST.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/nakazakifam-2120257523425103914.webp",
+      "preview_path": "assets/previews/nakazakifam-2120257523425103914.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120256332066365440/vid/avc1/1280x720/KXSlCskVGeCf-v47.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-12T10:41:34.757601+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "4afd56cc7fe4148fbd0946ca6a02f8e033b8561b571849918c8c955221459637",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T10:41:44.444904+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120256332066365440",
+      "media_rights": "Short excerpt from the creator’s video. The creator credits Hanzō Hosokawa’s 1796 drawings from the National Diet Library Digital Collections.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The explainer alternates between historical drawings and Blender views of the mechanism, connecting the parts on paper to their movement.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 and Blender for reconstructing the mechanism from Hanzō Hosokawa’s 1796 drawings and also lists ElevenLabs, Suno and Soniox.",
+        "zh-CN": "作者称用 Fable 5.2 与 Blender 根据细川半藏 1796 年的图纸重建机关，并披露使用 ElevenLabs、Suno 和 Soniox。",
+        "ja": "作者は細川半蔵の1796年の図面をもとにFable 5.2とBlenderで機構を再現し、ElevenLabs、Suno、Sonioxも使ったと説明しています。",
+        "ko": "제작자는 호소카와 한조의 1796년 도면을 바탕으로 Fable 5.2와 Blender로 장치를 재현했고 ElevenLabs, Suno, Soniox도 사용했다고 설명합니다.",
+        "es": "El autor atribuye a Fable 5.2 y Blender la reconstrucción a partir de los planos de Hanzō Hosokawa de 1796. También menciona ElevenLabs, Suno y Soniox."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T10:41:00.967319+00:00",
+          "views": 1690,
+          "likes": 16,
+          "reposts": 4,
+          "replies": 3,
+          "bookmarks": 15
+        },
+        {
+          "checked_at": "2026-11-12T10:41:44.907357+00:00",
+          "views": 1691,
+          "likes": 16,
+          "reposts": 4,
+          "replies": 3,
+          "bookmarks": 15
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.7,
+        "views_delta": 1,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "imjustnewatai-2120383964686729410",
+      "titles": {
+        "en": "A symphony structured like a training run",
+        "zh-CN": "用模型训练过程组织的一部交响曲",
+        "ja": "学習過程になぞらえた交響曲",
+        "ko": "학습 과정을 닮은 구조의 교향곡",
+        "es": "Una sinfonía estructurada como un proceso de entrenamiento"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "imjustnewatai",
+        "url": "https://x.com/imjustnewatai"
+      },
+      "source_url": "https://x.com/imjustnewatai/status/2120383964686729410",
+      "published_at": "2026-11-11T05:11:46Z",
+      "duration_seconds": 128.8,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120383334937210880/img/_7xonzAg1Ok5fJTC.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/imjustnewatai-2120383964686729410.webp",
+      "preview_path": "assets/previews/imjustnewatai-2120383964686729410.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120383334937210880/vid/avc1/1920x1080/JsmjoUR0KG5ePYKK.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-12T10:41:34.693779+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "c01f4b803e5214307696a46b0424b62f58dcf464db2742103945e9e9ce11eaa1",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T10:41:44.337311+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120383334937210880",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "An audiovisual score uses labeled epochs to progress from scattered notes to rhythm, harmony and melody. The training run is the organizing idea of the piece.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for the composition and describes its progression using the stages of a training run. The post leaves the production tools unspecified.",
+        "zh-CN": "作者将作曲归功于 Fable 5.2，并用训练阶段描述音乐的推进。原帖未披露制作工具。",
+        "ja": "作者は作曲をFable 5.2に帰属させ、学習の段階になぞらえて曲の展開を説明しています。制作ツールは未公開です。",
+        "ko": "제작자는 작곡에 Fable 5.2를 사용했으며 곡의 전개를 학습 단계에 빗대어 설명합니다. 제작 도구는 공개하지 않았습니다.",
+        "es": "El autor atribuye la composición a Fable 5.2 y describe su progresión como etapas de entrenamiento. La publicación no especifica las herramientas."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T10:41:00.037574+00:00",
+          "views": 568643,
+          "likes": 7206,
+          "reposts": 624,
+          "replies": 387,
+          "bookmarks": 3587
+        },
+        {
+          "checked_at": "2026-11-12T10:41:44.787164+00:00",
+          "views": 568730,
+          "likes": 7207,
+          "reposts": 625,
+          "replies": 387,
+          "bookmarks": 3589
+        }
+      ],
+      "momentum": {
+        "state": "established",
+        "window_minutes": 0.7,
+        "views_delta": 87,
+        "likes_delta": 1,
+        "reposts_delta": 1
+      }
+    },
+    {
+      "id": "imjustnewatai-2120609268319830027",
+      "titles": {
+        "en": "A sonata played by falling balls",
+        "zh-CN": "小球落下奏出的奏鸣曲",
+        "ja": "落ちる球が奏でるソナタ",
+        "ko": "떨어지는 공이 연주하는 소나타",
+        "es": "Una sonata tocada por bolas que caen"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "imjustnewatai",
+        "url": "https://x.com/imjustnewatai"
+      },
+      "source_url": "https://x.com/imjustnewatai/status/2120609268319830027",
+      "published_at": "2026-11-11T20:07:03Z",
+      "duration_seconds": 126.5,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120609142628909056/img/VuR8OY8m9HzJhVXI.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/imjustnewatai-2120609268319830027.webp",
+      "preview_path": "assets/previews/imjustnewatai-2120609268319830027.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120609142628909056/vid/avc1/1920x1080/HIom3DAvJSv44LtV.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-12T10:41:36.698908+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "0e6438c335c0036591ebba511bed602c43d42fb0fe38ff51b03a7ab6fa14d295",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T10:41:44.365243+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120609142628909056",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The video visualizes the score as falling balls that strike luminous tiles. The creator describes the resulting notes as driven by gravity and collisions.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator attributes the sonata to Fable 5.2 and describes the motion as physics-driven. The engine and audio implementation are unspecified.",
+        "zh-CN": "作者将奏鸣曲归功于 Fable 5.2，并称运动由物理驱动。引擎与音频实现未披露。",
+        "ja": "作者はFable 5.2によるソナタで、物理で動きを計算したと説明しています。エンジンと音の実装は未公開です。",
+        "ko": "제작자는 소나타를 Fable 5.2로 만들었고 움직임이 물리 계산으로 구동된다고 설명합니다. 엔진과 오디오 구현은 공개하지 않았습니다.",
+        "es": "El autor atribuye la sonata a Fable 5.2 y describe el movimiento como guiado por la física. El motor y la implementación del audio quedan sin especificar."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T10:41:00.012305+00:00",
+          "views": 12560,
+          "likes": 177,
+          "reposts": 13,
+          "replies": 8,
+          "bookmarks": 85
+        },
+        {
+          "checked_at": "2026-11-12T10:41:44.816685+00:00",
+          "views": 12563,
+          "likes": 177,
+          "reposts": 13,
+          "replies": 8,
+          "bookmarks": 85
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.7,
+        "views_delta": 3,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "imjustnewatai-2120695368874631226",
+      "titles": {
+        "en": "Fifty simulated cars learn a test track",
+        "zh-CN": "50 辆模拟赛车练习跑赛道",
+        "ja": "50台の車が試験コースを走るシミュレーション",
+        "ko": "모의 자동차 50대가 시험 코스를 달리는 시뮬레이션",
+        "es": "Cincuenta coches simulados aprenden un circuito de pruebas"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "imjustnewatai",
+        "url": "https://x.com/imjustnewatai"
+      },
+      "source_url": "https://x.com/imjustnewatai/status/2120695368874631226",
+      "published_at": "2026-11-12T01:49:11Z",
+      "duration_seconds": 98.4,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120695261080997888/img/NkDP3Ufo4mCvCnka.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/imjustnewatai-2120695368874631226.webp",
+      "preview_path": "assets/previews/imjustnewatai-2120695368874631226.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120695261080997888/vid/avc1/1920x1080/Kxjgtlp4UUvIqjQ_.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-12T10:41:37.018730+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "7a1408244659f84db9ffb40dda321fce5d803992f476faab1c3e39fe1254c3b0",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T10:41:44.309636+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120695261080997888",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "An overhead simulation shows many cars trying a course while the dashboard tracks progress across generations.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator asked Fable 5.2 to make a driving-learning demo for 50 cars. The post leaves the learning algorithm unspecified.",
+        "zh-CN": "作者请 Fable 5.2 为 50 辆车制作学习驾驶的演示，未披露学习算法。",
+        "ja": "作者はFable 5.2に50台の車の走行学習デモを依頼しました。学習アルゴリズムは未公開です。",
+        "ko": "제작자는 Fable 5.2에 자동차 50대의 주행 학습 데모를 요청했습니다. 학습 알고리즘은 공개하지 않았습니다.",
+        "es": "El autor pidió a Fable 5.2 una demo de aprendizaje de conducción para 50 coches. La publicación no especifica el algoritmo."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T10:40:59.554492+00:00",
+          "views": 15756,
+          "likes": 228,
+          "reposts": 11,
+          "replies": 12,
+          "bookmarks": 49
+        },
+        {
+          "checked_at": "2026-11-12T10:41:44.775176+00:00",
+          "views": 15774,
+          "likes": 228,
+          "reposts": 11,
+          "replies": 12,
+          "bookmarks": 49
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.8,
+        "views_delta": 18,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "kanaworks-ai-2120756625699143977",
+      "titles": {
+        "en": "A continuous flight from a blade of grass to orbit",
+        "zh-CN": "从一片草叶连续飞到星球轨道",
+        "ja": "草の葉から軌道まで途切れず飛ぶ映像",
+        "ko": "풀잎에서 궤도까지 이어지는 비행",
+        "es": "Un vuelo continuo desde una brizna de hierba hasta la órbita"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "KanaWorks_AI",
+        "url": "https://x.com/KanaWorks_AI"
+      },
+      "source_url": "https://x.com/KanaWorks_AI/status/2120756625699143977",
+      "published_at": "2026-11-12T05:52:35Z",
+      "duration_seconds": 29.976,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120756185255280640/img/5rr2gvmjVgPQyhsG.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kanaworks-ai-2120756625699143977.webp",
+      "preview_path": "assets/previews/kanaworks-ai-2120756625699143977.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120756185255280640/vid/avc1/1920x1080/cyqR1cP_m0o4kK5p.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-12T10:41:38.307767+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "0579b45c56b2d958220feaed1ee2677a1f6f4475d5d38a424684181f4d0b0fc5",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T10:41:44.309117+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120756185255280640",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A single flythrough links surface vegetation, clouds and an orbital view to show several scales of one planet.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for a planet generated entirely in code and reports using no imported 3D models, images or audio assets.",
+        "zh-CN": "作者称 Fable 5.2 全程用代码生成行星，未导入 3D 模型、图片或音频素材。",
+        "ja": "作者はFable 5.2で惑星をコードだけで生成し、外部の3Dモデル、画像、音声素材を使っていないと説明しています。",
+        "ko": "제작자는 Fable 5.2로 행성을 코드만으로 생성했고 외부 3D 모델, 이미지, 오디오 에셋을 가져오지 않았다고 설명합니다.",
+        "es": "El autor atribuye a Fable 5.2 un planeta generado íntegramente con código y declara no haber importado modelos 3D, imágenes ni audio."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T10:40:59.567189+00:00",
+          "views": 5783,
+          "likes": 96,
+          "reposts": 9,
+          "replies": 9,
+          "bookmarks": 51
+        },
+        {
+          "checked_at": "2026-11-12T10:41:44.786799+00:00",
+          "views": 5799,
+          "likes": 96,
+          "reposts": 9,
+          "replies": 9,
+          "bookmarks": 51
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.8,
+        "views_delta": 16,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "shun-cmdouga-2120622594663616515",
+      "titles": {
+        "en": "A first-person Blender short that jumps between worlds",
+        "zh-CN": "在不同世界间跃迁的第一人称 Blender 短片",
+        "ja": "景色を飛び越える一人称視点のBlender短編",
+        "ko": "서로 다른 세계로 뛰어드는 1인칭 Blender 단편",
+        "es": "Un corto en primera persona de Blender que salta entre mundos"
+      },
+      "category": "short-films",
+      "creator": {
+        "name": "shun_cmdouga",
+        "url": "https://x.com/shun_cmdouga"
+      },
+      "source_url": "https://x.com/shun_cmdouga/status/2120622594663616515",
+      "published_at": "2026-11-11T21:00:00Z",
+      "duration_seconds": 18.25,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120351689219936256/img/VZY4-3nm2cwqvdb_.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/shun-cmdouga-2120622594663616515.webp",
+      "preview_path": "assets/previews/shun-cmdouga-2120622594663616515.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120351689219936256/vid/avc1/1280x720/-ICvOF8Av4JnSAaj.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-12T10:41:39.242378+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "9f1159f3bbaeb68dc5a71de764516bf8dd5d8b78223fd9704f73fc5f4cc3d439",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T10:41:45.202817+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120351689219936256",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The camera begins at a desk and dives through successive environments. Each jump changes the visual setting.",
+      "workflow": "creator-reported-multitool",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 and Blender and describes requesting a first-person sequence with a new setting on each jump.",
+        "zh-CN": "作者披露使用 Fable 5.2 与 Blender，并描述了每次跳跃都会切换场景的第一人称创作需求。",
+        "ja": "作者はFable 5.2とBlenderを使い、一人称視点で飛び込むたびに景色が変わる映像を依頼したと説明しています。",
+        "ko": "제작자는 Fable 5.2와 Blender를 사용했고, 뛰어들 때마다 배경이 바뀌는 1인칭 영상을 요청했다고 설명합니다.",
+        "es": "El autor menciona Fable 5.2 y Blender y describe el encargo de una secuencia en primera persona que cambia de escenario en cada salto."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T10:41:15.570449+00:00",
+          "views": 716,
+          "likes": 24,
+          "reposts": 4,
+          "replies": 0,
+          "bookmarks": 3
+        },
+        {
+          "checked_at": "2026-11-12T10:41:45.785860+00:00",
+          "views": 716,
+          "likes": 24,
+          "reposts": 4,
+          "replies": 0,
+          "bookmarks": 3
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.5,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "shun-cmdouga-2120297280997933435",
+      "titles": {
+        "en": "An animated commercial for a fictional blanket",
+        "zh-CN": "一支虚构毛毯的动画广告",
+        "ja": "架空の毛布を紹介するアニメーションCM",
+        "ko": "가상의 담요를 소개하는 애니메이션 광고",
+        "es": "Un anuncio animado para una manta ficticia"
+      },
+      "category": "product",
+      "creator": {
+        "name": "shun_cmdouga",
+        "url": "https://x.com/shun_cmdouga"
+      },
+      "source_url": "https://x.com/shun_cmdouga/status/2120297280997933435",
+      "published_at": "2026-11-10T23:27:19Z",
+      "duration_seconds": 20.01,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120296746597367808/img/m6HENIXMUGhIzHxu.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/shun-cmdouga-2120297280997933435.webp",
+      "preview_path": "assets/previews/shun-cmdouga-2120297280997933435.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120296746597367808/vid/avc1/1920x1080/nBbdm0MVWCjO_d_G.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-12T10:41:40.798515+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "f63c10df7e187a6b07b2e1e771ef2ae330c62927c133de782f36cbbab435f6f1",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T10:41:45.435375+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120296746597367808",
+      "media_rights": "Silent preview excerpt. The creator credits Artlist for the soundtrack heard on the original platform.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The finished concept uses warm geometric patterns and a compact character sequence to make the fictional product recognizable.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for planning and structure, Blender for animation and Artlist for the soundtrack.",
+        "zh-CN": "作者称 Fable 5.2 负责企划与结构，动画使用 Blender，配乐来自 Artlist。",
+        "ja": "作者は企画と構成にFable 5.2、アニメーションにBlender、BGMにArtlistを使ったと明記しています。",
+        "ko": "제작자는 기획과 구성에 Fable 5.2, 애니메이션에 Blender, 배경음악에 Artlist를 사용했다고 밝혔습니다.",
+        "es": "El autor atribuye la planificación y la estructura a Fable 5.2, la animación a Blender y la música a Artlist."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T10:41:15.995494+00:00",
+          "views": 897,
+          "likes": 27,
+          "reposts": 4,
+          "replies": 1,
+          "bookmarks": 2
+        },
+        {
+          "checked_at": "2026-11-12T10:41:46.057100+00:00",
+          "views": 897,
+          "likes": 27,
+          "reposts": 4,
+          "replies": 1,
+          "bookmarks": 2
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.5,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "nakazakifam-2119946561941606493",
+      "titles": {
+        "en": "A Japanese avatar explainer edited with HyperFrames",
+        "zh-CN": "用 HyperFrames 剪辑的日语数字人短片",
+        "ja": "HyperFramesで編集した日本語のAIアバター解説",
+        "ko": "HyperFrames로 편집한 일본어 AI 아바타 설명 영상",
+        "es": "Un explicador en japonés con avatar editado en HyperFrames"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "nakazakifam",
+        "url": "https://x.com/nakazakifam"
+      },
+      "source_url": "https://x.com/nakazakifam/status/2119946561941606493",
+      "published_at": "2026-11-10T00:13:41Z",
+      "duration_seconds": 33.5,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119946393565450240/img/vS0BX-mazZsmhwCM.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/nakazakifam-2119946561941606493.webp",
+      "preview_path": "assets/previews/nakazakifam-2119946561941606493.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2119946393565450240/vid/avc1/1920x1080/Jt_-E4yC0PiI2m2M.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-12T10:41:41.419359+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "52d32617dbbf4ce0a8414ffff0961529b363b31667576f45ad8247de73e8d511",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T10:41:45.147414+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2119946393565450240",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A finished avatar segment combines a presenter, typography and short 3D inserts. The creator specifies which tools handled editing, voice and avatar footage.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator lists Fable 5.2 for the script and edit in Claude Code with HyperFrames, Gemini TTS for voice, LTX 2.3 for the avatar, GPT Image for images, Blender for 3D and Soniox for subtitle timing.",
+        "zh-CN": "作者披露 Fable 5.2 在 Claude Code 与 HyperFrames 中负责脚本和剪辑，Gemini TTS 配音、LTX 2.3 生成数字人、GPT Image 生成图片、Blender 制作 3D、Soniox 处理字幕时间。",
+        "ja": "作者によると、Claude CodeとHyperFramesでFable 5.2が台本と編集を担当し、音声はGemini TTS、アバターはLTX 2.3、画像はGPT Image、3DはBlender、字幕のタイミングはSonioxを使用しました。",
+        "ko": "제작자는 Claude Code와 HyperFrames에서 Fable 5.2로 대본과 편집을 했고, 음성은 Gemini TTS, 아바타는 LTX 2.3, 이미지는 GPT Image, 3D는 Blender, 자막 타이밍은 Soniox로 처리했다고 밝혔습니다.",
+        "es": "El autor indica que Fable 5.2 trabajó el guion y la edición con Claude Code y HyperFrames. Usó Gemini TTS para la voz, LTX 2.3 para el avatar, GPT Image para las imágenes, Blender para el 3D y Soniox para sincronizar subtítulos."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T10:41:01.979862+00:00",
+          "views": 84144,
+          "likes": 588,
+          "reposts": 41,
+          "replies": 13,
+          "bookmarks": 682
+        },
+        {
+          "checked_at": "2026-11-12T10:41:45.646993+00:00",
+          "views": 84148,
+          "likes": 588,
+          "reposts": 41,
+          "replies": 13,
+          "bookmarks": 681
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.7,
+        "views_delta": 4,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "onofumi-ai-2120503860141912399",
+      "titles": {
+        "en": "Particles leave a monitor and assemble into a logo",
+        "zh-CN": "粒子飞出显示器，拼成立体标志",
+        "ja": "モニターから飛び出した粒子がロゴになる",
+        "ko": "모니터에서 날아 나온 입자가 로고로 모이는 영상",
+        "es": "Las partículas salen del monitor y forman un logotipo"
+      },
+      "category": "motion",
+      "creator": {
+        "name": "onofumi_AI",
+        "url": "https://x.com/onofumi_AI"
+      },
+      "source_url": "https://x.com/onofumi_AI/status/2120503860141912399",
+      "published_at": "2026-11-11T13:08:11Z",
+      "duration_seconds": 15,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120503595762376704/img/zTQHBvS1lovOUGyQ.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/onofumi-ai-2120503860141912399.webp",
+      "preview_path": "assets/previews/onofumi-ai-2120503860141912399.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120503595762376704/vid/avc1/1920x1080/HyUCUZvRzYJDKtca.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-12T10:41:42.727807+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "7cecc589e7628d18e78deea8038eb88cfe2561ff78542cb101f59fd39024625f",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T10:41:45.245467+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120503595762376704",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A short logo reveal turns graphics on a monitor into particles that move into the room and assemble as lettering.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator names Fable 5.2, Blender and HTML/GLSL for the logo animation.",
+        "zh-CN": "作者披露标志动效使用了 Fable 5.2、Blender 和 HTML/GLSL。",
+        "ja": "作者はロゴモーションにFable 5.2、Blender、HTML/GLSLを使ったと明記しています。",
+        "ko": "제작자는 로고 애니메이션에 Fable 5.2, Blender, HTML/GLSL을 사용했다고 밝혔습니다.",
+        "es": "El autor menciona Fable 5.2, Blender y HTML/GLSL para la animación del logotipo."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T10:41:00.018093+00:00",
+          "views": 1788,
+          "likes": 38,
+          "reposts": 0,
+          "replies": 3,
+          "bookmarks": 21
+        },
+        {
+          "checked_at": "2026-11-12T10:41:45.698253+00:00",
+          "views": 1789,
+          "likes": 38,
+          "reposts": 0,
+          "replies": 3,
+          "bookmarks": 21
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.8,
+        "views_delta": 1,
         "likes_delta": 0,
         "reposts_delta": 0
       }

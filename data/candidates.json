@@ -69,6 +69,16 @@
       "status": "held-insufficient-workflow-evidence",
       "reason": "The caption names Fable 5.2 and Gemini 4 Carbon for the same editing brief. The assignment of the two cuts has yet to be verified.",
       "checked_at": "2026-11-12T07:36:32.511393+00:00"
+    },
+    {
+      "source_url": "https://x.com/KanaWorks_AI/status/2120805626242879510",
+      "creator": {
+        "name": "KanaWorks_AI",
+        "url": "https://x.com/KanaWorks_AI"
+      },
+      "status": "held-insufficient-workflow-evidence",
+      "reason": "The creator names Fable 5.2, CapCut and Seedance 2.5 for a rhythm-game and video experiment. The model’s specific contribution to the posted footage remains unclear.",
+      "checked_at": "2026-11-12T10:40:59.577733+00:00"
     }
   ]
 }
