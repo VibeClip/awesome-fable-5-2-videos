@@ -19332,6 +19332,721 @@
           "post_sha256": "c88ebda77ebb83049e122a007dbc1e3c8ebb1a917136750e28586eb7eabfa3fc"
         }
       ]
+    },
+    {
+      "id": "scottstts-2120907123357851697",
+      "titles": {
+        "en": "Arcadia, a cliffside house built procedurally",
+        "zh-CN": "《Arcadia》程序化搭建的海崖住宅",
+        "ja": "手続き生成で作った崖の家『Arcadia』",
+        "ko": "절차적으로 만든 절벽 위 집 Arcadia",
+        "es": "Arcadia, una casa sobre un acantilado generada por código"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "scottstts",
+        "url": "https://x.com/scottstts"
+      },
+      "source_url": "https://x.com/scottstts/status/2120907123357851697",
+      "published_at": "2026-11-12T15:50:37Z",
+      "duration_seconds": 120,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120905300781694977/img/UOcrkagaoPFBIDJO.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/scottstts-2120907123357851697.webp",
+      "preview_path": "assets/previews/scottstts-2120907123357851697.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120905300781694977/vid/avc1/3840x2160/id9V3ukBWga8hIl-.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-12T19:42:48.127943+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "4749d3867db95b970a558304d05cdbfc461c08cc7dd546d063cf694fcd7fcd18",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T19:43:10.306336+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120905300781694977",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The flythrough moves around a brightly colored house built into a sea cliff, from a wide view of the island to close views of its stacked rooms and terraces.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator describes Arcadia as a fully procedural scene made and rendered in Three.js with Fable 5.2.",
+        "zh-CN": "作者称用 Fable 5.2 在 Three.js 中程序化搭建并渲染了《Arcadia》。",
+        "ja": "作者は『Arcadia』を、Fable 5.2とThree.jsで制作・描画した完全な手続き生成シーンと説明しています。",
+        "ko": "제작자는 Arcadia를 Fable 5.2와 Three.js로 만들고 렌더링한 절차적 장면이라고 밝혔습니다.",
+        "es": "El autor describe Arcadia como una escena totalmente procedural, construida y renderizada en Three.js con Fable 5.2."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T19:42:20.389537+00:00",
+          "views": 1087,
+          "likes": 35,
+          "reposts": 0,
+          "replies": 4,
+          "bookmarks": 7
+        },
+        {
+          "checked_at": "2026-11-12T19:43:10.779109+00:00",
+          "views": 1088,
+          "likes": 35,
+          "reposts": 0,
+          "replies": 4,
+          "bookmarks": 7
+        },
+        {
+          "checked_at": "2026-11-12T19:45:32.649810+00:00",
+          "views": 1091,
+          "likes": 35,
+          "reposts": 0,
+          "replies": 4,
+          "bookmarks": 7
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 2.4,
+        "views_delta": 3,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "loktar00-2120905457380507991",
+      "titles": {
+        "en": "A sprite-stacked dinosaur chase",
+        "zh-CN": "用像素切片叠出 3D 森林的恐龙追逐",
+        "ja": "スプライトを積層した恐竜の追跡シーン",
+        "ko": "스프라이트를 쌓아 만든 공룡 추격 장면",
+        "es": "Una persecución de dinosaurios con sprites apilados"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "loktar00",
+        "url": "https://x.com/loktar00"
+      },
+      "source_url": "https://x.com/loktar00/status/2120905457380507991",
+      "published_at": "2026-11-12T15:44:00Z",
+      "duration_seconds": 69.056,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120735773737558016/img/6fMHbqGmbpaztzNh.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/loktar00-2120905457380507991.webp",
+      "preview_path": "assets/previews/loktar00-2120905457380507991.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120735773737558016/vid/avc1/1920x1080/sJp2l7Rcm0PCGphv.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-12T19:42:48.128787+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "0c6dfdb33d7ec5537d7a56674a58c23c1910aa427fe04430e2633d5a4ab056d8",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T19:43:10.166056+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120735773737558016",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The forest chase makes the layered pixel technique visible in moving animals and dense foliage. The camera follows the action over a river crossing.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 with the vanilla JavaScript scene and custom WebGL renderer. It stacks pixel slices to form the dinosaurs, trees and terrain.",
+        "zh-CN": "作者将原生 JavaScript 场景及自制 WebGL 渲染器归功于 Fable 5.2。恐龙、树木和地形由多层像素切片叠成。",
+        "ja": "作者は素のJavaScriptと独自WebGLレンダラーをFable 5.2で作り、恐竜・樹木・地形をピクセルの断面を重ねて表現したと説明しています。",
+        "ko": "제작자는 순수 JavaScript 장면과 자체 WebGL 렌더러를 Fable 5.2로 만들었으며 공룡, 나무, 지형을 픽셀 단면을 쌓아 구현했다고 밝혔습니다.",
+        "es": "El autor atribuye a Fable 5.2 la escena en JavaScript puro y su renderizador WebGL. Los dinosaurios, árboles y terreno se forman apilando capas de píxeles."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T19:42:20.396633+00:00",
+          "views": 1993,
+          "likes": 46,
+          "reposts": 4,
+          "replies": 10,
+          "bookmarks": 9
+        },
+        {
+          "checked_at": "2026-11-12T19:43:10.671419+00:00",
+          "views": 1995,
+          "likes": 46,
+          "reposts": 4,
+          "replies": 10,
+          "bookmarks": 9
+        },
+        {
+          "checked_at": "2026-11-12T19:45:32.650726+00:00",
+          "views": 1998,
+          "likes": 46,
+          "reposts": 4,
+          "replies": 10,
+          "bookmarks": 9
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 2.4,
+        "views_delta": 3,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "0xricker-2120564035057856942",
+      "titles": {
+        "en": "An exploded-view film for a mechanical keyboard",
+        "zh-CN": "机械键盘的爆炸视图产品短片",
+        "ja": "分解図で見せるメカニカルキーボードの映像",
+        "ko": "분해도로 보여 주는 기계식 키보드 영상",
+        "es": "Un vídeo de un teclado mecánico en vista explosionada"
+      },
+      "category": "product",
+      "creator": {
+        "name": "0xRicker",
+        "url": "https://x.com/0xRicker"
+      },
+      "source_url": "https://x.com/0xRicker/status/2120564035057856942",
+      "published_at": "2026-11-11T17:07:18Z",
+      "duration_seconds": 19.7,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120562883801071616/img/t0CQVyeaxXbTqCC-.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/0xricker-2120564035057856942.webp",
+      "preview_path": "assets/previews/0xricker-2120564035057856942.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120562883801071616/vid/avc1/1080x1332/STggSCjsGA_gtEOC.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-12T19:42:50.406187+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "3a7ceda67ec323544a5033276fd1ce6cd050ebebb1eceed12ad973bd453d2668",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T19:43:10.028073+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": "take this keyboard apart, make every shot feel like a launch film",
+        "source_url": "https://x.com/0xRicker/status/2120564035057856942"
+      },
+      "native_media_id": "2120562883801071616",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The screen recording shows the keyboard separating into aligned layers and coming back together. The creator published the direction used for the shot.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator says Fable 5.2 planned the sequence, two skills built and filmed the coded model, and Three.js rendered the result.",
+        "zh-CN": "作者称 Fable 5.2 负责规划，两项技能负责用代码建模和生成镜头，Three.js 负责渲染。",
+        "ja": "作者によると、Fable 5.2が構成を考え、2つのスキルでモデルのコード生成と撮影を行い、Three.jsで描画しました。",
+        "ko": "제작자에 따르면 Fable 5.2가 구성을 계획하고 두 스킬이 모델을 코드로 만들고 촬영했으며 Three.js가 렌더링을 맡았습니다.",
+        "es": "Según el autor, Fable 5.2 planificó la secuencia, dos habilidades construyeron y filmaron el modelo programado y Three.js renderizó el resultado."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T19:42:22.854417+00:00",
+          "views": 7591,
+          "likes": 64,
+          "reposts": 4,
+          "replies": 11,
+          "bookmarks": 28
+        },
+        {
+          "checked_at": "2026-11-12T19:43:10.585164+00:00",
+          "views": 7591,
+          "likes": 64,
+          "reposts": 4,
+          "replies": 11,
+          "bookmarks": 28
+        },
+        {
+          "checked_at": "2026-11-12T19:45:32.698315+00:00",
+          "views": 7591,
+          "likes": 64,
+          "reposts": 4,
+          "replies": 11,
+          "bookmarks": 28
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 2.4,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "jackywine-2120784934751400379",
+      "titles": {
+        "en": "Focus Traveler, a focus-timer app concept",
+        "zh-CN": "《专注旅人》专注计时应用原型",
+        "ja": "集中タイマーアプリ『専注旅人』の試作",
+        "ko": "집중 타이머 앱 Focus Traveler 프로토타입",
+        "es": "Focus Traveler, un prototipo de temporizador de concentración"
+      },
+      "category": "product",
+      "creator": {
+        "name": "Jackywine",
+        "url": "https://x.com/Jackywine"
+      },
+      "source_url": "https://x.com/Jackywine/status/2120784934751400379",
+      "published_at": "2026-11-12T07:45:05Z",
+      "duration_seconds": 62.366,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120784272940482560/img/2oupCv7-o-C8werN.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/jackywine-2120784934751400379.webp",
+      "preview_path": "assets/previews/jackywine-2120784934751400379.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120784272940482560/vid/avc1/1738x1080/8XbdjkTmzdm_lJNn.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-12T19:43:06.177266+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "22efecd048fc89df7e287be6bf878ac0c52c4bc844c20bd6ac64a5d9e7ec837d",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T19:43:11.033423+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120784272940482560",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The mobile screen recording moves from a travel-themed dashboard to a live timer in an illustrated landscape, showing how the prototype ties the theme to the core action.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator describes a single-feature app prototype made with Fable 5.2 from one prompt and reference material.",
+        "zh-CN": "作者称用一个提示词和参考素材，让 Fable 5.2 完成了单功能应用原型。",
+        "ja": "作者は、1つの指示と参考資料を使ってFable 5.2で単機能のアプリを試作したと説明しています。",
+        "ko": "제작자는 프롬프트 하나와 참고 자료를 바탕으로 Fable 5.2로 단일 기능 앱을 시제품화했다고 밝혔습니다.",
+        "es": "El autor describe un prototipo de una sola función creado con Fable 5.2 a partir de una instrucción y material de referencia."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T19:42:38.387039+00:00",
+          "views": 1266,
+          "likes": 6,
+          "reposts": 0,
+          "replies": 4,
+          "bookmarks": 2
+        },
+        {
+          "checked_at": "2026-11-12T19:43:11.518517+00:00",
+          "views": 1267,
+          "likes": 6,
+          "reposts": 0,
+          "replies": 4,
+          "bookmarks": 2
+        },
+        {
+          "checked_at": "2026-11-12T19:45:32.678691+00:00",
+          "views": 1267,
+          "likes": 6,
+          "reposts": 0,
+          "replies": 4,
+          "bookmarks": 2
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 2.4,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "husky-create-2120131960349802957",
+      "titles": {
+        "en": "Fable 5.2 explains its abilities in a colorful motion reel",
+        "zh-CN": "Fable 5.2 用彩色动效介绍自己的能力",
+        "ja": "Fable 5.2が色彩豊かなモーション映像で能力を紹介",
+        "ko": "화려한 모션 영상으로 기능을 소개하는 Fable 5.2",
+        "es": "Fable 5.2 presenta sus capacidades con gráficos en movimiento"
+      },
+      "category": "motion",
+      "creator": {
+        "name": "husky__create",
+        "url": "https://x.com/husky__create"
+      },
+      "source_url": "https://x.com/husky__create/status/2120131960349802957",
+      "published_at": "2026-11-10T12:30:24Z",
+      "duration_seconds": 60,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120131882973270017/img/05ALRQQQrd2ofgmz.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/husky-create-2120131960349802957.webp",
+      "preview_path": "assets/previews/husky-create-2120131960349802957.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120131882973270017/vid/avc1/1920x1080/nnzs4x3Nt9BJIO1e.mp4?tag=16",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-12T19:42:50.734181+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "cee0ee4ba1d1ff302f9b3ef54e14f3f641d38fa448d7d987dcfca82065780364",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T19:43:10.165960+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": "https://x.com/husky__create/status/2120131960349802957"
+      },
+      "native_media_id": "2120131882973270017",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A finished motion reel uses particles, rising bars and a multicolored spiral as visual chapters. The creator's post includes the original brief.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator asked Fable 5.2 for a colorful widescreen video demonstrating its capabilities and published the full Japanese prompt.",
+        "zh-CN": "作者让 Fable 5.2 用宽屏彩色视频介绍自己的能力，并公开了日文提示词全文。",
+        "ja": "作者はFable 5.2に能力を示す色彩豊かなワイド映像を依頼し、日本語のプロンプト全文を公開しています。",
+        "ko": "제작자는 Fable 5.2에 기능을 보여 주는 화려한 와이드 화면 영상을 요청했으며 일본어 프롬프트 전문을 공개했습니다.",
+        "es": "El autor pidió a Fable 5.2 un vídeo panorámico y colorido que mostrara sus capacidades y publicó la instrucción completa en japonés."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T10:41:16.030381+00:00",
+          "views": 662,
+          "likes": 13,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 3
+        },
+        {
+          "checked_at": "2026-11-12T19:42:24.816366+00:00",
+          "views": 695,
+          "likes": 14,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 4
+        },
+        {
+          "checked_at": "2026-11-12T19:43:10.674544+00:00",
+          "views": 695,
+          "likes": 14,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 4
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 541.9,
+        "views_delta": 33,
+        "likes_delta": 1,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "0xmovez-2120526918621515872",
+      "titles": {
+        "en": "A virtual hangar for exploring robot assemblies",
+        "zh-CN": "可拆解机器人部件的虚拟机库",
+        "ja": "ロボットの構造を調べるバーチャル格納庫",
+        "ko": "로봇 구조를 살펴보는 가상 격납고",
+        "es": "Un hangar virtual para explorar el montaje de robots"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "0xMovez",
+        "url": "https://x.com/0xMovez"
+      },
+      "source_url": "https://x.com/0xMovez/status/2120526918621515872",
+      "published_at": "2026-11-11T14:39:49Z",
+      "duration_seconds": 94.223,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120526618925899776/img/6NEKe9bE1N_TCERh.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/0xmovez-2120526918621515872.webp",
+      "preview_path": "assets/previews/0xmovez-2120526918621515872.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120526618925899776/vid/avc1/3596x2084/5KVxtJ0HMeLJ5swp.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-12T19:42:52.816941+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "73d36266e07c741d62e3a8b43d4060f7dafabab89c864fcd7a253e8da00a1580",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T19:43:10.905202+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120526618925899776",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The walkthrough moves from a complete robot to selectable assemblies and then shows motion tests within the same virtual hangar.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator says Fable 5.2 generated the 3D robot models in code for an interactive educational demo.",
+        "zh-CN": "作者称互动教学演示的 3D 机器人模型由 Fable 5.2 通过代码生成。",
+        "ja": "作者は、操作できる教材の3DロボットモデルをFable 5.2でコードから生成したと説明しています。",
+        "ko": "제작자는 상호작용형 교육 데모의 3D 로봇 모델을 Fable 5.2로 코드에서 생성했다고 밝혔습니다.",
+        "es": "El autor afirma que Fable 5.2 generó por código los modelos 3D de robots para una demostración educativa interactiva."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T19:42:23.086704+00:00",
+          "views": 12502,
+          "likes": 317,
+          "reposts": 28,
+          "replies": 22,
+          "bookmarks": 245
+        },
+        {
+          "checked_at": "2026-11-12T19:43:11.465556+00:00",
+          "views": 12502,
+          "likes": 317,
+          "reposts": 28,
+          "replies": 22,
+          "bookmarks": 245
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.8,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "0xmovez-2120239217880268919",
+      "titles": {
+        "en": "An interactive 3D electronics workbench",
+        "zh-CN": "可互动的 3D 电子实验台",
+        "ja": "操作できる3D電子工作台",
+        "ko": "상호작용형 3D 전자 실험대",
+        "es": "Un banco de electrónica 3D interactivo"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "0xMovez",
+        "url": "https://x.com/0xMovez"
+      },
+      "source_url": "https://x.com/0xMovez/status/2120239217880268919",
+      "published_at": "2026-11-10T19:36:36Z",
+      "duration_seconds": 78.693,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120238899217776640/img/0YPSqt53MXV0RI7j.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/0xmovez-2120239217880268919.webp",
+      "preview_path": "assets/previews/0xmovez-2120239217880268919.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120238899217776640/vid/avc1/3596x2084/TK9rIF-se0SZ136N.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-12T19:42:54.265735+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "036b58d8272cef67384f20540388195b779e3d48fcdd9bb3623ae5f8588fff3c",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T19:43:10.954280+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120238899217776640",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The recorded demo zooms from an assembled board to individual components and a wiring exercise. The close views make the board layout easy to follow.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator reports using Fable 5.2 to generate the board models in code. The recording shows component placement and a circuit-building exercise.",
+        "zh-CN": "作者称电路板模型由 Fable 5.2 用代码生成。录像展示了元件摆放和电路搭建练习。",
+        "ja": "作者は基板モデルをFable 5.2でコードから生成したと説明しています。映像では部品の配置と回路組み立ての練習を紹介しています。",
+        "ko": "제작자는 회로 기판 모델을 Fable 5.2로 코드에서 생성했다고 밝혔습니다. 녹화에는 부품 배치와 회로 조립 실습이 담겨 있습니다.",
+        "es": "El autor afirma que Fable 5.2 generó por código los modelos de placas. La grabación muestra la colocación de componentes y un ejercicio de montaje de circuitos."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T19:42:24.326363+00:00",
+          "views": 358170,
+          "likes": 4604,
+          "reposts": 535,
+          "replies": 114,
+          "bookmarks": 5102
+        },
+        {
+          "checked_at": "2026-11-12T19:43:11.496066+00:00",
+          "views": 358177,
+          "likes": 4604,
+          "reposts": 535,
+          "replies": 114,
+          "bookmarks": 5102
+        }
+      ],
+      "momentum": {
+        "state": "established",
+        "window_minutes": 0.8,
+        "views_delta": 7,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "onofumi-ai-2119979764895330453",
+      "titles": {
+        "en": "A robotic hand with its rig shown beside the render",
+        "zh-CN": "并排展示成片与骨骼的机械手动画",
+        "ja": "完成映像とリグを並べたロボットハンド",
+        "ko": "렌더 옆에 리그를 보여 주는 로봇 손 애니메이션",
+        "es": "Una mano robótica con el rig junto al render"
+      },
+      "category": "motion",
+      "creator": {
+        "name": "onofumi_AI",
+        "url": "https://x.com/onofumi_AI"
+      },
+      "source_url": "https://x.com/onofumi_AI/status/2119979764895330453",
+      "published_at": "2026-11-10T02:25:37Z",
+      "duration_seconds": 19,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119979706703593472/img/rEeVwyN4heVi8hTW.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/onofumi-ai-2119979764895330453.webp",
+      "preview_path": "assets/previews/onofumi-ai-2119979764895330453.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2119979706703593472/vid/avc1/1920x1080/VkiOtr16fvkfXibk.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-12T19:42:52.376697+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "b0ea445ef9522020b563b689498e87a7af13d1831069c420024220f9f6c5e639",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T19:43:10.055135+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2119979706703593472",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The finished robotic hand and its rig appear side by side, so viewers can compare finger motion with the underlying bones.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2, Blender and Python scripts for the model, the 16-bone rig and the animation. The creator cites another hand animation as a visual reference.",
+        "zh-CN": "作者说明用 Fable 5.2、Blender 和 Python 脚本生成模型、16 骨骼绑定及动画，并公开说明参考了另一段手部动画。",
+        "ja": "作者はFable 5.2、Blender、Pythonスクリプトでモデル、16本のボーン、アニメーションを制作し、別の手の映像を参考にしたと説明しています。",
+        "ko": "제작자는 Fable 5.2, Blender, Python 스크립트로 모델과 16개 본 리그 및 애니메이션을 만들고 다른 손 애니메이션을 참고했다고 밝혔습니다.",
+        "es": "El autor atribuye a Fable 5.2, Blender y scripts de Python el modelo, el rig de 16 huesos y la animación. Cita otra animación de una mano como referencia visual."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T19:42:25.315643+00:00",
+          "views": 2260,
+          "likes": 28,
+          "reposts": 1,
+          "replies": 2,
+          "bookmarks": 10
+        },
+        {
+          "checked_at": "2026-11-12T19:43:10.544549+00:00",
+          "views": 2260,
+          "likes": 28,
+          "reposts": 1,
+          "replies": 2,
+          "bookmarks": 10
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.8,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "imjustnewatai-2119991883997045049",
+      "titles": {
+        "en": "An original space-opera opening and overture",
+        "zh-CN": "原创太空歌剧片头与序曲",
+        "ja": "オリジナルのスペースオペラのオープニングと序曲",
+        "ko": "오리지널 스페이스 오페라 오프닝과 서곡",
+        "es": "Una apertura y obertura originales de ópera espacial"
+      },
+      "category": "short-films",
+      "creator": {
+        "name": "imjustnewatai",
+        "url": "https://x.com/imjustnewatai"
+      },
+      "source_url": "https://x.com/imjustnewatai/status/2119991883997045049",
+      "published_at": "2026-11-10T03:13:47Z",
+      "duration_seconds": 121.8,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119991676600975360/img/cR4Wv7cr5VxILzkB.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/imjustnewatai-2119991883997045049.webp",
+      "preview_path": "assets/previews/imjustnewatai-2119991883997045049.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2119991676600975360/vid/avc1/1920x1080/SkX17BUiYGK12VwD.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-12T19:43:06.179703+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "ec46c3451241efab7cea97ddb4d41e878a4359bef4aa53e3ef48d066605c871c",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T19:43:11.250317+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2119991676600975360",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "Glowing orbital trails and a ringed planet carry the opening, paired with an overture the creator identifies as original.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator reports that Fable 5.2 composed an original overture and animated the opening in code after receiving a space-opera reference.",
+        "zh-CN": "作者称在给出太空歌剧参考后，Fable 5.2 用代码完成片头动画，并创作了原创序曲。",
+        "ja": "作者によると、スペースオペラを参考に、Fable 5.2がオリジナルの序曲を作曲し、コードでオープニングを制作しました。",
+        "ko": "제작자는 스페이스 오페라를 참고로 제시한 뒤 Fable 5.2가 새로운 서곡을 작곡하고 오프닝을 코드로 만들었다고 밝혔습니다.",
+        "es": "Según el autor, Fable 5.2 compuso una obertura original y animó la apertura con código tras recibir una referencia de ópera espacial."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T19:42:25.185604+00:00",
+          "views": 7614,
+          "likes": 82,
+          "reposts": 5,
+          "replies": 7,
+          "bookmarks": 27
+        },
+        {
+          "checked_at": "2026-11-12T19:43:11.738889+00:00",
+          "views": 7614,
+          "likes": 82,
+          "reposts": 5,
+          "replies": 7,
+          "bookmarks": 27
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.8,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
     }
   ]
 }
