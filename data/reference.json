@@ -717,14 +717,22 @@
     {
       "id": "iamwesleysmits-2120230414568599912",
       "source_url": "https://x.com/iamwesleysmits/status/2120230414568599912"
+    },
+    {
+      "id": "ercankeskinx-2120177242034872774",
+      "source_url": "https://x.com/ercankeskinx/status/2120147659306713531",
+      "available_source_url": "https://x.com/ercankeskinx/status/2120177242034872774",
+      "original_source_check": {
+        "checked_on": "2026-11-12",
+        "method": "X official oEmbed and original-post media metadata",
+        "availability": "unconfirmed",
+        "http_status": 404,
+        "checked_at": "2026-11-12T01:39:45.450888+00:00"
+      },
+      "match_basis": "Same creator, Vela title card, matching 41-second duration, and matching one-prompt and five-minute production description."
     }
   ],
-  "checked_at": "2026-11-11T22:35:55.057642+00:00",
+  "checked_at": "2026-11-12T01:38:54.108678+00:00",
   "expected_total": 180,
-  "pending_entries": [
-    {
-      "id": "ercankeskinx-713531",
-      "source_url": "https://x.com/ercankeskinx/status/2120147659306713531"
-    }
-  ]
+  "pending_entries": []
 }

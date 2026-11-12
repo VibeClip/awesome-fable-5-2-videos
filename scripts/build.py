@@ -96,7 +96,16 @@ def load():
     by_id = {video['id']: video for video in data['videos']}
     for entry in baseline['entries']:
         assert entry['id'] in by_id, 'Coverage baseline entry missing'
-        assert by_id[entry['id']]['source_url'].lower() == entry['source_url'].lower(), 'Coverage source changed'
+        video = by_id[entry['id']]
+        available_source = entry.get('available_source_url', entry['source_url'])
+        assert video['source_url'].lower() == available_source.lower(), 'Coverage source changed'
+        if 'available_source_url' in entry:
+            creator_prefix = video['creator']['url'].lower() + '/status/'
+            assert entry['source_url'].lower().startswith(creator_prefix), 'Original source must belong to the creator'
+            assert available_source.lower().startswith(creator_prefix), 'Replacement source must belong to the creator'
+            assert available_source.lower() != entry['source_url'].lower(), 'Replacement source must be a distinct post'
+            assert video['model_evidence'] == 'primary-post', 'Replacement source needs primary model evidence'
+            assert entry.get('original_source_check', {}).get('availability') == 'unconfirmed', 'Replacement source needs the original availability check'
     pending = baseline.get('pending_entries', [])
     assert baseline.get('expected_total', len(baseline['entries'])) == len(baseline['entries']) + len(pending), 'Coverage total mismatch'
     covered_sources = {entry['source_url'].lower() for entry in baseline['entries']}

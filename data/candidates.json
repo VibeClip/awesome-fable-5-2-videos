@@ -21,22 +21,6 @@
       "checked_at": "2026-11-10T12:27:23.036353+00:00"
     },
     {
-      "source_url": "https://x.com/ercankeskinx/status/2120147659306713531",
-      "creator": {
-        "name": "ercankeskinx",
-        "url": "https://x.com/ercankeskinx"
-      },
-      "status": "held-unavailable-source",
-      "reason": "The original post returned HTTP 404 through both X official oEmbed and the media metadata endpoint. A local animated preview and an original-platform full video could not be verified; excluded from the formal count.",
-      "source_check": {
-        "checked_on": "2026-11-12",
-        "method": "X official oEmbed and original-post media metadata",
-        "availability": "unconfirmed",
-        "http_status": 404,
-        "checked_at": "2026-11-11T22:37:01.121410+00:00"
-      }
-    },
-    {
       "source_url": "https://x.com/Gorden_Sun/status/2120399915721674893",
       "creator": {
         "name": "Gorden_Sun",
@@ -65,6 +49,16 @@
       "status": "held-insufficient-workflow-evidence",
       "reason": "The attached design montage is animated and mentions Fable 5.2. The short caption leaves the model’s role in the montage and the underlying components unclear.",
       "checked_at": "2026-11-11T19:34:00.851727+00:00"
+    },
+    {
+      "source_url": "https://x.com/photonstorm/status/2120330010112434313",
+      "creator": {
+        "name": "photonstorm",
+        "url": "https://x.com/photonstorm"
+      },
+      "status": "held-no-original-video",
+      "reason": "The creator’s announcement names Fable 5.2 and attaches a photo. The thread links the playable game, but a full video from the creator has not been verified.",
+      "checked_at": "2026-11-12T01:39:43.458999+00:00"
     }
   ]
 }

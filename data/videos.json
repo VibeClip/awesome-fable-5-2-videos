@@ -14266,14 +14266,22 @@
           "reposts": 720,
           "replies": 232,
           "bookmarks": 4229
+        },
+        {
+          "checked_at": "2026-11-12T01:39:43.548518+00:00",
+          "views": 21267970,
+          "likes": 9840,
+          "reposts": 725,
+          "replies": 233,
+          "bookmarks": 4259
         }
       ],
       "momentum": {
         "state": "established",
-        "window_minutes": 181.0,
-        "views_delta": 1295865,
-        "likes_delta": 118,
-        "reposts_delta": 12
+        "window_minutes": 182.7,
+        "views_delta": 1366724,
+        "likes_delta": 65,
+        "reposts_delta": 5
       },
       "workflow_source_urls": [
         "https://x.com/anxuanng/status/2120336814578024702",
@@ -14450,14 +14458,22 @@
           "reposts": 261,
           "replies": 282,
           "bookmarks": 3000
+        },
+        {
+          "checked_at": "2026-11-12T01:39:44.267238+00:00",
+          "views": 299207,
+          "likes": 5870,
+          "reposts": 280,
+          "replies": 294,
+          "bookmarks": 3234
         }
       ],
       "momentum": {
         "state": "established",
-        "window_minutes": 181.0,
-        "views_delta": 30780,
-        "likes_delta": 513,
-        "reposts_delta": 22
+        "window_minutes": 182.7,
+        "views_delta": 24253,
+        "likes_delta": 450,
+        "reposts_delta": 19
       }
     },
     {
@@ -14691,14 +14707,22 @@
           "reposts": 12,
           "replies": 35,
           "bookmarks": 187
+        },
+        {
+          "checked_at": "2026-11-12T01:39:43.459449+00:00",
+          "views": 14272,
+          "likes": 372,
+          "reposts": 18,
+          "replies": 43,
+          "bookmarks": 247
         }
       ],
       "momentum": {
-        "state": "new",
-        "window_minutes": 1.9,
-        "views_delta": 45,
-        "likes_delta": 3,
-        "reposts_delta": 0
+        "state": "rising",
+        "window_minutes": 363.7,
+        "views_delta": 3621,
+        "likes_delta": 84,
+        "reposts_delta": 6
       }
     },
     {
@@ -15491,6 +15515,560 @@
         "window_minutes": 540.1,
         "views_delta": 28829,
         "likes_delta": 68,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "ercankeskinx-2120177242034872774",
+      "titles": {
+        "en": "Vela AI product launch film",
+        "zh-CN": "Vela AI 产品发布短片",
+        "ja": "Vela AIの製品発表映像",
+        "ko": "Vela AI 제품 출시 영상",
+        "es": "Vídeo de lanzamiento de Vela AI"
+      },
+      "category": "product",
+      "creator": {
+        "name": "ercankeskinx",
+        "url": "https://x.com/ercankeskinx"
+      },
+      "source_url": "https://x.com/ercankeskinx/status/2120177242034872774",
+      "published_at": "2026-11-10T15:30:20Z",
+      "duration_seconds": 40.549,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120177105145364480/img/4MEKlnVBue1rWOEq.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ercankeskinx-2120177242034872774.webp",
+      "preview_path": "assets/previews/ercankeskinx-2120177242034872774.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120177105145364480/vid/avc1/1920x1080/f7-mKDwzMvds5o6V.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-12T01:40:27.977390+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "8eb8a8ec333385563b73f35e0dd08b82393b150aa10b4f1e19651137acffc4d8",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T01:41:32.778769+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120177105145364480",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "curation_reason": "The creator’s live post carries the 41-second Vela-branded film, with kinetic type and an animated campaign workflow. Its branding, duration and production description match the earlier listing.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 in this live post. The first post is unavailable. This post carries the same Vela launch film.",
+        "zh-CN": "作者在当前可访问的帖子中将短片归功于 Fable 5.2。最初的帖子无法访问，当前帖子收录的是同一部 Vela 发布短片。",
+        "ja": "作者はこの閲覧可能な投稿でFable 5.2を使ったと説明しています。最初の投稿は閲覧できません。この投稿には同じVelaの発表映像が掲載されています。",
+        "ko": "제작자는 현재 볼 수 있는 게시물에서 Fable 5.2를 사용했다고 밝혔습니다. 최초 게시물은 열리지 않으며 현재 게시물에 같은 Vela 출시 영상이 있습니다.",
+        "es": "El autor atribuye el vídeo a Fable 5.2 en esta publicación disponible. La publicación inicial ya no está accesible. Esta contiene el mismo vídeo de lanzamiento de Vela."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T01:39:49.886533+00:00",
+          "views": 10,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-12T01:41:33.626032+00:00",
+          "views": 10,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 1.7,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "excel-niisan-2120425260889817476",
+      "titles": {
+        "en": "A walkable 3D scene of Yokohama’s Minato Mirai",
+        "zh-CN": "可自由漫游的横滨港未来 3D 场景",
+        "ja": "歩いて回れる横浜みなとみらいの3Dシーン",
+        "ko": "걸어서 둘러보는 요코하마 미나토미라이 3D 장면",
+        "es": "Una escena 3D para recorrer el distrito Minato Mirai de Yokohama"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "excel_niisan",
+        "url": "https://x.com/excel_niisan"
+      },
+      "source_url": "https://x.com/excel_niisan/status/2120425260889817476",
+      "published_at": "2026-11-11T07:55:52Z",
+      "duration_seconds": 36.5,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120425125900328960/img/VNpo9uXpfGtJtcE0.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/excel-niisan-2120425260889817476.webp",
+      "preview_path": "assets/previews/excel-niisan-2120425260889817476.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120425125900328960/vid/avc1/1168x2248/ewBXgYEXri_Y_wGA.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-12T01:40:27.984285+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "2caafea783052aa893a131c853c9c2d635a00b3d8d2a5f26253c615484d37ab3",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T01:41:32.765273+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": "横浜みなとみらいの3D空間を作って",
+        "source_url": "https://x.com/excel_niisan/status/2120425260889817476"
+      },
+      "native_media_id": "2120425125900328960",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A vertical gameplay recording uses on-screen controls to move through a stylized waterfront and city streets. The creator shows generated image assets in a follow-up.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for building the scene and used image generation through the Higgsfield MCP connection for assets.",
+        "zh-CN": "作者将场景制作归功于 Fable 5.2，并通过 Higgsfield MCP 调用图像生成模型来制作资产。",
+        "ja": "作者はFable 5.2でシーンを作り、Higgsfield MCP経由で素材画像を生成したと説明しています。",
+        "ko": "제작자는 Fable 5.2로 장면을 만들고 Higgsfield MCP를 통해 에셋 이미지를 생성했다고 설명합니다.",
+        "es": "El autor atribuye la escena a Fable 5.2 y generó imágenes para los recursos a través de Higgsfield MCP."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T01:39:43.458497+00:00",
+          "views": 1001,
+          "likes": 7,
+          "reposts": 1,
+          "replies": 1,
+          "bookmarks": 1
+        },
+        {
+          "checked_at": "2026-11-12T01:41:33.668958+00:00",
+          "views": 1001,
+          "likes": 7,
+          "reposts": 1,
+          "replies": 1,
+          "bookmarks": 1
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 1.8,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      },
+      "workflow_source_urls": [
+        "https://x.com/excel_niisan/status/2120426081350222290"
+      ],
+      "workflow_source_checks": [
+        {
+          "source_url": "https://x.com/excel_niisan/status/2120426081350222290",
+          "checked_at": "2026-11-12T01:42:30.731787+00:00",
+          "method": "X official oEmbed",
+          "post_sha256": "3610b1bde561f968849be40b633931d935df88c2b7be872625dd7956b898dace"
+        }
+      ]
+    },
+    {
+      "id": "excel-niisan-2119989558561698090",
+      "titles": {
+        "en": "Turning a Japanese blog article into a vertical short",
+        "zh-CN": "把日语博客文章做成竖屏短片",
+        "ja": "日本語ブログの記事から作った縦型ショート",
+        "ko": "일본어 블로그 글을 세로형 숏폼으로 제작",
+        "es": "Un artículo de un blog japonés convertido en un vídeo vertical"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "excel_niisan",
+        "url": "https://x.com/excel_niisan"
+      },
+      "source_url": "https://x.com/excel_niisan/status/2119989558561698090",
+      "published_at": "2026-11-10T03:04:32Z",
+      "duration_seconds": 67.266,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119989522478063616/img/Xyx243gbIIWknRDr.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/excel-niisan-2119989558561698090.webp",
+      "preview_path": "assets/previews/excel-niisan-2119989558561698090.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2119989522478063616/vid/avc1/1080x1920/TyXn42WY3EwIxhCV.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-12T01:40:32.466468+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "d666669e5039f2520a8b8bc0f02bc7b09764e9af3c3742ef67e0bb3ad277857a",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T01:41:32.777904+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2119989522478063616",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A completed vertical short turns a blog article into a sequence of illustrated cards and narration. The creator explains Fable’s coordination role and shows manual revisions in a follow-up.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator says Fable 5.2 coordinated the script and production using blog images, supplied screenshots, generated narration and a separate video model for the opening.",
+        "zh-CN": "作者称 Fable 5.2 协调脚本和制作，使用了博客图片、提供的截图和生成式旁白，开场动画由另一视频模型生成。",
+        "ja": "作者によると、Fable 5.2は構成と制作全体を進行しました。ブログ画像、提供したスクリーンショット、生成音声を使い、冒頭は別の動画モデルで制作しました。",
+        "ko": "제작자는 Fable 5.2가 대본과 제작을 조율했다고 설명합니다. 블로그 이미지와 제공한 스크린샷, 생성 음성을 사용했고, 오프닝은 별도의 영상 모델로 만들었습니다.",
+        "es": "El autor explica que Fable 5.2 coordinó el guion y la producción con imágenes del blog, capturas aportadas y narración generada. La apertura utilizó otro modelo de vídeo."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T01:39:49.935478+00:00",
+          "views": 1750,
+          "likes": 8,
+          "reposts": 0,
+          "replies": 3,
+          "bookmarks": 1
+        },
+        {
+          "checked_at": "2026-11-12T01:41:33.651682+00:00",
+          "views": 1750,
+          "likes": 8,
+          "reposts": 0,
+          "replies": 3,
+          "bookmarks": 1
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 1.7,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      },
+      "workflow_source_urls": [
+        "https://x.com/excel_niisan/status/2120368918116422070"
+      ],
+      "workflow_source_checks": [
+        {
+          "source_url": "https://x.com/excel_niisan/status/2120368918116422070",
+          "checked_at": "2026-11-12T01:42:30.580239+00:00",
+          "method": "X official oEmbed",
+          "post_sha256": "ce13256731e0da5f88e516e4bddc3fccd7e3f1f963149e841619574413f1ed12"
+        }
+      ]
+    },
+    {
+      "id": "loktar00-2120192761542615271",
+      "titles": {
+        "en": "A torch-lit squad combat game demo",
+        "zh-CN": "火把照亮的小队战斗游戏演示",
+        "ja": "松明の光の中で戦う小隊ゲームのデモ",
+        "ko": "횃불 아래 펼쳐지는 분대 전투 게임 데모",
+        "es": "Una demo de combate por escuadras a la luz de antorchas"
+      },
+      "category": "interactive",
+      "creator": {
+        "name": "loktar00",
+        "url": "https://x.com/loktar00"
+      },
+      "source_url": "https://x.com/loktar00/status/2120192761542615271",
+      "published_at": "2026-11-10T16:32:00Z",
+      "duration_seconds": 68.053,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120187656881516544/img/ugjT74smgSzi_U3X.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/loktar00-2120192761542615271.webp",
+      "preview_path": "assets/previews/loktar00-2120192761542615271.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120187656881516544/vid/avc1/1920x1080/YPzyBVlvXVwBta44.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-12T01:41:29.417824+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "00ba461fb45164987409e4a95e4cef1e318ed1ac838b660e59d8aac31672b3dd",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T01:41:34.366383+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120187656881516544",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A top-down combat recording shows units moving together through a dark landscape, with selection markers and enemy defeat effects.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator attributes the game, animations and models to Fable 5.2. The post does not identify the engine or give a detailed asset workflow.",
+        "zh-CN": "作者将游戏、动画和模型归功于 Fable 5.2，原帖未披露引擎或具体资产制作流程。",
+        "ja": "作者はゲーム、アニメーション、モデルをFable 5.2で制作したと説明しています。エンジンや素材制作の詳細は未公開です。",
+        "ko": "제작자는 게임과 애니메이션, 모델을 Fable 5.2로 만들었다고 밝혔습니다. 엔진과 에셋 제작 과정은 공개하지 않았습니다.",
+        "es": "El autor atribuye el juego, las animaciones y los modelos a Fable 5.2. La publicación no especifica el motor ni el proceso detallado de los recursos."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T01:39:49.905073+00:00",
+          "views": 177423,
+          "likes": 1365,
+          "reposts": 101,
+          "replies": 114,
+          "bookmarks": 850
+        },
+        {
+          "checked_at": "2026-11-12T01:41:35.266753+00:00",
+          "views": 177471,
+          "likes": 1365,
+          "reposts": 101,
+          "replies": 114,
+          "bookmarks": 850
+        }
+      ],
+      "momentum": {
+        "state": "established",
+        "window_minutes": 1.8,
+        "views_delta": 48,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "loktar00-2120653702843277359",
+      "titles": {
+        "en": "A layered desert diorama built with sprite stacking",
+        "zh-CN": "用精灵图层叠出的沙漠立体场景",
+        "ja": "スプライトを重ねて作る砂漠のジオラマ",
+        "ko": "스프라이트를 쌓아 만든 사막 디오라마",
+        "es": "Un diorama desértico hecho con apilado de sprites"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "loktar00",
+        "url": "https://x.com/loktar00"
+      },
+      "source_url": "https://x.com/loktar00/status/2120653702843277359",
+      "published_at": "2026-11-11T23:03:37Z",
+      "duration_seconds": 40,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120653467043667968/img/xQnpZjH5aT3cnTrd.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/loktar00-2120653702843277359.webp",
+      "preview_path": "assets/previews/loktar00-2120653702843277359.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120653467043667968/vid/avc1/1920x1080/hy2Hk_wMUEO0YT1V.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-12T01:40:36.707676+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "921aa1a9e1f90fb52129b1d09dd82d50d117a6e05d0e48a7493de0cdddb616f9",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T01:41:32.758637+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120653467043667968",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The clip rotates around a miniature desert scene and opens its layers to show the sprite stacking technique.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 with this sprite-stacked scene. The referenced earlier post describes the technique.",
+        "zh-CN": "作者将这个精灵图层叠场景归功于 Fable 5.2，并引用较早的帖子介绍技法。",
+        "ja": "作者はこのスプライト積層のシーンをFable 5.2で作ったと説明しています。引用先は手法の紹介です。",
+        "ko": "제작자는 Fable 5.2로 이 스프라이트 적층 장면을 만들었다고 밝혔습니다. 인용 게시물은 기법을 소개합니다.",
+        "es": "El autor atribuye a Fable 5.2 la escena con sprites apilados. La publicación anterior citada explica la técnica."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T01:39:46.504134+00:00",
+          "views": 995,
+          "likes": 23,
+          "reposts": 1,
+          "replies": 5,
+          "bookmarks": 5
+        },
+        {
+          "checked_at": "2026-11-12T01:41:33.658252+00:00",
+          "views": 998,
+          "likes": 23,
+          "reposts": 1,
+          "replies": 5,
+          "bookmarks": 5
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 1.8,
+        "views_delta": 3,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "ercankeskinx-2120475122859757705",
+      "titles": {
+        "en": "An isometric landing-page concept for game creation",
+        "zh-CN": "等距视角的游戏创作落地页概念",
+        "ja": "ゲーム制作サービス向けのアイソメトリックなランディングページ案",
+        "ko": "게임 제작 서비스를 위한 아이소메트릭 랜딩 페이지 콘셉트",
+        "es": "Una portada isométrica para una página de creación de juegos"
+      },
+      "category": "product",
+      "creator": {
+        "name": "ercankeskinx",
+        "url": "https://x.com/ercankeskinx"
+      },
+      "source_url": "https://x.com/ercankeskinx/status/2120475122859757705",
+      "published_at": "2026-11-11T11:14:00Z",
+      "duration_seconds": 9.1,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120474523955056640/img/GpP_B8E0W-knePP5.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ercankeskinx-2120475122859757705.webp",
+      "preview_path": "assets/previews/ercankeskinx-2120475122859757705.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120474523955056640/vid/avc1/2014x1080/Ftj5SOfFitkDNQgT.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-12T01:40:38.536275+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "8d78983b2d4bcfde58c6a9ad03a4b995c10fe4d8f47c5b6968f5ffdcd34399ca",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T01:41:32.762653+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120474523955056640",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A landing-page hero places an orbiting isometric construction beside the interface copy, giving the small motion study a clear product use.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for the animated hero concept. The post leaves the implementation tools unspecified.",
+        "zh-CN": "作者将首屏动效概念归功于 Fable 5.2，未披露实现工具。",
+        "ja": "作者はファーストビューの動くコンセプトをFable 5.2で作ったと説明しています。実装ツールは未公開です。",
+        "ko": "제작자는 첫 화면의 모션 콘셉트를 Fable 5.2로 만들었다고 밝혔습니다. 구현 도구는 공개하지 않았습니다.",
+        "es": "El autor atribuye a Fable 5.2 el concepto animado de portada. La publicación no especifica las herramientas de implementación."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T01:39:47.309873+00:00",
+          "views": 34,
+          "likes": 0,
+          "reposts": 1,
+          "replies": 0,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-12T01:41:33.608239+00:00",
+          "views": 34,
+          "likes": 0,
+          "reposts": 1,
+          "replies": 0,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 1.8,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "danielzambrini-2119893834276507954",
+      "titles": {
+        "en": "A stick-figure duel compared across two Claude models",
+        "zh-CN": "两个 Claude 模型的火柴人对决对照",
+        "ja": "2つのClaudeモデルで比べる棒人間の決闘",
+        "ko": "두 Claude 모델의 막대인간 결투 비교",
+        "es": "Un duelo de figuras de palitos comparado entre dos modelos de Claude"
+      },
+      "category": "motion",
+      "creator": {
+        "name": "DanielZambrini",
+        "url": "https://x.com/DanielZambrini"
+      },
+      "source_url": "https://x.com/DanielZambrini/status/2119893834276507954",
+      "published_at": "2026-11-09T20:44:10Z",
+      "duration_seconds": 15,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119893599638675457/img/RuhUjfOooPvt-1aM.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/danielzambrini-2119893834276507954.webp",
+      "preview_path": "assets/previews/danielzambrini-2119893834276507954.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2119893599638675457/vid/avc1/1280x1600/iClzByVh2DZ-9UoK.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-12T01:40:40.836276+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "5aa38efd1a9ee8eb1474e9e50e300dcfef658a5a96454c61620bf84226633fa3",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T01:41:34.335946+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2119893599638675457",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The split-screen film puts separately labeled outputs side by side in the same clip, revealing different staging, effects and fight choreography.",
+      "workflow": "model-comparison",
+      "workflow_notes": {
+        "en": "The upper output is labeled Fable 5.2 Extra High, and the lower output Opus 5.5 Max. The author’s displayed time and cost values are estimates.",
+        "zh-CN": "上方标注为 Fable 5.2 Extra High，下方为 Opus 5.5 Max。画面中的时间和费用是作者估算。",
+        "ja": "上段はFable 5.2 Extra High、下段はOpus 5.5 Maxと表示されています。所要時間と費用は作者の推計です。",
+        "ko": "위쪽은 Fable 5.2 Extra High, 아래쪽은 Opus 5.5 Max로 표시됩니다. 영상 속 시간과 비용은 제작자의 추정치입니다.",
+        "es": "La parte superior está marcada como Fable 5.2 Extra High y la inferior como Opus 5.5 Max. Los tiempos y costes mostrados son estimaciones del autor."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-11T22:36:58.725447+00:00",
+          "views": 33079,
+          "likes": 185,
+          "reposts": 6,
+          "replies": 22,
+          "bookmarks": 83
+        },
+        {
+          "checked_at": "2026-11-12T01:39:43.435367+00:00",
+          "views": 33193,
+          "likes": 186,
+          "reposts": 6,
+          "replies": 22,
+          "bookmarks": 83
+        },
+        {
+          "checked_at": "2026-11-12T01:41:35.197980+00:00",
+          "views": 33193,
+          "likes": 186,
+          "reposts": 6,
+          "replies": 22,
+          "bookmarks": 83
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 184.6,
+        "views_delta": 114,
+        "likes_delta": 1,
         "reposts_delta": 0
       }
     }

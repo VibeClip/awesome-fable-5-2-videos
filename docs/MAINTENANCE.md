@@ -6,6 +6,8 @@ The maintained index is `data/videos.json`. Keep the coverage baseline in `data/
 
 Each entry needs a stable ID, creator, original post, model evidence, current source status and a local `assets/previews/<id>.webp` asset. Use original platform URLs for full-video playback. An unavailable source stays visibly marked and is not featured as a playable full video. Native media IDs prevent reposts being counted as new works.
 
+If the original post is unavailable and the creator has published the same work again, keep the original URL in the coverage record and set `available_source_url` to the creator’s live post. Verify the match and document why the work is counted once. The gallery links to the live post and describes the original post’s status.
+
 ## Prepare a preview
 
 Offline validation needs Python 3.10+ and its standard library. Creating new previews additionally needs FFmpeg and the packages in `scripts/media-requirements.txt`; YouTube originals can use yt-dlp. Use an interpreter with those dependencies and a valid system CA bundle.

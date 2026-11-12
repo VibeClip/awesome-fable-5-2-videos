@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-11T22:40:50.812418+00:00",
-  "method": "WebP animation bytes matched to GitHub blob SHA and rendered README images",
+  "checked_at": "2026-11-12T01:44:17.440153+00:00",
+  "method": "Local WebP RIFF ANIM/ANMF chunks",
   "previews": [
     {
       "id": "wesroth-934330",
@@ -3419,6 +3419,97 @@
       "bytes": 74936,
       "file_sha256": "d6a6f1b7bf01326d447bfa4eb84fdc5c8d01151cba77197e330345902a8e8dce",
       "blob_sha": "a5747c626e5d91a3fe7c7fff8b39858b7527e8b4",
+      "status": "animated"
+    },
+    {
+      "id": "ercankeskinx-2120177242034872774",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ercankeskinx-2120177242034872774.webp",
+      "frames": 33,
+      "duration_ms": 5511,
+      "width": 416,
+      "height": 234,
+      "loop_count": 0,
+      "bytes": 122488,
+      "file_sha256": "59d586390067aad41df11adf8e96b50b3cbf7bdbdbb3abd3e4577decb6cc3569",
+      "blob_sha": "b9095f71e72b4439d174df2a0d70bc5680a36518",
+      "status": "animated"
+    },
+    {
+      "id": "excel-niisan-2120425260889817476",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/excel-niisan-2120425260889817476.webp",
+      "frames": 33,
+      "duration_ms": 5511,
+      "width": 416,
+      "height": 234,
+      "loop_count": 0,
+      "bytes": 93318,
+      "file_sha256": "d2628b678e643391c255f1bdb77f140bc64036130c210c85d6ddb983f5d6f225",
+      "blob_sha": "723d2526be744372eb158c1535ce56c8d7112e2c",
+      "status": "animated"
+    },
+    {
+      "id": "excel-niisan-2119989558561698090",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/excel-niisan-2119989558561698090.webp",
+      "frames": 33,
+      "duration_ms": 5511,
+      "width": 416,
+      "height": 234,
+      "loop_count": 0,
+      "bytes": 87014,
+      "file_sha256": "5f5ad328ac41ea0db8279bdf990c4e7f2b1a5d470a9c9658797c9c2aef96ebe0",
+      "blob_sha": "4bfa8968d04a9ffb9cedb7a7d7f66aebafadc8e1",
+      "status": "animated"
+    },
+    {
+      "id": "loktar00-2120192761542615271",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/loktar00-2120192761542615271.webp",
+      "frames": 33,
+      "duration_ms": 5511,
+      "width": 416,
+      "height": 234,
+      "loop_count": 0,
+      "bytes": 178090,
+      "file_sha256": "b8dc374d96150b1208fec323bf1448e45cdc6fb1ef429d1779fc4ef387c58d31",
+      "blob_sha": "6ed3386f59039edc47ca04ff01503907d524ca55",
+      "status": "animated"
+    },
+    {
+      "id": "loktar00-2120653702843277359",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/loktar00-2120653702843277359.webp",
+      "frames": 33,
+      "duration_ms": 5511,
+      "width": 416,
+      "height": 234,
+      "loop_count": 0,
+      "bytes": 248156,
+      "file_sha256": "09eb79325bf8fa0b3345e3cfc52ec2866c6c006a64a5a1d9a57dd6b091be58aa",
+      "blob_sha": "0f46f8c1bb25ef1cc67bf3a61be3fc776b264928",
+      "status": "animated"
+    },
+    {
+      "id": "ercankeskinx-2120475122859757705",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ercankeskinx-2120475122859757705.webp",
+      "frames": 33,
+      "duration_ms": 5511,
+      "width": 416,
+      "height": 234,
+      "loop_count": 0,
+      "bytes": 127512,
+      "file_sha256": "ca3a373d092e455732e80e0a0094532b42c44110224381e1dab9849e36078d1f",
+      "blob_sha": "07d9633aefb321d7380b3fcfd3a325516ff7dd26",
+      "status": "animated"
+    },
+    {
+      "id": "danielzambrini-2119893834276507954",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/danielzambrini-2119893834276507954.webp",
+      "frames": 33,
+      "duration_ms": 5511,
+      "width": 416,
+      "height": 234,
+      "loop_count": 0,
+      "bytes": 127914,
+      "file_sha256": "5e8528bca8edbbef8ec0e22483f3dc7b8fbdca53bdfccda8b5c6698a5a49472d",
+      "blob_sha": "f1384cb67c64eae7980d2db50fae4e5b4a6118c2",
       "status": "animated"
     }
   ]
