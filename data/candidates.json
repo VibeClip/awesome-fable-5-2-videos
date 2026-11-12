@@ -59,6 +59,16 @@
       "status": "held-no-original-video",
       "reason": "The creator’s announcement names Fable 5.2 and attaches a photo. The thread links the playable game, but a full video from the creator has not been verified.",
       "checked_at": "2026-11-12T01:39:43.458999+00:00"
+    },
+    {
+      "source_url": "https://x.com/motion_so/status/2120639142631764046",
+      "creator": {
+        "name": "motion_so",
+        "url": "https://x.com/motion_so"
+      },
+      "status": "held-insufficient-workflow-evidence",
+      "reason": "The caption names Fable 5.2 and Gemini 4 Carbon for the same editing brief. The assignment of the two cuts has yet to be verified.",
+      "checked_at": "2026-11-12T07:36:32.511393+00:00"
     }
   ]
 }
