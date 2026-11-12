@@ -4,11 +4,13 @@
 
 [返回合集](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.zh-CN.md)
 
-![《呐喊》背后的故事短片](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/osmanaga-146194.webp)
+[![《呐喊》背后的故事短片](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/osmanaga-146194.webp)](https://video.twimg.com/amplify_video/2119923123092893696/vid/avc1/720x1280/M2J_aC5567oGoPEu.mp4?tag=14)
 
-**原帖暂不可用** · [原始发布](https://x.com/osmanaga__/status/2119892099437146194)
+**[▶ 完整视频](https://video.twimg.com/amplify_video/2119923123092893696/vid/avc1/720x1280/M2J_aC5567oGoPEu.mp4?tag=14)** · [原始发布](https://x.com/osmanaga__/status/2119923975635738780)
 
-[osmanaga__](https://x.com/osmanaga__) · 0:38 · 2026-11-09
+[osmanaga__](https://x.com/osmanaga__) · 1:28 · 2026-11-09
+
+首帖无法访问。作者现存帖子中的 88 秒版本沿用了同一个《呐喊》开场，作者明确署名 Fable 5.2。
 
 ## 公开提示词
 
@@ -17,8 +19,8 @@
 <details>
 <summary>来源与核验信息</summary>
 
-- 模型归属依据: 来自发现索引；尚需在原帖确认模型归属
-- 原帖可访问性检查日期: 2026-11-10 — 本次检查未能确认原帖可访问
+- 模型归属依据: 原帖明确提及该模型
+- 原帖可访问性检查日期: 2026-11-12 — 原帖可访问
 
 原帖可访问性检查不等于复现视频生成过程；生成与渲染未独立复现。
 

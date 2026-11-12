@@ -2041,12 +2041,13 @@
       "model": "Claude Fable 5.2",
       "model_evidence": "upstream-index",
       "source_check": {
-        "checked_on": "2026-11-10",
+        "checked_on": "2026-11-12",
         "method": "official oEmbed",
         "availability": "unconfirmed",
         "post_sha256": null,
         "model_named": false,
-        "note": "HTTP Error 404: Not Found"
+        "note": "HTTP Error 404: Not Found",
+        "checked_at": "2026-11-12T04:42:27.123638+00:00"
       },
       "prompt": {
         "text": null,
@@ -4516,29 +4517,65 @@
         "name": "osmanaga__",
         "url": "https://x.com/osmanaga__"
       },
-      "source_url": "https://x.com/osmanaga__/status/2119892099437146194",
-      "published_at": "2026-11-09T20:37:16Z",
-      "duration_seconds": 38,
-      "thumbnail_url": null,
+      "source_url": "https://x.com/osmanaga__/status/2119923975635738780",
+      "published_at": "2026-11-09T22:43:56Z",
+      "duration_seconds": 88,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119923123092893696/img/6VKMFHtKpp3izXEU.jpg",
       "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/osmanaga-146194.webp",
-      "video_url": "https://x.com/osmanaga__/status/2119892099437146194",
+      "video_url": "https://video.twimg.com/amplify_video/2119923123092893696/vid/avc1/720x1280/M2J_aC5567oGoPEu.mp4?tag=14",
       "model": "Claude Fable 5.2",
-      "model_evidence": "upstream-index",
+      "model_evidence": "primary-post",
       "source_check": {
-        "checked_on": "2026-11-10",
-        "method": "official oEmbed",
-        "availability": "unconfirmed",
-        "post_sha256": null,
-        "model_named": false,
-        "note": "HTTP Error 404: Not Found"
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-12T04:41:55.081068+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "3c85262f701eb5332869ed0877219db038940bdf8f0faf3fc19211bc019b7db5",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T04:42:02.150959+00:00",
+        "video_http_status": 206
       },
       "prompt": {
         "text": null,
         "source_url": null,
         "discovery_text_available": false
       },
-      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
-      "preview_path": "assets/previews/osmanaga-146194.webp"
+      "media_rights": "Short excerpt from the creator’s video. Rights in the artworks and archival images belong to their respective holders.",
+      "preview_path": "assets/previews/osmanaga-146194.webp",
+      "native_media_id": "2119923123092893696",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The first post is unavailable. The creator’s live post contains an 88-second cut with the same opening about Edvard Munch’s The Scream and credits Fable 5.2.",
+        "zh-CN": "首帖无法访问。作者现存帖子中的 88 秒版本沿用了同一个《呐喊》开场，作者明确署名 Fable 5.2。",
+        "ja": "最初の投稿は閲覧できません。作者の現行投稿にはムンクの『叫び』について同じ導入を持つ88秒版があり、Fable 5.2の使用が明記されています。",
+        "ko": "최초 게시물은 열리지 않습니다. 제작자의 현재 게시물에는 뭉크의 절규에 관한 같은 도입부가 담긴 88초 버전이 있으며 Fable 5.2가 명시돼 있습니다.",
+        "es": "La primera publicación ya no está accesible. La publicación disponible contiene una versión de 88 segundos con la misma apertura sobre El grito de Edvard Munch y acredita a Fable 5.2."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T04:41:31.911144+00:00",
+          "views": 411,
+          "likes": 3,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 1
+        },
+        {
+          "checked_at": "2026-11-12T04:42:03.030795+00:00",
+          "views": 411,
+          "likes": 3,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 1
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.5,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
     },
     {
       "id": "zrymiller-190684",
@@ -6144,12 +6181,13 @@
       "model": "Claude Fable 5.2",
       "model_evidence": "upstream-index",
       "source_check": {
-        "checked_on": "2026-11-10",
+        "checked_on": "2026-11-12",
         "method": "official oEmbed",
         "availability": "unconfirmed",
         "post_sha256": null,
         "model_named": false,
-        "note": "HTTP Error 404: Not Found"
+        "note": "HTTP Error 404: Not Found",
+        "checked_at": "2026-11-12T04:42:27.139236+00:00"
       },
       "prompt": {
         "text": null,
@@ -6709,12 +6747,13 @@
       "model": "Claude Fable 5.2",
       "model_evidence": "upstream-index",
       "source_check": {
-        "checked_on": "2026-11-10",
+        "checked_on": "2026-11-12",
         "method": "official oEmbed",
         "availability": "unconfirmed",
         "post_sha256": null,
         "model_named": false,
-        "note": "HTTP Error 404: Not Found"
+        "note": "HTTP Error 404: Not Found",
+        "checked_at": "2026-11-12T04:42:27.131579+00:00"
       },
       "prompt": {
         "text": null,
@@ -15829,13 +15868,21 @@
           "reposts": 101,
           "replies": 114,
           "bookmarks": 850
+        },
+        {
+          "checked_at": "2026-11-12T04:40:27.385887+00:00",
+          "views": 180812,
+          "likes": 1369,
+          "reposts": 101,
+          "replies": 114,
+          "bookmarks": 854
         }
       ],
       "momentum": {
         "state": "established",
-        "window_minutes": 1.8,
-        "views_delta": 48,
-        "likes_delta": 0,
+        "window_minutes": 178.9,
+        "views_delta": 3341,
+        "likes_delta": 4,
         "reposts_delta": 0
       }
     },
@@ -15904,13 +15951,21 @@
           "reposts": 1,
           "replies": 5,
           "bookmarks": 5
+        },
+        {
+          "checked_at": "2026-11-12T04:40:27.348860+00:00",
+          "views": 1352,
+          "likes": 34,
+          "reposts": 1,
+          "replies": 5,
+          "bookmarks": 8
         }
       ],
       "momentum": {
-        "state": "new",
-        "window_minutes": 1.8,
-        "views_delta": 3,
-        "likes_delta": 0,
+        "state": "rising",
+        "window_minutes": 178.9,
+        "views_delta": 354,
+        "likes_delta": 11,
         "reposts_delta": 0
       }
     },
@@ -16069,6 +16124,631 @@
         "window_minutes": 184.6,
         "views_delta": 114,
         "likes_delta": 1,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "chongdashu-2120154573356793883",
+      "titles": {
+        "en": "Rooftop Rally, a pickleball game at golden hour",
+        "zh-CN": "《Rooftop Rally》落日里的屋顶匹克球",
+        "ja": "夕暮れの屋上で遊ぶピックルボール「Rooftop Rally」",
+        "ko": "노을 속 옥상 피클볼 게임 Rooftop Rally",
+        "es": "Rooftop Rally, un juego de pickleball en una azotea al atardecer"
+      },
+      "category": "interactive",
+      "creator": {
+        "name": "chongdashu",
+        "url": "https://x.com/chongdashu"
+      },
+      "source_url": "https://x.com/chongdashu/status/2120154573356793883",
+      "published_at": "2026-11-10T14:00:15Z",
+      "duration_seconds": 49.366,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120154381584838656/img/I33quCLrC5wXZSJK.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/chongdashu-2120154573356793883.webp",
+      "preview_path": "assets/previews/chongdashu-2120154573356793883.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120154381584838656/vid/avc1/1920x1080/mRePQbLcVWXqKTsY.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-12T04:40:47.280954+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "dcf13612d76ab8c899b6f478ccd647f45f97362d178d68485596c77c9c5ea72d",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T04:41:58.812626+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120154381584838656",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The gameplay shows a rooftop court, serve timing, scoring and camera cutaways under warm evening light. The creator separately documents the tools used for gameplay, assets and sound.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for gameplay in Unreal Engine 5.9 Preview. The follow-up identifies Tripo characters, Blender props and environment, GPT Images mockups and UI, and ElevenLabs audio.",
+        "zh-CN": "作者将 Unreal Engine 5.9 预览版中的游戏实现归功于 Fable 5.2。后续说明披露了 Tripo 角色、Blender 场景与道具、GPT Images 草图与界面，以及 ElevenLabs 音频。",
+        "ja": "作者はUnreal Engine 5.9プレビューでのゲーム制作をFable 5.2に帰属させています。後続投稿ではTripoでキャラクター、Blenderで背景と小物、GPT ImagesでモックアップとUI、ElevenLabsで音を制作したと説明しています。",
+        "ko": "제작자는 Unreal Engine 5.9 프리뷰의 게임 구현에 Fable 5.2를 사용했습니다. 후속 글에는 Tripo 캐릭터, Blender 환경과 소품, GPT Images 목업과 UI, ElevenLabs 오디오가 명시되어 있습니다.",
+        "es": "El autor atribuye el juego en Unreal Engine 5.9 Preview a Fable 5.2. El seguimiento identifica personajes de Tripo, escenarios y objetos de Blender, bocetos e interfaz de GPT Images y audio de ElevenLabs."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T04:40:27.308901+00:00",
+          "views": 95245,
+          "likes": 1063,
+          "reposts": 65,
+          "replies": 76,
+          "bookmarks": 831
+        },
+        {
+          "checked_at": "2026-11-12T04:41:59.689738+00:00",
+          "views": 95250,
+          "likes": 1063,
+          "reposts": 65,
+          "replies": 76,
+          "bookmarks": 831
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 1.5,
+        "views_delta": 5,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      },
+      "workflow_source_urls": [
+        "https://x.com/chongdashu/status/2120310120509014219",
+        "https://x.com/chongdashu/status/2120392175448121811",
+        "https://x.com/chongdashu/status/2120454108851417531"
+      ],
+      "workflow_source_checks": [
+        {
+          "source_url": "https://x.com/chongdashu/status/2120310120509014219",
+          "checked_at": "2026-11-12T04:41:13.540388+00:00",
+          "method": "X official oEmbed",
+          "post_sha256": "e86131e09b694d0e49164134d5dc2c3ed395b9ce248cb1444080da59f4a1e7f5"
+        },
+        {
+          "source_url": "https://x.com/chongdashu/status/2120392175448121811",
+          "checked_at": "2026-11-12T04:41:13.729939+00:00",
+          "method": "X official oEmbed",
+          "post_sha256": "1421b057047db69212b453059ebebe5361ca3ee5a46b04c4781b924c613f6855"
+        },
+        {
+          "source_url": "https://x.com/chongdashu/status/2120454108851417531",
+          "checked_at": "2026-11-12T04:41:13.714668+00:00",
+          "method": "X official oEmbed",
+          "post_sha256": "0e0eaba53aa66225ce3b918b527565cf6c5e63ab82babd470f325b608f5a691b"
+        }
+      ]
+    },
+    {
+      "id": "vctbtc-2120344162730123733",
+      "titles": {
+        "en": "A reference painting rebuilt stroke by stroke in JavaScript",
+        "zh-CN": "用 JavaScript 逐笔重绘一幅参考画",
+        "ja": "JavaScriptで参考画を筆致ごとに再構成",
+        "ko": "JavaScript로 참고 그림을 붓질마다 다시 그리기",
+        "es": "Una pintura de referencia reconstruida pincelada a pincelada en JavaScript"
+      },
+      "category": "motion",
+      "creator": {
+        "name": "vctbtc",
+        "url": "https://x.com/vctbtc"
+      },
+      "source_url": "https://x.com/vctbtc/status/2120344162730123733",
+      "published_at": "2026-11-11T02:33:37Z",
+      "duration_seconds": 18.8,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120343763776421888/img/eUd6z2fwWUMDCPv9.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/vctbtc-2120344162730123733.webp",
+      "preview_path": "assets/previews/vctbtc-2120344162730123733.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120343763776421888/vid/avc1/2228x1236/yG-wohfFEEEsZ2I0.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-12T04:40:47.260998+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "67cdc07a6f83fd3cbd5c5c6a53aa839571dafcae9f808cc592b447e4760d0e7f",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T04:41:58.867708+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120343763776421888",
+      "media_rights": "Short excerpt from the creator’s video. The source leaves the reference artwork’s license unspecified.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The clip builds a painting from coarse patches to fine strokes, then adds moving sparks. The creator explains how a reference image guides sampled colors and stroke direction.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator says Fable 5.2 wrote the JavaScript painting routine. It samples a supplied image and adds progressively finer brush strokes.",
+        "zh-CN": "作者称 Fable 5.2 编写了 JavaScript 绘画程序。程序从提供的参考图取色，并逐层加入更细的笔触。",
+        "ja": "作者によると、Fable 5.2がJavaScriptで描画処理を書きました。参考画像から色を取り、段階的に細い筆致を重ねます。",
+        "ko": "제작자는 Fable 5.2가 JavaScript로 그리기 로직을 작성했다고 밝혔습니다. 참고 이미지에서 색을 추출해 점차 가는 붓질을 더합니다.",
+        "es": "El autor dice que Fable 5.2 escribió la rutina de pintura en JavaScript. Toma colores de una imagen aportada y añade pinceladas cada vez más finas."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T04:40:27.458725+00:00",
+          "views": 25703,
+          "likes": 124,
+          "reposts": 11,
+          "replies": 15,
+          "bookmarks": 125
+        },
+        {
+          "checked_at": "2026-11-12T04:41:59.836137+00:00",
+          "views": 25715,
+          "likes": 124,
+          "reposts": 11,
+          "replies": 15,
+          "bookmarks": 125
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 1.5,
+        "views_delta": 12,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "wquguru-2120177800288378938",
+      "titles": {
+        "en": "A Python still life painted in strokes and scored in code",
+        "zh-CN": "用 Python 逐笔画静物并写配乐",
+        "ja": "Pythonの筆致と楽曲で作る静物画",
+        "ko": "Python으로 붓질과 음악을 만든 정물화",
+        "es": "Un bodegón pintado con trazos y musicado en Python"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "wquguru",
+        "url": "https://x.com/wquguru"
+      },
+      "source_url": "https://x.com/wquguru/status/2120177800288378938",
+      "published_at": "2026-11-10T15:32:33Z",
+      "duration_seconds": 17.766,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120175408390012929/img/kbVuCYeAZ8LR54G4.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/wquguru-2120177800288378938.webp",
+      "preview_path": "assets/previews/wquguru-2120177800288378938.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120175408390012929/vid/avc1/1440x1052/JMkN9Ia1xeiYMFgR.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-12T04:40:51.470100+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "fd23201733ec44072875c63a8499d69eb6dd3590ba54d84d3da3f5d4ca2c076b",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T04:41:58.847338+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120175408390012929",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The time-lapse builds a tabletop still life with flowers and coarse paint strokes. The creator reports composing the accompanying music in Python as well.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 with Python for both the drawing and the score, and lists marimba, piano and glockenspiel in the arrangement.",
+        "zh-CN": "作者将绘画与配乐的 Python 代码归功于 Fable 5.2，并披露编曲用了马林巴、钢琴和钟琴。",
+        "ja": "作者は描画と作曲の両方をFable 5.2によるPythonで制作したと説明しています。編曲にはマリンバ、ピアノ、グロッケンシュピールが含まれます。",
+        "ko": "제작자는 그림과 음악을 Fable 5.2의 Python 코드로 만들었다고 밝혔습니다. 편곡에 마림바, 피아노, 글로켄슈필을 사용했습니다.",
+        "es": "El autor atribuye a Fable 5.2 el dibujo y la música en Python, y menciona marimba, piano y glockenspiel en el arreglo."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T04:40:27.318952+00:00",
+          "views": 3736,
+          "likes": 34,
+          "reposts": 1,
+          "replies": 6,
+          "bookmarks": 14
+        },
+        {
+          "checked_at": "2026-11-12T04:41:59.720024+00:00",
+          "views": 3736,
+          "likes": 34,
+          "reposts": 1,
+          "replies": 6,
+          "bookmarks": 14
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 1.5,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "noteka114514-2120351467815285224",
+      "titles": {
+        "en": "Particles assemble into three Japanese words",
+        "zh-CN": "光粒聚成三个日语词",
+        "ja": "光の粒子が3つの言葉になる",
+        "ko": "빛 입자가 세 일본어 단어로 모이는 영상",
+        "es": "Partículas que se convierten en tres palabras japonesas"
+      },
+      "category": "motion",
+      "creator": {
+        "name": "noteka114514",
+        "url": "https://x.com/noteka114514"
+      },
+      "source_url": "https://x.com/noteka114514/status/2120351467815285224",
+      "published_at": "2026-11-11T03:02:38Z",
+      "duration_seconds": 40,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120351414333702144/img/JJ8GtOITNnZBQycP.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/noteka114514-2120351467815285224.webp",
+      "preview_path": "assets/previews/noteka114514-2120351467815285224.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120351414333702144/vid/avc1/1280x720/lGFLjUkfH9l6tKgu.mp4?tag=14",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-12T04:40:51.460478+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "54e3eae7d67491af64fd912b5bb5e924ba7aa61021ec03e3669eda169e571b31",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T04:41:58.998488+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": "テーマは任せる。すごい動画を作って",
+        "source_url": "https://x.com/noteka114514/status/2120351467815285224"
+      },
+      "native_media_id": "2120351414333702144",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A finished typographic short gathers drifting light particles into words for writing, checking and deciding. The creator discloses synthesized sound and shares the brief.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator says Fable 5.2 calculated the visuals and synthesized the audio from waveforms.",
+        "zh-CN": "作者称 Fable 5.2 通过计算绘制画面，并由波形合成声音。",
+        "ja": "作者によると、Fable 5.2が映像を計算で描き、波形から音を合成しました。",
+        "ko": "제작자는 Fable 5.2가 화면을 계산으로 그렸고 파형으로 소리를 합성했다고 밝혔습니다.",
+        "es": "El autor explica que Fable 5.2 calculó las imágenes y sintetizó el sonido a partir de formas de onda."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T04:40:30.247653+00:00",
+          "views": 38,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-12T04:41:59.889129+00:00",
+          "views": 38,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 1.5,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "iaencrudo-2120269395373048226",
+      "titles": {
+        "en": "A cookie consent screen with a cookie you can bite",
+        "zh-CN": "可以咬一口饼干的 Cookie 同意界面",
+        "ja": "クッキーをかじれる同意画面",
+        "ko": "쿠키를 한 입 베어 무는 동의 화면",
+        "es": "Un aviso de cookies con una galleta que se puede morder"
+      },
+      "category": "product",
+      "creator": {
+        "name": "IAenCrudo",
+        "url": "https://x.com/IAenCrudo"
+      },
+      "source_url": "https://x.com/IAenCrudo/status/2120269395373048226",
+      "published_at": "2026-11-10T21:36:31Z",
+      "duration_seconds": 14.4,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120268939280142336/img/Yh-B_WLXRXn9pEqB.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/iaencrudo-2120269395373048226.webp",
+      "preview_path": "assets/previews/iaencrudo-2120269395373048226.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120268939280142336/vid/avc1/1920x1080/0lAXC8eRK_E-vsZX.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-12T04:40:55.031617+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "9139272f7c91c316e0d8532a2fae31f1a37521772977f49d4a1379b762af8444",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T04:41:59.228739+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120268939280142336",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A Spanish-language consent interface turns its central illustration into an interactive cookie. A bite changes the visual and produces a crunch.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator attributes the single HTML file to Fable 5.2 and says the browser synthesizes the bite sounds.",
+        "zh-CN": "作者将单文件 HTML 作品归功于 Fable 5.2，并说明咬饼干的声音由浏览器合成。",
+        "ja": "作者は単一のHTMLをFable 5.2で作り、かじる音をブラウザーで合成したと説明しています。",
+        "ko": "제작자는 단일 HTML 파일을 Fable 5.2로 만들고 베어 무는 소리를 브라우저에서 합성했다고 밝혔습니다.",
+        "es": "El autor atribuye el archivo HTML único a Fable 5.2 y dice que el navegador sintetiza el sonido de los mordiscos."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T04:40:31.115059+00:00",
+          "views": 12,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-12T04:42:00.081629+00:00",
+          "views": 12,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 1.5,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "blendibyl-2120694003230560585",
+      "titles": {
+        "en": "An explorable painted valley under changing skies",
+        "zh-CN": "在变幻天色下漫游绘本般的山谷",
+        "ja": "空の色が変わる絵画風の谷を歩く",
+        "ko": "변하는 하늘 아래 그림 같은 계곡 산책",
+        "es": "Un valle de aspecto pictórico que se puede explorar bajo cielos cambiantes"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "BlendiByl",
+        "url": "https://x.com/BlendiByl"
+      },
+      "source_url": "https://x.com/BlendiByl/status/2120694003230560585",
+      "published_at": "2026-11-12T01:43:45Z",
+      "duration_seconds": 22.802,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120693488123871232/img/KTr9AAZtb2yYInnE.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/blendibyl-2120694003230560585.webp",
+      "preview_path": "assets/previews/blendibyl-2120694003230560585.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120693488123871232/vid/avc1/2560x1440/qE95X-Mwerms3yXv.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-12T04:40:55.648716+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "627830b9b991e7808cf96635d6d137df9cd02761a1c9b67d2f2417dc95792277",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T04:42:00.459579+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120693488123871232",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A character crosses a bright meadow beneath billowing clouds, with a later shot showing warmer dusk light. The creator shares it as a separate playable scene.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for this playable scene. The post leaves the rendering and asset workflow unspecified.",
+        "zh-CN": "作者将这处可探索场景归功于 Fable 5.2，未披露渲染与资产制作流程。",
+        "ja": "作者はこの探索できるシーンをFable 5.2で作ったと説明しています。描画や素材の制作工程は未公開です。",
+        "ko": "제작자는 탐색 가능한 장면에 Fable 5.2를 사용했다고 밝혔습니다. 렌더링과 에셋 제작 과정은 공개하지 않았습니다.",
+        "es": "El autor atribuye esta escena explorable a Fable 5.2. La publicación no especifica el proceso de renderizado ni de creación de recursos."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T04:40:30.331793+00:00",
+          "views": 8769,
+          "likes": 337,
+          "reposts": 17,
+          "replies": 14,
+          "bookmarks": 185
+        },
+        {
+          "checked_at": "2026-11-12T04:42:01.379407+00:00",
+          "views": 8881,
+          "likes": 340,
+          "reposts": 17,
+          "replies": 14,
+          "bookmarks": 187
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 1.5,
+        "views_delta": 112,
+        "likes_delta": 3,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "blendibyl-2120314459793355262",
+      "titles": {
+        "en": "An impossible-spaces walkthrough through shifting rooms",
+        "zh-CN": "穿过不断变换房间的不可能空间",
+        "ja": "部屋のつながりが変わる不思議な空間のウォークスルー",
+        "ko": "방의 연결이 달라지는 불가능한 공간 체험",
+        "es": "Un recorrido por espacios imposibles con habitaciones cambiantes"
+      },
+      "category": "interactive",
+      "creator": {
+        "name": "BlendiByl",
+        "url": "https://x.com/BlendiByl"
+      },
+      "source_url": "https://x.com/BlendiByl/status/2120314459793355262",
+      "published_at": "2026-11-11T00:35:35Z",
+      "duration_seconds": 53.266,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120313933710159872/img/USkfntG2jnRsfkAU.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/blendibyl-2120314459793355262.webp",
+      "preview_path": "assets/previews/blendibyl-2120314459793355262.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120313933710159872/vid/avc1/2560x1440/PKe7dLlC4bVyp-Y-.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-12T04:40:58.648640+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "eb8ff7c38dc78e5e1b18d81347df31ac7b5f792d91399c560afc878080adfda2",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T04:42:00.618502+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120313933710159872",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "An interactive walkthrough uses doorways and repeated rooms to create spatial discontinuities as the camera moves.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for the interactive experience. The post does not name the engine.",
+        "zh-CN": "作者将交互体验归功于 Fable 5.2，未披露引擎。",
+        "ja": "作者はインタラクティブな体験をFable 5.2で作ったと説明しています。エンジンは未公開です。",
+        "ko": "제작자는 인터랙티브 체험에 Fable 5.2를 사용했다고 밝혔습니다. 엔진은 공개하지 않았습니다.",
+        "es": "El autor atribuye la experiencia interactiva a Fable 5.2. La publicación no identifica el motor."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T04:40:31.119698+00:00",
+          "views": 5451,
+          "likes": 132,
+          "reposts": 4,
+          "replies": 9,
+          "bookmarks": 63
+        },
+        {
+          "checked_at": "2026-11-12T04:42:01.551632+00:00",
+          "views": 5451,
+          "likes": 132,
+          "reposts": 4,
+          "replies": 9,
+          "bookmarks": 63
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 1.5,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "iaencrudo-2120291820844273983",
+      "titles": {
+        "en": "A code-drawn story about growing a tree",
+        "zh-CN": "用代码画出种树小故事",
+        "ja": "木を育てる物語をコードで描く",
+        "ko": "나무를 키우는 이야기를 코드로 그린 단편",
+        "es": "Una historia sobre cultivar un árbol dibujada con código"
+      },
+      "category": "short-films",
+      "creator": {
+        "name": "IAenCrudo",
+        "url": "https://x.com/IAenCrudo"
+      },
+      "source_url": "https://x.com/IAenCrudo/status/2120291820844273983",
+      "published_at": "2026-11-10T23:05:37Z",
+      "duration_seconds": 56,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120291597568954368/img/-4rcIbS_IArlY_7p.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/iaencrudo-2120291820844273983.webp",
+      "preview_path": "assets/previews/iaencrudo-2120291820844273983.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120291597568954368/vid/avc1/1080x1080/s1ZeBfuKZ6fDnlbx.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-12",
+        "checked_at": "2026-11-12T04:40:59.571966+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "d537b91084dd6857d663dbed0ede69f6c35cc3bc540be974f26b9d79807d3d98",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T04:42:00.738838+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120291597568954368",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A vertical cartoon follows a character tending a plant, with the growing tree and a sunset palette giving the short a clear visual arc.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator describes the Fable 5.2 animation as drawn in code in one run. The rendering tools are unspecified.",
+        "zh-CN": "作者称动画由 Fable 5.2 在一次运行中用代码绘制，未披露渲染工具。",
+        "ja": "作者によると、Fable 5.2が一度の実行でコードを使って描いたアニメーションです。レンダリングツールは未公開です。",
+        "ko": "제작자는 Fable 5.2가 한 번의 실행으로 애니메이션을 코드로 그렸다고 설명합니다. 렌더링 도구는 공개하지 않았습니다.",
+        "es": "El autor describe una animación dibujada con código por Fable 5.2 en una sola ejecución. Las herramientas de renderizado quedan sin especificar."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T04:40:31.089066+00:00",
+          "views": 5,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-12T04:42:01.638488+00:00",
+          "views": 5,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 1.5,
+        "views_delta": 0,
+        "likes_delta": 0,
         "reposts_delta": 0
       }
     }

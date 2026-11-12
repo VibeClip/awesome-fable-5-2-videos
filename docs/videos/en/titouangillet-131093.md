@@ -18,7 +18,7 @@ No public prompt recorded.
 <summary>Sources & verification</summary>
 
 - Model evidence: Model attribution from discovery index; original post needs model confirmation
-- Post availability checked: 2026-11-10 — Original post could not be confirmed at this check
+- Post availability checked: 2026-11-12 — Original post could not be confirmed at this check
 
 Source availability and video generation are separate checks. Generation and rendering were not independently reproduced.
 

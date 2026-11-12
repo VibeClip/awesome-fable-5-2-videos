@@ -4,11 +4,13 @@
 
 [一覧に戻る](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.ja.md)
 
-![『叫び』の物語を短編で](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/osmanaga-146194.webp)
+[![『叫び』の物語を短編で](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/osmanaga-146194.webp)](https://video.twimg.com/amplify_video/2119923123092893696/vid/avc1/720x1280/M2J_aC5567oGoPEu.mp4?tag=14)
 
-**元の投稿は利用不可** · [元の投稿](https://x.com/osmanaga__/status/2119892099437146194)
+**[▶ 本編](https://video.twimg.com/amplify_video/2119923123092893696/vid/avc1/720x1280/M2J_aC5567oGoPEu.mp4?tag=14)** · [元の投稿](https://x.com/osmanaga__/status/2119923975635738780)
 
-[osmanaga__](https://x.com/osmanaga__) · 0:38 · 2026-11-09
+[osmanaga__](https://x.com/osmanaga__) · 1:28 · 2026-11-09
+
+最初の投稿は閲覧できません。作者の現行投稿にはムンクの『叫び』について同じ導入を持つ88秒版があり、Fable 5.2の使用が明記されています。
 
 ## 公開プロンプト
 
@@ -17,8 +19,8 @@
 <details>
 <summary>出典と確認情報</summary>
 
-- モデル表記の根拠: 発見元の索引に基づく表記。元の投稿でモデル確認が必要
-- 投稿のアクセス確認日: 2026-11-10 — 今回の確認では元の投稿へのアクセスを確認できませんでした
+- モデル表記の根拠: 元の投稿にモデル名の記載あり
+- 投稿のアクセス確認日: 2026-11-12 — 投稿にアクセス可能
 
 投稿のアクセス確認と動画生成の再現は別です。生成やレンダリングを独立して再現していません。
 

@@ -4,11 +4,13 @@
 
 [Volver a la colección](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.es.md)
 
-![La historia de El grito en un corto](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/osmanaga-146194.webp)
+[![La historia de El grito en un corto](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/osmanaga-146194.webp)](https://video.twimg.com/amplify_video/2119923123092893696/vid/avc1/720x1280/M2J_aC5567oGoPEu.mp4?tag=14)
 
-**Fuente archivada** · [Publicación original](https://x.com/osmanaga__/status/2119892099437146194)
+**[▶ Ver vídeo](https://video.twimg.com/amplify_video/2119923123092893696/vid/avc1/720x1280/M2J_aC5567oGoPEu.mp4?tag=14)** · [Publicación original](https://x.com/osmanaga__/status/2119923975635738780)
 
-[osmanaga__](https://x.com/osmanaga__) · 0:38 · 2026-11-09
+[osmanaga__](https://x.com/osmanaga__) · 1:28 · 2026-11-09
+
+La primera publicación ya no está accesible. La publicación disponible contiene una versión de 88 segundos con la misma apertura sobre El grito de Edvard Munch y acredita a Fable 5.2.
 
 ## Prompt compartido
 
@@ -17,8 +19,8 @@ No hay un prompt público registrado.
 <details>
 <summary>Fuentes y comprobaciones</summary>
 
-- Evidencia del modelo: Atribución del índice de descubrimiento; falta confirmar el modelo en la publicación original
-- Accesibilidad de la publicación comprobada: 2026-11-10 — No se pudo confirmar el acceso a la publicación en esta comprobación
+- Evidencia del modelo: El modelo se menciona en la publicación original
+- Accesibilidad de la publicación comprobada: 2026-11-12 — Publicación accesible
 
 Comprobar el acceso a una publicación no equivale a reproducir su generación. La generación y el renderizado no se reprodujeron de forma independiente.
 

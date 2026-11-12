@@ -4,11 +4,13 @@
 
 [모음으로 돌아가기](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.ko.md)
 
-![단편으로 그려낸 절규의 이야기](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/osmanaga-146194.webp)
+[![단편으로 그려낸 절규의 이야기](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/osmanaga-146194.webp)](https://video.twimg.com/amplify_video/2119923123092893696/vid/avc1/720x1280/M2J_aC5567oGoPEu.mp4?tag=14)
 
-**원본 게시물 이용 불가** · [원본 게시물](https://x.com/osmanaga__/status/2119892099437146194)
+**[▶ 전체 영상](https://video.twimg.com/amplify_video/2119923123092893696/vid/avc1/720x1280/M2J_aC5567oGoPEu.mp4?tag=14)** · [원본 게시물](https://x.com/osmanaga__/status/2119923975635738780)
 
-[osmanaga__](https://x.com/osmanaga__) · 0:38 · 2026-11-09
+[osmanaga__](https://x.com/osmanaga__) · 1:28 · 2026-11-09
+
+최초 게시물은 열리지 않습니다. 제작자의 현재 게시물에는 뭉크의 절규에 관한 같은 도입부가 담긴 88초 버전이 있으며 Fable 5.2가 명시돼 있습니다.
 
 ## 공개 프롬프트
 
@@ -17,8 +19,8 @@
 <details>
 <summary>출처 및 확인 정보</summary>
 
-- 모델 표기의 근거: 발견 목록에 따른 표기이며 원본 게시물에서 모델 확인 필요
-- 게시물 접근 확인 날짜: 2026-11-10 — 이번 확인에서는 원본 게시물에 접근할 수 있는지 확인하지 못했습니다
+- 모델 표기의 근거: 원본 게시물에 모델명 명시
+- 게시물 접근 확인 날짜: 2026-11-12 — 게시물 접근 가능
 
 게시물 접근 확인과 영상 생성 재현은 별개입니다. 생성 및 렌더링 과정은 독립적으로 재현하지 않았습니다.
 

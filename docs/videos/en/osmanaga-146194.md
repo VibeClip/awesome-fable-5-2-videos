@@ -4,11 +4,13 @@
 
 [Back to collection](https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/README.md)
 
-![The story of The Scream as a short](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/osmanaga-146194.webp)
+[![The story of The Scream as a short](https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/osmanaga-146194.webp)](https://video.twimg.com/amplify_video/2119923123092893696/vid/avc1/720x1280/M2J_aC5567oGoPEu.mp4?tag=14)
 
-**Archived source** · [Original post](https://x.com/osmanaga__/status/2119892099437146194)
+**[▶ Watch](https://video.twimg.com/amplify_video/2119923123092893696/vid/avc1/720x1280/M2J_aC5567oGoPEu.mp4?tag=14)** · [Original post](https://x.com/osmanaga__/status/2119923975635738780)
 
-[osmanaga__](https://x.com/osmanaga__) · 0:38 · 2026-11-09
+[osmanaga__](https://x.com/osmanaga__) · 1:28 · 2026-11-09
+
+The first post is unavailable. The creator’s live post contains an 88-second cut with the same opening about Edvard Munch’s The Scream and credits Fable 5.2.
 
 ## Shared prompt
 
@@ -17,8 +19,8 @@ No public prompt recorded.
 <details>
 <summary>Sources & verification</summary>
 
-- Model evidence: Model attribution from discovery index; original post needs model confirmation
-- Post availability checked: 2026-11-10 — Original post could not be confirmed at this check
+- Model evidence: Model named in original post
+- Post availability checked: 2026-11-12 — Post available
 
 Source availability and video generation are separate checks. Generation and rendering were not independently reproduced.
 

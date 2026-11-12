@@ -18,7 +18,7 @@ No hay un prompt público registrado.
 <summary>Fuentes y comprobaciones</summary>
 
 - Evidencia del modelo: Atribución del índice de descubrimiento; falta confirmar el modelo en la publicación original
-- Accesibilidad de la publicación comprobada: 2026-11-10 — No se pudo confirmar el acceso a la publicación en esta comprobación
+- Accesibilidad de la publicación comprobada: 2026-11-12 — No se pudo confirmar el acceso a la publicación en esta comprobación
 
 Comprobar el acceso a una publicación no equivale a reproducir su generación. La generación y el renderizado no se reprodujeron de forma independiente.
 
