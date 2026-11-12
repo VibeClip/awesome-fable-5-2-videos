@@ -1,6 +1,6 @@
 {
   "baseline_id": "baseline-2026-11-10",
-  "checked_on": "2026-11-12",
+  "checked_on": "2026-11-13",
   "entries": [
     {
       "id": "wesroth-934330",
@@ -744,7 +744,7 @@
       "match_basis": "Same creator, Vela title card, matching 41-second duration, and matching one-prompt and five-minute production description."
     }
   ],
-  "checked_at": "2026-11-12T13:44:32.289255+00:00",
+  "checked_at": "2026-11-12T16:40:38.514691+00:00",
   "expected_total": 180,
   "pending_entries": []
 }

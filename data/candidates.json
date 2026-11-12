@@ -1,5 +1,5 @@
 {
-  "checked_on": "2026-11-12",
+  "checked_on": "2026-11-13",
   "candidates": [
     {
       "source_url": "https://x.com/AlchainHust/status/2119949075898675292",
@@ -79,6 +79,16 @@
       "status": "held-insufficient-workflow-evidence",
       "reason": "The creator names Fable 5.2, CapCut and Seedance 2.5 for a rhythm-game and video experiment. The model’s specific contribution to the posted footage remains unclear.",
       "checked_at": "2026-11-12T10:40:59.577733+00:00"
+    },
+    {
+      "source_url": "https://x.com/wquguru/status/2120471244344820164",
+      "creator": {
+        "name": "wquguru",
+        "url": "https://x.com/wquguru"
+      },
+      "status": "held-insufficient-workflow-evidence",
+      "reason": "The original clip shows an audio-analysis interface and mentions Fable 5.2. The post does not specify whether Fable built the interface, mixed the recording or performed another task.",
+      "checked_at": "2026-11-12T16:44:12.570995+00:00"
     }
   ]
 }

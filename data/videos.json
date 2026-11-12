@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "updated_on": "2026-11-12",
+  "updated_on": "2026-11-13",
   "featured_ids": [
     "higgsfield-ai-2119918834841010320",
     "imjustnewatai-2119919644836347926",
@@ -18702,6 +18702,636 @@
         "likes_delta": 0,
         "reposts_delta": 0
       }
+    },
+    {
+      "id": "husky-create-2120622644362199182",
+      "titles": {
+        "en": "A hand-drawn wolf becomes a 3D intro",
+        "zh-CN": "手绘小狼跳出纸面的 3D 片头",
+        "ja": "手描きのオオカミが飛び出す3Dオープニング",
+        "ko": "손그림 늑대가 튀어나오는 3D 오프닝",
+        "es": "Una intro 3D en la que un lobo dibujado cobra vida"
+      },
+      "category": "motion",
+      "creator": {
+        "name": "husky__create",
+        "url": "https://x.com/husky__create"
+      },
+      "source_url": "https://x.com/husky__create/status/2120622644362199182",
+      "published_at": "2026-11-11T21:00:12Z",
+      "duration_seconds": 10,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120622616344219648/img/B4Jgj0P4AkFZ4V_n.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/husky-create-2120622644362199182.webp",
+      "preview_path": "assets/previews/husky-create-2120622644362199182.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120622616344219648/vid/avc1/1920x1080/YQkggnwdUXqipVTR.mp4?tag=16",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-12T16:43:03.233021+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "e8242fb6fb74d52d0ad14616bb5b62faf99079c374dcddcc7a880566f077b9ac",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T16:44:11.069088+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120622616344219648",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A pencil draws the wolf on paper before it pops into a 3D character. The transition from sketch to mascot makes the short intro easy to read.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 and names Three.js for the intro.",
+        "zh-CN": "作者说明片头由 Fable 5.2 制作，并使用了 Three.js。",
+        "ja": "作者はFable 5.2とThree.jsでオープニングを作ったと説明しています。",
+        "ko": "제작자는 Fable 5.2와 Three.js로 오프닝을 만들었다고 밝혔습니다.",
+        "es": "El autor indica que creó la intro con Fable 5.2 y Three.js."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T10:41:15.555631+00:00",
+          "views": 603,
+          "likes": 11,
+          "reposts": 0,
+          "replies": 2,
+          "bookmarks": 5
+        },
+        {
+          "checked_at": "2026-11-12T16:44:11.538780+00:00",
+          "views": 1860,
+          "likes": 24,
+          "reposts": 0,
+          "replies": 2,
+          "bookmarks": 16
+        }
+      ],
+      "momentum": {
+        "state": "rising",
+        "window_minutes": 362.9,
+        "views_delta": 1257,
+        "likes_delta": 13,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "imjustnewatai-2120668771119726698",
+      "titles": {
+        "en": "How four voices form Renaissance counterpoint",
+        "zh-CN": "文艺复兴四声部对位的可视化",
+        "ja": "ルネサンスの四声対位法を可視化",
+        "ko": "르네상스 4성부 대위법 시각화",
+        "es": "Cómo se construye el contrapunto renacentista a cuatro voces"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "imjustnewatai",
+        "url": "https://x.com/imjustnewatai"
+      },
+      "source_url": "https://x.com/imjustnewatai/status/2120668771119726698",
+      "published_at": "2026-11-12T00:03:29Z",
+      "duration_seconds": 114.233,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120668579783737344/img/N6gCfD8wM80s4C5B.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/imjustnewatai-2120668771119726698.webp",
+      "preview_path": "assets/previews/imjustnewatai-2120668771119726698.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120668579783737344/vid/avc1/1920x1080/hHADTwaLDxu_Ufzz.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-12T16:43:06.900460+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "ba458a5756fefe8d6bf2e194e76a89ea2f9fbcf818a2852b44e97c5f70abbc3f",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T16:44:12.114464+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120668579783737344",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The parchment-style diagram introduces the four color-coded voices one at a time so their motion and relationships are legible.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator asked Fable 5.2 to reconstruct a fifteenth-century method for writing four-voice counterpoint without a score, then apply it. The post gives the brief in summary.",
+        "zh-CN": "作者让 Fable 5.2 重现十五世纪不看总谱写四声部对位的方法，再用它写作。原帖概述了要求。",
+        "ja": "作者はFable 5.2に、15世紀の作曲家が総譜なしで四声対位法を書く方法を再現し、実際に使うよう依頼しました。投稿には依頼の概要があります。",
+        "ko": "제작자는 Fable 5.2에 15세기 작곡가들이 총보 없이 4성부 대위법을 쓰던 방식을 재현해 적용하도록 요청했습니다. 게시물에는 요청의 요지가 담겨 있습니다.",
+        "es": "El autor pidió a Fable 5.2 que reconstruyera un método del siglo XV para escribir contrapunto a cuatro voces sin partitura general y que lo aplicara. La publicación resume el encargo."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T10:40:59.589945+00:00",
+          "views": 2804,
+          "likes": 33,
+          "reposts": 4,
+          "replies": 1,
+          "bookmarks": 14
+        },
+        {
+          "checked_at": "2026-11-12T16:44:12.609845+00:00",
+          "views": 3503,
+          "likes": 44,
+          "reposts": 5,
+          "replies": 1,
+          "bookmarks": 17
+        }
+      ],
+      "momentum": {
+        "state": "rising",
+        "window_minutes": 363.2,
+        "views_delta": 699,
+        "likes_delta": 11,
+        "reposts_delta": 1
+      }
+    },
+    {
+      "id": "wquguru-2120383332722905400",
+      "titles": {
+        "en": "SUBLEVEL 07, a single-file browser game",
+        "zh-CN": "《SUBLEVEL 07》单文件浏览器游戏",
+        "ja": "単一HTMLのブラウザーゲーム『SUBLEVEL 07』",
+        "ko": "단일 HTML 브라우저 게임 SUBLEVEL 07",
+        "es": "SUBLEVEL 07, un juego de navegador en un solo archivo"
+      },
+      "category": "interactive",
+      "creator": {
+        "name": "wquguru",
+        "url": "https://x.com/wquguru"
+      },
+      "source_url": "https://x.com/wquguru/status/2120383332722905400",
+      "published_at": "2026-11-11T05:09:15Z",
+      "duration_seconds": 15,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120382863388590080/img/vw-KeTzG6l4jfueo.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/wquguru-2120383332722905400.webp",
+      "preview_path": "assets/previews/wquguru-2120383332722905400.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120382863388590080/vid/avc1/720x1080/e1jp6XnSJ5Ia2UVw.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-12T16:43:47.138272+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "99b17745d947e362564c3c6a046908509bd93c146cd9dd6726a2d0e75043046f",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T16:44:11.930236+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": "https://x.com/i/article/2120373697840316416"
+      },
+      "native_media_id": "2120382863388590080",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The original gameplay cut shows an underground substation corridor with reflective floors and shifting light. The author documents the finished game and the separate experiments that led to it.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for the game’s procedural models, textures and sounds. This is the creator’s 15-second gameplay cut. The linked article contains the full brief.",
+        "zh-CN": "作者将程序化模型、纹理和音效归功于 Fable 5.2。这里展示作者发布的 15 秒实机片段，完整提示词见作者文章。",
+        "ja": "作者はモデル、テクスチャ、音をFable 5.2で手続き的に生成したと説明しています。映像は作者が公開した15秒のプレイ映像で、指示全文は作者の記事にあります。",
+        "ko": "제작자는 Fable 5.2로 모델, 텍스처와 소리를 절차적으로 만들었다고 밝혔습니다. 영상은 제작자가 공개한 15초 플레이 영상이며, 전체 프롬프트는 작성자의 글에 있습니다.",
+        "es": "El autor atribuye a Fable 5.2 la generación procedural de modelos, texturas y sonidos. El vídeo es su corte de 15 segundos de juego. El artículo enlazado contiene el encargo completo."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T16:43:37.738138+00:00",
+          "views": 35570,
+          "likes": 151,
+          "reposts": 15,
+          "replies": 16,
+          "bookmarks": 156
+        },
+        {
+          "checked_at": "2026-11-12T16:44:12.465142+00:00",
+          "views": 35571,
+          "likes": 151,
+          "reposts": 15,
+          "replies": 16,
+          "bookmarks": 156
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.6,
+        "views_delta": 1,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      },
+      "workflow_source_urls": [
+        "https://x.com/wquguru/status/2120382704030261437"
+      ],
+      "workflow_source_checks": [
+        {
+          "source_url": "https://x.com/wquguru/status/2120382704030261437",
+          "checked_at": "2026-11-12T16:44:11.935636+00:00",
+          "method": "X official oEmbed",
+          "post_sha256": "7ba46d928f1cc85cbbad6c7de3b0f67255057ccbe4e2d984a773be45dd149efd"
+        }
+      ]
+    },
+    {
+      "id": "iamshankhadeep-2120264513224392712",
+      "titles": {
+        "en": "A Blender showreel on a desk beside a waterfall",
+        "zh-CN": "瀑布旁的桌面与 Blender 展示短片",
+        "ja": "滝のそばのデスクを映すBlenderショーリール",
+        "ko": "폭포 옆 책상을 담은 Blender 쇼릴",
+        "es": "Una muestra de Blender en un escritorio junto a una cascada"
+      },
+      "category": "short-films",
+      "creator": {
+        "name": "Iamshankhadeep",
+        "url": "https://x.com/Iamshankhadeep"
+      },
+      "source_url": "https://x.com/Iamshankhadeep/status/2120264513224392712",
+      "published_at": "2026-11-10T21:17:07Z",
+      "duration_seconds": 54,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120264070083620864/img/rek3lV-p7Mz3j-1a.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/iamshankhadeep-2120264513224392712.webp",
+      "preview_path": "assets/previews/iamshankhadeep-2120264513224392712.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120264070083620864/vid/avc1/1920x1080/80xVsB3rl4Bxzo30.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-12T16:43:01.080821+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "e68ce791b72522875897c05f38c95e7738b6ce52782cef12b381dcb48aa88b07",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T16:44:11.037735+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120264070083620864",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The finished sequence cuts from the waterfall to detailed shots of the keyboard, laptop and block-like mascot.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator reports that Fable 5.2 built the scene in Blender and produced the camera moves, score and edit in code.",
+        "zh-CN": "作者称 Fable 5.2 用代码搭建了 Blender 场景，并完成运镜、配乐和剪辑。",
+        "ja": "作者はFable 5.2がBlenderのシーンを作り、カメラワーク、音楽、編集もコードで仕上げたと説明しています。",
+        "ko": "제작자는 Fable 5.2가 Blender 장면과 카메라 움직임, 음악, 편집을 코드로 만들었다고 밝혔습니다.",
+        "es": "El autor cuenta que Fable 5.2 construyó la escena en Blender y realizó por código los movimientos de cámara, la música y el montaje."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T07:36:35.166038+00:00",
+          "views": 283,
+          "likes": 4,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-12T16:44:11.548851+00:00",
+          "views": 299,
+          "likes": 4,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 547.6,
+        "views_delta": 16,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "onofumi-ai-2120041161251569681",
+      "titles": {
+        "en": "A Japanese castle rises in a construction time-lapse",
+        "zh-CN": "日式城堡逐层建起的延时动画",
+        "ja": "日本の城が築かれていくタイムラプス",
+        "ko": "일본식 성이 한 층씩 올라가는 타임랩스",
+        "es": "La construcción de un castillo japonés en cámara rápida"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "onofumi_AI",
+        "url": "https://x.com/onofumi_AI"
+      },
+      "source_url": "https://x.com/onofumi_AI/status/2120041161251569681",
+      "published_at": "2026-11-10T06:29:35Z",
+      "duration_seconds": 18.083,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120041080502771712/img/DfvStKzQtgH2yVM_.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/onofumi-ai-2120041161251569681.webp",
+      "preview_path": "assets/previews/onofumi-ai-2120041161251569681.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120041080502771712/vid/avc1/1920x1080/Y6-SMkmCzqQY0R50.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-12T16:43:03.218920+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "b7fdd6dd414e14394fb79a412adb26abed45cc02834bcea9122f487bff0ca98f",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T16:44:11.062737+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120041080502771712",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A fixed viewpoint follows construction from the stone base to the layered roof, with shadows changing as new sections appear.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for the reconstruction. The original post highlights how the shadows follow the construction.",
+        "zh-CN": "作者将重建动画归功于 Fable 5.2，并指出施工进度和阴影变化相互联动。",
+        "ja": "作者は再構築にFable 5.2を使い、建築の進行に合わせて影が変化する点に注目しています。",
+        "ko": "제작자는 Fable 5.2로 성을 재구성했으며, 건설 진행에 맞춰 그림자가 바뀌는 점을 짚었습니다.",
+        "es": "El autor atribuye la reconstrucción a Fable 5.2 y destaca cómo cambian las sombras a medida que avanza la obra."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T10:41:01.416522+00:00",
+          "views": 993,
+          "likes": 12,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 1
+        },
+        {
+          "checked_at": "2026-11-12T16:44:11.811877+00:00",
+          "views": 1006,
+          "likes": 12,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 1
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 363.2,
+        "views_delta": 13,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "stargridcompass-2120446433358692440",
+      "titles": {
+        "en": "A four-lane rhythm game with live combo feedback",
+        "zh-CN": "带连击反馈的四轨音乐游戏",
+        "ja": "コンボ表示付きの4レーン音楽ゲーム",
+        "ko": "콤보 피드백이 있는 4레인 리듬 게임",
+        "es": "Un juego de ritmo de cuatro carriles con indicador de combo"
+      },
+      "category": "interactive",
+      "creator": {
+        "name": "Stargridcompass",
+        "url": "https://x.com/Stargridcompass"
+      },
+      "source_url": "https://x.com/Stargridcompass/status/2120446433358692440",
+      "published_at": "2026-11-11T09:20:00Z",
+      "duration_seconds": 86.215,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120439724712030209/img/qrxmN90gjn2as612.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/stargridcompass-2120446433358692440.webp",
+      "preview_path": "assets/previews/stargridcompass-2120446433358692440.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120439724712030209/vid/avc1/1920x1080/xstfn4yqcQkOA9s2.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-12T16:43:01.080132+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "15c8418d6c73d1d5b54be98e72de0bc82b946d466112e15b3b9a88dc21cb94c9",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T16:44:11.058053+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120439724712030209",
+      "media_rights": "Short silent excerpt of the creator’s gameplay recording. Rights to music and any game references remain with their respective owners.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The gameplay recording shows timed notes on four lanes, hit judgments and a visible combo counter. The post describes the prototype’s song and difficulty selection.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for the playable prototype and describes three tracks with three difficulty levels each.",
+        "zh-CN": "作者将可玩原型归功于 Fable 5.2，并称游戏包含三首曲目，每首有三个难度。",
+        "ja": "作者は遊べる試作をFable 5.2で作り、3曲それぞれに3段階の難易度があると説明しています。",
+        "ko": "제작자는 Fable 5.2로 플레이 가능한 프로토타입을 만들었으며, 세 곡에 각각 세 가지 난이도가 있다고 밝혔습니다.",
+        "es": "El autor atribuye el prototipo jugable a Fable 5.2 e indica que contiene tres pistas con tres niveles de dificultad cada una."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T07:36:34.275069+00:00",
+          "views": 1233,
+          "likes": 16,
+          "reposts": 0,
+          "replies": 8,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-12T16:44:11.562966+00:00",
+          "views": 1263,
+          "likes": 16,
+          "reposts": 0,
+          "replies": 8,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 547.6,
+        "views_delta": 30,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "husky-create-2120471964787830947",
+      "titles": {
+        "en": "Late Bass Lounge, a bass-led music video",
+        "zh-CN": "《Late Bass Lounge》贝斯主题音乐短片",
+        "ja": "ベースを主役にしたMV『Late Bass Lounge』",
+        "ko": "베이스가 중심인 뮤직비디오 Late Bass Lounge",
+        "es": "Late Bass Lounge, un videoclip centrado en el bajo"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "husky__create",
+        "url": "https://x.com/husky__create"
+      },
+      "source_url": "https://x.com/husky__create/status/2120471964787830947",
+      "published_at": "2026-11-11T11:01:27Z",
+      "duration_seconds": 65.5,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120471865902911488/img/ztUBfmpVfKsC4A3U.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/husky-create-2120471964787830947.webp",
+      "preview_path": "assets/previews/husky-create-2120471964787830947.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120471865902911488/vid/avc1/1920x1080/_jhdxUBeVUhaF4F4.mp4?tag=16",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-12T16:43:05.411288+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "f429ec5e7cd77d5fb81796e5eb7cc66e45ff5d657ed26fe83de70430c946e2d0",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T16:44:11.880907+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120471865902911488",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A finished music video intercuts warm close-ups of the instrument with a wide shot of the bassist on stage. The creator identifies the role of each tool.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "Mixed workflow disclosed by the creator. Suno MCP produced the music, Codex supplied images and Fable 5.2 handled the edit.",
+        "zh-CN": "作者公开了混合工作流。音乐来自 Suno MCP，图像由 Codex 提供，剪辑由 Fable 5.2 完成。",
+        "ja": "作者が公開した混合ワークフローです。楽曲はSuno MCP、画像はCodex、編集はFable 5.2が担当しました。",
+        "ko": "제작자가 공개한 혼합 작업 흐름입니다. Suno MCP로 음악을 만들고 Codex로 이미지를 준비했으며 Fable 5.2로 편집했습니다.",
+        "es": "El autor describe un flujo mixto. Suno MCP generó la música, Codex aportó las imágenes y Fable 5.2 se encargó del montaje."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T10:41:15.985177+00:00",
+          "views": 679,
+          "likes": 7,
+          "reposts": 0,
+          "replies": 2,
+          "bookmarks": 1
+        },
+        {
+          "checked_at": "2026-11-12T16:44:12.349321+00:00",
+          "views": 702,
+          "likes": 8,
+          "reposts": 0,
+          "replies": 2,
+          "bookmarks": 1
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 362.9,
+        "views_delta": 23,
+        "likes_delta": 1,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "evals-ag-2120821140868501726",
+      "titles": {
+        "en": "A grid of animated interface icons",
+        "zh-CN": "网格中的界面图标动画",
+        "ja": "動くUIアイコンのグリッド",
+        "ko": "애니메이션 UI 아이콘 그리드",
+        "es": "Una cuadrícula de iconos de interfaz animados"
+      },
+      "category": "product",
+      "creator": {
+        "name": "evals_ag",
+        "url": "https://x.com/evals_ag"
+      },
+      "source_url": "https://x.com/evals_ag/status/2120821140868501726",
+      "published_at": "2026-11-12T10:08:57Z",
+      "duration_seconds": 10.8,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120821057166970880/img/JooNEtSAxXPbRk_o.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/evals-ag-2120821140868501726.webp",
+      "preview_path": "assets/previews/evals-ag-2120821140868501726.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120821057166970880/vid/avc1/1440x1080/BFkajF2oBS3q1LMD.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-12T16:43:05.019628+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "d460377c7e0645be7b33b0f627f017c33a9661a052283c135b286209e8881f7d",
+        "model_named": true,
+        "video_checked_at": "2026-11-12T16:44:10.988742+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120821057166970880",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The labeled Fable cut sends small animations across the grid and draws its check mark in place. The creator’s parent post explains the shared interface brief.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator labels this clip as the Fable 5.2 result. The parent post describes the shared brief as 24 icons in one HTML file using code.",
+        "zh-CN": "作者将这段视频明确标为 Fable 5.2 成片。父帖说明共同要求是用代码在一个 HTML 文件里制作 24 个图标。",
+        "ja": "作者はこの映像をFable 5.2の結果と明記しています。親投稿によると、共通課題は24個のアイコンを1つのHTMLファイルにコードで実装することでした。",
+        "ko": "제작자는 이 영상을 Fable 5.2의 결과물이라고 밝혔습니다. 상위 게시물에 따르면 공통 과제는 HTML 파일 하나에 아이콘 24개를 코드로 구현하는 것이었습니다.",
+        "es": "El autor identifica este vídeo como el resultado de Fable 5.2. La publicación principal describe un encargo común de 24 iconos programados en un único archivo HTML."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T10:41:15.357335+00:00",
+          "views": 12,
+          "likes": 1,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-12T13:45:18.547264+00:00",
+          "views": 21,
+          "likes": 1,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-12T16:44:11.471023+00:00",
+          "views": 26,
+          "likes": 1,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 178.9,
+        "views_delta": 5,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      },
+      "workflow_source_urls": [
+        "https://x.com/evals_ag/status/2120820882079912384"
+      ],
+      "workflow_source_checks": [
+        {
+          "source_url": "https://x.com/evals_ag/status/2120820882079912384",
+          "checked_at": "2026-11-12T16:44:11.900803+00:00",
+          "method": "X official oEmbed",
+          "post_sha256": "c88ebda77ebb83049e122a007dbc1e3c8ebb1a917136750e28586eb7eabfa3fc"
+        }
+      ]
     }
   ]
 }
