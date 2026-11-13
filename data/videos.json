@@ -21532,13 +21532,21 @@
           "reposts": 1,
           "replies": 0,
           "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-13T07:43:12.928383+00:00",
+          "views": 953,
+          "likes": 9,
+          "reposts": 1,
+          "replies": 3,
+          "bookmarks": 1
         }
       ],
       "momentum": {
-        "state": "new",
-        "window_minutes": 0.7,
-        "views_delta": 7,
-        "likes_delta": 0,
+        "state": "rising",
+        "window_minutes": 175.9,
+        "views_delta": 620,
+        "likes_delta": 7,
         "reposts_delta": 0
       }
     },
@@ -21607,13 +21615,21 @@
           "reposts": 0,
           "replies": 6,
           "bookmarks": 2
+        },
+        {
+          "checked_at": "2026-11-13T07:43:12.869806+00:00",
+          "views": 1034,
+          "likes": 37,
+          "reposts": 0,
+          "replies": 6,
+          "bookmarks": 2
         }
       ],
       "momentum": {
-        "state": "new",
-        "window_minutes": 0.7,
-        "views_delta": 1,
-        "likes_delta": 0,
+        "state": "rising",
+        "window_minutes": 175.9,
+        "views_delta": 306,
+        "likes_delta": 6,
         "reposts_delta": 0
       }
     },
@@ -21682,13 +21698,21 @@
           "reposts": 4,
           "replies": 4,
           "bookmarks": 2
+        },
+        {
+          "checked_at": "2026-11-13T07:43:12.869325+00:00",
+          "views": 2329,
+          "likes": 29,
+          "reposts": 4,
+          "replies": 5,
+          "bookmarks": 2
         }
       ],
       "momentum": {
-        "state": "new",
-        "window_minutes": 0.7,
-        "views_delta": 1,
-        "likes_delta": 0,
+        "state": "rising",
+        "window_minutes": 175.9,
+        "views_delta": 473,
+        "likes_delta": 3,
         "reposts_delta": 0
       }
     },
@@ -22006,12 +22030,20 @@
           "reposts": 25,
           "replies": 21,
           "bookmarks": 233
+        },
+        {
+          "checked_at": "2026-11-13T07:43:12.922061+00:00",
+          "views": 19164,
+          "likes": 376,
+          "reposts": 25,
+          "replies": 21,
+          "bookmarks": 234
         }
       ],
       "momentum": {
         "state": "new",
-        "window_minutes": 0.3,
-        "views_delta": 0,
+        "window_minutes": 175.9,
+        "views_delta": 228,
         "likes_delta": 0,
         "reposts_delta": 0
       }
@@ -22119,6 +22151,541 @@
         "state": "new",
         "window_minutes": 183.4,
         "views_delta": 16,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "calebfahlgren-2120680918914601165",
+      "titles": {
+        "en": "A first-person walk through a two-story house",
+        "zh-CN": "第一人称漫游双层住宅",
+        "ja": "二階建ての家を一人称視点で歩く",
+        "ko": "2층 집을 둘러보는 1인칭 워크스루",
+        "es": "Un recorrido en primera persona por una casa de dos plantas"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "calebfahlgren",
+        "url": "https://x.com/calebfahlgren"
+      },
+      "source_url": "https://x.com/calebfahlgren/status/2120680918914601165",
+      "published_at": "2026-11-12T00:51:46Z",
+      "duration_seconds": 43.723,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120675630282911744/img/d6Rr6cTMgBcahkqR.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/calebfahlgren-2120680918914601165.webp",
+      "preview_path": "assets/previews/calebfahlgren-2120680918914601165.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120675630282911744/vid/avc1/1920x1080/X2zBSZVT9empWwwq.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-13T07:42:44.699298+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "f36f6a5657f14bd7a663968f3e0f5cab3b2c81f341b80429970d2a05c08336c0",
+        "model_named": true,
+        "video_checked_at": "2026-11-13T07:42:55.687758+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": "https://x.com/calebfahlgren/status/2120680922336862315"
+      },
+      "native_media_id": "2120675630282911744",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "curation_reason": "A first-person camera moves from the front porch into furnished rooms and a garage. The creator shares the original brief in a reply.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for the house and links the original brief, which requested a detailed environment that could run in Three.js.",
+        "zh-CN": "作者将住宅场景归功于 Fable 5.2，并公开了原始提示词，要求场景细节丰富且能在 Three.js 中运行。",
+        "ja": "作者はFable 5.2で家を作ったと説明しています。公開された指示では、Three.jsで動く細部まで作り込んだ環境を求めています。",
+        "ko": "제작자는 Fable 5.2로 집을 만들었다고 밝혔습니다. 공개한 프롬프트는 Three.js에서 실행 가능한 세밀한 환경을 요청합니다.",
+        "es": "El autor atribuye la casa a Fable 5.2 y comparte la instrucción original, que pedía un entorno detallado que pudiera ejecutarse en Three.js."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-13T07:42:23.493888+00:00",
+          "views": 75462,
+          "likes": 932,
+          "reposts": 60,
+          "replies": 87,
+          "bookmarks": 647
+        },
+        {
+          "checked_at": "2026-11-13T07:42:56.759256+00:00",
+          "views": 75472,
+          "likes": 932,
+          "reposts": 60,
+          "replies": 87,
+          "bookmarks": 647
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.6,
+        "views_delta": 10,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      },
+      "workflow_source_urls": [
+        "https://x.com/calebfahlgren/status/2120680922336862315"
+      ],
+      "workflow_source_checks": [
+        {
+          "source_url": "https://x.com/calebfahlgren/status/2120680922336862315",
+          "checked_at": "2026-11-13T07:43:14.556680+00:00",
+          "method": "X official oEmbed",
+          "post_sha256": "971a6d25d1c6f7271734386aaab9aa758ea4a337784d114e5feaa16b2beefe87"
+        }
+      ]
+    },
+    {
+      "id": "akiyoshisan-2121122179018531193",
+      "titles": {
+        "en": "A paper robot becomes a mirror",
+        "zh-CN": "从手绘纸片变成镜面机器人的短片",
+        "ja": "紙のロボットが鏡になるまで",
+        "ko": "종이 로봇이 거울로 변하는 단편",
+        "es": "Un robot de papel se convierte en espejo"
+      },
+      "category": "short-films",
+      "creator": {
+        "name": "akiyoshisan",
+        "url": "https://x.com/akiyoshisan"
+      },
+      "source_url": "https://x.com/akiyoshisan/status/2121122179018531193",
+      "published_at": "2026-11-13T06:05:10Z",
+      "duration_seconds": 67,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121121702482747392/img/k0zuHPYNIo8F8kZy.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/akiyoshisan-2121122179018531193.webp",
+      "preview_path": "assets/previews/akiyoshisan-2121122179018531193.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2121121702482747392/vid/avc1/1080x1920/Eg6j8xBR8oMxvQRB.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-13T07:42:44.788395+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "4470f3bd2ac633177a6a648a073f0824b1e84f29c0932cbf7035173d8577450c",
+        "model_named": true,
+        "video_checked_at": "2026-11-13T07:42:55.963881+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2121121702482747392",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The robot leaves a hand-drawn page and moves through cardboard, metal and reflective forms. The creator identifies the supplied drawing and the audio workflow.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator supplied drawings and a bass recording. Fable 5.2 planned the sequence, OpenCV cut out the original drawing, Three.js rendered the frames and Suno extended the bass track.",
+        "zh-CN": "作者提供了手绘原画和贝斯录音。Fable 5.2 策划短片，OpenCV 分割原画，Three.js 渲染画面，Suno 延展贝斯配乐。",
+        "ja": "作者は原画とベースの録音を提供。Fable 5.2が企画し、OpenCVで原画を切り抜き、Three.jsで描画し、Sunoでベースの音源を延長しました。",
+        "ko": "제작자는 원화와 베이스 녹음을 제공했습니다. Fable 5.2가 영상을 기획했고 OpenCV로 원화를 잘라 Three.js로 렌더링했으며 Suno로 베이스 트랙을 늘렸습니다.",
+        "es": "El autor aportó dibujos y una grabación de bajo. Fable 5.2 planificó la secuencia, OpenCV recortó el dibujo, Three.js renderizó los fotogramas y Suno extendió la pista."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-13T07:42:12.598793+00:00",
+          "views": 205,
+          "likes": 3,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 1
+        },
+        {
+          "checked_at": "2026-11-13T07:42:57.135629+00:00",
+          "views": 208,
+          "likes": 3,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 1
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.7,
+        "views_delta": 3,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "yousuke-001-2120154541186523612",
+      "titles": {
+        "en": "How many banknotes would reach the Moon?",
+        "zh-CN": "把纸币堆到月球需要多少钱？",
+        "ja": "1万円札を月まで積むにはいくら必要？",
+        "ko": "지폐를 달까지 쌓으려면 얼마나 필요할까?",
+        "es": "¿Cuántos billetes harían falta para llegar a la Luna?"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "yousuke_001",
+        "url": "https://x.com/yousuke_001"
+      },
+      "source_url": "https://x.com/yousuke_001/status/2120154541186523612",
+      "published_at": "2026-11-10T14:00:07Z",
+      "duration_seconds": 51.6,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120154489898618881/img/kbyVFQj-Z6RWP5Ry.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/yousuke-001-2120154541186523612.webp",
+      "preview_path": "assets/previews/yousuke-001-2120154541186523612.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120154489898618881/vid/avc1/1920x1080/BMdHEVJ-_drkWyrR.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-13T07:42:46.612133+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "aff246cceff1e2eed72588c67ea69bee2f925624532b91d68d39f6a9a8823013",
+        "model_named": true,
+        "video_checked_at": "2026-11-13T07:42:55.880619+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": "https://x.com/yousuke_001/status/2120154541186523612"
+      },
+      "native_media_id": "2120154489898618881",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The camera follows a growing stack of ¥10,000 notes from desk-sized objects past buildings and out toward the Moon. Familiar landmarks make the scale changes readable.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for this Japanese-language visual explainer and shares the core request in the original post.",
+        "zh-CN": "作者将这段日语可视化解说归功于 Fable 5.2，并在原帖公开了核心要求。",
+        "ja": "作者はこの日本語の解説映像をFable 5.2で制作し、元の投稿に主な指示を載せています。",
+        "ko": "제작자는 이 일본어 시각 해설을 Fable 5.2로 만들었다고 밝혔으며 원문에 핵심 요청을 공유했습니다.",
+        "es": "El autor atribuye a Fable 5.2 este explicador visual en japonés y publica la petición principal en el mensaje original."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-13T07:42:23.489768+00:00",
+          "views": 49,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-13T07:42:57.019294+00:00",
+          "views": 49,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.6,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "mrtacticalx-2120842705395966254",
+      "titles": {
+        "en": "A brick-built supercar in a miniature city",
+        "zh-CN": "微缩城市里的积木跑车",
+        "ja": "ミニチュアの街を走るブロック製スーパーカー",
+        "ko": "미니어처 도심의 블록 슈퍼카",
+        "es": "Un superdeportivo de bloques en una ciudad en miniatura"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "MrTacticalX",
+        "url": "https://x.com/MrTacticalX"
+      },
+      "source_url": "https://x.com/MrTacticalX/status/2120842705395966254",
+      "published_at": "2026-11-12T11:34:38Z",
+      "duration_seconds": 29.25,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120842640656642048/img/HBcjXduhekSHZ_kC.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/mrtacticalx-2120842705395966254.webp",
+      "preview_path": "assets/previews/mrtacticalx-2120842705395966254.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120842640656642048/vid/avc1/1080x1350/FQ9QjhiAQKuKCDWV.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-13T07:42:47.612154+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "038a72bcdb463b6560d39d0d90e5ba304957bf03c24f5c737d27fb6579341f07",
+        "model_named": true,
+        "video_checked_at": "2026-11-13T07:42:55.748472+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120842640656642048",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The vertical video presents the car in a miniature street scene. Close and wide views show the brick construction alongside its urban setting.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator credits three Fable 5.2 agents for a 501-piece brick car.",
+        "zh-CN": "作者称用三个 Fable 5.2 智能体制作了由 501 块积木组成的跑车。",
+        "ja": "作者は501ピースのブロック製の車を、3体のFable 5.2エージェントで制作したと説明しています。",
+        "ko": "제작자는 Fable 5.2 에이전트 세 개로 501개 조각의 블록 자동차를 만들었다고 밝혔습니다.",
+        "es": "El autor atribuye a tres agentes Fable 5.2 la creación de un automóvil de 501 piezas."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-13T04:46:58.455190+00:00",
+          "views": 5902,
+          "likes": 72,
+          "reposts": 1,
+          "replies": 8,
+          "bookmarks": 14
+        },
+        {
+          "checked_at": "2026-11-13T07:42:14.563308+00:00",
+          "views": 6984,
+          "likes": 85,
+          "reposts": 2,
+          "replies": 11,
+          "bookmarks": 16
+        },
+        {
+          "checked_at": "2026-11-13T07:42:56.725498+00:00",
+          "views": 6989,
+          "likes": 85,
+          "reposts": 2,
+          "replies": 11,
+          "bookmarks": 16
+        }
+      ],
+      "momentum": {
+        "state": "rising",
+        "window_minutes": 176.0,
+        "views_delta": 1087,
+        "likes_delta": 13,
+        "reposts_delta": 1
+      }
+    },
+    {
+      "id": "evals-ag-2120798150852292869",
+      "titles": {
+        "en": "A ferrofluid switch with a spiked dark mode",
+        "zh-CN": "切到深色模式时长出尖刺的磁流体开关",
+        "ja": "ダークモードで突起が現れる磁性流体スイッチ",
+        "ko": "다크 모드에서 뾰족해지는 자성유체 스위치",
+        "es": "Un interruptor de ferrofluido que forma picos en modo oscuro"
+      },
+      "category": "product",
+      "creator": {
+        "name": "evals_ag",
+        "url": "https://x.com/evals_ag"
+      },
+      "source_url": "https://x.com/evals_ag/status/2120798150852292869",
+      "published_at": "2026-11-12T08:37:36Z",
+      "duration_seconds": 12,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120798052101615616/img/Q7fUza_S4gVIkh4G.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/evals-ag-2120798150852292869.webp",
+      "preview_path": "assets/previews/evals-ag-2120798150852292869.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120798052101615616/vid/avc1/1440x1080/fI46pLpW3SKgtOjf.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-13T07:42:48.682896+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "b39177ca1be242fea7e730266001644981d2599a8a881e67967a305643dd7f76",
+        "model_named": true,
+        "video_checked_at": "2026-11-13T07:42:55.881665+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120798052101615616",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The control changes from a smooth droplet on a light background to a spiked texture in dark mode. The creator identifies which model produced this cut.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator identifies this clip as the Fable 5.2 result from a comparison with Gemini 4 Carbon. The attached video shows the Fable version.",
+        "zh-CN": "作者将这段视频标为与 Gemini 4 Carbon 对比时的 Fable 5.2 版本。附件展示的是 Fable 的结果。",
+        "ja": "作者はこの映像をGemini 4 Carbonとの比較で作ったFable 5.2版と明記しています。添付映像はFableの結果です。",
+        "ko": "제작자는 이 클립이 Gemini 4 Carbon과 비교한 Fable 5.2 결과라고 명시했습니다. 첨부 영상에는 Fable 버전이 나옵니다.",
+        "es": "El autor identifica este clip como el resultado de Fable 5.2 en una comparación con Gemini 4 Carbon. El vídeo adjunto muestra la versión de Fable."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T10:41:15.009939+00:00",
+          "views": 14,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-12T13:45:18.548763+00:00",
+          "views": 17,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-12T19:42:21.426176+00:00",
+          "views": 22,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-12T22:46:07.262290+00:00",
+          "views": 23,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-13T07:42:14.659993+00:00",
+          "views": 24,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-13T07:42:57.032295+00:00",
+          "views": 24,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 536.8,
+        "views_delta": 1,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      },
+      "workflow_source_urls": [
+        "https://x.com/evals_ag/status/2120797957159284763"
+      ],
+      "workflow_source_checks": [
+        {
+          "source_url": "https://x.com/evals_ag/status/2120797957159284763",
+          "checked_at": "2026-11-13T07:43:14.577395+00:00",
+          "method": "X official oEmbed",
+          "post_sha256": "dd84eca6a8ed2a36a27fbbcd75d6a5372ffbe2d564711290738412ffa420e5d2"
+        }
+      ]
+    },
+    {
+      "id": "keiru-ai-2120148813142958454",
+      "titles": {
+        "en": "A 3D previsualization stage for character choreography",
+        "zh-CN": "用于角色编舞的 3D 预演舞台",
+        "ja": "キャラクター振り付け用の3Dプリビズステージ",
+        "ko": "캐릭터 안무를 위한 3D 프리비즈 무대",
+        "es": "Un escenario 3D de previsualización para coreografías"
+      },
+      "category": "interactive",
+      "creator": {
+        "name": "keiru_ai",
+        "url": "https://x.com/keiru_ai"
+      },
+      "source_url": "https://x.com/keiru_ai/status/2120148813142958454",
+      "published_at": "2026-11-10T13:37:22Z",
+      "duration_seconds": 54.343,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120148511836835840/img/DGAOVJNsHxM39izZ.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/keiru-ai-2120148813142958454.webp",
+      "preview_path": "assets/previews/keiru-ai-2120148813142958454.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120148511836835840/vid/avc1/2830x1496/qlQkuQ7RRb6l2keO.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-13T07:42:49.842417+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "a245b378b49a817bda2ba8445ecc70a517c65f8127d6fe0f33ecc8a781a881a6",
+        "model_named": true,
+        "video_checked_at": "2026-11-13T07:42:57.359062+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120148511836835840",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "Several figures move in formation while a visible timeline tracks the sequence and the stage lighting changes. The recording shows a work-in-progress editing tool.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator names Fable 5.2, Claude Code and Suno for this prototype and says it can import VRM characters and Mixamo FBX motion.",
+        "zh-CN": "作者说明原型使用 Fable 5.2、Claude Code 与 Suno，并支持导入 VRM 角色及 Mixamo FBX 动作。",
+        "ja": "作者は試作にFable 5.2、Claude Code、Sunoを使い、VRMキャラクターとMixamoのFBXモーションを読み込めると説明しています。",
+        "ko": "제작자는 Fable 5.2, Claude Code와 Suno를 사용했으며 VRM 캐릭터 및 Mixamo FBX 동작을 가져올 수 있다고 밝혔습니다.",
+        "es": "El autor cita Fable 5.2, Claude Code y Suno para el prototipo, y dice que permite importar personajes VRM y movimientos FBX de Mixamo."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T22:46:40.404812+00:00",
+          "views": 227,
+          "likes": 2,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 3
+        },
+        {
+          "checked_at": "2026-11-13T01:43:36.040103+00:00",
+          "views": 227,
+          "likes": 2,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 3
+        },
+        {
+          "checked_at": "2026-11-13T04:46:41.318281+00:00",
+          "views": 227,
+          "likes": 2,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 3
+        },
+        {
+          "checked_at": "2026-11-13T07:42:17.043592+00:00",
+          "views": 227,
+          "likes": 2,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 3
+        },
+        {
+          "checked_at": "2026-11-13T07:42:57.818579+00:00",
+          "views": 227,
+          "likes": 2,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 3
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 176.3,
+        "views_delta": 0,
         "likes_delta": 0,
         "reposts_delta": 0
       }

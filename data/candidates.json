@@ -109,6 +109,26 @@
       "status": "held-insufficient-workflow-evidence",
       "reason": "The creator describes making a Fable 5.2 version after an earlier GPT-6.2 Sol version. The attached recording does not clearly label which scenes belong to each version.",
       "checked_at": "2026-11-13T04:47:16.844908+00:00"
+    },
+    {
+      "source_url": "https://x.com/Stargridcompass/status/2121067643108983145",
+      "creator": {
+        "name": "Stargridcompass",
+        "url": "https://x.com/Stargridcompass"
+      },
+      "status": "held-insufficient-workflow-evidence",
+      "reason": "The post identifies Fable 5.2 and Three.js and shows a drifting game. Its wording and linked deployment do not establish whether the poster created the game or is showcasing another developer’s work.",
+      "checked_at": "2026-11-13T07:42:57.648564+00:00"
+    },
+    {
+      "source_url": "https://x.com/CuddlerAI/status/2120148569646617039",
+      "creator": {
+        "name": "CuddlerAI",
+        "url": "https://x.com/CuddlerAI"
+      },
+      "status": "held-after-visual-review",
+      "reason": "The creator demonstrates a lighthouse reconstruction and earthquake simulation. The only verified full cut opens and closes with product promotion and includes a promotional URL in the footage. A separate clean cut has not been located.",
+      "checked_at": "2026-11-13T07:42:57.512782+00:00"
     }
   ]
 }
