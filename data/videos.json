@@ -22235,14 +22235,22 @@
           "reposts": 62,
           "replies": 89,
           "bookmarks": 658
+        },
+        {
+          "checked_at": "2026-11-13T13:46:03.595843+00:00",
+          "views": 77863,
+          "likes": 980,
+          "reposts": 63,
+          "replies": 90,
+          "bookmarks": 677
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 180.5,
-        "views_delta": 1184,
-        "likes_delta": 26,
-        "reposts_delta": 2
+        "window_minutes": 182.6,
+        "views_delta": 1207,
+        "likes_delta": 22,
+        "reposts_delta": 1
       },
       "workflow_source_urls": [
         "https://x.com/calebfahlgren/status/2120680922336862315"
@@ -22495,13 +22503,21 @@
           "reposts": 3,
           "replies": 11,
           "bookmarks": 31
+        },
+        {
+          "checked_at": "2026-11-13T13:46:03.596629+00:00",
+          "views": 9361,
+          "likes": 116,
+          "reposts": 4,
+          "replies": 11,
+          "bookmarks": 32
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 180.5,
-        "views_delta": 1703,
-        "likes_delta": 20,
+        "window_minutes": 182.6,
+        "views_delta": 669,
+        "likes_delta": 11,
         "reposts_delta": 1
       }
     },
@@ -22787,13 +22803,21 @@
           "reposts": 0,
           "replies": 0,
           "bookmarks": 5
+        },
+        {
+          "checked_at": "2026-11-13T13:46:03.616888+00:00",
+          "views": 552,
+          "likes": 13,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 8
         }
       ],
       "momentum": {
         "state": "new",
-        "window_minutes": 0.5,
-        "views_delta": 1,
-        "likes_delta": 0,
+        "window_minutes": 182.9,
+        "views_delta": 140,
+        "likes_delta": 6,
         "reposts_delta": 0
       }
     },
@@ -22862,13 +22886,21 @@
           "reposts": 4,
           "replies": 2,
           "bookmarks": 3
+        },
+        {
+          "checked_at": "2026-11-13T13:46:03.593674+00:00",
+          "views": 1149,
+          "likes": 21,
+          "reposts": 4,
+          "replies": 2,
+          "bookmarks": 6
         }
       ],
       "momentum": {
-        "state": "new",
-        "window_minutes": 0.5,
-        "views_delta": 0,
-        "likes_delta": 0,
+        "state": "rising",
+        "window_minutes": 182.9,
+        "views_delta": 370,
+        "likes_delta": 7,
         "reposts_delta": 0
       }
     },
@@ -23232,6 +23264,474 @@
         "state": "new",
         "window_minutes": 180.9,
         "views_delta": 1,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "chetaslua-2121176151234330707",
+      "titles": {
+        "en": "Crimson Loong, a Three.js dragon short",
+        "zh-CN": "《赤龍》Three.js 巨龙短片",
+        "ja": "Three.jsで描いた龍の短編『赤龍』",
+        "ko": "Three.js로 만든 용 단편 적룡",
+        "es": "Crimson Loong, un corto de dragones en Three.js"
+      },
+      "category": "short-films",
+      "creator": {
+        "name": "chetaslua",
+        "url": "https://x.com/chetaslua"
+      },
+      "source_url": "https://x.com/chetaslua/status/2121176151234330707",
+      "published_at": "2026-11-13T09:39:38Z",
+      "duration_seconds": 85.343,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121175618289389568/img/BAXUrLJWndARkPqq.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/chetaslua-2121176151234330707.webp",
+      "preview_path": "assets/previews/chetaslua-2121176151234330707.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2121175618289389568/vid/avc1/3024x1660/GD6vq4RoARkQT7vs.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-13T13:45:39.682278+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "7b0371f7dadd7c1c2bd4ffbd6b9cb93df01e1c5d9bcc44740949c0c2da804f0e",
+        "model_named": true,
+        "video_checked_at": "2026-11-13T13:45:48.717966+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2121175618289389568",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "curation_reason": "An orange dragon winds through red forests and steep cliffs above a village. The creator's follow-up provides code for the film.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 and Three.js and says the film uses no external assets. A reply points to the source code.",
+        "zh-CN": "作者说明短片使用 Fable 5.2 和 Three.js，画面与配乐由代码制作，并在回复公开源码。",
+        "ja": "作者はFable 5.2とThree.jsで制作し、外部素材を使っていないと説明しています。返信でソースコードを公開しています。",
+        "ko": "제작자는 Fable 5.2와 Three.js로 만들었고 외부 에셋을 쓰지 않았다고 밝혔습니다. 답글에 소스 코드를 공개했습니다.",
+        "es": "El autor atribuye el corto a Fable 5.2 y Three.js e indica que no usa recursos externos. En una respuesta comparte el código fuente."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-13T13:45:19.628709+00:00",
+          "views": 35541,
+          "likes": 998,
+          "reposts": 37,
+          "replies": 65,
+          "bookmarks": 365
+        },
+        {
+          "checked_at": "2026-11-13T13:45:49.220985+00:00",
+          "views": 35611,
+          "likes": 1001,
+          "reposts": 37,
+          "replies": 65,
+          "bookmarks": 365
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.5,
+        "views_delta": 70,
+        "likes_delta": 3,
+        "reposts_delta": 0
+      },
+      "workflow_source_urls": [
+        "https://x.com/chetaslua/status/2121176153667125296"
+      ],
+      "workflow_source_checks": [
+        {
+          "source_url": "https://x.com/chetaslua/status/2121176153667125296",
+          "checked_at": "2026-11-13T13:46:15.539549+00:00",
+          "method": "X official oEmbed",
+          "post_sha256": "c98d42c89e05e2e139e2a7890fe3600a9312424b2c0a159c8ec8b10be3694cb5"
+        }
+      ]
+    },
+    {
+      "id": "kanaworks-ai-2121221880673972463",
+      "titles": {
+        "en": "Harappa, a Blender add-on for animated meadows",
+        "zh-CN": "《Harappa》制作动态草地的 Blender 插件",
+        "ja": "草原を動かすBlenderアドオン『Harappa』",
+        "ko": "움직이는 초원을 만드는 Blender 애드온 Harappa",
+        "es": "Harappa, un complemento de Blender para praderas animadas"
+      },
+      "category": "interactive",
+      "creator": {
+        "name": "KanaWorks_AI",
+        "url": "https://x.com/KanaWorks_AI"
+      },
+      "source_url": "https://x.com/KanaWorks_AI/status/2121221880673972463",
+      "published_at": "2026-11-13T12:41:21Z",
+      "duration_seconds": 84.985,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121218805183684608/img/zCVHwz2CPY1J0Tj4.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kanaworks-ai-2121221880673972463.webp",
+      "preview_path": "assets/previews/kanaworks-ai-2121221880673972463.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2121218805183684608/vid/avc1/1920x1080/_RvcnTMVJqh6vCS1.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-13T13:45:39.681853+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "9e2c94e5c6f10f601b54a93373b43b3068e081b608b26faad0cb191bc0404041",
+        "model_named": true,
+        "video_checked_at": "2026-11-13T13:45:48.952993+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2121218805183684608",
+      "media_rights": "Short silent excerpt of the creator’s original demo. The add-on and generated output have separately stated terms. Creator attribution remains with the excerpt.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The recording pairs a stylized meadow with controls that alter paths, flowers and clouds. The creator demonstrates the add-on itself and links its code in a reply.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for the Blender add-on. The demo shows scenery settings for vegetation, weather and lighting.",
+        "zh-CN": "作者将 Blender 插件归功于 Fable 5.2。视频展示了植被、天气与光照设置。",
+        "ja": "作者はBlenderアドオンをFable 5.2で作ったと説明しています。映像では植生、天候、光の設定を操作します。",
+        "ko": "제작자는 Fable 5.2로 Blender 애드온을 만들었다고 밝혔습니다. 영상은 식생, 날씨, 조명 설정을 보여 줍니다.",
+        "es": "El autor atribuye el complemento de Blender a Fable 5.2. La demostración muestra ajustes de vegetación, clima e iluminación."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-13T13:45:10.607562+00:00",
+          "views": 741,
+          "likes": 21,
+          "reposts": 9,
+          "replies": 1,
+          "bookmarks": 12
+        },
+        {
+          "checked_at": "2026-11-13T13:45:49.482949+00:00",
+          "views": 745,
+          "likes": 21,
+          "reposts": 9,
+          "replies": 1,
+          "bookmarks": 12
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.6,
+        "views_delta": 4,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      },
+      "workflow_source_urls": [
+        "https://x.com/KanaWorks_AI/status/2121222576299270252"
+      ],
+      "workflow_source_checks": [
+        {
+          "source_url": "https://x.com/KanaWorks_AI/status/2121222576299270252",
+          "checked_at": "2026-11-13T13:46:15.550277+00:00",
+          "method": "X official oEmbed",
+          "post_sha256": "01c5cfae15e70586233b1fe4cc1c13213a639906855a530c176ee9ee4c7c7bc4"
+        }
+      ]
+    },
+    {
+      "id": "petergostev-2120125927086600681",
+      "titles": {
+        "en": "A coral reef with a crocheted texture",
+        "zh-CN": "钩针编织质感的珊瑚礁",
+        "ja": "かぎ針編みの質感を持つサンゴ礁",
+        "ko": "코바늘뜨기 질감의 산호초",
+        "es": "Un arrecife de coral con textura de ganchillo"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "petergostev",
+        "url": "https://x.com/petergostev"
+      },
+      "source_url": "https://x.com/petergostev/status/2120125927086600681",
+      "published_at": "2026-11-10T12:06:25Z",
+      "duration_seconds": 40,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120125545249640448/img/-teyuqcGTUs_jS-n.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/petergostev-2120125927086600681.webp",
+      "preview_path": "assets/previews/petergostev-2120125927086600681.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120125545249640448/vid/avc1/3840x2160/u-PUTSTEjUibRIGV.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-13T13:45:41.488549+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "fe3a9253e75f0731ff889b5aac5dd003eefbb29e864984a80b3a8febde73bc2c",
+        "model_named": true,
+        "video_checked_at": "2026-11-13T13:45:48.736848+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120125545249640448",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "Schools of fish swim between pastel corals, with the same knitted texture carried across the scene.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator identifies the crocheted reef as a Fable 5.2 result.",
+        "zh-CN": "作者将这段钩针质感珊瑚礁视频归功于 Fable 5.2。",
+        "ja": "作者はかぎ針編み風のサンゴ礁をFable 5.2の成果として紹介しています。",
+        "ko": "제작자는 코바늘뜨기풍 산호초를 Fable 5.2 결과물로 소개했습니다.",
+        "es": "El autor identifica el arrecife de estilo ganchillo como un resultado de Fable 5.2."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-13T13:45:15.967776+00:00",
+          "views": 4857,
+          "likes": 143,
+          "reposts": 2,
+          "replies": 11,
+          "bookmarks": 31
+        },
+        {
+          "checked_at": "2026-11-13T13:45:49.263745+00:00",
+          "views": 4857,
+          "likes": 143,
+          "reposts": 2,
+          "replies": 11,
+          "bookmarks": 31
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.6,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "seiiiiiiiiiiru-2120350818138202294",
+      "titles": {
+        "en": "A small robot walking on a pink stage",
+        "zh-CN": "在粉色背景上行走的小机器人",
+        "ja": "ピンクの舞台を歩く小さなロボット",
+        "ko": "분홍색 무대 위를 걷는 작은 로봇",
+        "es": "Un robot pequeño que camina sobre un escenario rosa"
+      },
+      "category": "motion",
+      "creator": {
+        "name": "seiiiiiiiiiiru",
+        "url": "https://x.com/seiiiiiiiiiiru"
+      },
+      "source_url": "https://x.com/seiiiiiiiiiiru/status/2120350818138202294",
+      "published_at": "2026-11-11T03:00:03Z",
+      "duration_seconds": 20,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120297166656974848/img/0B0XA55p7BWI2Gn7.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/seiiiiiiiiiiru-2120350818138202294.webp",
+      "preview_path": "assets/previews/seiiiiiiiiiiru-2120350818138202294.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120297166656974848/vid/avc1/1080x1350/dU9OvfO_lurGWABF.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-13T13:45:41.827517+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "517bdd5f6388c900a3f4d2b235dc46247788fb5f998395e44100045978aed79e",
+        "model_named": true,
+        "video_checked_at": "2026-11-13T13:45:48.780483+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120297166656974848",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A walking cycle and a rotating camera reveal how the legs move beneath a compact body. The plain background keeps the articulation visible.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator says Fable 5.2 built the bones and rig in Blender and describes the shown result as unedited.",
+        "zh-CN": "作者称骨骼和绑定由 Fable 5.2 在 Blender 中制作，展示的是未经修改的结果。",
+        "ja": "作者によると、Fable 5.2がBlenderでボーンとリグを組み、映像は修正を加えていない結果です。",
+        "ko": "제작자는 Fable 5.2로 Blender에서 본과 리그를 구성했으며 영상은 수정하지 않은 결과라고 밝혔습니다.",
+        "es": "El autor indica que Fable 5.2 montó los huesos y el rig en Blender y presenta el resultado sin retoques."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T22:46:39.844783+00:00",
+          "views": 3344,
+          "likes": 65,
+          "reposts": 7,
+          "replies": 1,
+          "bookmarks": 8
+        },
+        {
+          "checked_at": "2026-11-13T01:43:35.319936+00:00",
+          "views": 3367,
+          "likes": 65,
+          "reposts": 7,
+          "replies": 1,
+          "bookmarks": 8
+        },
+        {
+          "checked_at": "2026-11-13T04:46:40.506442+00:00",
+          "views": 3381,
+          "likes": 65,
+          "reposts": 7,
+          "replies": 1,
+          "bookmarks": 9
+        },
+        {
+          "checked_at": "2026-11-13T10:42:42.050116+00:00",
+          "views": 3453,
+          "likes": 67,
+          "reposts": 9,
+          "replies": 1,
+          "bookmarks": 9
+        },
+        {
+          "checked_at": "2026-11-13T13:45:14.916531+00:00",
+          "views": 3492,
+          "likes": 68,
+          "reposts": 9,
+          "replies": 2,
+          "bookmarks": 9
+        },
+        {
+          "checked_at": "2026-11-13T13:45:49.297460+00:00",
+          "views": 3492,
+          "likes": 68,
+          "reposts": 9,
+          "replies": 2,
+          "bookmarks": 9
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 183.1,
+        "views_delta": 39,
+        "likes_delta": 1,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "vib3coded-2120189785247498513",
+      "titles": {
+        "en": "A sailing ship demo with an ocean and weather controls",
+        "zh-CN": "带海浪和天气控制的帆船演示",
+        "ja": "海と天候を操作できる帆船デモ",
+        "ko": "바다와 날씨를 조절할 수 있는 범선 데모",
+        "es": "Una demo de un velero con controles de mar y clima"
+      },
+      "category": "interactive",
+      "creator": {
+        "name": "vib3coded",
+        "url": "https://x.com/vib3coded"
+      },
+      "source_url": "https://x.com/vib3coded/status/2120189785247498513",
+      "published_at": "2026-11-10T16:20:10Z",
+      "duration_seconds": 18,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120189120093757441/img/oSSXf-cHFwTFJzAB.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/vib3coded-2120189785247498513.webp",
+      "preview_path": "assets/previews/vib3coded-2120189785247498513.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120189120093757441/vid/avc1/1920x1200/IlWG73RcQBDsxhM4.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-13T13:45:43.469335+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "4acc8cb64af7cd078eaf9d21114c121c3cd5cad0015c15ca6ffdf74243cb90f0",
+        "model_named": true,
+        "video_checked_at": "2026-11-13T13:45:48.886855+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120189120093757441",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The screen recording shows a ship pitching in waves as the controls change the scene from calm seas to rougher water.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 and Tripo for the demo.",
+        "zh-CN": "作者将演示归功于 Fable 5.2 与 Tripo。",
+        "ja": "作者はFable 5.2とTripoを使ったデモとして紹介しています。",
+        "ko": "제작자는 Fable 5.2와 Tripo를 사용한 데모라고 밝혔습니다.",
+        "es": "El autor atribuye la demostración a Fable 5.2 y Tripo."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T22:46:10.165818+00:00",
+          "views": 5271,
+          "likes": 112,
+          "reposts": 17,
+          "replies": 26,
+          "bookmarks": 48
+        },
+        {
+          "checked_at": "2026-11-13T01:43:35.780141+00:00",
+          "views": 5291,
+          "likes": 112,
+          "reposts": 17,
+          "replies": 26,
+          "bookmarks": 48
+        },
+        {
+          "checked_at": "2026-11-13T04:46:41.057117+00:00",
+          "views": 5319,
+          "likes": 112,
+          "reposts": 17,
+          "replies": 26,
+          "bookmarks": 48
+        },
+        {
+          "checked_at": "2026-11-13T07:42:16.749187+00:00",
+          "views": 5345,
+          "likes": 113,
+          "reposts": 17,
+          "replies": 26,
+          "bookmarks": 48
+        },
+        {
+          "checked_at": "2026-11-13T10:42:42.958624+00:00",
+          "views": 5365,
+          "likes": 113,
+          "reposts": 17,
+          "replies": 26,
+          "bookmarks": 48
+        },
+        {
+          "checked_at": "2026-11-13T13:45:15.627456+00:00",
+          "views": 5394,
+          "likes": 113,
+          "reposts": 17,
+          "replies": 26,
+          "bookmarks": 49
+        },
+        {
+          "checked_at": "2026-11-13T13:45:49.347847+00:00",
+          "views": 5394,
+          "likes": 113,
+          "reposts": 17,
+          "replies": 26,
+          "bookmarks": 49
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 183.1,
+        "views_delta": 29,
         "likes_delta": 0,
         "reposts_delta": 0
       }
