@@ -21540,13 +21540,21 @@
           "reposts": 1,
           "replies": 3,
           "bookmarks": 1
+        },
+        {
+          "checked_at": "2026-11-13T10:43:27.077854+00:00",
+          "views": 1188,
+          "likes": 10,
+          "reposts": 1,
+          "replies": 3,
+          "bookmarks": 2
         }
       ],
       "momentum": {
-        "state": "rising",
-        "window_minutes": 175.9,
-        "views_delta": 620,
-        "likes_delta": 7,
+        "state": "new",
+        "window_minutes": 180.2,
+        "views_delta": 235,
+        "likes_delta": 1,
         "reposts_delta": 0
       }
     },
@@ -22219,14 +22227,22 @@
           "reposts": 60,
           "replies": 87,
           "bookmarks": 647
+        },
+        {
+          "checked_at": "2026-11-13T10:43:27.082534+00:00",
+          "views": 76656,
+          "likes": 958,
+          "reposts": 62,
+          "replies": 89,
+          "bookmarks": 658
         }
       ],
       "momentum": {
-        "state": "new",
-        "window_minutes": 0.6,
-        "views_delta": 10,
-        "likes_delta": 0,
-        "reposts_delta": 0
+        "state": "rising",
+        "window_minutes": 180.5,
+        "views_delta": 1184,
+        "likes_delta": 26,
+        "reposts_delta": 2
       },
       "workflow_source_urls": [
         "https://x.com/calebfahlgren/status/2120680922336862315"
@@ -22305,12 +22321,20 @@
           "reposts": 0,
           "replies": 0,
           "bookmarks": 1
+        },
+        {
+          "checked_at": "2026-11-13T10:43:27.176086+00:00",
+          "views": 387,
+          "likes": 3,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 1
         }
       ],
       "momentum": {
         "state": "new",
-        "window_minutes": 0.7,
-        "views_delta": 3,
+        "window_minutes": 180.5,
+        "views_delta": 179,
         "likes_delta": 0,
         "reposts_delta": 0
       }
@@ -22463,13 +22487,21 @@
           "reposts": 2,
           "replies": 11,
           "bookmarks": 16
+        },
+        {
+          "checked_at": "2026-11-13T10:43:27.103114+00:00",
+          "views": 8692,
+          "likes": 105,
+          "reposts": 3,
+          "replies": 11,
+          "bookmarks": 31
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 176.0,
-        "views_delta": 1087,
-        "likes_delta": 13,
+        "window_minutes": 180.5,
+        "views_delta": 1703,
+        "likes_delta": 20,
         "reposts_delta": 1
       }
     },
@@ -22686,6 +22718,520 @@
         "state": "new",
         "window_minutes": 176.3,
         "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "onofumi-ai-2121160008469778675",
+      "titles": {
+        "en": "A forest camper scene combining Gaussian splats and 3D assets",
+        "zh-CN": "结合高斯泼溅与 3D 素材的森林房车场景",
+        "ja": "ガウシアンスプラッティングと3D素材を組み合わせた森のキャンピングカー",
+        "ko": "가우시안 스플래팅과 3D 에셋을 결합한 숲속 캠핑카",
+        "es": "Una caravana en el bosque con Gaussian splatting y recursos 3D"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "onofumi_AI",
+        "url": "https://x.com/onofumi_AI"
+      },
+      "source_url": "https://x.com/onofumi_AI/status/2121160008469778675",
+      "published_at": "2026-11-13T08:35:29Z",
+      "duration_seconds": 23.017,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121159877590708224/img/1vkqxQ92zLfSlR99.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/onofumi-ai-2121160008469778675.webp",
+      "preview_path": "assets/previews/onofumi-ai-2121160008469778675.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2121159877590708224/vid/avc1/1920x1080/fRTsNzF7PlWrAQ--.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-13T10:43:01.732591+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "cec6253a33e9d930e5a36b0b12a9ceb55deadf41af7142781f6a5ada4e819aed",
+        "model_named": true,
+        "video_checked_at": "2026-11-13T10:43:09.581090+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2121159877590708224",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A bright green camper anchors the scene as the camera moves through a forest clearing with small animated rabbits. The creator explains how the environment and movable assets were combined.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator identifies Fable 5.2 in the workflow and names Atlas for the environment, Three.js for the splat scene and Tripo for 3D assets and motion.",
+        "zh-CN": "作者说明流程使用了 Fable 5.2、用于生成空间的 Atlas、用于展示高斯泼溅场景的 Three.js，以及用于 3D 素材和动作的 Tripo。",
+        "ja": "作者はFable 5.2を使った工程で、空間制作にAtlas、ガウシアンスプラッティングの表示にThree.js、3D素材と動きにTripoを使ったと説明しています。",
+        "ko": "제작자는 Fable 5.2와 함께 공간 제작에 Atlas, 스플랫 장면에 Three.js, 3D 에셋과 움직임에 Tripo를 사용했다고 설명합니다.",
+        "es": "El autor cita Fable 5.2, Atlas para el entorno, Three.js para mostrar la escena de splats y Tripo para los recursos 3D y el movimiento."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-13T10:42:38.727144+00:00",
+          "views": 411,
+          "likes": 7,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 5
+        },
+        {
+          "checked_at": "2026-11-13T10:43:10.066235+00:00",
+          "views": 412,
+          "likes": 7,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 5
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.5,
+        "views_delta": 1,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "seiiiiiiiiiiru-2121164955080917176",
+      "titles": {
+        "en": "A rabbit character in a Blender motion-capture test",
+        "zh-CN": "Blender 动捕测试中的兔子角色",
+        "ja": "Blenderのモーションキャプチャテストで動くウサギ",
+        "ko": "Blender 모션 캡처 테스트의 토끼 캐릭터",
+        "es": "Un conejo en una prueba de captura de movimiento en Blender"
+      },
+      "category": "motion",
+      "creator": {
+        "name": "seiiiiiiiiiiru",
+        "url": "https://x.com/seiiiiiiiiiiru"
+      },
+      "source_url": "https://x.com/seiiiiiiiiiiru/status/2121164955080917176",
+      "published_at": "2026-11-13T08:55:09Z",
+      "duration_seconds": 10,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121164591338233856/img/MB4mdQodiG9PT9rw.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/seiiiiiiiiiiru-2121164955080917176.webp",
+      "preview_path": "assets/previews/seiiiiiiiiiiru-2121164955080917176.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2121164591338233856/vid/avc1/720x720/VurXACOWrxBzWYhS.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-13T10:43:01.743052+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "3185e6033cf35d110515d97166787b9622de61fd49d9baaf27391e693adf9ecb",
+        "model_named": true,
+        "video_checked_at": "2026-11-13T10:43:09.649468+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2121164591338233856",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The brief test isolates a pale rabbit against a plain background so its posture changes are easy to see.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator labels the clip a motion-capture test with Fable 5.2 and Blender. The post leaves the capture setup unspecified.",
+        "zh-CN": "作者将这段视频标为 Fable 5.2 与 Blender 动捕测试，原帖未说明采集设备。",
+        "ja": "作者はFable 5.2とBlenderによるモーションキャプチャテストと紹介しています。収録環境の詳細は投稿にありません。",
+        "ko": "제작자는 Fable 5.2와 Blender를 사용한 모션 캡처 테스트라고 밝혔습니다. 캡처 환경은 공개하지 않았습니다.",
+        "es": "El autor presenta el clip como una prueba de captura de movimiento con Fable 5.2 y Blender. La publicación no detalla el sistema de captura."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-13T10:42:38.696951+00:00",
+          "views": 779,
+          "likes": 14,
+          "reposts": 4,
+          "replies": 2,
+          "bookmarks": 3
+        },
+        {
+          "checked_at": "2026-11-13T10:43:10.125709+00:00",
+          "views": 779,
+          "likes": 14,
+          "reposts": 4,
+          "replies": 2,
+          "bookmarks": 3
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.5,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "mrtacticalx-2120473175158849884",
+      "titles": {
+        "en": "A Swiss lake painted from sketch to reflections",
+        "zh-CN": "从草图到倒影的瑞士湖景绘画",
+        "ja": "下描きから水面の反射まで描くスイスの湖",
+        "ko": "스케치부터 물에 비친 풍경까지 그린 스위스 호수",
+        "es": "Un lago suizo pintado del boceto al reflejo"
+      },
+      "category": "motion",
+      "creator": {
+        "name": "MrTacticalX",
+        "url": "https://x.com/MrTacticalX"
+      },
+      "source_url": "https://x.com/MrTacticalX/status/2120473175158849884",
+      "published_at": "2026-11-11T11:06:16Z",
+      "duration_seconds": 59.9,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120473115025088512/img/A0cB3JcblRYlC42c.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/mrtacticalx-2120473175158849884.webp",
+      "preview_path": "assets/previews/mrtacticalx-2120473175158849884.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120473115025088512/vid/avc1/1080x1350/smQxijj1Yis_3zAa.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-13T10:43:03.949943+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "669b651283a714a17b4569288f5fa7472483d1cb36a26f9e0786f7421414d76b",
+        "model_named": true,
+        "video_checked_at": "2026-11-13T10:43:09.492979+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120473115025088512",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The recording follows a pencil outline into a colored alpine lake scene, then turns the view toward the water to show the reflected mountain.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 and describes the subject as an oil painting of a Swiss lake. The original post leaves the rendering tools unspecified.",
+        "zh-CN": "作者将作品归功于 Fable 5.2，并称其为瑞士湖景油画。原帖未说明渲染工具。",
+        "ja": "作者はスイスの湖を題材にした油絵としてFable 5.2の成果を紹介しています。描画ツールは明記していません。",
+        "ko": "제작자는 Fable 5.2가 스위스 호수의 유화풍 작품을 만들었다고 밝혔습니다. 렌더링 도구는 공개하지 않았습니다.",
+        "es": "El autor atribuye a Fable 5.2 la pintura al óleo de un lago suizo. La publicación no precisa las herramientas de renderizado."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-13T04:46:59.354787+00:00",
+          "views": 11924,
+          "likes": 87,
+          "reposts": 3,
+          "replies": 17,
+          "bookmarks": 24
+        },
+        {
+          "checked_at": "2026-11-13T07:42:16.066233+00:00",
+          "views": 11981,
+          "likes": 88,
+          "reposts": 3,
+          "replies": 17,
+          "bookmarks": 24
+        },
+        {
+          "checked_at": "2026-11-13T10:42:41.983380+00:00",
+          "views": 12067,
+          "likes": 88,
+          "reposts": 3,
+          "replies": 17,
+          "bookmarks": 24
+        },
+        {
+          "checked_at": "2026-11-13T10:43:09.952902+00:00",
+          "views": 12068,
+          "likes": 88,
+          "reposts": 3,
+          "replies": 17,
+          "bookmarks": 24
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 180.9,
+        "views_delta": 87,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "ds-nakajima-2120077444724191633",
+      "titles": {
+        "en": "A cosmic animation from a single bright point",
+        "zh-CN": "从一个光点展开的宇宙动画",
+        "ja": "一つの光点から始まる宇宙のアニメーション",
+        "ko": "하나의 빛점에서 시작하는 우주 애니메이션",
+        "es": "Una animación cósmica que parte de un punto de luz"
+      },
+      "category": "short-films",
+      "creator": {
+        "name": "ds_nakajima",
+        "url": "https://x.com/ds_nakajima"
+      },
+      "source_url": "https://x.com/ds_nakajima/status/2120077444724191633",
+      "published_at": "2026-11-10T08:53:46Z",
+      "duration_seconds": 78,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120077244446183424/img/t7xHxkruawm4LTBj.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ds-nakajima-2120077444724191633.webp",
+      "preview_path": "assets/previews/ds-nakajima-2120077444724191633.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120077244446183424/vid/avc1/1920x1080/i_TF0cdPU4CEPy9M.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-13T10:43:05.112434+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "6b9675c31d670e1dc899833ca28c16f83786d0323df591692cd64c0b8507c40f",
+        "model_named": true,
+        "video_checked_at": "2026-11-13T10:43:09.472409+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": "すごい動画を作ったほしい",
+        "source_url": "https://x.com/ds_nakajima/status/2120077444724191633"
+      },
+      "native_media_id": "2120077244446183424",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A minimal bright point develops into luminous clusters and a branching structure against a black background.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator attributes the finished animation to Fable 5.2 and shares the short creative brief in the original post.",
+        "zh-CN": "作者将动画成片归功于 Fable 5.2，并在原帖公开了简短的创作要求。",
+        "ja": "作者は完成した映像をFable 5.2の成果として紹介し、元の投稿で短い指示を公開しています。",
+        "ko": "제작자는 완성된 애니메이션을 Fable 5.2의 결과로 소개하고 원문에 짧은 요청을 공유했습니다.",
+        "es": "El autor atribuye la animación terminada a Fable 5.2 y comparte el encargo breve en la publicación original."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-13T07:42:17.079589+00:00",
+          "views": 34079,
+          "likes": 220,
+          "reposts": 12,
+          "replies": 14,
+          "bookmarks": 71
+        },
+        {
+          "checked_at": "2026-11-13T10:42:43.403221+00:00",
+          "views": 34182,
+          "likes": 220,
+          "reposts": 12,
+          "replies": 14,
+          "bookmarks": 71
+        },
+        {
+          "checked_at": "2026-11-13T10:43:09.945391+00:00",
+          "views": 34183,
+          "likes": 220,
+          "reposts": 12,
+          "replies": 14,
+          "bookmarks": 71
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 180.9,
+        "views_delta": 104,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "kevin-t-ngo-2120198663062622581",
+      "titles": {
+        "en": "A Clawd music video animated in Python and Blender",
+        "zh-CN": "用 Python 和 Blender 制作的 Clawd 音乐视频",
+        "ja": "PythonとBlenderで動かしたClawdのミュージックビデオ",
+        "ko": "Python과 Blender로 만든 Clawd 뮤직비디오",
+        "es": "Un videoclip de Clawd animado con Python y Blender"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "kevin_t_ngo",
+        "url": "https://x.com/kevin_t_ngo"
+      },
+      "source_url": "https://x.com/kevin_t_ngo/status/2120198663062622581",
+      "published_at": "2026-11-10T16:55:27Z",
+      "duration_seconds": 77,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120197953780613120/img/xqwqp-Vm_2GebEaj.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kevin-t-ngo-2120198663062622581.webp",
+      "preview_path": "assets/previews/kevin-t-ngo-2120198663062622581.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120197953780613120/vid/avc1/1080x1080/REJcjoiTa_AfPsB0.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-13T10:43:06.272818+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "c8493158a9d040ddb40bc705598b9e25c48663e4e61fa320ce79504474d661b2",
+        "model_named": true,
+        "video_checked_at": "2026-11-13T10:43:10.281293+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120197953780613120",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A small orange character recurs across a furnished interior, open water and mountains. The consistent character design ties the separate scenes together.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator says Fable 5.2 made the music video in code, with Python for animation and Blender for rendering.",
+        "zh-CN": "作者称这段音乐视频由 Fable 5.2 用代码制作，通过 Python 制作动画，并使用 Blender 渲染。",
+        "ja": "作者によると、Fable 5.2がコードでミュージックビデオを制作し、Pythonで動かしてBlenderで描画しました。",
+        "ko": "제작자는 Fable 5.2가 코드를 작성하고 Python으로 애니메이션을 만들었으며 Blender로 렌더링했다고 밝혔습니다.",
+        "es": "El autor afirma que Fable 5.2 creó el videoclip con código, animación en Python y renderizado en Blender."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T22:46:29.636755+00:00",
+          "views": 36246,
+          "likes": 793,
+          "reposts": 47,
+          "replies": 39,
+          "bookmarks": 413
+        },
+        {
+          "checked_at": "2026-11-13T10:42:42.958866+00:00",
+          "views": 37164,
+          "likes": 794,
+          "reposts": 47,
+          "replies": 39,
+          "bookmarks": 413
+        },
+        {
+          "checked_at": "2026-11-13T10:43:10.775823+00:00",
+          "views": 37165,
+          "likes": 794,
+          "reposts": 47,
+          "replies": 39,
+          "bookmarks": 413
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 716.7,
+        "views_delta": 919,
+        "likes_delta": 1,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "keiru-ai-2120288283167191402",
+      "titles": {
+        "en": "Generative audio with a Three.js visualizer",
+        "zh-CN": "生成式音频与 Three.js 可视化",
+        "ja": "生成音とThree.jsのビジュアライザー",
+        "ko": "생성 오디오와 Three.js 시각화",
+        "es": "Audio generativo con un visualizador en Three.js"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "keiru_ai",
+        "url": "https://x.com/keiru_ai"
+      },
+      "source_url": "https://x.com/keiru_ai/status/2120288283167191402",
+      "published_at": "2026-11-10T22:51:34Z",
+      "duration_seconds": 90,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120288036147826688/img/RMF87RqwwTGFY-_I.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/keiru-ai-2120288283167191402.webp",
+      "preview_path": "assets/previews/keiru-ai-2120288283167191402.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120288036147826688/vid/avc1/1920x1080/rsVqgZfdKMOHajLt.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-13T10:43:06.931800+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "52378f5a6a4a8ea9ad85f96b4fe3504675fe767ec75abac94fa25c8c7d79fe23",
+        "model_named": true,
+        "video_checked_at": "2026-11-13T10:43:10.610635+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120288036147826688",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "Glowing rings, particle fields and audio readouts share the frame, showing the changing visual structure of the composition.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator names Fable 5.2 and Three.js for this code-rendered video and says the audio was generated using randomness.",
+        "zh-CN": "作者说明这段代码渲染视频使用了 Fable 5.2 与 Three.js，音频通过随机过程生成。",
+        "ja": "作者はFable 5.2とThree.jsで映像をコードから制作し、音を乱数で生成したと説明しています。",
+        "ko": "제작자는 Fable 5.2와 Three.js로 영상을 코드로 만들고 난수를 사용해 오디오를 생성했다고 밝혔습니다.",
+        "es": "El autor cita Fable 5.2 y Three.js para el vídeo renderizado por código y describe el audio como una generación aleatoria."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T22:46:40.279407+00:00",
+          "views": 91,
+          "likes": 3,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-13T01:43:35.490391+00:00",
+          "views": 91,
+          "likes": 3,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-13T04:46:40.794372+00:00",
+          "views": 92,
+          "likes": 3,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-13T07:42:16.589369+00:00",
+          "views": 92,
+          "likes": 3,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-13T10:42:42.532713+00:00",
+          "views": 93,
+          "likes": 3,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-13T10:43:11.063708+00:00",
+          "views": 93,
+          "likes": 3,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 180.9,
+        "views_delta": 1,
         "likes_delta": 0,
         "reposts_delta": 0
       }

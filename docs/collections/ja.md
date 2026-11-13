@@ -8,7 +8,7 @@
 
 <a id="short-films"></a>
 
-## 短編とストーリー · 40
+## 短編とストーリー · 41
 
 キャラクター、アニメ短編、映画的な物語、ミュージックビデオ。
 
@@ -144,14 +144,21 @@
 
 </td>
 <td width="33%" valign="top">
+<a href="https://video.twimg.com/amplify_video/2120077244446183424/vid/avc1/1920x1080/i_TF0cdPU4CEPy9M.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ds-nakajima-2120077444724191633.webp" alt="一つの光点から始まる宇宙のアニメーション — @ds_nakajima" width="100%" loading="lazy"></a><br>
+<b>一つの光点から始まる宇宙のアニメーション</b><br>
+<sub><b>新しい発見</b> · <a href="https://x.com/ds_nakajima">@ds_nakajima</a> · 1:18 · 2026-11-10</sub><br>
+<a href="https://video.twimg.com/amplify_video/2120077244446183424/vid/avc1/1920x1080/i_TF0cdPU4CEPy9M.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/ds_nakajima/status/2120077444724191633">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/ds-nakajima-2120077444724191633.md">詳細</a>
+<details><summary>📝 プロンプトを見る</summary><blockquote>すごい動画を作ったほしい</blockquote><p><a href="https://x.com/ds_nakajima/status/2120077444724191633">作者の公開プロンプトを読む</a></p></details>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120076635022176256/vid/avc1/1920x1080/_pMVSUXNU5xgUqUo.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/rute1203d-2120077147872391540.webp" alt="粒子の実験から桜の風景へ移る短編映像 — @rute1203d" width="100%" loading="lazy"></a><br>
 <b>粒子の実験から桜の風景へ移る短編映像</b><br>
 <sub><b>新しい発見</b> · <a href="https://x.com/rute1203d">@rute1203d</a> · 2:26 · 2026-11-10</sub><br>
 <a href="https://video.twimg.com/amplify_video/2120076635022176256/vid/avc1/1920x1080/_pMVSUXNU5xgUqUo.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/rute1203d/status/2120077147872391540">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/rute1203d-2120077147872391540.md">詳細</a>
 <details><summary>📝 プロンプトを見る</summary><p>作者が下記のリンクでプロンプトを公開しています。参考素材や追加指示と合わせて元の文脈を確認してください。</p><p><a href="https://x.com/rute1203d/status/2120077147872391540">作者の公開プロンプトを読む</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120073390942048256/vid/avc1/3024x1714/xZRjyNo0Fwszd5WF.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/haileyailabs-2120075292043890890.webp" alt="絵コンテから作る3D短編『触らないで』 — @HaileyAILabs" width="100%" loading="lazy"></a><br>
 <b>絵コンテから作る3D短編『触らないで』</b><br>
@@ -166,6 +173,8 @@
 <a href="https://video.twimg.com/amplify_video/2120014231450034176/vid/avc1/1920x1080/7CaA0vV2Tej61d3g.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/wshuyi/status/2120014892040417720">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/wshuyi-2120014892040417720.md">詳細</a>
 <details><summary>📝 プロンプトを見る</summary><p>作者が下記のリンクでプロンプトを公開しています。参考素材や追加指示と合わせて元の文脈を確認してください。</p><p><a href="https://x.com/wshuyi/status/2120014892040417720">作者の公開プロンプトを読む</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120010999818289152/vid/avc1/1920x1080/IWfi7bdM6kIQXIB4.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/anabology-2120011096287297557.webp" alt="コードで舞台を作る夢の映像 — @anabology" width="100%" loading="lazy"></a><br>
 <b>コードで舞台を作る夢の映像</b><br>
@@ -173,8 +182,6 @@
 <a href="https://video.twimg.com/amplify_video/2120010999818289152/vid/avc1/1920x1080/IWfi7bdM6kIQXIB4.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/anabology/status/2120011096287297557">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/anabology-2120011096287297557.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119991676600975360/vid/avc1/1920x1080/SkX17BUiYGK12VwD.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/imjustnewatai-2119991883997045049.webp" alt="オリジナルのスペースオペラのオープニングと序曲 — @imjustnewatai" width="100%" loading="lazy"></a><br>
 <b>オリジナルのスペースオペラのオープニングと序曲</b><br>
@@ -189,6 +196,8 @@
 <a href="https://video.twimg.com/amplify_video/2119959154026840064/vid/avc1/1920x1080/xTHXVvf_6YhKOkmx.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/renoiseai/status/2119959294716326280">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/renoiseai-2119959294716326280.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119937132647313408/vid/avc1/1080x1080/T2W6Dhpu_gMoxVTM.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kevin-t-ngo-2119938129079808282.webp" alt="JavaScriptでフレームを描くアニメ短編 — @kevin_t_ngo" width="100%" loading="lazy"></a><br>
 <b>JavaScriptでフレームを描くアニメ短編</b><br>
@@ -196,8 +205,6 @@
 <a href="https://video.twimg.com/amplify_video/2119937132647313408/vid/avc1/1080x1080/T2W6Dhpu_gMoxVTM.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/kevin_t_ngo/status/2119938129079808282">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/kevin-t-ngo-2119938129079808282.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119923123092893696/vid/avc1/720x1280/M2J_aC5567oGoPEu.mp4?tag=14"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/osmanaga-146194.webp" alt="『叫び』の物語を短編で — @osmanaga__" width="100%" loading="lazy"></a><br>
 <b>『叫び』の物語を短編で</b><br>
@@ -212,6 +219,8 @@
 <a href="https://video.twimg.com/amplify_video/2119910396719177728/vid/avc1/1280x720/0X1wTe1JivqZgtXw.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/WesRoth/status/2119911161386934330">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/wesroth-934330.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119909698367557632/vid/avc1/1920x1080/EkOxfDMK1PSG_XOD.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kloss-xyz-2119910613828980846.webp" alt="Fable 5.2が企画しOpus 5.5が制作したBlender短編 — @kloss_xyz" width="100%" loading="lazy"></a><br>
 <b>Fable 5.2が企画しOpus 5.5が制作したBlender短編</b><br>
@@ -219,8 +228,6 @@
 <a href="https://video.twimg.com/amplify_video/2119909698367557632/vid/avc1/1920x1080/EkOxfDMK1PSG_XOD.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/kloss_xyz/status/2119910613828980846">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/kloss-xyz-2119910613828980846.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119904158409256960/vid/avc1/1920x1080/FHiVbLKGnw5mFlJ7.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/engmoelgaraihy-643141.webp" alt="猫が古いロボットをよみがえらせる — @EngMoElgaraihy" width="100%" loading="lazy"></a><br>
 <b>猫が古いロボットをよみがえらせる</b><br>
@@ -235,6 +242,8 @@
 <a href="https://video.twimg.com/amplify_video/2119904119569690624/vid/avc1/1080x1920/24p1AimqIbXNXJ-Z.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/cube__lol/status/2119904449556832554">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/cube-lol-832554.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119904334397792256/vid/avc1/1920x1080/Sz-4m8aagrACSa85.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/g-beyrouti-780943.webp" alt="コードで描く深海ダイビング — @g_beyrouti" width="100%" loading="lazy"></a><br>
 <b>コードで描く深海ダイビング</b><br>
@@ -242,8 +251,6 @@
 <a href="https://video.twimg.com/amplify_video/2119904334397792256/vid/avc1/1920x1080/Sz-4m8aagrACSa85.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/g_beyrouti/status/2119904386826780943">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/g-beyrouti-780943.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119900741783400450/vid/avc1/1920x1080/m--vaF5s-VQhaEAL.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/0kncn-543073.webp" alt="蒸気機関車のアニメ短編 — @0kncn" width="100%" loading="lazy"></a><br>
 <b>蒸気機関車のアニメ短編</b><br>
@@ -258,6 +265,8 @@
 <a href="https://video.twimg.com/amplify_video/2119899951345893376/vid/avc1/1920x1080/YjLMjLxfThe6MUXI.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/noisyb0y1/status/2119900528197218472">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/noisyb0y1-218472.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119897357940621312/vid/avc1/1920x1080/ZjoaXFviS7F_qc-m.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/yinyangyoeshi-001317.webp" alt="Discovery：Three.jsの短編 — @YinYangYoeshi" width="100%" loading="lazy"></a><br>
 <b>Discovery：Three.jsの短編</b><br>
@@ -265,8 +274,6 @@
 <a href="https://video.twimg.com/amplify_video/2119897357940621312/vid/avc1/1920x1080/ZjoaXFviS7F_qc-m.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/YinYangYoeshi/status/2119897840965001317">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/yinyangyoeshi-001317.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119895450509586432/vid/avc1/1920x1080/AS5GlEaPMeHXKU5d.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/jessalanfields-392730.webp" alt="見たことのない海 — @jessalanfields" width="100%" loading="lazy"></a><br>
 <b>見たことのない海</b><br>
@@ -281,6 +288,8 @@
 <a href="https://video.twimg.com/amplify_video/2119892377045237760/vid/avc1/1920x1080/u8IeGB-A3MQgl4XE.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/devteamdrew/status/2119892540950241283">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/devteamdrew-241283.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119889346706673664/vid/avc1/1920x1080/VxlTVaaElWO17W42.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/marvellousdev-380563.webp" alt="灯台守の短編映像 — @MarvellousDev" width="100%" loading="lazy"></a><br>
 <b>灯台守の短編映像</b><br>
@@ -288,8 +297,6 @@
 <a href="https://video.twimg.com/amplify_video/2119889346706673664/vid/avc1/1920x1080/VxlTVaaElWO17W42.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/MarvellousDev/status/2119889511333380563">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/marvellousdev-380563.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119887881321787392/vid/avc1/1920x1080/zPvL0-S5VSv6SkYI.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ponken00-622656.webp" alt="気軽なプロンプトから生まれた映画 — @ponken00" width="100%" loading="lazy"></a><br>
 <b>気軽なプロンプトから生まれた映画</b><br>
@@ -304,6 +311,8 @@
 <a href="https://video.twimg.com/ext_tw_video/2119885702250786816/pu/vid/avc1/1280x720/vaqq1fwB8qUuFlPu.mp4?tag=27">▶ 本編</a> · <a href="https://x.com/peach2k2/status/2119885741773738033">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/peach2k2-738033.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119880037172146176/vid/avc1/1920x1080/E4G1BysAeWIl4yTX.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/lexnlin-977333.webp" alt="生きた世界を飛び抜ける — @LexnLin" width="100%" loading="lazy"></a><br>
 <b>生きた世界を飛び抜ける</b><br>
@@ -311,8 +320,6 @@
 <a href="https://video.twimg.com/amplify_video/2119880037172146176/vid/avc1/1920x1080/E4G1BysAeWIl4yTX.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/LexnLin/status/2119880654858977333">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/lexnlin-977333.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119874130904502272/vid/avc1/1920x1080/FVx09qWfu11d8QIK.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/abhinavflac-676827.webp" alt="天国へのドライブ — @abhinavflac" width="100%" loading="lazy"></a><br>
 <b>天国へのドライブ</b><br>
@@ -321,18 +328,24 @@
 
 </td>
 <td width="33%"></td>
-<td width="33%"></td>
 </tr>
 </table>
 
 <a id="motion"></a>
 
-## モーションデザインとアニメーション · 49
+## モーションデザインとアニメーション · 51
 
 動く文字、粒子、ジェネラティブアート、SVGと映像実験。
 
 <table>
 <tr>
+<td width="33%" valign="top">
+<a href="https://video.twimg.com/amplify_video/2121164591338233856/vid/avc1/720x720/VurXACOWrxBzWYhS.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/seiiiiiiiiiiru-2121164955080917176.webp" alt="Blenderのモーションキャプチャテストで動くウサギ — @seiiiiiiiiiiru" width="100%" loading="lazy"></a><br>
+<b>Blenderのモーションキャプチャテストで動くウサギ</b><br>
+<sub><b>新しい発見</b> · <a href="https://x.com/seiiiiiiiiiiru">@seiiiiiiiiiiru</a> · 0:10 · 2026-11-13</sub><br>
+<a href="https://video.twimg.com/amplify_video/2121164591338233856/vid/avc1/720x720/VurXACOWrxBzWYhS.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/seiiiiiiiiiiru/status/2121164955080917176">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/seiiiiiiiiiiru-2121164955080917176.md">詳細</a>
+
+</td>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120622616344219648/vid/avc1/1920x1080/YQkggnwdUXqipVTR.mp4?tag=16"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/husky-create-2120622644362199182.webp" alt="手描きのオオカミが飛び出す3Dオープニング — @husky__create" width="100%" loading="lazy"></a><br>
 <b>手描きのオオカミが飛び出す3Dオープニング</b><br>
@@ -347,6 +360,8 @@
 <a href="https://video.twimg.com/amplify_video/2120540485764927488/vid/avc1/1920x1080/xC8eOMGaTeccgQUH.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/kevin_t_ngo/status/2120540964909711415">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/kevin-t-ngo-2120540964909711415.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120503595762376704/vid/avc1/1920x1080/HyUCUZvRzYJDKtca.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/onofumi-ai-2120503860141912399.webp" alt="モニターから飛び出した粒子がロゴになる — @onofumi_AI" width="100%" loading="lazy"></a><br>
 <b>モニターから飛び出した粒子がロゴになる</b><br>
@@ -354,8 +369,13 @@
 <a href="https://video.twimg.com/amplify_video/2120503595762376704/vid/avc1/1920x1080/HyUCUZvRzYJDKtca.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/onofumi_AI/status/2120503860141912399">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/onofumi-ai-2120503860141912399.md">詳細</a>
 
 </td>
-</tr>
-<tr>
+<td width="33%" valign="top">
+<a href="https://video.twimg.com/amplify_video/2120473115025088512/vid/avc1/1080x1350/smQxijj1Yis_3zAa.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/mrtacticalx-2120473175158849884.webp" alt="下描きから水面の反射まで描くスイスの湖 — @MrTacticalX" width="100%" loading="lazy"></a><br>
+<b>下描きから水面の反射まで描くスイスの湖</b><br>
+<sub><b>新しい発見</b> · <a href="https://x.com/MrTacticalX">@MrTacticalX</a> · 1:00 · 2026-11-11</sub><br>
+<a href="https://video.twimg.com/amplify_video/2120473115025088512/vid/avc1/1080x1350/smQxijj1Yis_3zAa.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/MrTacticalX/status/2120473175158849884">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/mrtacticalx-2120473175158849884.md">詳細</a>
+
+</td>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120464110202900480/vid/avc1/3024x1660/PfVYLxXQxA7sYUuB.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/chetaslua-2120464199096885739.webp" alt="JavaScriptで筆跡を重ねる『モナ・リザ』 — @chetaslua" width="100%" loading="lazy"></a><br>
 <b>JavaScriptで筆跡を重ねる『モナ・リザ』</b><br>
@@ -363,6 +383,8 @@
 <a href="https://video.twimg.com/amplify_video/2120464110202900480/vid/avc1/3024x1660/PfVYLxXQxA7sYUuB.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/chetaslua/status/2120464199096885739">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/chetaslua-2120464199096885739.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120351414333702144/vid/avc1/1280x720/lGFLjUkfH9l6tKgu.mp4?tag=14"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/noteka114514-2120351467815285224.webp" alt="光の粒子が3つの言葉になる — @noteka114514" width="100%" loading="lazy"></a><br>
 <b>光の粒子が3つの言葉になる</b><br>
@@ -377,8 +399,6 @@
 <a href="https://video.twimg.com/amplify_video/2120343763776421888/vid/avc1/2228x1236/yG-wohfFEEEsZ2I0.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/vctbtc/status/2120344162730123733">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/vctbtc-2120344162730123733.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120338753483116545/vid/avc1/1920x1080/vwT-IL1rNLXlVyYb.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/onofumi-ai-2120338831245471779.webp" alt="市松模様のトランジションを使った文字アニメーション — @onofumi_AI" width="100%" loading="lazy"></a><br>
 <b>市松模様のトランジションを使った文字アニメーション</b><br>
@@ -386,6 +406,8 @@
 <a href="https://video.twimg.com/amplify_video/2120338753483116545/vid/avc1/1920x1080/vwT-IL1rNLXlVyYb.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/onofumi_AI/status/2120338831245471779">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/onofumi-ai-2120338831245471779.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120230145994694656/vid/avc1/1080x1920/ikcB__RdST1QlByH.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/iamwesleysmits-2120230414568599912.webp" alt="AIがソフトウェア開発の乗っ取りを宣言する映像 — @iamwesleysmits" width="100%" loading="lazy"></a><br>
 <b>AIがソフトウェア開発の乗っ取りを宣言する映像</b><br>
@@ -400,8 +422,6 @@
 <a href="https://video.twimg.com/amplify_video/2120171639031865344/vid/avc1/1920x1080/ePpeMCdemHzHeXby.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/argofowl/status/2120172009972003115">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/argofowl-2120172009972003115.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120167523039518720/vid/avc1/2560x1440/1zRebOXK7I92mAvT.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/lexnlin-2120167637133238295.webp" alt="本が折りたたまれてClaudeのロゴになる映像 — @LexnLin" width="100%" loading="lazy"></a><br>
 <b>本が折りたたまれてClaudeのロゴになる映像</b><br>
@@ -409,6 +429,8 @@
 <a href="https://video.twimg.com/amplify_video/2120167523039518720/vid/avc1/2560x1440/1zRebOXK7I92mAvT.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/LexnLin/status/2120167637133238295">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/lexnlin-2120167637133238295.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120131882973270017/vid/avc1/1920x1080/nnzs4x3Nt9BJIO1e.mp4?tag=16"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/husky-create-2120131960349802957.webp" alt="Fable 5.2が色彩豊かなモーション映像で能力を紹介 — @husky__create" width="100%" loading="lazy"></a><br>
 <b>Fable 5.2が色彩豊かなモーション映像で能力を紹介</b><br>
@@ -423,8 +445,6 @@
 <a href="https://video.twimg.com/amplify_video/2120127355821948928/vid/avc1/1048x720/YvT2SPzL_LdlCRo4.mp4?tag=14">▶ 本編</a> · <a href="https://x.com/Nakachan/status/2120127995625316511">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/nakachan-2120127995625316511.md">詳細</a>
 <details><summary>📝 プロンプトを見る</summary><blockquote>Fable 5.2の考える最強のメガデモを作って</blockquote><p><a href="https://x.com/Nakachan/status/2120127995625316511">作者の公開プロンプトを読む</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120112581515829248/vid/avc1/2304x1440/FuMsMyEM4q9Lj-I7.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/maxt3chno-2120113578531234172.webp" alt="参考動画からBlenderで動かすTripo製キャラクター — @maxt3chno" width="100%" loading="lazy"></a><br>
 <b>参考動画からBlenderで動かすTripo製キャラクター</b><br>
@@ -432,6 +452,8 @@
 <a href="https://video.twimg.com/amplify_video/2120112581515829248/vid/avc1/2304x1440/FuMsMyEM4q9Lj-I7.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/maxt3chno/status/2120113578531234172">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/maxt3chno-2120113578531234172.md">詳細</a>
 <details><summary>📝 プロンプトを見る</summary><p>作者が下記のリンクでプロンプトを公開しています。参考素材や追加指示と合わせて元の文脈を確認してください。</p><p><a href="https://x.com/maxt3chno/status/2120116202559217812">作者の公開プロンプトを読む</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120101415309963264/vid/avc1/1920x1080/oD3qIv_KNpscxPqn.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/su-nagomi-2120104480557642091.webp" alt="フラクタル・流体・粒子をコードで描いた映像 — @su_nagomi" width="100%" loading="lazy"></a><br>
 <b>フラクタル・流体・粒子をコードで描いた映像</b><br>
@@ -446,8 +468,6 @@
 <a href="https://video.twimg.com/amplify_video/2120030599155195904/vid/avc1/1128x1280/gg7e4hW5e7l_HZcs.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/akakuma0219/status/2120030634248929556">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/akakuma0219-2120030634248929556.md">詳細</a>
 <details><summary>📝 プロンプトを見る</summary><p>作者が下記のリンクでプロンプトを公開しています。参考素材や追加指示と合わせて元の文脈を確認してください。</p><p><a href="https://x.com/akakuma0219/status/2120030634248929556">作者の公開プロンプトを読む</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119979706703593472/vid/avc1/1920x1080/VkiOtr16fvkfXibk.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/onofumi-ai-2119979764895330453.webp" alt="完成映像とリグを並べたロボットハンド — @onofumi_AI" width="100%" loading="lazy"></a><br>
 <b>完成映像とリグを並べたロボットハンド</b><br>
@@ -455,6 +475,8 @@
 <a href="https://video.twimg.com/amplify_video/2119979706703593472/vid/avc1/1920x1080/VkiOtr16fvkfXibk.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/onofumi_AI/status/2119979764895330453">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/onofumi-ai-2119979764895330453.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119953670280478720/vid/avc1/1920x1080/jpEsi7C-DU6eEvmL.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/leviwoyun-2119955625820258308.webp" alt="モーションデザイナーのポートフォリオ映像 — @Leviwoyun" width="100%" loading="lazy"></a><br>
 <b>モーションデザイナーのポートフォリオ映像</b><br>
@@ -469,8 +491,6 @@
 <a href="https://video.twimg.com/amplify_video/2119941109262815232/vid/avc1/1280x720/M2pIcNz3WNz2L3_c.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/muku_sns/status/2119941490969624679">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/muku-sns-2119941490969624679.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119909898960130048/vid/avc1/1440x1080/frJSbqPklB--YVmT.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/higgsfield-ai-580024.webp" alt="フレーム単位で同期するリップシンク — @higgsfield_ai" width="100%" loading="lazy"></a><br>
 <b>フレーム単位で同期するリップシンク</b><br>
@@ -478,6 +498,8 @@
 <a href="https://video.twimg.com/amplify_video/2119909898960130048/vid/avc1/1440x1080/frJSbqPklB--YVmT.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/higgsfield_ai/status/2119909938969580024">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/higgsfield-ai-580024.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119906292542459904/vid/avc1/1920x1080/hSTBPKQjjpo8EiKA.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/higgsfield-ai-957629.webp" alt="コードを話させるフォルマント合成 — @higgsfield_ai" width="100%" loading="lazy"></a><br>
 <b>コードを話させるフォルマント合成</b><br>
@@ -492,8 +514,6 @@
 <a href="https://video.twimg.com/amplify_video/2119903274031828992/vid/avc1/1920x1080/NG1jRcBKfR-B1SsJ.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/kaif9998/status/2119903824848761287">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/kaif9998-761287.md">詳細</a>
 <details><summary>📝 プロンプトを見る</summary><p>作者が下記のリンクでプロンプトを公開しています。参考素材や追加指示と合わせて元の文脈を確認してください。</p><p><a href="https://x.com/kaif9998/status/2119904086288118219">作者の公開プロンプトを読む</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119902893394337792/vid/avc1/1440x748/Qs1TOP9hXZf08Xkl.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/internetphysics-313778.webp" alt="一筆ずつ描かれる肖像画 — @internetphysics" width="100%" loading="lazy"></a><br>
 <b>一筆ずつ描かれる肖像画</b><br>
@@ -501,6 +521,8 @@
 <a href="https://video.twimg.com/amplify_video/2119902893394337792/vid/avc1/1440x748/Qs1TOP9hXZf08Xkl.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/internetphysics/status/2119903808935313778">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/internetphysics-313778.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119902252723023872/vid/avc1/1920x1080/p0Q91YuD0ECQfDLv.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/heypearlai-113116.webp" alt="共有プロンプトから生まれたリール — @heypearlai" width="100%" loading="lazy"></a><br>
 <b>共有プロンプトから生まれたリール</b><br>
@@ -515,8 +537,6 @@
 <a href="https://video.twimg.com/amplify_video/2119903258588086272/vid/avc1/1808x1722/-oRMSGBL9FaVhUCA.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/JBabaTalks/status/2119903489270694319">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/jbabatalks-694319.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119902402643890177/vid/avc1/1920x918/dO0GyuVK6-YhKfS9.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/leoy-dev-922853.webp" alt="動きが詰まった小さな惑星 — @leoy_dev" width="100%" loading="lazy"></a><br>
 <b>動きが詰まった小さな惑星</b><br>
@@ -524,6 +544,8 @@
 <a href="https://video.twimg.com/amplify_video/2119902402643890177/vid/avc1/1920x918/dO0GyuVK6-YhKfS9.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/leoy_dev/status/2119903166149922853">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/leoy-dev-922853.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119900235761688576/vid/avc1/1080x1080/cejGINOI5PNwIMrQ.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/eluchocha-635455.webp" alt="切り絵で描く日の出 — @eluchocha" width="100%" loading="lazy"></a><br>
 <b>切り絵で描く日の出</b><br>
@@ -538,8 +560,6 @@
 <a href="https://video.twimg.com/amplify_video/2119901144256299009/vid/avc1/1080x1080/5idfS03gAdRsJT3k.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/ici_dab/status/2119901910237098351">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/ici-dab-098351.md">詳細</a>
 <details><summary>📝 プロンプトを見る</summary><p>作者が下記のリンクでプロンプトを公開しています。参考素材や追加指示と合わせて元の文脈を確認してください。</p><p><a href="https://x.com/ici_dab/status/2119902189271605579">作者の公開プロンプトを読む</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119899709913579520/vid/avc1/1920x1080/3p4USJ7fdJfCsE8Y.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/techfren-539056.webp" alt="単純なルールが生む複雑な美 — @techfren" width="100%" loading="lazy"></a><br>
 <b>単純なルールが生む複雑な美</b><br>
@@ -547,6 +567,8 @@
 <a href="https://video.twimg.com/amplify_video/2119899709913579520/vid/avc1/1920x1080/3p4USJ7fdJfCsE8Y.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/techfren/status/2119899949756539056">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/techfren-539056.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119898688180850688/vid/avc1/1600x1200/iBBPAJliWGeytp-Y.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/eyadnour-910886.webp" alt="自転車のペリカンを一枚のSVGで — @eyadnour" width="100%" loading="lazy"></a><br>
 <b>自転車のペリカンを一枚のSVGで</b><br>
@@ -561,8 +583,6 @@
 <a href="https://video.twimg.com/amplify_video/2119894212145778688/vid/avc1/1920x1080/nsF2E4hVVA0HQ4Uu.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/sverma_231/status/2119894332656570708">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/sverma-231-570708.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119893599638675457/vid/avc1/1280x1600/iClzByVh2DZ-9UoK.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/danielzambrini-2119893834276507954.webp" alt="2つのClaudeモデルで比べる棒人間の決闘 — @DanielZambrini" width="100%" loading="lazy"></a><br>
 <b>2つのClaudeモデルで比べる棒人間の決闘</b><br>
@@ -570,6 +590,8 @@
 <a href="https://video.twimg.com/amplify_video/2119893599638675457/vid/avc1/1280x1600/iClzByVh2DZ-9UoK.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/DanielZambrini/status/2119893834276507954">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/danielzambrini-2119893834276507954.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119892925077143552/vid/avc1/1920x1080/SEaLFBXtc8dukb55.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/benjistacked-849805.webp" alt="テスト中だと気づくペリカン — @benjistacked" width="100%" loading="lazy"></a><br>
 <b>テスト中だと気づくペリカン</b><br>
@@ -584,8 +606,6 @@
 <a href="https://video.twimg.com/amplify_video/2119889498527969281/vid/avc1/960x540/EqG79zEwj6BDTrPE.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/mattshumer_/status/2119889518564147409">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/mattshumer-147409.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119889199935447041/vid/avc1/2048x2048/TrgMbHC6HoEL8LT9.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/dummerspast39-432389.webp" alt="ペリカンと自転車とゲームコントローラー — @dummerspast39" width="100%" loading="lazy"></a><br>
 <b>ペリカンと自転車とゲームコントローラー</b><br>
@@ -593,6 +613,8 @@
 <a href="https://video.twimg.com/amplify_video/2119889199935447041/vid/avc1/2048x2048/TrgMbHC6HoEL8LT9.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/dummerspast39/status/2119889279740432389">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/dummerspast39-432389.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/titouangillet-131093.md"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/titouangillet-131093.webp" alt="8分で作るモーションデザイン映像 — @titouangillet_" width="100%" loading="lazy"></a><br>
 <b>8分で作るモーションデザイン映像</b><br>
@@ -607,8 +629,6 @@
 <a href="https://video.twimg.com/amplify_video/2119884897305190402/vid/avc1/1920x1080/S18ZsHUYlSo8vdOU.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/Maaaaaaadiii/status/2119885527243714946">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/maaaaaaadiii-714946.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119884273071411200/vid/avc1/1280x720/DwN1eSgpBgK8Wpa6.mp4?tag=14"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/other-reality-913784.webp" alt="小さな魔法使いの発表映像 — @other__reality" width="100%" loading="lazy"></a><br>
 <b>小さな魔法使いの発表映像</b><br>
@@ -616,6 +636,8 @@
 <a href="https://video.twimg.com/amplify_video/2119884273071411200/vid/avc1/1280x720/DwN1eSgpBgK8Wpa6.mp4?tag=14">▶ 本編</a> · <a href="https://x.com/other__reality/status/2119885430627913784">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/other-reality-913784.md">詳細</a>
 <details><summary>📝 プロンプトを見る</summary><blockquote>Create an animated video of clawd creating and releasing Claude Fable 5.2</blockquote><p><a href="https://x.com/other__reality/status/2119885430627913784">作者の公開プロンプトを読む</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119884921611460608/vid/avc1/1920x1080/P5jqJNDpsShsC-ka.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/qroonjha-300593.webp" alt="空港の出発案内ボード — @QRoonjha" width="100%" loading="lazy"></a><br>
 <b>空港の出発案内ボード</b><br>
@@ -630,8 +652,6 @@
 <a href="https://video.twimg.com/amplify_video/2119884053226651648/vid/avc1/1920x1080/PTIheNUul9mU31Ay.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/jumperz/status/2119884258789757436">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/jumperz-757436.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119884052622876672/vid/avc1/1920x1080/cKq9zTwAltKH6RX3.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/abhinavflac-581980.webp" alt="動き出す自転車のペリカン — @abhinavflac" width="100%" loading="lazy"></a><br>
 <b>動き出す自転車のペリカン</b><br>
@@ -639,6 +659,8 @@
 <a href="https://video.twimg.com/amplify_video/2119884052622876672/vid/avc1/1920x1080/cKq9zTwAltKH6RX3.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/abhinavflac/status/2119884257145581980">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/abhinavflac-581980.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119883683788460032/vid/avc1/1920x1080/uhCV24iRRwiw6DZD.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/octuedit-397978.webp" alt="地球の軌道から始まる発表映像 — @octuedit" width="100%" loading="lazy"></a><br>
 <b>地球の軌道から始まる発表映像</b><br>
@@ -653,8 +675,6 @@
 元の投稿は利用不可 · <a href="https://x.com/immadiuttej/status/2119882515410538626">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/immadiuttej-538626.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119881783424827392/vid/avc1/720x1278/izAE8abvXqtU_pQN.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/aimi-teno-229421.webp" alt="印象派風ピクセルアートの川 — @aimi_teno" width="100%" loading="lazy"></a><br>
 <b>印象派風ピクセルアートの川</b><br>
@@ -662,6 +682,8 @@
 <a href="https://video.twimg.com/amplify_video/2119881783424827392/vid/avc1/720x1278/izAE8abvXqtU_pQN.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/aimi_teno/status/2119881949540229421">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/aimi-teno-229421.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119871816848084993/vid/avc1/3840x2160/KTr_-pLweRTaTs_F.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/dfeinition-859818.webp" alt="動き出すチョークの絵 — @dfeinition" width="100%" loading="lazy"></a><br>
 <b>動き出すチョークの絵</b><br>
@@ -676,8 +698,6 @@
 <a href="https://video.twimg.com/amplify_video/2119879938488811520/vid/avc1/3840x2160/0a9v9wYF2-6m0Ibf.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/octuedit/status/2119880089039171806">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/octuedit-171806.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119878913857888257/vid/avc1/1920x1080/ydaWAIBjAaoGY3Ei.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/dariuusnv-329192.webp" alt="自分についての10秒アニメーション — @dariuusnv" width="100%" loading="lazy"></a><br>
 <b>自分についての10秒アニメーション</b><br>
@@ -685,6 +705,8 @@
 <a href="https://video.twimg.com/amplify_video/2119878913857888257/vid/avc1/1920x1080/ydaWAIBjAaoGY3Ei.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/dariuusnv/status/2119878952588329192">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/dariuusnv-329192.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119871818400231424/vid/avc1/1920x1080/18OA01YaRqLibwCV.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/seanaiux-240526.webp" alt="マニフェストを綴るキーボード — @seanaiux" width="100%" loading="lazy"></a><br>
 <b>マニフェストを綴るキーボード</b><br>
@@ -699,8 +721,6 @@
 <a href="https://video.twimg.com/amplify_video/2119876092433510400/vid/avc1/1920x1080/FdZgIOU9olLEHOKV.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/josendev/status/2119876164051243409">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/josendev-243409.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119875459819450368/vid/avc1/1160x1200/m_1yxd9t-C37pVN-.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/devsvn2-070289.webp" alt="一筆ずつ描かれる肖像 — @devsvn2" width="100%" loading="lazy"></a><br>
 <b>一筆ずつ描かれる肖像</b><br>
@@ -708,23 +728,28 @@
 <a href="https://video.twimg.com/amplify_video/2119875459819450368/vid/avc1/1160x1200/m_1yxd9t-C37pVN-.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/devsvn2/status/2119875516216070289">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/devsvn2-070289.md">詳細</a>
 
 </td>
-<td width="33%"></td>
-<td width="33%"></td>
 </tr>
 </table>
 
 <a id="3d"></a>
 
-## 3Dの世界とシミュレーション · 93
+## 3Dの世界とシミュレーション · 94
 
 プロシージャルな世界、仮想都市、Blenderの場面、物理シミュレーション。
 
 <table>
 <tr>
 <td width="33%" valign="top">
+<a href="https://video.twimg.com/amplify_video/2121159877590708224/vid/avc1/1920x1080/fRTsNzF7PlWrAQ--.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/onofumi-ai-2121160008469778675.webp" alt="ガウシアンスプラッティングと3D素材を組み合わせた森のキャンピングカー — @onofumi_AI" width="100%" loading="lazy"></a><br>
+<b>ガウシアンスプラッティングと3D素材を組み合わせた森のキャンピングカー</b><br>
+<sub><b>新しい発見</b> · <a href="https://x.com/onofumi_AI">@onofumi_AI</a> · 0:23 · 2026-11-13</sub><br>
+<a href="https://video.twimg.com/amplify_video/2121159877590708224/vid/avc1/1920x1080/fRTsNzF7PlWrAQ--.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/onofumi_AI/status/2121160008469778675">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/onofumi-ai-2121160008469778675.md">詳細</a>
+
+</td>
+<td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2121097408348078080/vid/avc1/1080x1080/pItof1FZpm6_WoHd.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/imjustnewatai-2121097470373511184.webp" alt="二連トレーラーの後退を学ぶシミュレーション — @imjustnewatai" width="100%" loading="lazy"></a><br>
 <b>二連トレーラーの後退を学ぶシミュレーション</b><br>
-<sub><b>↗ 注目上昇</b> · <a href="https://x.com/imjustnewatai">@imjustnewatai</a> · 1:32 · 2026-11-13</sub><br>
+<sub><b>新しい発見</b> · <a href="https://x.com/imjustnewatai">@imjustnewatai</a> · 1:32 · 2026-11-13</sub><br>
 <a href="https://video.twimg.com/amplify_video/2121097408348078080/vid/avc1/1080x1080/pItof1FZpm6_WoHd.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/imjustnewatai/status/2121097470373511184">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/imjustnewatai-2121097470373511184.md">詳細</a>
 
 </td>
@@ -735,6 +760,8 @@
 <a href="https://video.twimg.com/amplify_video/2120975845300879360/vid/avc1/3840x2160/aUvUHaQSajvWcVJf.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/scottstts/status/2120977157396533678">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/scottstts-2120977157396533678.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120909338009370624/vid/avc1/1332x752/dq-euZULQItG3ci3.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/hajimetwi3-2120910386614690098.webp" alt="参考画像から作ったVRMアバター — @hajimetwi3" width="100%" loading="lazy"></a><br>
 <b>参考画像から作ったVRMアバター</b><br>
@@ -742,8 +769,6 @@
 <a href="https://video.twimg.com/amplify_video/2120909338009370624/vid/avc1/1332x752/dq-euZULQItG3ci3.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/hajimetwi3/status/2120910386614690098">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/hajimetwi3-2120910386614690098.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120905300781694977/vid/avc1/3840x2160/id9V3ukBWga8hIl-.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/scottstts-2120907123357851697.webp" alt="手続き生成で作った崖の家『Arcadia』 — @scottstts" width="100%" loading="lazy"></a><br>
 <b>手続き生成で作った崖の家『Arcadia』</b><br>
@@ -758,6 +783,8 @@
 <a href="https://video.twimg.com/amplify_video/2120735773737558016/vid/avc1/1920x1080/sJp2l7Rcm0PCGphv.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/loktar00/status/2120905457380507991">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/loktar00-2120905457380507991.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120842640656642048/vid/avc1/1080x1350/FQ9QjhiAQKuKCDWV.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/mrtacticalx-2120842705395966254.webp" alt="ミニチュアの街を走るブロック製スーパーカー — @MrTacticalX" width="100%" loading="lazy"></a><br>
 <b>ミニチュアの街を走るブロック製スーパーカー</b><br>
@@ -765,8 +792,6 @@
 <a href="https://video.twimg.com/amplify_video/2120842640656642048/vid/avc1/1080x1350/FQ9QjhiAQKuKCDWV.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/MrTacticalX/status/2120842705395966254">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/mrtacticalx-2120842705395966254.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120756185255280640/vid/avc1/1920x1080/cyqR1cP_m0o4kK5p.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kanaworks-ai-2120756625699143977.webp" alt="草の葉から軌道まで途切れず飛ぶ映像 — @KanaWorks_AI" width="100%" loading="lazy"></a><br>
 <b>草の葉から軌道まで途切れず飛ぶ映像</b><br>
@@ -781,6 +806,8 @@
 <a href="https://video.twimg.com/amplify_video/2120695261080997888/vid/avc1/1920x1080/Kxjgtlp4UUvIqjQ_.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/imjustnewatai/status/2120695368874631226">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/imjustnewatai-2120695368874631226.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120693488123871232/vid/avc1/2560x1440/qE95X-Mwerms3yXv.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/blendibyl-2120694003230560585.webp" alt="空の色が変わる絵画風の谷を歩く — @BlendiByl" width="100%" loading="lazy"></a><br>
 <b>空の色が変わる絵画風の谷を歩く</b><br>
@@ -788,12 +815,10 @@
 <a href="https://video.twimg.com/amplify_video/2120693488123871232/vid/avc1/2560x1440/qE95X-Mwerms3yXv.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/BlendiByl/status/2120694003230560585">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/blendibyl-2120694003230560585.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120675630282911744/vid/avc1/1920x1080/X2zBSZVT9empWwwq.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/calebfahlgren-2120680918914601165.webp" alt="二階建ての家を一人称視点で歩く — @calebfahlgren" width="100%" loading="lazy"></a><br>
 <b>二階建ての家を一人称視点で歩く</b><br>
-<sub><b>新しい発見</b> · <a href="https://x.com/calebfahlgren">@calebfahlgren</a> · 0:44 · 2026-11-12</sub><br>
+<sub><b>↗ 注目上昇</b> · <a href="https://x.com/calebfahlgren">@calebfahlgren</a> · 0:44 · 2026-11-12</sub><br>
 <a href="https://video.twimg.com/amplify_video/2120675630282911744/vid/avc1/1920x1080/X2zBSZVT9empWwwq.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/calebfahlgren/status/2120680918914601165">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/calebfahlgren-2120680918914601165.md">詳細</a>
 <details><summary>📝 プロンプトを見る</summary><p>作者が下記のリンクでプロンプトを公開しています。参考素材や追加指示と合わせて元の文脈を確認してください。</p><p><a href="https://x.com/calebfahlgren/status/2120680922336862315">作者の公開プロンプトを読む</a></p></details>
 </td>
@@ -804,6 +829,8 @@
 <a href="https://video.twimg.com/amplify_video/2120653467043667968/vid/avc1/1920x1080/hy2Hk_wMUEO0YT1V.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/loktar00/status/2120653702843277359">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/loktar00-2120653702843277359.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120425125900328960/vid/avc1/1168x2248/ewBXgYEXri_Y_wGA.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/excel-niisan-2120425260889817476.webp" alt="歩いて回れる横浜みなとみらいの3Dシーン — @excel_niisan" width="100%" loading="lazy"></a><br>
 <b>歩いて回れる横浜みなとみらいの3Dシーン</b><br>
@@ -811,8 +838,6 @@
 <a href="https://video.twimg.com/amplify_video/2120425125900328960/vid/avc1/1168x2248/ewBXgYEXri_Y_wGA.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/excel_niisan/status/2120425260889817476">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/excel-niisan-2120425260889817476.md">詳細</a>
 <details><summary>📝 プロンプトを見る</summary><blockquote>横浜みなとみらいの3D空間を作って</blockquote><p><a href="https://x.com/excel_niisan/status/2120425260889817476">作者の公開プロンプトを読む</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120314560297021440/vid/avc1/3840x2160/7HGk23L88dFl3nSk.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/sin-ceriously-2120318808216981986.webp" alt="Latticeで作るビー玉の連鎖装置 — @sin_ceriously" width="100%" loading="lazy"></a><br>
 <b>Latticeで作るビー玉の連鎖装置</b><br>
@@ -827,6 +852,8 @@
 <a href="https://video.twimg.com/amplify_video/2120315007900819456/vid/avc1/1920x1080/GZkLFadi9AtkYzAJ.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/MengTo/status/2120316203738829180">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/mengto-2120316203738829180.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120274361063964672/vid/avc1/2208x1232/MGymGTy2uK8ZYX4z.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/jpschroeder-2120274979614851145.webp" alt="秋の禅庭を歩く — @jpschroeder" width="100%" loading="lazy"></a><br>
 <b>秋の禅庭を歩く</b><br>
@@ -834,8 +861,6 @@
 <a href="https://video.twimg.com/amplify_video/2120274361063964672/vid/avc1/2208x1232/MGymGTy2uK8ZYX4z.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/jpschroeder/status/2120274979614851145">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/jpschroeder-2120274979614851145.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120267796810473472/vid/avc1/1920x1080/KSmjuhKzCxmnfnXo.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/0xapexai-2120268733360779645.webp" alt="Tripo素材から始めるBlenderキャラクターリグ比較 — @0xApexAi" width="100%" loading="lazy"></a><br>
 <b>Tripo素材から始めるBlenderキャラクターリグ比較</b><br>
@@ -850,6 +875,8 @@
 <a href="https://video.twimg.com/amplify_video/2120266429807083520/vid/avc1/1280x536/cqqPa-Wwvx0eJotG.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/itsluneri/status/2120266583826182317">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/itsluneri-2120266583826182317.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120265385471574016/vid/avc1/1920x1080/fIfzIciKght3vPN5.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/oalanicolas-2120266468780585456.webp" alt="間取り図と写真から作る住宅の3Dツアー — @oalanicolas" width="100%" loading="lazy"></a><br>
 <b>間取り図と写真から作る住宅の3Dツアー</b><br>
@@ -857,8 +884,6 @@
 <a href="https://video.twimg.com/amplify_video/2120265385471574016/vid/avc1/1920x1080/fIfzIciKght3vPN5.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/oalanicolas/status/2120266468780585456">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/oalanicolas-2120266468780585456.md">詳細</a>
 <details><summary>📝 プロンプトを見る</summary><p>作者が下記のリンクでプロンプトを公開しています。参考素材や追加指示と合わせて元の文脈を確認してください。</p><p><a href="https://x.com/oalanicolas/status/2120266474950389779">作者の公開プロンプトを読む</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120245103516364800/vid/avc1/758x714/qnjU8gDkvq3f7_-K.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/hajimetwi3-2120245907115651521.webp" alt="暗闇に灯るThree.jsのたき火 — @hajimetwi3" width="100%" loading="lazy"></a><br>
 <b>暗闇に灯るThree.jsのたき火</b><br>
@@ -873,6 +898,8 @@
 <a href="https://video.twimg.com/amplify_video/2120239272632446976/vid/avc1/3840x2160/cCVjSrAMmLTwHIcZ.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/aecyydesign/status/2120239401821487149">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/aecyydesign-2120239401821487149.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120225991066779648/vid/avc1/3840x2160/4z8saQVTMhPUC8Cw.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/tornikegomareli-2120227696261120225.webp" alt="緑に光る雨の街を飛ぶ — @tornikegomareli" width="100%" loading="lazy"></a><br>
 <b>緑に光る雨の街を飛ぶ</b><br>
@@ -880,8 +907,6 @@
 <a href="https://video.twimg.com/amplify_video/2120225991066779648/vid/avc1/3840x2160/4z8saQVTMhPUC8Cw.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/tornikegomareli/status/2120227696261120225">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/tornikegomareli-2120227696261120225.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120113092512436224/vid/avc1/3380x2026/IoUOfTQR_hB4fWMx.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/jsnnsa-2120113469290901850.webp" alt="凹凸まで描く石畳の中庭 — @jsnnsa" width="100%" loading="lazy"></a><br>
 <b>凹凸まで描く石畳の中庭</b><br>
@@ -896,6 +921,8 @@
 <a href="https://video.twimg.com/amplify_video/2120104433254068225/vid/avc1/1920x1080/TwqTpSJ125nfAGeC.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/vib3coded/status/2120104517282775514">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/vib3coded-2120104517282775514.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120098419654230017/vid/avc1/1920x1080/oFLDhtXCqoMaEWyp.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kanaworks-ai-2120098607382880627.webp" alt="変わり続ける3D世界を切れ目なく飛ぶ — @KanaWorks_AI" width="100%" loading="lazy"></a><br>
 <b>変わり続ける3D世界を切れ目なく飛ぶ</b><br>
@@ -903,8 +930,6 @@
 <a href="https://video.twimg.com/amplify_video/2120098419654230017/vid/avc1/1920x1080/oFLDhtXCqoMaEWyp.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/KanaWorks_AI/status/2120098607382880627">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/kanaworks-ai-2120098607382880627.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120071508370640896/vid/avc1/3586x2160/cVxJQZsnnBLew_X_.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/adamdotnew-2120071630139621540.webp" alt="Adamたまごっち：基板・筐体・Blenderレンダリング — @adamdotnew" width="100%" loading="lazy"></a><br>
 <b>Adamたまごっち：基板・筐体・Blenderレンダリング</b><br>
@@ -919,6 +944,8 @@
 <a href="https://video.twimg.com/amplify_video/2120041080502771712/vid/avc1/1920x1080/Y6-SMkmCzqQY0R50.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/onofumi_AI/status/2120041161251569681">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/onofumi-ai-2120041161251569681.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119997805469343744/vid/avc1/1920x1080/k9AwH2MwZ_uq1Npk.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kanaworks-ai-2119998466143490282.webp" alt="ElevenLabsの音声を添えたBlenderの草原 — @KanaWorks_AI" width="100%" loading="lazy"></a><br>
 <b>ElevenLabsの音声を添えたBlenderの草原</b><br>
@@ -926,8 +953,6 @@
 <a href="https://video.twimg.com/amplify_video/2119997805469343744/vid/avc1/1920x1080/k9AwH2MwZ_uq1Npk.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/KanaWorks_AI/status/2119998466143490282">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/kanaworks-ai-2119998466143490282.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119949461199921152/vid/avc1/1920x1080/spFpZLaZvsrfqk5k.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/seiiiiiiiiiiru-2119988430247448847.webp" alt="平面イラストから3Dの銭湯へ — @seiiiiiiiiiiru" width="100%" loading="lazy"></a><br>
 <b>平面イラストから3Dの銭湯へ</b><br>
@@ -942,6 +967,8 @@
 <a href="https://video.twimg.com/amplify_video/2119965554627014656/vid/avc1/1920x1080/5kgrvrWg41_GG_7E.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/xikhar/status/2119966147328299284">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/xikhar-2119966147328299284.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119931613010108416/vid/avc1/1920x1080/ajuuqeO_AOInKjjo.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/loktar00-2119958719362666708.webp" alt="霧とアルパカのいる小さなマチュピチュ — @loktar00" width="100%" loading="lazy"></a><br>
 <b>霧とアルパカのいる小さなマチュピチュ</b><br>
@@ -949,8 +976,6 @@
 <a href="https://video.twimg.com/amplify_video/2119931613010108416/vid/avc1/1920x1080/ajuuqeO_AOInKjjo.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/loktar00/status/2119958719362666708">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/loktar00-2119958719362666708.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119955491941949440/vid/avc1/1080x1216/I1OZU6Yuz2YtpyCA.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/mrtacticalx-2119955647542542439.webp" alt="ガラスのプール：Fable 5.2とOpus 5.5を比較 — @MrTacticalX" width="100%" loading="lazy"></a><br>
 <b>ガラスのプール：Fable 5.2とOpus 5.5を比較</b><br>
@@ -965,6 +990,8 @@
 <a href="https://video.twimg.com/amplify_video/2119950297183166464/vid/avc1/1920x1080/Rlaw9k2rNAElPEi1.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/MaxXWilliamson/status/2119953172634677533">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/maxxwilliamson-2119953172634677533.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119930095406288896/vid/avc1/3456x1438/QrvS6vt8W2VY3Fld.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/deedydas-2119930300990177509.webp" alt="WebGLで描くリアルタイムの蜂蜜シミュレーション — @deedydas" width="100%" loading="lazy"></a><br>
 <b>WebGLで描くリアルタイムの蜂蜜シミュレーション</b><br>
@@ -972,8 +999,6 @@
 <a href="https://video.twimg.com/amplify_video/2119930095406288896/vid/avc1/3456x1438/QrvS6vt8W2VY3Fld.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/deedydas/status/2119930300990177509">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/deedydas-2119930300990177509.md">詳細</a>
 <details><summary>📝 プロンプトを見る</summary><blockquote>Can you write the most intricate photorealistic simulation of honey in WebGL in the browser</blockquote><p><a href="https://x.com/deedydas/status/2119930300990177509">作者の公開プロンプトを読む</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119915176354885632/vid/avc1/1920x1080/KKtYnQwg6iF7nZO0.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/higgsfield-ai-2119918834841010320.webp" alt="6つのショットで巡るボンベイの市場 — @higgsfield_ai" width="100%" loading="lazy"></a><br>
 <b>6つのショットで巡るボンベイの市場</b><br>
@@ -988,6 +1013,8 @@
 <a href="https://video.twimg.com/amplify_video/2119918430635626496/vid/avc1/1080x1210/P1HVkhM5lHbULv8J.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/higgsfield_ai/status/2119918838490010008">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/higgsfield-ai-2119918838490010008.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119910441837305856/vid/avc1/2300x1080/9Jjvi_wR23hStOua.mp4?tag=16"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/handsher-ngu-789655.webp" alt="渦巻銀河の中へ — @handsher_NGU" width="100%" loading="lazy"></a><br>
 <b>渦巻銀河の中へ</b><br>
@@ -995,8 +1022,6 @@
 <a href="https://video.twimg.com/amplify_video/2119910441837305856/vid/avc1/2300x1080/9Jjvi_wR23hStOua.mp4?tag=16">▶ 本編</a> · <a href="https://x.com/handsher_NGU/status/2119910478025789655">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/handsher-ngu-789655.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119909152743194624/vid/avc1/1920x1080/F_ZjzZnw1Sh-Mmb8.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/higgsfield-ai-912507.webp" alt="Three.jsで再現した1940年のパリ — @higgsfield_ai" width="100%" loading="lazy"></a><br>
 <b>Three.jsで再現した1940年のパリ</b><br>
@@ -1011,6 +1036,8 @@
 <a href="https://video.twimg.com/amplify_video/2119909700862943233/vid/avc1/1920x1080/FN2antQKJ-tZoIhH.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/Scratcherrrr/status/2119909780269785332">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/scratcherrrr-785332.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/ext_tw_video/2119909140998823936/pu/vid/avc1/1280x720/Le9VVnckc0pwI3QT.mp4?tag=12"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/s-matysik-213380.webp" alt="エージェントシステムの司令室 — @s_matysik" width="100%" loading="lazy"></a><br>
 <b>エージェントシステムの司令室</b><br>
@@ -1018,8 +1045,6 @@
 <a href="https://video.twimg.com/ext_tw_video/2119909140998823936/pu/vid/avc1/1280x720/Le9VVnckc0pwI3QT.mp4?tag=12">▶ 本編</a> · <a href="https://x.com/s_matysik/status/2119909371484213380">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/s-matysik-213380.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119908342663651330/vid/avc1/1920x1080/qPUbaNsET2HB1nmF.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/higgsfield-ai-342326.webp" alt="平面スケッチから立体の部屋へ — @higgsfield_ai" width="100%" loading="lazy"></a><br>
 <b>平面スケッチから立体の部屋へ</b><br>
@@ -1034,6 +1059,8 @@
 <a href="https://video.twimg.com/amplify_video/2119907568432934912/vid/avc1/1920x1080/eq_KAVRRnNt9sJcM.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/higgsfield_ai/status/2119907841599496421">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/higgsfield-ai-496421.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119907107449544704/vid/avc1/2880x2880/aQsdilYUcKwF_4Di.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/envoldev-2119907318729245180.webp" alt="氷の大聖堂：Fable 5.2とOpus 5.5を比較 — @EnvolDev" width="100%" loading="lazy"></a><br>
 <b>氷の大聖堂：Fable 5.2とOpus 5.5を比較</b><br>
@@ -1041,8 +1068,6 @@
 <a href="https://video.twimg.com/amplify_video/2119907107449544704/vid/avc1/2880x2880/aQsdilYUcKwF_4Di.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/EnvolDev/status/2119907318729245180">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/envoldev-2119907318729245180.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119906290478559232/vid/avc1/1880x1280/d1J65qUiPlX62ABY.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/luminabench-657696.webp" alt="細部まで作り込んだボクセルの塔 — @LuminaBench" width="100%" loading="lazy"></a><br>
 <b>細部まで作り込んだボクセルの塔</b><br>
@@ -1057,6 +1082,8 @@
 <a href="https://video.twimg.com/amplify_video/2119906227853602816/vid/avc1/1920x1080/N4YdoIeKUPkbvTzU.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/fuoeba/status/2119906486017307074">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/fuoeba-307074.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119905289743020032/vid/avc1/1920x1080/etz_eCYQ6b-Lj5MO.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/higgsfield-ai-945977.webp" alt="コードだけで作るメキシコシティの市場 — @higgsfield_ai" width="100%" loading="lazy"></a><br>
 <b>コードだけで作るメキシコシティの市場</b><br>
@@ -1064,8 +1091,6 @@
 <a href="https://video.twimg.com/amplify_video/2119905289743020032/vid/avc1/1920x1080/etz_eCYQ6b-Lj5MO.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/higgsfield_ai/status/2119906341078945977">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/higgsfield-ai-945977.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119906148698484736/vid/avc1/1920x1080/Sgdo6c9D1mBdZbhn.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/josendev-845704.webp" alt="ASCIIダンジョンのアニメーション — @josendev" width="100%" loading="lazy"></a><br>
 <b>ASCIIダンジョンのアニメーション</b><br>
@@ -1080,6 +1105,8 @@
 <a href="https://video.twimg.com/amplify_video/2119905884365074432/vid/avc1/1922x1080/SgmAc5CFTaaJq3tq.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/sprinntt/status/2119906202330988961">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/sprinntt-988961.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119904377221910528/vid/avc1/1920x1080/NVeak_ycaNknS-mN.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/notjazii-122575.webp" alt="大海原を進む海賊船 — @notjazii" width="100%" loading="lazy"></a><br>
 <b>大海原を進む海賊船</b><br>
@@ -1087,8 +1114,6 @@
 <a href="https://video.twimg.com/amplify_video/2119904377221910528/vid/avc1/1920x1080/NVeak_ycaNknS-mN.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/notjazii/status/2119905661505122575">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/notjazii-122575.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119904157574279169/vid/avc1/1440x1080/sQX85HkDqeEicshB.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/mooncastonline-145963.webp" alt="ボクセルで描く日本の茶庭 — @MooncastOnline" width="100%" loading="lazy"></a><br>
 <b>ボクセルで描く日本の茶庭</b><br>
@@ -1103,6 +1128,8 @@
 <a href="https://video.twimg.com/amplify_video/2119903112425066496/vid/avc1/1920x1080/m1x8bc6dk1l-gRsQ.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/higgsfield_ai/status/2119905141822484595">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/higgsfield-ai-484595.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119903375407878145/vid/avc1/1920x1080/CLp6m1t05mkdAtEV.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/adityavg13-799971.webp" alt="Blenderで作るスター・ウォーズの戦闘 — @adityavg13" width="100%" loading="lazy"></a><br>
 <b>Blenderで作るスター・ウォーズの戦闘</b><br>
@@ -1110,8 +1137,6 @@
 <a href="https://video.twimg.com/amplify_video/2119903375407878145/vid/avc1/1920x1080/CLp6m1t05mkdAtEV.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/adityavg13/status/2119903463735799971">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/adityavg13-799971.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119902373770334209/vid/avc1/1920x1080/vCU11lupXlFgCNwm.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/amirmushich-564844.webp" alt="独自サウンドのシンセ映像 — @AmirMushich" width="100%" loading="lazy"></a><br>
 <b>独自サウンドのシンセ映像</b><br>
@@ -1126,6 +1151,8 @@
 <a href="https://video.twimg.com/amplify_video/2119901650827489280/vid/avc1/1920x1080/jGY1FHT06IKubKX6.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/pleometric/status/2119901747930186234">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/pleometric-186234.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119900521687314432/vid/avc1/1920x1080/jEvZ74FxOfPJmnWp.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kplikethebird-902732.webp" alt="古代エルサレムの没入型3Dモデル — @kplikethebird" width="100%" loading="lazy"></a><br>
 <b>古代エルサレムの没入型3Dモデル</b><br>
@@ -1133,8 +1160,6 @@
 <a href="https://video.twimg.com/amplify_video/2119900521687314432/vid/avc1/1920x1080/jEvZ74FxOfPJmnWp.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/kplikethebird/status/2119900775727902732">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/kplikethebird-902732.md">詳細</a>
 <details><summary>📝 プロンプトを見る</summary><p>作者が下記のリンクでプロンプトを公開しています。参考素材や追加指示と合わせて元の文脈を確認してください。</p><p><a href="https://x.com/kplikethebird/status/2119900775727902732">作者の公開プロンプトを読む</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119899434121330688/vid/avc1/1920x1080/TejXiGNAzz3Ug7pm.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/rohit3a-487954.webp" alt="嵐の中の灯台 — @rohit3a" width="100%" loading="lazy"></a><br>
 <b>嵐の中の灯台</b><br>
@@ -1149,6 +1174,8 @@
 <a href="https://video.twimg.com/amplify_video/2119883625831538689/vid/avc1/1920x1080/oYiIXmDxdlAt7KPN.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/sakshamships/status/2119898573135310965">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/sakshamships-310965.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119898031696887808/vid/avc1/1280x960/23BJrLg2vEzkewba.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/convictionfaq-937131.webp" alt="PS2風の核爆発シーン — @ConvictionFAQ" width="100%" loading="lazy"></a><br>
 <b>PS2風の核爆発シーン</b><br>
@@ -1156,8 +1183,6 @@
 <a href="https://video.twimg.com/amplify_video/2119898031696887808/vid/avc1/1280x960/23BJrLg2vEzkewba.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/ConvictionFAQ/status/2119898203088937131">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/convictionfaq-937131.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119896430353534976/vid/avc1/1920x1080/J3yEymSqwiVofoL_.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/0xve1vet-849204.webp" alt="宇宙の地球と8つの破壊方法 — @0xVe1vet" width="100%" loading="lazy"></a><br>
 <b>宇宙の地球と8つの破壊方法</b><br>
@@ -1172,6 +1197,8 @@
 <a href="https://video.twimg.com/amplify_video/2119896529141907456/vid/avc1/2250x1440/xC2zlZFZ03UvSURS.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/maxt3chno/status/2119896698281467952">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/maxt3chno-467952.md">詳細</a>
 <details><summary>📝 プロンプトを見る</summary><p>作者が下記のリンクでプロンプトを公開しています。参考素材や追加指示と合わせて元の文脈を確認してください。</p><p><a href="https://x.com/maxt3chno/status/2119896909062058411">作者の公開プロンプトを読む</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119896354348470272/vid/avc1/1920x1080/DrkpfAkS2c4i2-N5.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/rezait00-020389.webp" alt="中程度の推論で作る車のコンフィギュレーター — @RezAIT00" width="100%" loading="lazy"></a><br>
 <b>中程度の推論で作る車のコンフィギュレーター</b><br>
@@ -1179,8 +1206,6 @@
 <a href="https://video.twimg.com/amplify_video/2119896354348470272/vid/avc1/1920x1080/DrkpfAkS2c4i2-N5.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/RezAIT00/status/2119896578987020389">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/rezait00-020389.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119894403456040960/vid/avc1/1920x1080/imN7Z7KJWRG_8ad3.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/filicroval-811943.webp" alt="自転車のペリカンがいるボクセル島 — @filicroval" width="100%" loading="lazy"></a><br>
 <b>自転車のペリカンがいるボクセル島</b><br>
@@ -1195,6 +1220,8 @@
 <a href="https://video.twimg.com/amplify_video/2119896067659436032/vid/avc1/1906x848/TE0E4Re4hx1qXj2V.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/viewsfrom02108/status/2119896345729437907">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/viewsfrom02108-437907.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119895988517343232/vid/avc1/1920x1080/40ePOR3KPdp1Eqd3.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/zirkomirko-529121.webp" alt="2分以内で作るロケット打ち上げ — @ZirkoMirko" width="100%" loading="lazy"></a><br>
 <b>2分以内で作るロケット打ち上げ</b><br>
@@ -1202,8 +1229,6 @@
 <a href="https://video.twimg.com/amplify_video/2119895988517343232/vid/avc1/1920x1080/40ePOR3KPdp1Eqd3.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/ZirkoMirko/status/2119896335843529121">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/zirkomirko-529121.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119895394016522240/vid/avc1/1920x1080/OE8d18z8O2VOXnQ5.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ldataengineer-146101.webp" alt="海が干上がった地球の姿 — @Ldataengineer" width="100%" loading="lazy"></a><br>
 <b>海が干上がった地球の姿</b><br>
@@ -1218,6 +1243,8 @@
 <a href="https://video.twimg.com/amplify_video/2119895528955617280/vid/avc1/1920x1080/F7m3cnVjtmBdlqPK.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/ericskavinski/status/2119895601580016005">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/ericskavinski-016005.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119894442358222848/vid/avc1/1080x1150/e2AYnwUWdNOCcvtU.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/higgsfield-ai-168558.webp" alt="360度動画から作るアンドロイドの頭部 — @higgsfield_ai" width="100%" loading="lazy"></a><br>
 <b>360度動画から作るアンドロイドの頭部</b><br>
@@ -1225,8 +1252,6 @@
 <a href="https://video.twimg.com/amplify_video/2119894442358222848/vid/avc1/1080x1150/e2AYnwUWdNOCcvtU.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/higgsfield_ai/status/2119895459519168558">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/higgsfield-ai-168558.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119894096084910080/vid/avc1/1920x1080/7-lN899uuXxwQv1y.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/rezait00-767656.webp" alt="細部まで作り込んだボクセルのパリ — @RezAIT00" width="100%" loading="lazy"></a><br>
 <b>細部まで作り込んだボクセルのパリ</b><br>
@@ -1241,6 +1266,8 @@
 <a href="https://video.twimg.com/amplify_video/2119893746644840448/vid/avc1/1880x1280/eNjCHemdxyEBKfdz.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/LuminaBench/status/2119894130943807746">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/luminabench-807746.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119894029424828416/vid/avc1/1080x1080/yTttnmO-BNIQd7SD.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/josendev-730048.webp" alt="ディザーパンクの土星 — @josendev" width="100%" loading="lazy"></a><br>
 <b>ディザーパンクの土星</b><br>
@@ -1248,8 +1275,6 @@
 <a href="https://video.twimg.com/amplify_video/2119894029424828416/vid/avc1/1080x1080/yTttnmO-BNIQd7SD.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/josendev/status/2119894060521730048">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/josendev-730048.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119888131575205888/vid/avc1/1920x1080/9qPoYSv2XDOLxkOX.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/higgsfield-ai-490135.webp" alt="這い回り宙返りするゾンビの手 — @higgsfield_ai" width="100%" loading="lazy"></a><br>
 <b>這い回り宙返りするゾンビの手</b><br>
@@ -1264,6 +1289,8 @@
 <a href="https://video.twimg.com/amplify_video/2119893810201411584/vid/avc1/1920x1080/KGUGqEyqh334QrTo.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/abhinavflac/status/2119893868816859332">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/abhinavflac-859332.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119891121857871872/vid/avc1/1920x1080/luZ3TJiesksBThce.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/simonasltu1-622262.webp" alt="Three.jsの人体解剖ビューアー — @SimonasLTU1" width="100%" loading="lazy"></a><br>
 <b>Three.jsの人体解剖ビューアー</b><br>
@@ -1271,8 +1298,6 @@
 <a href="https://video.twimg.com/amplify_video/2119891121857871872/vid/avc1/1920x1080/luZ3TJiesksBThce.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/SimonasLTU1/status/2119891671219622262">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/simonasltu1-622262.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119891371049861120/vid/avc1/1908x1080/PkN_icMknPZh5G7T.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/iotanjiro-606534.webp" alt="ガラス・琥珀・液体金属の文字 — @ioTanjiro" width="100%" loading="lazy"></a><br>
 <b>ガラス・琥珀・液体金属の文字</b><br>
@@ -1287,6 +1312,8 @@
 <a href="https://video.twimg.com/amplify_video/2119890640389451776/vid/avc1/1920x858/MZRufVqslQKy01c9.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/marcthecreatorr/status/2119890973560054072">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/marcthecreatorr-054072.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119890352924479488/vid/avc1/1888x788/OS0DZVhnM9SbIhhK.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/paulgrowthlab-499382.webp" alt="手のひらのブラックホール — @paulgrowthlab" width="100%" loading="lazy"></a><br>
 <b>手のひらのブラックホール</b><br>
@@ -1294,8 +1321,6 @@
 <a href="https://video.twimg.com/amplify_video/2119890352924479488/vid/avc1/1888x788/OS0DZVhnM9SbIhhK.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/paulgrowthlab/status/2119890500979499382">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/paulgrowthlab-499382.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119890001999880192/vid/avc1/1920x1080/CjYHuGQSGo5-pMNi.mp4?tag=16"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/higgsfield-ai-938248.webp" alt="参考動画から作る3Dモデル — @higgsfield_ai" width="100%" loading="lazy"></a><br>
 <b>参考動画から作る3Dモデル</b><br>
@@ -1310,6 +1335,8 @@
 <a href="https://video.twimg.com/amplify_video/2119889136433733632/vid/avc1/1080x1228/EDx7xjJIZ2ONA83t.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/trymirage/status/2119889897200972028">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/trymirage-972028.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119887691294932992/vid/avc1/1280x720/EjANhoPD5I8ooX55.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/zrymiller-106941.webp" alt="夕暮れから嵐へ変わる海 — @ZryMiller" width="100%" loading="lazy"></a><br>
 <b>夕暮れから嵐へ変わる海</b><br>
@@ -1317,8 +1344,6 @@
 <a href="https://video.twimg.com/amplify_video/2119887691294932992/vid/avc1/1280x720/EjANhoPD5I8ooX55.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/ZryMiller/status/2119887758777106941">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/zrymiller-106941.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119887223810076672/vid/avc1/1920x1080/K6WJ5UYNKbbENVTI.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/danteeonsol-077213.webp" alt="エリア51に着陸するUFO — @danteeonsol" width="100%" loading="lazy"></a><br>
 <b>エリア51に着陸するUFO</b><br>
@@ -1333,6 +1358,8 @@
 <a href="https://video.twimg.com/amplify_video/2119886346873364480/vid/avc1/1920x1080/kfnhup5vHOkgbHDt.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/handsher_NGU/status/2119887298292863367">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/handsher-ngu-863367.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119885516627685376/vid/avc1/3442x2160/7U_wQnmQ-ZIsZ463.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/scottstts-734829.webp" alt="8本足の機械式ローバー — @scottstts" width="100%" loading="lazy"></a><br>
 <b>8本足の機械式ローバー</b><br>
@@ -1340,8 +1367,6 @@
 <a href="https://video.twimg.com/amplify_video/2119885516627685376/vid/avc1/3442x2160/7U_wQnmQ-ZIsZ463.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/scottstts/status/2119886562003734829">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/scottstts-734829.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119886495347867648/vid/avc1/1920x1080/8nAOHCNBnOTAqt0t.mp4?tag=16"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/petergyang-854431.webp" alt="秋の伏見稲荷を描く旅行広告 — @petergyang" width="100%" loading="lazy"></a><br>
 <b>秋の伏見稲荷を描く旅行広告</b><br>
@@ -1356,6 +1381,8 @@
 <a href="https://video.twimg.com/amplify_video/2119885405017231360/vid/avc1/3840x2160/JC0qROK6I5UsQ7vf.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/dfeinition/status/2119886262211625062">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/dfeinition-625062.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119884723724181504/vid/avc1/1920x1080/FCwoqJyjTApsUnhD.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/sudophoenix-655872.webp" alt="クモが巣に織り込むロゴ — @sudoPhoeniX" width="100%" loading="lazy"></a><br>
 <b>クモが巣に織り込むロゴ</b><br>
@@ -1363,8 +1390,6 @@
 <a href="https://video.twimg.com/amplify_video/2119884723724181504/vid/avc1/1920x1080/FCwoqJyjTApsUnhD.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/sudoPhoeniX/status/2119885209621655872">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/sudophoenix-655872.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119877995053920256/vid/avc1/3840x1748/sAyC8nBMMumprGvV.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/tekonburns-963500.webp" alt="6枚の写真から解くルービックキューブ — @TekonBurns" width="100%" loading="lazy"></a><br>
 <b>6枚の写真から解くルービックキューブ</b><br>
@@ -1379,6 +1404,8 @@
 <a href="https://video.twimg.com/amplify_video/2119878879212949505/vid/avc1/1728x854/OExPzr7l-bAJgpyk.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/mattshumer_/status/2119879860344766782">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/mattshumer-766782.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119876740310835201/vid/avc1/3840x1916/WFwbynhEGY1SxPup.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/petergostev-394520.webp" alt="プロンプトから生まれるイスタンブール — @petergostev" width="100%" loading="lazy"></a><br>
 <b>プロンプトから生まれるイスタンブール</b><br>
@@ -1386,8 +1413,6 @@
 <a href="https://video.twimg.com/amplify_video/2119876740310835201/vid/avc1/3840x1916/WFwbynhEGY1SxPup.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/petergostev/status/2119877733488394520">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/petergostev-394520.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119873847369621504/vid/avc1/1080x1080/LDbZJxUYD0WsXDWe.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/hello-amani-237842.webp" alt="クロームの3Dロゴアニメーション — @hello_amani" width="100%" loading="lazy"></a><br>
 <b>クロームの3Dロゴアニメーション</b><br>
@@ -1402,6 +1427,8 @@
 <a href="https://video.twimg.com/amplify_video/2119871695930490880/vid/avc1/1920x1080/mZO4hKSagiOfBukM.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/hammer_mt/status/2119871817561346319">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/hammer-mt-346319.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119871440292077568/vid/avc1/3840x1748/UY8m3TUPRs8yFPMs.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/tekonburns-660260.webp" alt="自ら組み上がるウイルスの殻 — @TekonBurns" width="100%" loading="lazy"></a><br>
 <b>自ら組み上がるウイルスの殻</b><br>
@@ -1409,8 +1436,6 @@
 <a href="https://video.twimg.com/amplify_video/2119871440292077568/vid/avc1/3840x1748/UY8m3TUPRs8yFPMs.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/TekonBurns/status/2119871565311660260">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/tekonburns-660260.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119870538436767745/vid/avc1/1280x720/Rul4Oy5QL34LIwQ6.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/mattshumer-483384.webp" alt="破壊できるボクセルの街 — @mattshumer_" width="100%" loading="lazy"></a><br>
 <b>破壊できるボクセルの街</b><br>
@@ -1425,6 +1450,8 @@
 <a href="https://video.twimg.com/amplify_video/2119868287026892800/vid/avc1/1920x1080/aeL8BZjCQk_hzNJ0.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/MatthewBerman/status/2119868638929060195">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/matthewberman-060195.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119868225114783744/vid/avc1/1920x1080/uLOwWFt5YQwDDqN9.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/matthewberman-953017.webp" alt="水風船を貫く弾丸 — @MatthewBerman" width="100%" loading="lazy"></a><br>
 <b>水風船を貫く弾丸</b><br>
@@ -1432,6 +1459,8 @@
 <a href="https://video.twimg.com/amplify_video/2119868225114783744/vid/avc1/1920x1080/uLOwWFt5YQwDDqN9.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/MatthewBerman/status/2119868636810953017">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/matthewberman-953017.md">詳細</a>
 
 </td>
+<td width="33%"></td>
+<td width="33%"></td>
 </tr>
 </table>
 
@@ -1791,7 +1820,7 @@
 
 <a id="explainers"></a>
 
-## ビジュアル解説と音楽 · 56
+## ビジュアル解説と音楽 · 58
 
 教育アニメーション、科学の可視化、楽譜と合成音。
 
@@ -1920,12 +1949,21 @@
 
 </td>
 <td width="33%" valign="top">
+<a href="https://video.twimg.com/amplify_video/2120288036147826688/vid/avc1/1920x1080/rsVqgZfdKMOHajLt.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/keiru-ai-2120288283167191402.webp" alt="生成音とThree.jsのビジュアライザー — @keiru_ai" width="100%" loading="lazy"></a><br>
+<b>生成音とThree.jsのビジュアライザー</b><br>
+<sub><b>新しい発見</b> · <a href="https://x.com/keiru_ai">@keiru_ai</a> · 1:30 · 2026-11-10</sub><br>
+<a href="https://video.twimg.com/amplify_video/2120288036147826688/vid/avc1/1920x1080/rsVqgZfdKMOHajLt.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/keiru_ai/status/2120288283167191402">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/keiru-ai-2120288283167191402.md">詳細</a>
+
+</td>
+<td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120212244919160832/vid/avc1/1080x1920/wgu0fYjgfK6Xl25p.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/aollivier82-2120260208245043663.webp" alt="灯台でたどるコンピューターグラフィックスの歴史 — @aollivier82" width="100%" loading="lazy"></a><br>
 <b>灯台でたどるコンピューターグラフィックスの歴史</b><br>
 <sub><a href="https://x.com/aollivier82">@aollivier82</a> · 0:28 · 2026-11-10</sub><br>
 <a href="https://video.twimg.com/amplify_video/2120212244919160832/vid/avc1/1080x1920/wgu0fYjgfK6Xl25p.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/aollivier82/status/2120260208245043663">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/aollivier82-2120260208245043663.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120256332066365440/vid/avc1/1280x720/KXSlCskVGeCf-v47.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/nakazakifam-2120257523425103914.webp" alt="江戸時代の図面から復元するからくり人形 — @nakazakifam" width="100%" loading="lazy"></a><br>
 <b>江戸時代の図面から復元するからくり人形</b><br>
@@ -1933,8 +1971,6 @@
 <a href="https://video.twimg.com/amplify_video/2120256332066365440/vid/avc1/1280x720/KXSlCskVGeCf-v47.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/nakazakifam/status/2120257523425103914">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/nakazakifam-2120257523425103914.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120238899217776640/vid/avc1/3596x2084/TK9rIF-se0SZ136N.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/0xmovez-2120239217880268919.webp" alt="操作できる3D電子工作台 — @0xMovez" width="100%" loading="lazy"></a><br>
 <b>操作できる3D電子工作台</b><br>
@@ -1949,6 +1985,15 @@
 <a href="https://video.twimg.com/amplify_video/2120217984568381440/vid/avc1/1920x1080/AAOQPmf__6M2zkFO.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/miki_code/status/2120219010860019977">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/miki-code-2120219010860019977.md">詳細</a>
 
 </td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://video.twimg.com/amplify_video/2120197953780613120/vid/avc1/1080x1080/REJcjoiTa_AfPsB0.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kevin-t-ngo-2120198663062622581.webp" alt="PythonとBlenderで動かしたClawdのミュージックビデオ — @kevin_t_ngo" width="100%" loading="lazy"></a><br>
+<b>PythonとBlenderで動かしたClawdのミュージックビデオ</b><br>
+<sub><b>新しい発見</b> · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · 1:17 · 2026-11-10</sub><br>
+<a href="https://video.twimg.com/amplify_video/2120197953780613120/vid/avc1/1080x1080/REJcjoiTa_AfPsB0.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/kevin_t_ngo/status/2120198663062622581">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/kevin-t-ngo-2120198663062622581.md">詳細</a>
+
+</td>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120175408390012929/vid/avc1/1440x1052/JMkN9Ia1xeiYMFgR.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/wquguru-2120177800288378938.webp" alt="Pythonの筆致と楽曲で作る静物画 — @wquguru" width="100%" loading="lazy"></a><br>
 <b>Pythonの筆致と楽曲で作る静物画</b><br>
@@ -1956,8 +2001,6 @@
 <a href="https://video.twimg.com/amplify_video/2120175408390012929/vid/avc1/1440x1052/JMkN9Ia1xeiYMFgR.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/wquguru/status/2120177800288378938">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/wquguru-2120177800288378938.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120154489898618881/vid/avc1/1920x1080/BMdHEVJ-_drkWyrR.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/yousuke-001-2120154541186523612.webp" alt="1万円札を月まで積むにはいくら必要？ — @yousuke_001" width="100%" loading="lazy"></a><br>
 <b>1万円札を月まで積むにはいくら必要？</b><br>
@@ -1965,6 +2008,8 @@
 <a href="https://video.twimg.com/amplify_video/2120154489898618881/vid/avc1/1920x1080/BMdHEVJ-_drkWyrR.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/yousuke_001/status/2120154541186523612">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/yousuke-001-2120154541186523612.md">詳細</a>
 <details><summary>📝 プロンプトを見る</summary><p>作者が下記のリンクでプロンプトを公開しています。参考素材や追加指示と合わせて元の文脈を確認してください。</p><p><a href="https://x.com/yousuke_001/status/2120154541186523612">作者の公開プロンプトを読む</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120124118414798848/vid/avc1/1280x720/R0wF3MTXikpdyCZC.mp4?tag=14"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/hkkojima-2120124260954014152.webp" alt="6つの方程式を動きで見る — @hkkojima" width="100%" loading="lazy"></a><br>
 <b>6つの方程式を動きで見る</b><br>
@@ -1979,8 +2024,6 @@
 <a href="https://video.twimg.com/ext_tw_video/2120118492892643328/pu/vid/avc1/1280x720/3fWpNaTnslgmcWG8.mp4?tag=12">▶ 本編</a> · <a href="https://x.com/bide_taro/status/2120118659540721770">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/bide-taro-2120118659540721770.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120088578005098496/vid/avc1/1920x1080/XMPOsp7PKvG1sYn-.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/anxuanng-2120088745139638375.webp" alt="ゼノンの二分法から指先の接触の拡大へ — @anxuanng" width="100%" loading="lazy"></a><br>
 <b>ゼノンの二分法から指先の接触の拡大へ</b><br>
@@ -1988,6 +2031,8 @@
 <a href="https://video.twimg.com/amplify_video/2120088578005098496/vid/avc1/1920x1080/XMPOsp7PKvG1sYn-.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/anxuanng/status/2120088745139638375">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/anxuanng-2120088745139638375.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120081004001988608/vid/avc1/1920x1080/EEY78nPH5McLEfOs.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/stargridcompass-2120082786631516514.webp" alt="ナスダック26年を動きで可視化 — @Stargridcompass" width="100%" loading="lazy"></a><br>
 <b>ナスダック26年を動きで可視化</b><br>
@@ -2002,8 +2047,6 @@
 <a href="https://video.twimg.com/amplify_video/2120069533562191874/vid/avc1/1920x1080/d-di6uhJPEXGX7js.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/Gorden_Sun/status/2120069883597832595">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/gorden-sun-2120069883597832595.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120065308107120640/vid/avc1/1920x1080/YKoOFTwMaadyLQhl.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/seiiiiiiiiiiru-2120066857483063329.webp" alt="銭湯の3D映像ができるまで — @seiiiiiiiiiiru" width="100%" loading="lazy"></a><br>
 <b>銭湯の3D映像ができるまで</b><br>
@@ -2011,6 +2054,8 @@
 <a href="https://video.twimg.com/amplify_video/2120065308107120640/vid/avc1/1920x1080/YKoOFTwMaadyLQhl.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/seiiiiiiiiiiru/status/2120066857483063329">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/seiiiiiiiiiiru-2120066857483063329.md">詳細</a>
 <details><summary>📝 プロンプトを見る</summary><blockquote>銭湯の動画がどう作られていったか段階を踏んで見てわかるようなメイキング動画を作成して。</blockquote><p><a href="https://x.com/seiiiiiiiiiiru/status/2120066857483063329">作者の公開プロンプトを読む</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119989522478063616/vid/avc1/1080x1920/TyXn42WY3EwIxhCV.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/excel-niisan-2119989558561698090.webp" alt="日本語ブログの記事から作った縦型ショート — @excel_niisan" width="100%" loading="lazy"></a><br>
 <b>日本語ブログの記事から作った縦型ショート</b><br>
@@ -2025,8 +2070,6 @@
 <a href="https://video.twimg.com/amplify_video/2119974634523344896/vid/avc1/1920x1080/7EzivlAR3lILCLs4.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/linxiaobei888/status/2119978892861829227">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/linxiaobei888-2119978892861829227.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119973377255321600/vid/avc1/1920x1080/t4OGlQN-oqpflWYh.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/deryatr-2119974354260013293.webp" alt="科学史をたどるシネマティックな3Dの旅 — @DeryaTR_" width="100%" loading="lazy"></a><br>
 <b>科学史をたどるシネマティックな3Dの旅</b><br>
@@ -2034,6 +2077,8 @@
 <a href="https://video.twimg.com/amplify_video/2119973377255321600/vid/avc1/1920x1080/t4OGlQN-oqpflWYh.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/DeryaTR_/status/2119974354260013293">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/deryatr-2119974354260013293.md">詳細</a>
 <details><summary>📝 プロンプトを見る</summary><p>作者が下記のリンクでプロンプトを公開しています。参考素材や追加指示と合わせて元の文脈を確認してください。</p><p><a href="https://x.com/DeryaTR_/status/2119974354260013293">作者の公開プロンプトを読む</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119968396469309440/vid/avc1/1920x1080/Q748HuENLMQtMz8O.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/elliotarledge-2119968762069934415.webp" alt="メガカーネルを題材にしたミュージックビデオ — @elliotarledge" width="100%" loading="lazy"></a><br>
 <b>メガカーネルを題材にしたミュージックビデオ</b><br>
@@ -2048,8 +2093,6 @@
 <a href="https://video.twimg.com/amplify_video/2119946393565450240/vid/avc1/1920x1080/Jt_-E4yC0PiI2m2M.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/nakazakifam/status/2119946561941606493">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/nakazakifam-2119946561941606493.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119945592977653760/vid/avc1/3840x2160/foNEVBH2Khao6Dd6.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/rileybrown-2119946022767980985.webp" alt="文字の歴史を映像でたどる — @rileybrown" width="100%" loading="lazy"></a><br>
 <b>文字の歴史を映像でたどる</b><br>
@@ -2057,6 +2100,8 @@
 <a href="https://video.twimg.com/amplify_video/2119945592977653760/vid/avc1/3840x2160/foNEVBH2Khao6Dd6.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/rileybrown/status/2119946022767980985">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/rileybrown-2119946022767980985.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119941576290185217/vid/avc1/1920x1080/doJzvrUuyB86Ednp.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/konstantinsaifo-2119941967136379334.webp" alt="Three.jsで分解して学ぶ原子炉 — @konstantinsaifo" width="100%" loading="lazy"></a><br>
 <b>Three.jsで分解して学ぶ原子炉</b><br>
@@ -2071,8 +2116,6 @@
 <a href="https://video.twimg.com/amplify_video/2119919333140840449/vid/avc1/1920x1080/125Re1yzvUQndyX4.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/imjustnewatai/status/2119919644836347926">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/imjustnewatai-2119919644836347926.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119919371401244672/vid/avc1/1920x1080/yS6Kbc5l0NBv4N40.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/rasmic-2119919466163093768.webp" alt="Convexをモーションで解説 — @Rasmic" width="100%" loading="lazy"></a><br>
 <b>Convexをモーションで解説</b><br>
@@ -2080,6 +2123,8 @@
 <a href="https://video.twimg.com/amplify_video/2119919371401244672/vid/avc1/1920x1080/yS6Kbc5l0NBv4N40.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/Rasmic/status/2119919466163093768">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/rasmic-2119919466163093768.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119906799151448064/vid/avc1/1440x1080/nfRvSZRf-lGyoO3k.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/higgsfield-ai-987047.webp" alt="ゼロから歌うシンセサイザー — @higgsfield_ai" width="100%" loading="lazy"></a><br>
 <b>ゼロから歌うシンセサイザー</b><br>
@@ -2094,8 +2139,6 @@
 <a href="https://video.twimg.com/amplify_video/2119907073026899968/vid/avc1/1920x1080/fJ7CuLzKleGXCpkO.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/yzr_koba/status/2119907670077722932">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/yzr-koba-722932.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119899444233863168/vid/avc1/1920x1080/hqqYkpi27k2cdXpg.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/khazix0918-590834.webp" alt="ChatGPTの4年間を描く記念映像 — @Khazix0918" width="100%" loading="lazy"></a><br>
 <b>ChatGPTの4年間を描く記念映像</b><br>
@@ -2103,6 +2146,8 @@
 <a href="https://video.twimg.com/amplify_video/2119899444233863168/vid/avc1/1920x1080/hqqYkpi27k2cdXpg.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/Khazix0918/status/2119902325460590834">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/khazix0918-590834.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119899446242918400/vid/avc1/1080x1350/S8_fma1a1es6Q4Tt.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/tekonburns-713872.webp" alt="写真一枚から再現するエッグタイマー — @TekonBurns" width="100%" loading="lazy"></a><br>
 <b>写真一枚から再現するエッグタイマー</b><br>
@@ -2117,8 +2162,6 @@
 <a href="https://video.twimg.com/amplify_video/2119899879652876288/vid/avc1/1920x1080/Km5pgtjQ970n5n9b.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/buriedstupidity/status/2119900194540322870">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/buriedstupidity-322870.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119891672477679616/vid/avc1/2160x2160/L-CIBp2qNeTMs0hj.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/dfeinition-176088.webp" alt="回転して命を吹き込むゾートロープ — @dfeinition" width="100%" loading="lazy"></a><br>
 <b>回転して命を吹き込むゾートロープ</b><br>
@@ -2126,6 +2169,8 @@
 <a href="https://video.twimg.com/amplify_video/2119891672477679616/vid/avc1/2160x2160/L-CIBp2qNeTMs0hj.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/dfeinition/status/2119892210376176088">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/dfeinition-176088.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119891424564895744/vid/avc1/2160x2160/cw5WN1voZQCaOihD.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/dfeinition-517201.webp" alt="3Dだけで作るクレイアニメ — @dfeinition" width="100%" loading="lazy"></a><br>
 <b>3Dだけで作るクレイアニメ</b><br>
@@ -2140,8 +2185,6 @@
 <a href="https://video.twimg.com/amplify_video/2119891178682228736/vid/avc1/1920x1080/2q3_mQw6ZalpiaQz.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/Avenoxai/status/2119891378352058821">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/avenoxai-058821.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119889834751971328/vid/avc1/1280x720/FWYrwhFrNDz1DaVJ.mp4?tag=14"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/nottherajyk-985571.webp" alt="AI時代に人が感じること — @nottherajyk" width="100%" loading="lazy"></a><br>
 <b>AI時代に人が感じること</b><br>
@@ -2149,6 +2192,8 @@
 <a href="https://video.twimg.com/amplify_video/2119889834751971328/vid/avc1/1280x720/FWYrwhFrNDz1DaVJ.mp4?tag=14">▶ 本編</a> · <a href="https://x.com/nottherajyk/status/2119890840067985571">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/nottherajyk-985571.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119889619286110208/vid/avc1/1080x1920/IG9or_uQyshexjHE.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ashen-one-424363.webp" alt="月が地球から3メートルにあったら — @ashen_one" width="100%" loading="lazy"></a><br>
 <b>月が地球から3メートルにあったら</b><br>
@@ -2163,8 +2208,6 @@
 <a href="https://video.twimg.com/amplify_video/2119888023231844352/vid/avc1/1920x1080/bMAfu17GqdoH9jlN.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/SPAC89/status/2119888738595770843">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/spac89-770843.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119885999660843008/vid/avc1/1080x1920/FNwRCB0RWB6YcNpv.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/thetansen-134791.webp" alt="Fable 5.2発表のピクセルクエスト — @thetansen" width="100%" loading="lazy"></a><br>
 <b>Fable 5.2発表のピクセルクエスト</b><br>
@@ -2172,6 +2215,8 @@
 <a href="https://video.twimg.com/amplify_video/2119885999660843008/vid/avc1/1080x1920/FNwRCB0RWB6YcNpv.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/thetansen/status/2119886204716134791">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/thetansen-134791.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119883996436082688/vid/avc1/1080x1920/vnjdC4iD158qDzXz.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/charan-kilari-538680.webp" alt="映画で本物の747を壊した方法 — @charan_kilari" width="100%" loading="lazy"></a><br>
 <b>映画で本物の747を壊した方法</b><br>
@@ -2186,8 +2231,6 @@
 <a href="https://video.twimg.com/amplify_video/2119875528337555456/vid/avc1/1920x1080/QNFaHTtARFp56_Bb.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/aug5thmusic/status/2119879319426404780">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/aug5thmusic-404780.md">詳細</a>
 <details><summary>📝 プロンプトを見る</summary><p>作者が下記のリンクでプロンプトを公開しています。参考素材や追加指示と合わせて元の文脈を確認してください。</p><p><a href="https://x.com/aug5thmusic/status/2119879973318414392">作者の公開プロンプトを読む</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119879169731645440/vid/avc1/1280x720/Bh3U2lhMYgX9-Vb0.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/aidanshandle-761464.webp" alt="パストレーサーをWebGPUへ移植 — @aidanshandle" width="100%" loading="lazy"></a><br>
 <b>パストレーサーをWebGPUへ移植</b><br>
@@ -2195,6 +2238,8 @@
 <a href="https://video.twimg.com/amplify_video/2119879169731645440/vid/avc1/1280x720/Bh3U2lhMYgX9-Vb0.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/aidanshandle/status/2119879273196761464">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/aidanshandle-761464.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119870421478567936/vid/avc1/3840x2160/G6_gpxpBs-4beNTY.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/dfeinition-381391.webp" alt="ゲームキャラクターの動きをつなぐ仕組み — @dfeinition" width="100%" loading="lazy"></a><br>
 <b>ゲームキャラクターの動きをつなぐ仕組み</b><br>
@@ -2209,8 +2254,6 @@
 <a href="https://video.twimg.com/amplify_video/2119868875127087104/vid/avc1/1280x720/VhIfEqbHcpwlznir.mp4?tag=14">▶ 本編</a> · <a href="https://x.com/maxleiter/status/2119869170871652487">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/maxleiter-652487.md">詳細</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119868088091017217/vid/avc1/1920x1080/5TB7-RiWDIUPCxdO.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/matthewberman-2119868633086378471.webp" alt="言語モデルの仕組みをアニメで解説 — @MatthewBerman" width="100%" loading="lazy"></a><br>
 <b>言語モデルの仕組みをアニメで解説</b><br>
@@ -2218,6 +2261,8 @@
 <a href="https://video.twimg.com/amplify_video/2119868088091017217/vid/avc1/1920x1080/5TB7-RiWDIUPCxdO.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/MatthewBerman/status/2119868633086378471">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/matthewberman-2119868633086378471.md">詳細</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119669941263597569/vid/avc1/1920x1080/h6JslKeeBV8e7IAn.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/alliekmiller-757417.webp" alt="全国の水の安全マップ — @alliekmiller" width="100%" loading="lazy"></a><br>
 <b>全国の水の安全マップ</b><br>
@@ -2225,6 +2270,7 @@
 <a href="https://video.twimg.com/amplify_video/2119669941263597569/vid/avc1/1920x1080/h6JslKeeBV8e7IAn.mp4?tag=29">▶ 本編</a> · <a href="https://x.com/alliekmiller/status/2119868629818757417">元の投稿</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ja/alliekmiller-757417.md">詳細</a>
 
 </td>
+<td width="33%"></td>
 <td width="33%"></td>
 </tr>
 </table>
