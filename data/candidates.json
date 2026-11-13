@@ -99,6 +99,16 @@
       "status": "held-insufficient-media-rights",
       "reason": "The creator describes a Fable 5.2 SVG adaptation with separate narration and music. Permission to republish an excerpt from the full literary adaptation has not been verified.",
       "checked_at": "2026-11-12T22:49:10.798215+00:00"
+    },
+    {
+      "source_url": "https://x.com/Stargridcompass/status/2120396189598093357",
+      "creator": {
+        "name": "Stargridcompass",
+        "url": "https://x.com/Stargridcompass"
+      },
+      "status": "held-insufficient-workflow-evidence",
+      "reason": "The creator describes making a Fable 5.2 version after an earlier GPT-6.2 Sol version. The attached recording does not clearly label which scenes belong to each version.",
+      "checked_at": "2026-11-13T04:47:16.844908+00:00"
     }
   ]
 }

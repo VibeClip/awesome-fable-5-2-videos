@@ -20153,13 +20153,21 @@
           "reposts": 0,
           "replies": 5,
           "bookmarks": 3
+        },
+        {
+          "checked_at": "2026-11-13T04:47:40.868707+00:00",
+          "views": 1435,
+          "likes": 31,
+          "reposts": 0,
+          "replies": 6,
+          "bookmarks": 3
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 176.8,
-        "views_delta": 705,
-        "likes_delta": 12,
+        "window_minutes": 183.5,
+        "views_delta": 260,
+        "likes_delta": 5,
         "reposts_delta": 0
       }
     },
@@ -20319,13 +20327,21 @@
           "reposts": 0,
           "replies": 26,
           "bookmarks": 52
+        },
+        {
+          "checked_at": "2026-11-13T04:47:40.870935+00:00",
+          "views": 5528,
+          "likes": 147,
+          "reposts": 0,
+          "replies": 29,
+          "bookmarks": 62
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 176.8,
-        "views_delta": 893,
-        "likes_delta": 21,
+        "window_minutes": 183.5,
+        "views_delta": 806,
+        "likes_delta": 19,
         "reposts_delta": 0
       }
     },
@@ -20402,14 +20418,22 @@
           "reposts": 14,
           "replies": 23,
           "bookmarks": 129
+        },
+        {
+          "checked_at": "2026-11-13T04:47:40.903988+00:00",
+          "views": 17316,
+          "likes": 230,
+          "reposts": 14,
+          "replies": 24,
+          "bookmarks": 130
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 176.8,
-        "views_delta": 1039,
-        "likes_delta": 10,
-        "reposts_delta": 1
+        "window_minutes": 183.5,
+        "views_delta": 343,
+        "likes_delta": 4,
+        "reposts_delta": 0
       }
     },
     {
@@ -21425,13 +21449,677 @@
           "reposts": 12,
           "replies": 26,
           "bookmarks": 73
+        },
+        {
+          "checked_at": "2026-11-13T04:47:40.867662+00:00",
+          "views": 23725,
+          "likes": 284,
+          "reposts": 12,
+          "replies": 26,
+          "bookmarks": 73
         }
       ],
       "momentum": {
         "state": "new",
-        "window_minutes": 177.3,
-        "views_delta": 567,
-        "likes_delta": 1,
+        "window_minutes": 183.7,
+        "views_delta": 446,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "imjustnewatai-2121097470373511184",
+      "titles": {
+        "en": "Learning to reverse a truck with two trailers",
+        "zh-CN": "学习双挂车倒车的模拟演示",
+        "ja": "二連トレーラーの後退を学ぶシミュレーション",
+        "ko": "트레일러 두 대를 연결한 트럭의 후진 학습",
+        "es": "Aprender a dar marcha atrás con dos remolques"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "imjustnewatai",
+        "url": "https://x.com/imjustnewatai"
+      },
+      "source_url": "https://x.com/imjustnewatai/status/2121097470373511184",
+      "published_at": "2026-11-13T04:26:59Z",
+      "duration_seconds": 92.266,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121097408348078080/img/l3izM1jGXuKMKZy4.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/imjustnewatai-2121097470373511184.webp",
+      "preview_path": "assets/previews/imjustnewatai-2121097470373511184.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2121097408348078080/vid/avc1/1080x1080/pItof1FZpm6_WoHd.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-13T04:46:56.408900+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "961e0fb6e16774278075e0fdf60e3a452755da50e06245c71366493919e93551",
+        "model_named": true,
+        "video_checked_at": "2026-11-13T04:47:15.722087+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2121097408348078080",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A dark loading yard frames the reversing attempts. Counters and changing camera angles make it possible to follow the motion of both trailers.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator used Fable 5.2 to make a simulation of an agent learning to reverse a truck with two trailers into a tight bay.",
+        "zh-CN": "作者使用 Fable 5.2 制作模拟演示，呈现智能体学习将双挂车倒入狭窄车位的过程。",
+        "ja": "作者はFable 5.2を使い、二連トレーラーを狭い区画に後退させる方法をエージェントが学ぶシミュレーションを作りました。",
+        "ko": "제작자는 Fable 5.2로 트레일러 두 대를 연결한 트럭을 좁은 공간에 후진시키는 방법을 에이전트가 학습하는 시뮬레이션을 만들었습니다.",
+        "es": "El autor usó Fable 5.2 para simular cómo un agente aprende a estacionar marcha atrás un camión con dos remolques en un espacio estrecho."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-13T04:46:35.446166+00:00",
+          "views": 326,
+          "likes": 2,
+          "reposts": 1,
+          "replies": 0,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-13T04:47:16.185657+00:00",
+          "views": 333,
+          "likes": 2,
+          "reposts": 1,
+          "replies": 0,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.7,
+        "views_delta": 7,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "loktar00-2121066943662743624",
+      "titles": {
+        "en": "A brick-built pirate short with rolling waves",
+        "zh-CN": "连海浪也由积木组成的海盗短片",
+        "ja": "波までブロックでできた海賊ショート",
+        "ko": "파도까지 블록으로 만든 해적 단편",
+        "es": "Un corto de piratas con olas hechas de bloques"
+      },
+      "category": "short-films",
+      "creator": {
+        "name": "loktar00",
+        "url": "https://x.com/loktar00"
+      },
+      "source_url": "https://x.com/loktar00/status/2121066943662743624",
+      "published_at": "2026-11-13T02:25:41Z",
+      "duration_seconds": 50.4,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121066008483913728/img/2uEGKmwYUuW7G9Md.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/loktar00-2121066943662743624.webp",
+      "preview_path": "assets/previews/loktar00-2121066943662743624.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2121066008483913728/vid/avc1/1920x1080/kzRTU-ZlEwqnem5b.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-13T04:46:56.399932+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "ae434c251ea3bc75bfee3881ffe01c6c58b1bc9979d73ac5a495f8aabf1a0efa",
+        "model_named": true,
+        "video_checked_at": "2026-11-13T04:47:15.502468+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2121066008483913728",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "Wide views of brick-built islands alternate with shots between sailing ships. Moving blocks give the water the same visual language as the ships.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for the animated pirate scene and describes building each wave from individual moving pieces.",
+        "zh-CN": "作者将海盗动画归功于 Fable 5.2，并说明每道浪都由单独运动的积木组成。",
+        "ja": "作者は海賊の映像をFable 5.2で作り、波の一つ一つを動くブロックの組み合わせで表現したと説明しています。",
+        "ko": "제작자는 Fable 5.2로 해적 장면을 만들었으며 파도마다 움직이는 블록 조각을 사용했다고 밝혔습니다.",
+        "es": "El autor atribuye la escena animada de piratas a Fable 5.2 y explica que cada ola está formada por piezas que se mueven individualmente."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-13T04:46:35.916447+00:00",
+          "views": 727,
+          "likes": 31,
+          "reposts": 0,
+          "replies": 6,
+          "bookmarks": 2
+        },
+        {
+          "checked_at": "2026-11-13T04:47:15.973968+00:00",
+          "views": 728,
+          "likes": 31,
+          "reposts": 0,
+          "replies": 6,
+          "bookmarks": 2
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.7,
+        "views_delta": 1,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "imjustnewatai-2121036119999475934",
+      "titles": {
+        "en": "A simulated figure learns to walk",
+        "zh-CN": "模拟角色学习行走",
+        "ja": "歩き方を学ぶシミュレーションのキャラクター",
+        "ko": "걷는 법을 배우는 시뮬레이션 캐릭터",
+        "es": "Un personaje simulado aprende a caminar"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "imjustnewatai",
+        "url": "https://x.com/imjustnewatai"
+      },
+      "source_url": "https://x.com/imjustnewatai/status/2121036119999475934",
+      "published_at": "2026-11-13T00:23:12Z",
+      "duration_seconds": 90.6,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121036047274397696/img/6R9UgCk6UzX2ghTP.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/imjustnewatai-2121036119999475934.webp",
+      "preview_path": "assets/previews/imjustnewatai-2121036119999475934.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2121036047274397696/vid/avc1/1080x1080/T_I7ifp6OxLGa9Ti.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-13T04:46:58.161511+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "5c47341e38cc5091f9f88b38e0801b49f33c7a4779a83fd1cf4932fe83040d55",
+        "model_named": true,
+        "video_checked_at": "2026-11-13T04:47:15.475378+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2121036047274397696",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The narrated sequence makes balance and forward motion visible through a simple articulated figure and a counter that advances with each set of attempts.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator asked Fable 5.2 to teach a simulated agent to walk and posted the resulting video.",
+        "zh-CN": "作者请 Fable 5.2 教模拟智能体行走，并发布了结果视频。",
+        "ja": "作者はFable 5.2にシミュレーション内のエージェントへ歩き方を教えるよう依頼し、結果の映像を公開しました。",
+        "ko": "제작자는 Fable 5.2에 시뮬레이션 에이전트에게 걷는 법을 가르치도록 요청하고 결과 영상을 공개했습니다.",
+        "es": "El autor pidió a Fable 5.2 que enseñara a caminar a un agente simulado y publicó el vídeo del resultado."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-13T04:46:35.964433+00:00",
+          "views": 1855,
+          "likes": 26,
+          "reposts": 4,
+          "replies": 4,
+          "bookmarks": 2
+        },
+        {
+          "checked_at": "2026-11-13T04:47:15.975608+00:00",
+          "views": 1856,
+          "likes": 26,
+          "reposts": 4,
+          "replies": 4,
+          "bookmarks": 2
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.7,
+        "views_delta": 1,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "mrtacticalx-2121082861902070130",
+      "titles": {
+        "en": "Inside a modeled desktop PC",
+        "zh-CN": "桌面电脑内部结构的建模短片",
+        "ja": "モデル化したデスクトップPCの内部",
+        "ko": "모델링한 데스크톱 PC 내부",
+        "es": "Por dentro de un PC de sobremesa modelado"
+      },
+      "category": "product",
+      "creator": {
+        "name": "MrTacticalX",
+        "url": "https://x.com/MrTacticalX"
+      },
+      "source_url": "https://x.com/MrTacticalX/status/2121082861902070130",
+      "published_at": "2026-11-13T03:28:56Z",
+      "duration_seconds": 35.066,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121082669291200512/img/cPvuau7w6laJBSmB.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/mrtacticalx-2121082861902070130.webp",
+      "preview_path": "assets/previews/mrtacticalx-2121082861902070130.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2121082669291200512/vid/avc1/1080x1350/8WYq95XlCfNdIquX.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-13T04:47:11.765707+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "fe9b97e99886b005073f0300fbc6cdc9fec80a2a355e0ef44b6b6aa4c7ce42a0",
+        "model_named": true,
+        "video_checked_at": "2026-11-13T04:47:16.652669+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2121082669291200512",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "Close camera passes inspect the board, case and component details from several angles, giving the desktop PC the treatment of a hardware product film.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator credits three Fable 5.2 agents for the computer model shown in the clip.",
+        "zh-CN": "作者称由三个 Fable 5.2 智能体制作了视频中的电脑模型。",
+        "ja": "作者は映像に登場するPCモデルを3体のFable 5.2エージェントで作ったと説明しています。",
+        "ko": "제작자는 영상의 PC 모델을 Fable 5.2 에이전트 세 개로 만들었다고 밝혔습니다.",
+        "es": "El autor atribuye a tres agentes Fable 5.2 el modelo del ordenador que aparece en el vídeo."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-13T04:46:57.984977+00:00",
+          "views": 1466,
+          "likes": 24,
+          "reposts": 0,
+          "replies": 4,
+          "bookmarks": 8
+        },
+        {
+          "checked_at": "2026-11-13T04:47:17.118441+00:00",
+          "views": 1476,
+          "likes": 24,
+          "reposts": 0,
+          "replies": 4,
+          "bookmarks": 9
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.3,
+        "views_delta": 10,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "wangray-2120730013037466048",
+      "titles": {
+        "en": "A Blender film with a desktop-sized Clawd",
+        "zh-CN": "桌面上的 Clawd 与 Blender 短片",
+        "ja": "デスクサイズのClawdが登場するBlender短編",
+        "ko": "책상 위 Clawd가 등장하는 Blender 단편",
+        "es": "Un corto de Blender con un Clawd de escritorio"
+      },
+      "category": "short-films",
+      "creator": {
+        "name": "wangray",
+        "url": "https://x.com/wangray"
+      },
+      "source_url": "https://x.com/wangray/status/2120730013037466048",
+      "published_at": "2026-11-12T04:06:51Z",
+      "duration_seconds": 53.75,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120729437482455040/img/aBRqsBe2SGJddGDs.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/wangray-2120730013037466048.webp",
+      "preview_path": "assets/previews/wangray-2120730013037466048.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120729437482455040/vid/avc1/1920x1080/6gkPJnL7ykHAwazS.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-13T04:46:58.743682+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "b707c61de6eddba542ddb5b4783d7c3ac7aca1d0c13846e973bcc1fbdc9b6be2",
+        "model_named": true,
+        "video_checked_at": "2026-11-13T04:47:15.476720+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": "https://x.com/wangray/status/2120730013037466048"
+      },
+      "native_media_id": "2120729437482455040",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The cut uses shallow-focus keyboard shots, graphical inserts and a tiny orange mascot against a stylized landscape. The creator publishes the requested framing and subject.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 and a local Blender render, and publishes the full brief in the original post.",
+        "zh-CN": "作者说明使用了 Fable 5.2 和本地 Blender 渲染，并在原帖公开完整提示词。",
+        "ja": "作者はFable 5.2とローカルのBlenderレンダリングを使い、元の投稿で指示全文を公開しています。",
+        "ko": "제작자는 Fable 5.2와 로컬 Blender 렌더링을 사용했으며 원문에 전체 프롬프트를 공개했습니다.",
+        "es": "El autor acredita a Fable 5.2 y al renderizado local en Blender, y comparte la instrucción completa en la publicación original."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-13T01:43:54.389006+00:00",
+          "views": 2201,
+          "likes": 15,
+          "reposts": 2,
+          "replies": 7,
+          "bookmarks": 9
+        },
+        {
+          "checked_at": "2026-11-13T04:46:38.344749+00:00",
+          "views": 2351,
+          "likes": 17,
+          "reposts": 2,
+          "replies": 7,
+          "bookmarks": 9
+        },
+        {
+          "checked_at": "2026-11-13T04:47:15.954728+00:00",
+          "views": 2351,
+          "likes": 17,
+          "reposts": 2,
+          "replies": 7,
+          "bookmarks": 9
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 183.4,
+        "views_delta": 150,
+        "likes_delta": 2,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "seiiiiiiiiiiru-2119988430247448847",
+      "titles": {
+        "en": "From a flat illustration to a 3D Japanese bathhouse",
+        "zh-CN": "把平面插画变成 3D 日式浴场",
+        "ja": "平面イラストから3Dの銭湯へ",
+        "ko": "평면 일러스트를 3D 일본식 목욕탕으로",
+        "es": "De una ilustración plana a un baño público japonés en 3D"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "seiiiiiiiiiiru",
+        "url": "https://x.com/seiiiiiiiiiiru"
+      },
+      "source_url": "https://x.com/seiiiiiiiiiiru/status/2119988430247448847",
+      "published_at": "2026-11-10T03:00:03Z",
+      "duration_seconds": 14,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119949461199921152/img/He3zJ4Tbr31j-9Zk.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/seiiiiiiiiiiru-2119988430247448847.webp",
+      "preview_path": "assets/previews/seiiiiiiiiiiru-2119988430247448847.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2119949461199921152/vid/avc1/1920x1080/spFpZLaZvsrfqk5k.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-13T04:46:59.854755+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "8fbe2802df8c44bbb12c5c7f029431c31161a0d7a9c6d4804071e884efdac3e5",
+        "model_named": true,
+        "video_checked_at": "2026-11-13T04:47:15.763562+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2119949461199921152",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The finished comparison moves from an illustrated Mount Fuji mural through a white model to the lit bathhouse. It shows the result of the build documented in the separately posted making-of.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator names Fable 5.2 and Blender for the progression from a flat drawing to the finished 3D interior.",
+        "zh-CN": "作者说明用 Fable 5.2 和 Blender 将平面插画转为完整的 3D 室内场景。",
+        "ja": "作者は平面イラストから3Dの室内へ仕上げる過程でFable 5.2とBlenderを使ったと説明しています。",
+        "ko": "제작자는 평면 그림을 완성된 3D 실내 장면으로 바꾸는 데 Fable 5.2와 Blender를 사용했다고 밝혔습니다.",
+        "es": "El autor identifica a Fable 5.2 y Blender en la transformación del dibujo plano al interior 3D terminado."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T22:46:40.869989+00:00",
+          "views": 5214,
+          "likes": 55,
+          "reposts": 5,
+          "replies": 1,
+          "bookmarks": 30
+        },
+        {
+          "checked_at": "2026-11-13T01:43:36.730710+00:00",
+          "views": 5227,
+          "likes": 55,
+          "reposts": 5,
+          "replies": 1,
+          "bookmarks": 30
+        },
+        {
+          "checked_at": "2026-11-13T04:46:41.516522+00:00",
+          "views": 5252,
+          "likes": 55,
+          "reposts": 5,
+          "replies": 1,
+          "bookmarks": 30
+        },
+        {
+          "checked_at": "2026-11-13T04:47:16.225202+00:00",
+          "views": 5252,
+          "likes": 55,
+          "reposts": 5,
+          "replies": 1,
+          "bookmarks": 30
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 183.7,
+        "views_delta": 25,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "jacobmolbio-2120648796334178374",
+      "titles": {
+        "en": "Better Half, a Blender short about tiny crabs",
+        "zh-CN": "《Better Half》关于小螃蟹的 Blender 短片",
+        "ja": "小さなカニを描くBlender短編『Better Half』",
+        "ko": "작은 게를 그린 Blender 단편 Better Half",
+        "es": "Better Half, un corto de Blender sobre pequeños cangrejos"
+      },
+      "category": "short-films",
+      "creator": {
+        "name": "JacobMolBio",
+        "url": "https://x.com/JacobMolBio"
+      },
+      "source_url": "https://x.com/JacobMolBio/status/2120648796334178374",
+      "published_at": "2026-11-11T22:44:07Z",
+      "duration_seconds": 85,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120643700003082240/img/RbJvPs9soaiyXvM1.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/jacobmolbio-2120648796334178374.webp",
+      "preview_path": "assets/previews/jacobmolbio-2120648796334178374.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120643700003082240/vid/avc1/3840x2160/IrX_jwUNliOLWHBc.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-13T04:47:11.784050+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "6c9de46cf8b8fdb4e84da177868ffb87a59deaf22b8c62de8daf71fb05a7a112",
+        "model_named": true,
+        "video_checked_at": "2026-11-13T04:47:16.595407+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120643700003082240",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "Blocky orange crabs wear textured shells in a pastel miniature. The short shifts to high-contrast lighting during its story, and the creator identifies the models and audio tools.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator describes a team using Fable 5.2 and Opus 5.5, with Python in Blender, cloud rendering and ElevenLabs audio.",
+        "zh-CN": "作者公开了混合流程，包括 Fable 5.2 与 Opus 5.5 协作、Blender Python、云渲染及 ElevenLabs 音频。",
+        "ja": "作者はFable 5.2とOpus 5.5のチーム、BlenderでのPython、クラウドレンダリング、ElevenLabsの音声を使ったと説明しています。",
+        "ko": "제작자는 Fable 5.2와 Opus 5.5를 함께 사용하고 Blender에서 Python으로 제작했으며 클라우드 렌더링과 ElevenLabs 오디오를 사용했다고 밝혔습니다.",
+        "es": "El autor describe un equipo con Fable 5.2 y Opus 5.5, Python en Blender, renderizado en la nube y audio de ElevenLabs."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-13T04:46:58.943770+00:00",
+          "views": 18936,
+          "likes": 376,
+          "reposts": 25,
+          "replies": 21,
+          "bookmarks": 233
+        },
+        {
+          "checked_at": "2026-11-13T04:47:17.085730+00:00",
+          "views": 18936,
+          "likes": 376,
+          "reposts": 25,
+          "replies": 21,
+          "bookmarks": 233
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.3,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "onofumi-ai-2120338831245471779",
+      "titles": {
+        "en": "A kinetic typography reel with checkerboard transitions",
+        "zh-CN": "用棋盘格转场的动感字体短片",
+        "ja": "市松模様のトランジションを使った文字アニメーション",
+        "ko": "체커보드 전환을 사용한 키네틱 타이포그래피",
+        "es": "Una pieza de tipografía cinética con transiciones de damero"
+      },
+      "category": "motion",
+      "creator": {
+        "name": "onofumi_AI",
+        "url": "https://x.com/onofumi_AI"
+      },
+      "source_url": "https://x.com/onofumi_AI/status/2120338831245471779",
+      "published_at": "2026-11-11T02:12:26Z",
+      "duration_seconds": 10,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120338753483116545/img/SpviW92IfsUFFjRs.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/onofumi-ai-2120338831245471779.webp",
+      "preview_path": "assets/previews/onofumi-ai-2120338831245471779.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120338753483116545/vid/avc1/1920x1080/vwT-IL1rNLXlVyYb.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-13T04:47:00.703921+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "b366870870a6419b38c18397d78d74c1b2937b18613bec3794592558669b857a",
+        "model_named": true,
+        "video_checked_at": "2026-11-13T04:47:16.314421+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120338753483116545",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A sequence of bold lettering, a spinning checkerboard and a graphic burst shows several fast transitions in a ten-second reel.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator identifies this as a Fable 5.2 motion graphics test.",
+        "zh-CN": "作者将这段成片标为 Fable 5.2 动效测试。",
+        "ja": "作者はFable 5.2で試したモーショングラフィックスと紹介しています。",
+        "ko": "제작자는 Fable 5.2로 시험한 모션 그래픽이라고 소개했습니다.",
+        "es": "El autor presenta el vídeo como una prueba de gráficos en movimiento con Fable 5.2."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T10:41:00.486771+00:00",
+          "views": 1204,
+          "likes": 18,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 9
+        },
+        {
+          "checked_at": "2026-11-12T19:42:23.734991+00:00",
+          "views": 1242,
+          "likes": 18,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 9
+        },
+        {
+          "checked_at": "2026-11-12T22:46:09.687134+00:00",
+          "views": 1250,
+          "likes": 18,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 9
+        },
+        {
+          "checked_at": "2026-11-13T01:43:55.709009+00:00",
+          "views": 1256,
+          "likes": 18,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 9
+        },
+        {
+          "checked_at": "2026-11-13T04:46:40.584414+00:00",
+          "views": 1272,
+          "likes": 18,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 9
+        },
+        {
+          "checked_at": "2026-11-13T04:47:16.783414+00:00",
+          "views": 1272,
+          "likes": 18,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 9
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 183.4,
+        "views_delta": 16,
+        "likes_delta": 0,
         "reposts_delta": 0
       }
     }
