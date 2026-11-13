@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-13T13:47:30.798721+00:00",
-  "method": "WebP animation bytes matched to GitHub blob SHA and rendered README images",
+  "checked_at": "2026-11-13T16:54:22.957742+00:00",
+  "method": "Local WebP RIFF ANIM/ANMF chunks",
   "previews": [
     {
       "id": "wesroth-934330",
@@ -4693,6 +4693,97 @@
       "bytes": 198244,
       "file_sha256": "331d90506328b2e8d46e4064628700aa076cf066fbf5d5ee42a5b9f43802920d",
       "blob_sha": "b6c6240779a6afe8fc43b0a888c0321eb363613a",
+      "status": "animated"
+    },
+    {
+      "id": "scottstts-2121262812228141395",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/scottstts-2121262812228141395.webp",
+      "frames": 33,
+      "duration_ms": 5511,
+      "width": 416,
+      "height": 234,
+      "loop_count": 0,
+      "bytes": 290022,
+      "file_sha256": "96fcc7afea5abbe9678de1b6f93e732c4832558d9197e98deb24578f8b571ad8",
+      "blob_sha": "ff699295955323aa4faeee18df25e939ac67b408",
+      "status": "animated"
+    },
+    {
+      "id": "kevin-t-ngo-2121261917016903748",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kevin-t-ngo-2121261917016903748.webp",
+      "frames": 33,
+      "duration_ms": 5511,
+      "width": 416,
+      "height": 234,
+      "loop_count": 0,
+      "bytes": 115254,
+      "file_sha256": "c57908ad31b270191d70e1555dc02bafdd07ea6806668084808327a1ddf55ff7",
+      "blob_sha": "1a492d49d62e10a6e838e9d9ef9eaf8100d72a51",
+      "status": "animated"
+    },
+    {
+      "id": "0xmovez-2121001440470577157",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/0xmovez-2121001440470577157.webp",
+      "frames": 33,
+      "duration_ms": 5511,
+      "width": 416,
+      "height": 234,
+      "loop_count": 0,
+      "bytes": 143104,
+      "file_sha256": "0fb5ddcf1ed429290a9485cfbb4c5e43d171147f58d4bc2ab912af30cd5b1078",
+      "blob_sha": "ef691f08a68c08112b899dcea143d52ae2a47ba8",
+      "status": "animated"
+    },
+    {
+      "id": "tetumemo-2121223780718792936",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/tetumemo-2121223780718792936.webp",
+      "frames": 33,
+      "duration_ms": 5511,
+      "width": 416,
+      "height": 234,
+      "loop_count": 0,
+      "bytes": 74184,
+      "file_sha256": "3c319346897a0778d8c426524740aeca6370d41e1c4915c4dbcef0d5e0d76933",
+      "blob_sha": "60d90591726971df3f60f4546b47560eb09bbff7",
+      "status": "animated"
+    },
+    {
+      "id": "spidermanzdev-2121087583924941302",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/spidermanzdev-2121087583924941302.webp",
+      "frames": 33,
+      "duration_ms": 5511,
+      "width": 416,
+      "height": 234,
+      "loop_count": 0,
+      "bytes": 326326,
+      "file_sha256": "4120b9c44a6f6085bc8f053fbc3233f860063571c6f239867dead40aaab56309",
+      "blob_sha": "66c3e6f987d36e7ada21671b7009d24c68a5d6e8",
+      "status": "animated"
+    },
+    {
+      "id": "stargridcompass-2121208957276713181",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/stargridcompass-2121208957276713181.webp",
+      "frames": 33,
+      "duration_ms": 5511,
+      "width": 416,
+      "height": 234,
+      "loop_count": 0,
+      "bytes": 83182,
+      "file_sha256": "94a7bde0f4a9591aed123cb7a737bfc22234c51646d84a6e7a2b57b23a7eaef4",
+      "blob_sha": "21a4d18d1b279badc65d0610b61084278557f79c",
+      "status": "animated"
+    },
+    {
+      "id": "mrtacticalx-2121270015840141774",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/mrtacticalx-2121270015840141774.webp",
+      "frames": 33,
+      "duration_ms": 5511,
+      "width": 416,
+      "height": 234,
+      "loop_count": 0,
+      "bytes": 153490,
+      "file_sha256": "7f71c83cb09109cdafef331234919276695cfda5838269581cc17d2a6d9ee68a",
+      "blob_sha": "1f70c31c34b94b53bbec24871c9a9787495a20e6",
       "status": "animated"
     }
   ]

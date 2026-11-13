@@ -8,16 +8,23 @@ Looping previews on every card. Full videos open on the original platform; unava
 
 <a id="short-films"></a>
 
-## Short Films & Stories · 42
+## Short Films & Stories · 44
 
 Character animation, anime shorts, cinematic storytelling and music videos.
 
 <table>
 <tr>
 <td width="33%" valign="top">
+<a href="https://video.twimg.com/amplify_video/2121260777667735552/vid/avc1/1080x1080/E9SGCsLNIrFdfgmJ.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kevin-t-ngo-2121261917016903748.webp" alt="A hand-drawn-style short about an egg and a duck — @kevin_t_ngo" width="100%" loading="lazy"></a><br>
+<b>A hand-drawn-style short about an egg and a duck</b><br>
+<sub><b>New</b> · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · 1:20 · 2026-11-13</sub><br>
+<a href="https://video.twimg.com/amplify_video/2121260777667735552/vid/avc1/1080x1080/E9SGCsLNIrFdfgmJ.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/kevin_t_ngo/status/2121261917016903748">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/kevin-t-ngo-2121261917016903748.md">Details</a>
+
+</td>
+<td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2121175618289389568/vid/avc1/3024x1660/GD6vq4RoARkQT7vs.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/chetaslua-2121176151234330707.webp" alt="Crimson Loong, a Three.js dragon short — @chetaslua" width="100%" loading="lazy"></a><br>
 <b>Crimson Loong, a Three.js dragon short</b><br>
-<sub><b>New</b> · <a href="https://x.com/chetaslua">@chetaslua</a> · 1:25 · 2026-11-13</sub><br>
+<sub><b>↗ Rising</b> · <a href="https://x.com/chetaslua">@chetaslua</a> · 1:25 · 2026-11-13</sub><br>
 <a href="https://video.twimg.com/amplify_video/2121175618289389568/vid/avc1/3024x1660/GD6vq4RoARkQT7vs.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/chetaslua/status/2121176151234330707">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/chetaslua-2121176151234330707.md">Details</a>
 
 </td>
@@ -28,6 +35,8 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2121121702482747392/vid/avc1/1080x1920/Eg6j8xBR8oMxvQRB.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/akiyoshisan/status/2121122179018531193">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/akiyoshisan-2121122179018531193.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2121066008483913728/vid/avc1/1920x1080/kzRTU-ZlEwqnem5b.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/loktar00-2121066943662743624.webp" alt="A brick-built pirate short with rolling waves — @loktar00" width="100%" loading="lazy"></a><br>
 <b>A brick-built pirate short with rolling waves</b><br>
@@ -35,8 +44,13 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2121066008483913728/vid/avc1/1920x1080/kzRTU-ZlEwqnem5b.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/loktar00/status/2121066943662743624">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/loktar00-2121066943662743624.md">Details</a>
 
 </td>
-</tr>
-<tr>
+<td width="33%" valign="top">
+<a href="https://video.twimg.com/amplify_video/2121001266042044416/vid/avc1/1920x1080/oqE5i6yq8lLnPvqf.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/0xmovez-2121001440470577157.webp" alt="A balloon ride through eight storybook worlds — @0xMovez" width="100%" loading="lazy"></a><br>
+<b>A balloon ride through eight storybook worlds</b><br>
+<sub><b>New</b> · <a href="https://x.com/0xMovez">@0xMovez</a> · 1:41 · 2026-11-12</sub><br>
+<a href="https://video.twimg.com/amplify_video/2121001266042044416/vid/avc1/1920x1080/oqE5i6yq8lLnPvqf.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/0xMovez/status/2121001440470577157">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/0xmovez-2121001440470577157.md">Details</a>
+<details><summary>📝 View prompt</summary><p>The creator shared a prompt at the link below. Read it in its original context, with any references and follow-up instructions.</p><p><a href="https://x.com/0xMovez/status/2121001444383814027">Read the creator’s prompt</a></p></details>
+</td>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120729437482455040/vid/avc1/1920x1080/6gkPJnL7ykHAwazS.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/wangray-2120730013037466048.webp" alt="A Blender film with a desktop-sized Clawd — @wangray" width="100%" loading="lazy"></a><br>
 <b>A Blender film with a desktop-sized Clawd</b><br>
@@ -44,6 +58,8 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2120729437482455040/vid/avc1/1920x1080/6gkPJnL7ykHAwazS.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/wangray/status/2120730013037466048">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/wangray-2120730013037466048.md">Details</a>
 <details><summary>📝 View prompt</summary><p>The creator shared a prompt at the link below. Read it in its original context, with any references and follow-up instructions.</p><p><a href="https://x.com/wangray/status/2120730013037466048">Read the creator’s prompt</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120643700003082240/vid/avc1/3840x2160/IrX_jwUNliOLWHBc.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/jacobmolbio-2120648796334178374.webp" alt="Better Half, a Blender short about tiny crabs — @JacobMolBio" width="100%" loading="lazy"></a><br>
 <b>Better Half, a Blender short about tiny crabs</b><br>
@@ -58,8 +74,6 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2120351689219936256/vid/avc1/1280x720/-ICvOF8Av4JnSAaj.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/shun_cmdouga/status/2120622594663616515">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/shun-cmdouga-2120622594663616515.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120601647760261120/vid/avc1/1920x1080/IAnqlZZmZKQrtPKZ.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/iamshankhadeep-2120601879029907520.webp" alt="A reel of browser-rendered short films — @Iamshankhadeep" width="100%" loading="lazy"></a><br>
 <b>A reel of browser-rendered short films</b><br>
@@ -67,6 +81,8 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2120601647760261120/vid/avc1/1920x1080/IAnqlZZmZKQrtPKZ.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/Iamshankhadeep/status/2120601879029907520">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/iamshankhadeep-2120601879029907520.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120387084984922112/vid/avc1/1080x1920/Amvlx9hYtRvo0Fcn.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/akiyoshisan-2120387868665475262.webp" alt="A bass note turns the page on a new world — @akiyoshisan" width="100%" loading="lazy"></a><br>
 <b>A bass note turns the page on a new world</b><br>
@@ -81,8 +97,6 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2120291597568954368/vid/avc1/1080x1080/s1ZeBfuKZ6fDnlbx.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/IAenCrudo/status/2120291820844273983">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/iaencrudo-2120291820844273983.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120265887135715328/vid/avc1/1920x1080/6M8UYJ2wXkM5cgJM.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/untitled-sys-2120265921390621058.webp" alt="A Blender short built around light in a quiet room — @untitled_sys" width="100%" loading="lazy"></a><br>
 <b>A Blender short built around light in a quiet room</b><br>
@@ -90,6 +104,8 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2120265887135715328/vid/avc1/1920x1080/6M8UYJ2wXkM5cgJM.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/untitled_sys/status/2120265921390621058">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/untitled-sys-2120265921390621058.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120264070083620864/vid/avc1/1920x1080/80xVsB3rl4Bxzo30.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/iamshankhadeep-2120264513224392712.webp" alt="A Blender showreel on a desk beside a waterfall — @Iamshankhadeep" width="100%" loading="lazy"></a><br>
 <b>A Blender showreel on a desk beside a waterfall</b><br>
@@ -104,8 +120,6 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2120128135681470464/vid/avc1/910x512/z_FMx9vV7-Tja50p.mp4?tag=14">▶ Watch</a> · <a href="https://x.com/kosen_labo/status/2120128253327474845">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/kosen-labo-2120128253327474845.md">Details</a>
 <details><summary>📝 View prompt</summary><blockquote>高専について、なんかすごい動画を作ってください</blockquote><p><a href="https://x.com/kosen_labo/status/2120128253327474845">Read the creator’s prompt</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120128077975977984/vid/avc1/1280x720/m9IjLTrfzffl_S5p.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/uraharastudio-2120128234499002537.webp" alt="Yami vs Shanks, animated in code — @Uraharastudio" width="100%" loading="lazy"></a><br>
 <b>Yami vs Shanks, animated in code</b><br>
@@ -113,6 +127,8 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2120128077975977984/vid/avc1/1280x720/m9IjLTrfzffl_S5p.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/Uraharastudio/status/2120128234499002537">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/uraharastudio-2120128234499002537.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120117891240742914/vid/avc1/1920x1080/-2LACPT73SSi5tr7.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/lemomo-ai-2120118194409193682.webp" alt="A moonlit library of flying pages — @lemomo_ai" width="100%" loading="lazy"></a><br>
 <b>A moonlit library of flying pages</b><br>
@@ -127,8 +143,6 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2120100208990371842/vid/avc1/1920x1080/AvuwxFaTzQOwI2tO.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/argofowl/status/2120100759195000942">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/argofowl-2120100759195000942.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120091572830388224/vid/avc1/1212x668/4dpNdt1GmAYYx4ix.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/hajimetwi3-2120093427731943510.webp" alt="A real-time visual poem in a single HTML file — @hajimetwi3" width="100%" loading="lazy"></a><br>
 <b>A real-time visual poem in a single HTML file</b><br>
@@ -136,6 +150,8 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2120091572830388224/vid/avc1/1212x668/4dpNdt1GmAYYx4ix.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/hajimetwi3/status/2120093427731943510">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/hajimetwi3-2120093427731943510.md">Details</a>
 <details><summary>📝 View prompt</summary><blockquote>凄いものを作って！！</blockquote><p><a href="https://x.com/hajimetwi3/status/2120093427731943510">Read the creator’s prompt</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120093387827408896/vid/avc1/1280x720/smY9JD24a6IJBHmb.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/okknews-2120093425739706435.webp" alt="Model Wars, an animated final-boss reveal — @okknews" width="100%" loading="lazy"></a><br>
 <b>Model Wars, an animated final-boss reveal</b><br>
@@ -150,8 +166,6 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2119959242413379584/vid/avc1/1920x1080/wGI80-cGZLEwRMvR.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/seiiiiiiiiiiru/status/2120079029386588503">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/seiiiiiiiiiiru-2120079029386588503.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120077244446183424/vid/avc1/1920x1080/i_TF0cdPU4CEPy9M.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ds-nakajima-2120077444724191633.webp" alt="A cosmic animation from a single bright point — @ds_nakajima" width="100%" loading="lazy"></a><br>
 <b>A cosmic animation from a single bright point</b><br>
@@ -159,6 +173,8 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2120077244446183424/vid/avc1/1920x1080/i_TF0cdPU4CEPy9M.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/ds_nakajima/status/2120077444724191633">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/ds-nakajima-2120077444724191633.md">Details</a>
 <details><summary>📝 View prompt</summary><blockquote>すごい動画を作ったほしい</blockquote><p><a href="https://x.com/ds_nakajima/status/2120077444724191633">Read the creator’s prompt</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120076635022176256/vid/avc1/1920x1080/_pMVSUXNU5xgUqUo.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/rute1203d-2120077147872391540.webp" alt="A Japanese short from particle studies to a cherry-blossom scene — @rute1203d" width="100%" loading="lazy"></a><br>
 <b>A Japanese short from particle studies to a cherry-blossom scene</b><br>
@@ -173,8 +189,6 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2120073390942048256/vid/avc1/3024x1714/xZRjyNo0Fwszd5WF.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/HaileyAILabs/status/2120075292043890890">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/haileyailabs-2120075292043890890.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120014231450034176/vid/avc1/1920x1080/7CaA0vV2Tej61d3g.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/wshuyi-2120014892040417720.webp" alt="A saber-toothed tiger on the hunt — @wshuyi" width="100%" loading="lazy"></a><br>
 <b>A saber-toothed tiger on the hunt</b><br>
@@ -182,6 +196,8 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2120014231450034176/vid/avc1/1920x1080/7CaA0vV2Tej61d3g.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/wshuyi/status/2120014892040417720">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/wshuyi-2120014892040417720.md">Details</a>
 <details><summary>📝 View prompt</summary><p>The creator shared a prompt at the link below. Read it in its original context, with any references and follow-up instructions.</p><p><a href="https://x.com/wshuyi/status/2120014892040417720">Read the creator’s prompt</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120010999818289152/vid/avc1/1920x1080/IWfi7bdM6kIQXIB4.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/anabology-2120011096287297557.webp" alt="A dream film with code-built sets — @anabology" width="100%" loading="lazy"></a><br>
 <b>A dream film with code-built sets</b><br>
@@ -196,8 +212,6 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2119991676600975360/vid/avc1/1920x1080/SkX17BUiYGK12VwD.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/imjustnewatai/status/2119991883997045049">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/imjustnewatai-2119991883997045049.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119959154026840064/vid/avc1/1920x1080/xTHXVvf_6YhKOkmx.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/renoiseai-2119959294716326280.webp" alt="A cat that refuses to follow the script — @renoiseai" width="100%" loading="lazy"></a><br>
 <b>A cat that refuses to follow the script</b><br>
@@ -205,6 +219,8 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2119959154026840064/vid/avc1/1920x1080/xTHXVvf_6YhKOkmx.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/renoiseai/status/2119959294716326280">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/renoiseai-2119959294716326280.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119937132647313408/vid/avc1/1080x1080/T2W6Dhpu_gMoxVTM.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kevin-t-ngo-2119938129079808282.webp" alt="A JavaScript-drawn animated short — @kevin_t_ngo" width="100%" loading="lazy"></a><br>
 <b>A JavaScript-drawn animated short</b><br>
@@ -219,8 +235,6 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2119923123092893696/vid/avc1/720x1280/M2J_aC5567oGoPEu.mp4?tag=14">▶ Watch</a> · <a href="https://x.com/osmanaga__/status/2119923975635738780">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/osmanaga-146194.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119910396719177728/vid/avc1/1280x720/0X1wTe1JivqZgtXw.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/wesroth-934330.webp" alt="An anime music video with timed lyrics — @WesRoth" width="100%" loading="lazy"></a><br>
 <b>An anime music video with timed lyrics</b><br>
@@ -228,6 +242,8 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2119910396719177728/vid/avc1/1280x720/0X1wTe1JivqZgtXw.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/WesRoth/status/2119911161386934330">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/wesroth-934330.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119909698367557632/vid/avc1/1920x1080/EkOxfDMK1PSG_XOD.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kloss-xyz-2119910613828980846.webp" alt="A Blender short planned by Fable 5.2 and built by Opus 5.5 — @kloss_xyz" width="100%" loading="lazy"></a><br>
 <b>A Blender short planned by Fable 5.2 and built by Opus 5.5</b><br>
@@ -242,8 +258,6 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2119904158409256960/vid/avc1/1920x1080/FHiVbLKGnw5mFlJ7.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/EngMoElgaraihy/status/2119904813718643141">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/engmoelgaraihy-643141.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119904119569690624/vid/avc1/1080x1920/24p1AimqIbXNXJ-Z.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/cube-lol-832554.webp" alt="A 46-second film with zero generated images — @cube__lol" width="100%" loading="lazy"></a><br>
 <b>A 46-second film with zero generated images</b><br>
@@ -251,6 +265,8 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2119904119569690624/vid/avc1/1080x1920/24p1AimqIbXNXJ-Z.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/cube__lol/status/2119904449556832554">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/cube-lol-832554.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119904334397792256/vid/avc1/1920x1080/Sz-4m8aagrACSa85.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/g-beyrouti-780943.webp" alt="A deep-sea dive rendered in code — @g_beyrouti" width="100%" loading="lazy"></a><br>
 <b>A deep-sea dive rendered in code</b><br>
@@ -265,8 +281,6 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2119900741783400450/vid/avc1/1920x1080/m--vaF5s-VQhaEAL.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/0kncn/status/2119901782482543073">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/0kncn-543073.md">Details</a>
 <details><summary>📝 View prompt</summary><p>The creator shared a prompt at the link below. Read it in its original context, with any references and follow-up instructions.</p><p><a href="https://x.com/0kncn/status/2119901786060259612">Read the creator’s prompt</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119899951345893376/vid/avc1/1920x1080/YjLMjLxfThe6MUXI.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/noisyb0y1-218472.webp" alt="An 83-second anime film made of code — @noisyb0y1" width="100%" loading="lazy"></a><br>
 <b>An 83-second anime film made of code</b><br>
@@ -274,6 +288,8 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2119899951345893376/vid/avc1/1920x1080/YjLMjLxfThe6MUXI.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/noisyb0y1/status/2119900528197218472">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/noisyb0y1-218472.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119897357940621312/vid/avc1/1920x1080/ZjoaXFviS7F_qc-m.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/yinyangyoeshi-001317.webp" alt="Discovery, a short film in Three.js — @YinYangYoeshi" width="100%" loading="lazy"></a><br>
 <b>Discovery, a short film in Three.js</b><br>
@@ -288,8 +304,6 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2119895450509586432/vid/avc1/1920x1080/AS5GlEaPMeHXKU5d.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/jessalanfields/status/2119895969957392730">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/jessalanfields-392730.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119892377045237760/vid/avc1/1920x1080/u8IeGB-A3MQgl4XE.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/devteamdrew-241283.webp" alt="From a tiny creature to the cosmos — @devteamdrew" width="100%" loading="lazy"></a><br>
 <b>From a tiny creature to the cosmos</b><br>
@@ -297,6 +311,8 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2119892377045237760/vid/avc1/1920x1080/u8IeGB-A3MQgl4XE.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/devteamdrew/status/2119892540950241283">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/devteamdrew-241283.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119889346706673664/vid/avc1/1920x1080/VxlTVaaElWO17W42.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/marvellousdev-380563.webp" alt="A lighthouse keeper short film — @MarvellousDev" width="100%" loading="lazy"></a><br>
 <b>A lighthouse keeper short film</b><br>
@@ -311,8 +327,6 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2119887881321787392/vid/avc1/1920x1080/zPvL0-S5VSv6SkYI.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/ponken00/status/2119888362148622656">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/ponken00-622656.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/ext_tw_video/2119885702250786816/pu/vid/avc1/1280x720/vaqq1fwB8qUuFlPu.mp4?tag=27"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/peach2k2-738033.webp" alt="A Vocaloid love song starring Teto — @peach2k2" width="100%" loading="lazy"></a><br>
 <b>A Vocaloid love song starring Teto</b><br>
@@ -320,6 +334,8 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/ext_tw_video/2119885702250786816/pu/vid/avc1/1280x720/vaqq1fwB8qUuFlPu.mp4?tag=27">▶ Watch</a> · <a href="https://x.com/peach2k2/status/2119885741773738033">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/peach2k2-738033.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119880037172146176/vid/avc1/1920x1080/E4G1BysAeWIl4yTX.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/lexnlin-977333.webp" alt="A flight through a living world — @LexnLin" width="100%" loading="lazy"></a><br>
 <b>A flight through a living world</b><br>
@@ -334,6 +350,7 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2119874130904502272/vid/avc1/1920x1080/FVx09qWfu11d8QIK.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/abhinavflac/status/2119875975131676827">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/abhinavflac-676827.md">Details</a>
 
 </td>
+<td width="33%"></td>
 </tr>
 </table>
 
@@ -750,12 +767,26 @@ Archived source · <a href="https://x.com/immadiuttej/status/2119882515410538626
 
 <a id="3d"></a>
 
-## 3D Worlds & Simulations · 95
+## 3D Worlds & Simulations · 97
 
 Procedural worlds, virtual cities, Blender scenes and physics simulations.
 
 <table>
 <tr>
+<td width="33%" valign="top">
+<a href="https://video.twimg.com/amplify_video/2121269410405003264/vid/avc1/1080x1350/TOmbg6cM92gFD65s.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/mrtacticalx-2121270015840141774.webp" alt="Two Blender pirate ships from one prompt — @MrTacticalX" width="100%" loading="lazy"></a><br>
+<b>Two Blender pirate ships from one prompt</b><br>
+<sub><b>New</b> · <a href="https://x.com/MrTacticalX">@MrTacticalX</a> · 0:25 · 2026-11-13</sub><br>
+<a href="https://video.twimg.com/amplify_video/2121269410405003264/vid/avc1/1080x1350/TOmbg6cM92gFD65s.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/MrTacticalX/status/2121270015840141774">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/mrtacticalx-2121270015840141774.md">Details</a>
+<details><summary>📝 View prompt</summary><blockquote>build a pirate ship in Blender</blockquote><p><a href="https://x.com/MrTacticalX/status/2121270015840141774">Read the creator’s prompt</a></p></details>
+</td>
+<td width="33%" valign="top">
+<a href="https://video.twimg.com/amplify_video/2121157447360348161/vid/avc1/3840x2160/b-rzsR5rtkFuWvip.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/scottstts-2121262812228141395.webp" alt="Astral Realm, a journey through temples above the clouds — @scottstts" width="100%" loading="lazy"></a><br>
+<b>Astral Realm, a journey through temples above the clouds</b><br>
+<sub><b>New</b> · <a href="https://x.com/scottstts">@scottstts</a> · 2:00 · 2026-11-13</sub><br>
+<a href="https://video.twimg.com/amplify_video/2121157447360348161/vid/avc1/3840x2160/b-rzsR5rtkFuWvip.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/scottstts/status/2121262812228141395">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/scottstts-2121262812228141395.md">Details</a>
+
+</td>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2121159877590708224/vid/avc1/1920x1080/fRTsNzF7PlWrAQ--.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/onofumi-ai-2121160008469778675.webp" alt="A forest camper scene combining Gaussian splats and 3D assets — @onofumi_AI" width="100%" loading="lazy"></a><br>
 <b>A forest camper scene combining Gaussian splats and 3D assets</b><br>
@@ -763,6 +794,8 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2121159877590708224/vid/avc1/1920x1080/fRTsNzF7PlWrAQ--.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/onofumi_AI/status/2121160008469778675">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/onofumi-ai-2121160008469778675.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2121097408348078080/vid/avc1/1080x1080/pItof1FZpm6_WoHd.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/imjustnewatai-2121097470373511184.webp" alt="Learning to reverse a truck with two trailers — @imjustnewatai" width="100%" loading="lazy"></a><br>
 <b>Learning to reverse a truck with two trailers</b><br>
@@ -777,8 +810,6 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2120975845300879360/vid/avc1/3840x2160/aUvUHaQSajvWcVJf.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/scottstts/status/2120977157396533678">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/scottstts-2120977157396533678.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120909338009370624/vid/avc1/1332x752/dq-euZULQItG3ci3.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/hajimetwi3-2120910386614690098.webp" alt="A VRM avatar built from a character reference — @hajimetwi3" width="100%" loading="lazy"></a><br>
 <b>A VRM avatar built from a character reference</b><br>
@@ -786,6 +817,8 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2120909338009370624/vid/avc1/1332x752/dq-euZULQItG3ci3.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/hajimetwi3/status/2120910386614690098">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/hajimetwi3-2120910386614690098.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120905300781694977/vid/avc1/3840x2160/id9V3ukBWga8hIl-.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/scottstts-2120907123357851697.webp" alt="Arcadia, a cliffside house built procedurally — @scottstts" width="100%" loading="lazy"></a><br>
 <b>Arcadia, a cliffside house built procedurally</b><br>
@@ -800,8 +833,6 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2120735773737558016/vid/avc1/1920x1080/sJp2l7Rcm0PCGphv.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/loktar00/status/2120905457380507991">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/loktar00-2120905457380507991.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120842640656642048/vid/avc1/1080x1350/FQ9QjhiAQKuKCDWV.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/mrtacticalx-2120842705395966254.webp" alt="A brick-built supercar in a miniature city — @MrTacticalX" width="100%" loading="lazy"></a><br>
 <b>A brick-built supercar in a miniature city</b><br>
@@ -809,6 +840,8 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2120842640656642048/vid/avc1/1080x1350/FQ9QjhiAQKuKCDWV.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/MrTacticalX/status/2120842705395966254">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/mrtacticalx-2120842705395966254.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120756185255280640/vid/avc1/1920x1080/cyqR1cP_m0o4kK5p.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kanaworks-ai-2120756625699143977.webp" alt="A continuous flight from a blade of grass to orbit — @KanaWorks_AI" width="100%" loading="lazy"></a><br>
 <b>A continuous flight from a blade of grass to orbit</b><br>
@@ -823,8 +856,6 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2120695261080997888/vid/avc1/1920x1080/Kxjgtlp4UUvIqjQ_.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/imjustnewatai/status/2120695368874631226">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/imjustnewatai-2120695368874631226.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120693488123871232/vid/avc1/2560x1440/qE95X-Mwerms3yXv.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/blendibyl-2120694003230560585.webp" alt="An explorable painted valley under changing skies — @BlendiByl" width="100%" loading="lazy"></a><br>
 <b>An explorable painted valley under changing skies</b><br>
@@ -832,6 +863,8 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2120693488123871232/vid/avc1/2560x1440/qE95X-Mwerms3yXv.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/BlendiByl/status/2120694003230560585">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/blendibyl-2120694003230560585.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120675630282911744/vid/avc1/1920x1080/X2zBSZVT9empWwwq.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/calebfahlgren-2120680918914601165.webp" alt="A first-person walk through a two-story house — @calebfahlgren" width="100%" loading="lazy"></a><br>
 <b>A first-person walk through a two-story house</b><br>
@@ -846,8 +879,6 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2120653467043667968/vid/avc1/1920x1080/hy2Hk_wMUEO0YT1V.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/loktar00/status/2120653702843277359">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/loktar00-2120653702843277359.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120425125900328960/vid/avc1/1168x2248/ewBXgYEXri_Y_wGA.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/excel-niisan-2120425260889817476.webp" alt="A walkable 3D scene of Yokohama’s Minato Mirai — @excel_niisan" width="100%" loading="lazy"></a><br>
 <b>A walkable 3D scene of Yokohama’s Minato Mirai</b><br>
@@ -855,6 +886,8 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2120425125900328960/vid/avc1/1168x2248/ewBXgYEXri_Y_wGA.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/excel_niisan/status/2120425260889817476">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/excel-niisan-2120425260889817476.md">Details</a>
 <details><summary>📝 View prompt</summary><blockquote>横浜みなとみらいの3D空間を作って</blockquote><p><a href="https://x.com/excel_niisan/status/2120425260889817476">Read the creator’s prompt</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120314560297021440/vid/avc1/3840x2160/7HGk23L88dFl3nSk.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/sin-ceriously-2120318808216981986.webp" alt="A marble-powered chain reaction in Lattice — @sin_ceriously" width="100%" loading="lazy"></a><br>
 <b>A marble-powered chain reaction in Lattice</b><br>
@@ -869,8 +902,6 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2120315007900819456/vid/avc1/1920x1080/GZkLFadi9AtkYzAJ.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/MengTo/status/2120316203738829180">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/mengto-2120316203738829180.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120274361063964672/vid/avc1/2208x1232/MGymGTy2uK8ZYX4z.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/jpschroeder-2120274979614851145.webp" alt="A walk through an autumn zen garden — @jpschroeder" width="100%" loading="lazy"></a><br>
 <b>A walk through an autumn zen garden</b><br>
@@ -878,6 +909,8 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2120274361063964672/vid/avc1/2208x1232/MGymGTy2uK8ZYX4z.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/jpschroeder/status/2120274979614851145">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/jpschroeder-2120274979614851145.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120267796810473472/vid/avc1/1920x1080/KSmjuhKzCxmnfnXo.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/0xapexai-2120268733360779645.webp" alt="A Blender character rigging comparison from Tripo assets — @0xApexAi" width="100%" loading="lazy"></a><br>
 <b>A Blender character rigging comparison from Tripo assets</b><br>
@@ -892,8 +925,6 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2120266429807083520/vid/avc1/1280x536/cqqPa-Wwvx0eJotG.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/itsluneri/status/2120266583826182317">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/itsluneri-2120266583826182317.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120265385471574016/vid/avc1/1920x1080/fIfzIciKght3vPN5.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/oalanicolas-2120266468780585456.webp" alt="A 3D house tour from a floor plan and photos — @oalanicolas" width="100%" loading="lazy"></a><br>
 <b>A 3D house tour from a floor plan and photos</b><br>
@@ -901,6 +932,8 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2120265385471574016/vid/avc1/1920x1080/fIfzIciKght3vPN5.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/oalanicolas/status/2120266468780585456">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/oalanicolas-2120266468780585456.md">Details</a>
 <details><summary>📝 View prompt</summary><p>The creator shared a prompt at the link below. Read it in its original context, with any references and follow-up instructions.</p><p><a href="https://x.com/oalanicolas/status/2120266474950389779">Read the creator’s prompt</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120245103516364800/vid/avc1/758x714/qnjU8gDkvq3f7_-K.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/hajimetwi3-2120245907115651521.webp" alt="A Three.js campfire lit against the dark — @hajimetwi3" width="100%" loading="lazy"></a><br>
 <b>A Three.js campfire lit against the dark</b><br>
@@ -915,8 +948,6 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2120239272632446976/vid/avc1/3840x2160/cCVjSrAMmLTwHIcZ.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/aecyydesign/status/2120239401821487149">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/aecyydesign-2120239401821487149.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120225991066779648/vid/avc1/3840x2160/4z8saQVTMhPUC8Cw.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/tornikegomareli-2120227696261120225.webp" alt="A flythrough of a rain-soaked green city — @tornikegomareli" width="100%" loading="lazy"></a><br>
 <b>A flythrough of a rain-soaked green city</b><br>
@@ -924,6 +955,8 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2120225991066779648/vid/avc1/3840x2160/4z8saQVTMhPUC8Cw.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/tornikegomareli/status/2120227696261120225">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/tornikegomareli-2120227696261120225.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120125545249640448/vid/avc1/3840x2160/u-PUTSTEjUibRIGV.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/petergostev-2120125927086600681.webp" alt="A coral reef with a crocheted texture — @petergostev" width="100%" loading="lazy"></a><br>
 <b>A coral reef with a crocheted texture</b><br>
@@ -938,8 +971,6 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2120113092512436224/vid/avc1/3380x2026/IoUOfTQR_hB4fWMx.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/jsnnsa/status/2120113469290901850">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/jsnnsa-2120113469290901850.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120104433254068225/vid/avc1/1920x1080/TwqTpSJ125nfAGeC.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/vib3coded-2120104517282775514.webp" alt="A miniature voxel world inside a bottle — @vib3coded" width="100%" loading="lazy"></a><br>
 <b>A miniature voxel world inside a bottle</b><br>
@@ -947,6 +978,8 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2120104433254068225/vid/avc1/1920x1080/TwqTpSJ125nfAGeC.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/vib3coded/status/2120104517282775514">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/vib3coded-2120104517282775514.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120098419654230017/vid/avc1/1920x1080/oFLDhtXCqoMaEWyp.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kanaworks-ai-2120098607382880627.webp" alt="An unbroken flight through changing 3D worlds — @KanaWorks_AI" width="100%" loading="lazy"></a><br>
 <b>An unbroken flight through changing 3D worlds</b><br>
@@ -961,8 +994,6 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2120071508370640896/vid/avc1/3586x2160/cVxJQZsnnBLew_X_.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/adamdotnew/status/2120071630139621540">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/adamdotnew-2120071630139621540.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120041080502771712/vid/avc1/1920x1080/Y6-SMkmCzqQY0R50.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/onofumi-ai-2120041161251569681.webp" alt="A Japanese castle rises in a construction time-lapse — @onofumi_AI" width="100%" loading="lazy"></a><br>
 <b>A Japanese castle rises in a construction time-lapse</b><br>
@@ -970,6 +1001,8 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2120041080502771712/vid/avc1/1920x1080/Y6-SMkmCzqQY0R50.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/onofumi_AI/status/2120041161251569681">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/onofumi-ai-2120041161251569681.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119997805469343744/vid/avc1/1920x1080/k9AwH2MwZ_uq1Npk.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kanaworks-ai-2119998466143490282.webp" alt="A Blender meadow with ElevenLabs-generated audio — @KanaWorks_AI" width="100%" loading="lazy"></a><br>
 <b>A Blender meadow with ElevenLabs-generated audio</b><br>
@@ -984,8 +1017,6 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119949461199921152/vid/avc1/1920x1080/spFpZLaZvsrfqk5k.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/seiiiiiiiiiiru/status/2119988430247448847">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/seiiiiiiiiiiru-2119988430247448847.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119965554627014656/vid/avc1/1920x1080/5kgrvrWg41_GG_7E.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/xikhar-2119966147328299284.webp" alt="A reference-guided Bugatti Tourbillon Blender film — @xikhar" width="100%" loading="lazy"></a><br>
 <b>A reference-guided Bugatti Tourbillon Blender film</b><br>
@@ -993,6 +1024,8 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119965554627014656/vid/avc1/1920x1080/5kgrvrWg41_GG_7E.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/xikhar/status/2119966147328299284">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/xikhar-2119966147328299284.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119931613010108416/vid/avc1/1920x1080/ajuuqeO_AOInKjjo.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/loktar00-2119958719362666708.webp" alt="A tiny Machu Picchu world with fog and alpacas — @loktar00" width="100%" loading="lazy"></a><br>
 <b>A tiny Machu Picchu world with fog and alpacas</b><br>
@@ -1007,8 +1040,6 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119955491941949440/vid/avc1/1080x1216/I1OZU6Yuz2YtpyCA.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/MrTacticalX/status/2119955647542542439">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/mrtacticalx-2119955647542542439.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119950297183166464/vid/avc1/1920x1080/Rlaw9k2rNAElPEi1.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/maxxwilliamson-2119953172634677533.webp" alt="A Mediterranean-themed space habitat — @MaxXWilliamson" width="100%" loading="lazy"></a><br>
 <b>A Mediterranean-themed space habitat</b><br>
@@ -1016,6 +1047,8 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119950297183166464/vid/avc1/1920x1080/Rlaw9k2rNAElPEi1.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/MaxXWilliamson/status/2119953172634677533">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/maxxwilliamson-2119953172634677533.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119930095406288896/vid/avc1/3456x1438/QrvS6vt8W2VY3Fld.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/deedydas-2119930300990177509.webp" alt="A real-time WebGL honey simulation — @deedydas" width="100%" loading="lazy"></a><br>
 <b>A real-time WebGL honey simulation</b><br>
@@ -1030,8 +1063,6 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119915176354885632/vid/avc1/1920x1080/KKtYnQwg6iF7nZO0.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/higgsfield_ai/status/2119918834841010320">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/higgsfield-ai-2119918834841010320.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119918430635626496/vid/avc1/1080x1210/P1HVkhM5lHbULv8J.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/higgsfield-ai-2119918838490010008.webp" alt="An American diner built in code — @higgsfield_ai" width="100%" loading="lazy"></a><br>
 <b>An American diner built in code</b><br>
@@ -1039,6 +1070,8 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119918430635626496/vid/avc1/1080x1210/P1HVkhM5lHbULv8J.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/higgsfield_ai/status/2119918838490010008">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/higgsfield-ai-2119918838490010008.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119910441837305856/vid/avc1/2300x1080/9Jjvi_wR23hStOua.mp4?tag=16"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/handsher-ngu-789655.webp" alt="Fly into a spiral galaxy — @handsher_NGU" width="100%" loading="lazy"></a><br>
 <b>Fly into a spiral galaxy</b><br>
@@ -1053,8 +1086,6 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119909152743194624/vid/avc1/1920x1080/F_ZjzZnw1Sh-Mmb8.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/higgsfield_ai/status/2119910344998912507">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/higgsfield-ai-912507.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119909700862943233/vid/avc1/1920x1080/FN2antQKJ-tZoIhH.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/scratcherrrr-785332.webp" alt="A 3D piranha that takes itself apart — @Scratcherrrr" width="100%" loading="lazy"></a><br>
 <b>A 3D piranha that takes itself apart</b><br>
@@ -1062,6 +1093,8 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119909700862943233/vid/avc1/1920x1080/FN2antQKJ-tZoIhH.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/Scratcherrrr/status/2119909780269785332">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/scratcherrrr-785332.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/ext_tw_video/2119909140998823936/pu/vid/avc1/1280x720/Le9VVnckc0pwI3QT.mp4?tag=12"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/s-matysik-213380.webp" alt="A command center for an agent system — @s_matysik" width="100%" loading="lazy"></a><br>
 <b>A command center for an agent system</b><br>
@@ -1076,8 +1109,6 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119908342663651330/vid/avc1/1920x1080/qPUbaNsET2HB1nmF.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/higgsfield_ai/status/2119908486880342326">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/higgsfield-ai-342326.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119907568432934912/vid/avc1/1920x1080/eq_KAVRRnNt9sJcM.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/higgsfield-ai-496421.webp" alt="The world through a fly&#x27;s eyes — @higgsfield_ai" width="100%" loading="lazy"></a><br>
 <b>The world through a fly&#x27;s eyes</b><br>
@@ -1085,6 +1116,8 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119907568432934912/vid/avc1/1920x1080/eq_KAVRRnNt9sJcM.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/higgsfield_ai/status/2119907841599496421">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/higgsfield-ai-496421.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119907107449544704/vid/avc1/2880x2880/aQsdilYUcKwF_4Di.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/envoldev-2119907318729245180.webp" alt="Cathedral of Ice: Fable 5.2 and Opus 5.5 compared — @EnvolDev" width="100%" loading="lazy"></a><br>
 <b>Cathedral of Ice: Fable 5.2 and Opus 5.5 compared</b><br>
@@ -1099,8 +1132,6 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119906290478559232/vid/avc1/1880x1280/d1J65qUiPlX62ABY.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/LuminaBench/status/2119907096636657696">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/luminabench-657696.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119906227853602816/vid/avc1/1920x1080/N4YdoIeKUPkbvTzU.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/fuoeba-307074.webp" alt="A ray tracer written from scratch, no 3D software — @fuoeba" width="100%" loading="lazy"></a><br>
 <b>A ray tracer written from scratch, no 3D software</b><br>
@@ -1108,6 +1139,8 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119906227853602816/vid/avc1/1920x1080/N4YdoIeKUPkbvTzU.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/fuoeba/status/2119906486017307074">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/fuoeba-307074.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119905289743020032/vid/avc1/1920x1080/etz_eCYQ6b-Lj5MO.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/higgsfield-ai-945977.webp" alt="A Mexico City market built entirely in code — @higgsfield_ai" width="100%" loading="lazy"></a><br>
 <b>A Mexico City market built entirely in code</b><br>
@@ -1122,8 +1155,6 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119906148698484736/vid/avc1/1920x1080/Sgdo6c9D1mBdZbhn.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/josendev/status/2119906280118845704">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/josendev-845704.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119905884365074432/vid/avc1/1922x1080/SgmAc5CFTaaJq3tq.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/sprinntt-988961.webp" alt="A ramen stall on a rainy Tokyo night — @sprinntt" width="100%" loading="lazy"></a><br>
 <b>A ramen stall on a rainy Tokyo night</b><br>
@@ -1131,6 +1162,8 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119905884365074432/vid/avc1/1922x1080/SgmAc5CFTaaJq3tq.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/sprinntt/status/2119906202330988961">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/sprinntt-988961.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119904377221910528/vid/avc1/1920x1080/NVeak_ycaNknS-mN.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/notjazii-122575.webp" alt="A pirate ship sailing across the ocean — @notjazii" width="100%" loading="lazy"></a><br>
 <b>A pirate ship sailing across the ocean</b><br>
@@ -1145,8 +1178,6 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119904157574279169/vid/avc1/1440x1080/sQX85HkDqeEicshB.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/MooncastOnline/status/2119905190254145963">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/mooncastonline-145963.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119903112425066496/vid/avc1/1920x1080/m1x8bc6dk1l-gRsQ.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/higgsfield-ai-484595.webp" alt="A rainy Tokyo alley made without a video model — @higgsfield_ai" width="100%" loading="lazy"></a><br>
 <b>A rainy Tokyo alley made without a video model</b><br>
@@ -1154,6 +1185,8 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119903112425066496/vid/avc1/1920x1080/m1x8bc6dk1l-gRsQ.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/higgsfield_ai/status/2119905141822484595">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/higgsfield-ai-484595.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119903375407878145/vid/avc1/1920x1080/CLp6m1t05mkdAtEV.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/adityavg13-799971.webp" alt="A Star Wars battle built in Blender — @adityavg13" width="100%" loading="lazy"></a><br>
 <b>A Star Wars battle built in Blender</b><br>
@@ -1168,8 +1201,6 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119902373770334209/vid/avc1/1920x1080/vCU11lupXlFgCNwm.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/AmirMushich/status/2119903338078564844">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/amirmushich-564844.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119901650827489280/vid/avc1/1920x1080/jGY1FHT06IKubKX6.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/pleometric-186234.webp" alt="A tribute to 90s Bryce ray tracing — @pleometric" width="100%" loading="lazy"></a><br>
 <b>A tribute to 90s Bryce ray tracing</b><br>
@@ -1177,6 +1208,8 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119901650827489280/vid/avc1/1920x1080/jGY1FHT06IKubKX6.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/pleometric/status/2119901747930186234">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/pleometric-186234.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119900521687314432/vid/avc1/1920x1080/jEvZ74FxOfPJmnWp.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kplikethebird-902732.webp" alt="An immersive 3D model of ancient Jerusalem — @kplikethebird" width="100%" loading="lazy"></a><br>
 <b>An immersive 3D model of ancient Jerusalem</b><br>
@@ -1191,8 +1224,6 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119899434121330688/vid/avc1/1920x1080/TejXiGNAzz3Ug7pm.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/rohit3a/status/2119899684999487954">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/rohit3a-487954.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119883625831538689/vid/avc1/1920x1080/oYiIXmDxdlAt7KPN.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/sakshamships-310965.webp" alt="San Francisco modeled in 15 minutes — @sakshamships" width="100%" loading="lazy"></a><br>
 <b>San Francisco modeled in 15 minutes</b><br>
@@ -1200,6 +1231,8 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119883625831538689/vid/avc1/1920x1080/oYiIXmDxdlAt7KPN.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/sakshamships/status/2119898573135310965">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/sakshamships-310965.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119898031696887808/vid/avc1/1280x960/23BJrLg2vEzkewba.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/convictionfaq-937131.webp" alt="A PS2-style nuclear explosion — @ConvictionFAQ" width="100%" loading="lazy"></a><br>
 <b>A PS2-style nuclear explosion</b><br>
@@ -1214,8 +1247,6 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119896430353534976/vid/avc1/1920x1080/J3yEymSqwiVofoL_.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/0xVe1vet/status/2119896809669849204">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/0xve1vet-849204.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119896529141907456/vid/avc1/2250x1440/xC2zlZFZ03UvSURS.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/maxt3chno-467952.webp" alt="A zombie eagle sculpted through Blender MCP — @maxt3chno" width="100%" loading="lazy"></a><br>
 <b>A zombie eagle sculpted through Blender MCP</b><br>
@@ -1223,6 +1254,8 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119896529141907456/vid/avc1/2250x1440/xC2zlZFZ03UvSURS.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/maxt3chno/status/2119896698281467952">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/maxt3chno-467952.md">Details</a>
 <details><summary>📝 View prompt</summary><p>The creator shared a prompt at the link below. Read it in its original context, with any references and follow-up instructions.</p><p><a href="https://x.com/maxt3chno/status/2119896909062058411">Read the creator’s prompt</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119896354348470272/vid/avc1/1920x1080/DrkpfAkS2c4i2-N5.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/rezait00-020389.webp" alt="A car configurator made on medium thinking — @RezAIT00" width="100%" loading="lazy"></a><br>
 <b>A car configurator made on medium thinking</b><br>
@@ -1237,8 +1270,6 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119894403456040960/vid/avc1/1920x1080/imN7Z7KJWRG_8ad3.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/filicroval/status/2119896439010811943">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/filicroval-811943.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119896067659436032/vid/avc1/1906x848/TE0E4Re4hx1qXj2V.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/viewsfrom02108-437907.webp" alt="A photorealistic lighthouse at sunset — @viewsfrom02108" width="100%" loading="lazy"></a><br>
 <b>A photorealistic lighthouse at sunset</b><br>
@@ -1246,6 +1277,8 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119896067659436032/vid/avc1/1906x848/TE0E4Re4hx1qXj2V.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/viewsfrom02108/status/2119896345729437907">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/viewsfrom02108-437907.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119895988517343232/vid/avc1/1920x1080/40ePOR3KPdp1Eqd3.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/zirkomirko-529121.webp" alt="A rocket launch built in under two minutes — @ZirkoMirko" width="100%" loading="lazy"></a><br>
 <b>A rocket launch built in under two minutes</b><br>
@@ -1260,8 +1293,6 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119895394016522240/vid/avc1/1920x1080/OE8d18z8O2VOXnQ5.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/Ldataengineer/status/2119896030993146101">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/ldataengineer-146101.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119895528955617280/vid/avc1/1920x1080/F7m3cnVjtmBdlqPK.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ericskavinski-016005.webp" alt="A Three.js ocean at sunset — @ericskavinski" width="100%" loading="lazy"></a><br>
 <b>A Three.js ocean at sunset</b><br>
@@ -1269,6 +1300,8 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119895528955617280/vid/avc1/1920x1080/F7m3cnVjtmBdlqPK.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/ericskavinski/status/2119895601580016005">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/ericskavinski-016005.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119894442358222848/vid/avc1/1080x1150/e2AYnwUWdNOCcvtU.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/higgsfield-ai-168558.webp" alt="An android head built from a 360 video — @higgsfield_ai" width="100%" loading="lazy"></a><br>
 <b>An android head built from a 360 video</b><br>
@@ -1283,8 +1316,6 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119894096084910080/vid/avc1/1920x1080/7-lN899uuXxwQv1y.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/RezAIT00/status/2119894257519767656">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/rezait00-767656.md">Details</a>
 <details><summary>📝 View prompt</summary><p>The creator shared a prompt at the link below. Read it in its original context, with any references and follow-up instructions.</p><p><a href="https://x.com/RezAIT00/status/2119898136894156960">Read the creator’s prompt</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119893746644840448/vid/avc1/1880x1280/eNjCHemdxyEBKfdz.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/luminabench-807746.webp" alt="A seaplane skimming the water — @LuminaBench" width="100%" loading="lazy"></a><br>
 <b>A seaplane skimming the water</b><br>
@@ -1292,6 +1323,8 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119893746644840448/vid/avc1/1880x1280/eNjCHemdxyEBKfdz.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/LuminaBench/status/2119894130943807746">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/luminabench-807746.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119894029424828416/vid/avc1/1080x1080/yTttnmO-BNIQd7SD.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/josendev-730048.webp" alt="A ditherpunk Saturn — @josendev" width="100%" loading="lazy"></a><br>
 <b>A ditherpunk Saturn</b><br>
@@ -1306,8 +1339,6 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119888131575205888/vid/avc1/1920x1080/9qPoYSv2XDOLxkOX.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/higgsfield_ai/status/2119893970897490135">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/higgsfield-ai-490135.md">Details</a>
 <details><summary>📝 View prompt</summary><p>The creator shared a prompt at the link below. Read it in its original context, with any references and follow-up instructions.</p><p><a href="https://higgsfield.ai/zh/@higgsfield.studio/blogs/bring-a-zombie-hand-to-life-with-fable-5-2-blender">Read the creator’s prompt</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119893810201411584/vid/avc1/1920x1080/KGUGqEyqh334QrTo.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/abhinavflac-859332.webp" alt="Sci-fi blasters built around soda cans — @abhinavflac" width="100%" loading="lazy"></a><br>
 <b>Sci-fi blasters built around soda cans</b><br>
@@ -1315,6 +1346,8 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119893810201411584/vid/avc1/1920x1080/KGUGqEyqh334QrTo.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/abhinavflac/status/2119893868816859332">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/abhinavflac-859332.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119891121857871872/vid/avc1/1920x1080/luZ3TJiesksBThce.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/simonasltu1-622262.webp" alt="A human anatomy explorer in Three.js — @SimonasLTU1" width="100%" loading="lazy"></a><br>
 <b>A human anatomy explorer in Three.js</b><br>
@@ -1329,8 +1362,6 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119891371049861120/vid/avc1/1908x1080/PkN_icMknPZh5G7T.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/ioTanjiro/status/2119891527438606534">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/iotanjiro-606534.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119890640389451776/vid/avc1/1920x858/MZRufVqslQKy01c9.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/marcthecreatorr-054072.webp" alt="A golden sailing ship above the clouds — @marcthecreatorr" width="100%" loading="lazy"></a><br>
 <b>A golden sailing ship above the clouds</b><br>
@@ -1338,6 +1369,8 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119890640389451776/vid/avc1/1920x858/MZRufVqslQKy01c9.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/marcthecreatorr/status/2119890973560054072">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/marcthecreatorr-054072.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119890352924479488/vid/avc1/1888x788/OS0DZVhnM9SbIhhK.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/paulgrowthlab-499382.webp" alt="A pocket black hole — @paulgrowthlab" width="100%" loading="lazy"></a><br>
 <b>A pocket black hole</b><br>
@@ -1352,8 +1385,6 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119890001999880192/vid/avc1/1920x1080/CjYHuGQSGo5-pMNi.mp4?tag=16">▶ Watch</a> · <a href="https://x.com/higgsfield_ai/status/2119890046748938248">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/higgsfield-ai-938248.md">Details</a>
 <details><summary>📝 View prompt</summary><p>The creator shared a prompt at the link below. Read it in its original context, with any references and follow-up instructions.</p><p><a href="https://higgsfield.ai/zh/@higgsfield.studio/blogs/how-we-built-a-transparent-glass-head-in-3d-with-claude-and-one-360-video">Read the creator’s prompt</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119889136433733632/vid/avc1/1080x1228/EDx7xjJIZ2ONA83t.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/trymirage-972028.webp" alt="The White House, then and now — @trymirage" width="100%" loading="lazy"></a><br>
 <b>The White House, then and now</b><br>
@@ -1361,6 +1392,8 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119889136433733632/vid/avc1/1080x1228/EDx7xjJIZ2ONA83t.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/trymirage/status/2119889897200972028">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/trymirage-972028.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119887691294932992/vid/avc1/1280x720/EjANhoPD5I8ooX55.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/zrymiller-106941.webp" alt="An ocean from golden hour to storm — @ZryMiller" width="100%" loading="lazy"></a><br>
 <b>An ocean from golden hour to storm</b><br>
@@ -1375,8 +1408,6 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119887223810076672/vid/avc1/1920x1080/K6WJ5UYNKbbENVTI.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/danteeonsol/status/2119887623070077213">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/danteeonsol-077213.md">Details</a>
 <details><summary>📝 View prompt</summary><p>The creator shared a prompt at the link below. Read it in its original context, with any references and follow-up instructions.</p><p><a href="https://x.com/danteeonsol/status/2119887623070077213">Read the creator’s prompt</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119886346873364480/vid/avc1/1920x1080/kfnhup5vHOkgbHDt.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/handsher-ngu-863367.webp" alt="A galaxy rendered in 20 minutes — @handsher_NGU" width="100%" loading="lazy"></a><br>
 <b>A galaxy rendered in 20 minutes</b><br>
@@ -1384,6 +1415,8 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119886346873364480/vid/avc1/1920x1080/kfnhup5vHOkgbHDt.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/handsher_NGU/status/2119887298292863367">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/handsher-ngu-863367.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119885516627685376/vid/avc1/3442x2160/7U_wQnmQ-ZIsZ463.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/scottstts-734829.webp" alt="An eight-legged mechanical rover — @scottstts" width="100%" loading="lazy"></a><br>
 <b>An eight-legged mechanical rover</b><br>
@@ -1398,8 +1431,6 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119886495347867648/vid/avc1/1920x1080/8nAOHCNBnOTAqt0t.mp4?tag=16">▶ Watch</a> · <a href="https://x.com/petergyang/status/2119886560992854431">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/petergyang-854431.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119885405017231360/vid/avc1/3840x2160/JC0qROK6I5UsQ7vf.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/dfeinition-625062.webp" alt="Laundry on a line in the afternoon light — @dfeinition" width="100%" loading="lazy"></a><br>
 <b>Laundry on a line in the afternoon light</b><br>
@@ -1407,6 +1438,8 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119885405017231360/vid/avc1/3840x2160/JC0qROK6I5UsQ7vf.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/dfeinition/status/2119886262211625062">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/dfeinition-625062.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119884723724181504/vid/avc1/1920x1080/FCwoqJyjTApsUnhD.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/sudophoenix-655872.webp" alt="A spider weaves a logo into its web — @sudoPhoeniX" width="100%" loading="lazy"></a><br>
 <b>A spider weaves a logo into its web</b><br>
@@ -1421,8 +1454,6 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119877995053920256/vid/avc1/3840x1748/sAyC8nBMMumprGvV.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/TekonBurns/status/2119880835121963500">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/tekonburns-963500.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119878879212949505/vid/avc1/1728x854/OExPzr7l-bAJgpyk.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/mattshumer-766782.webp" alt="A rainy night drive through Mirror Earth — @mattshumer_" width="100%" loading="lazy"></a><br>
 <b>A rainy night drive through Mirror Earth</b><br>
@@ -1430,6 +1461,8 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119878879212949505/vid/avc1/1728x854/OExPzr7l-bAJgpyk.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/mattshumer_/status/2119879860344766782">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/mattshumer-766782.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119876740310835201/vid/avc1/3840x1916/WFwbynhEGY1SxPup.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/petergostev-394520.webp" alt="Istanbul, built from a prompt — @petergostev" width="100%" loading="lazy"></a><br>
 <b>Istanbul, built from a prompt</b><br>
@@ -1444,8 +1477,6 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119873847369621504/vid/avc1/1080x1080/LDbZJxUYD0WsXDWe.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/hello_amani/status/2119873980786237842">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/hello-amani-237842.md">Details</a>
 <details><summary>📝 View prompt</summary><blockquote>make my logo reveal in 3D with chromatic metal and grids</blockquote><p><a href="https://x.com/hello_amani/status/2119890392456073525">Read the creator’s prompt</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119871695930490880/vid/avc1/1920x1080/mZO4hKSagiOfBukM.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/hammer-mt-346319.webp" alt="The Battle of New York in 3D — @hammer_mt" width="100%" loading="lazy"></a><br>
 <b>The Battle of New York in 3D</b><br>
@@ -1453,6 +1484,8 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119871695930490880/vid/avc1/1920x1080/mZO4hKSagiOfBukM.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/hammer_mt/status/2119871817561346319">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/hammer-mt-346319.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119871440292077568/vid/avc1/3840x1748/UY8m3TUPRs8yFPMs.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/tekonburns-660260.webp" alt="A virus capsid assembling itself — @TekonBurns" width="100%" loading="lazy"></a><br>
 <b>A virus capsid assembling itself</b><br>
@@ -1467,8 +1500,6 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119870538436767745/vid/avc1/1280x720/Rul4Oy5QL34LIwQ6.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/mattshumer_/status/2119870965106483384">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/mattshumer-483384.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119868287026892800/vid/avc1/1920x1080/aeL8BZjCQk_hzNJ0.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/matthewberman-060195.webp" alt="A European village where every character thinks — @MatthewBerman" width="100%" loading="lazy"></a><br>
 <b>A European village where every character thinks</b><br>
@@ -1476,6 +1507,8 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119868287026892800/vid/avc1/1920x1080/aeL8BZjCQk_hzNJ0.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/MatthewBerman/status/2119868638929060195">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/matthewberman-060195.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119868225114783744/vid/avc1/1920x1080/uLOwWFt5YQwDDqN9.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/matthewberman-953017.webp" alt="A bullet through a water balloon — @MatthewBerman" width="100%" loading="lazy"></a><br>
 <b>A bullet through a water balloon</b><br>
@@ -1483,6 +1516,7 @@ Procedural worlds, virtual cities, Blender scenes and physics simulations.
 <a href="https://video.twimg.com/amplify_video/2119868225114783744/vid/avc1/1920x1080/uLOwWFt5YQwDDqN9.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/MatthewBerman/status/2119868636810953017">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/matthewberman-953017.md">Details</a>
 
 </td>
+<td width="33%"></td>
 <td width="33%"></td>
 </tr>
 </table>
@@ -1843,12 +1877,19 @@ Archived source · <a href="https://x.com/ysuf_dmrkprn1/status/21199021515815854
 
 <a id="explainers"></a>
 
-## Visual Explainers & Music · 58
+## Visual Explainers & Music · 59
 
 Educational animation, science visualization, musical scores and synthesized sound.
 
 <table>
 <tr>
+<td width="33%" valign="top">
+<a href="https://video.twimg.com/amplify_video/2121198943153405952/vid/avc1/1080x1920/WYB34gGOqxherJOw.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/stargridcompass-2121208957276713181.webp" alt="Three models visualize Earth from the same brief — @Stargridcompass" width="100%" loading="lazy"></a><br>
+<b>Three models visualize Earth from the same brief</b><br>
+<sub><b>↗ Rising</b> · <a href="https://x.com/Stargridcompass">@Stargridcompass</a> · 0:43 · 2026-11-13</sub><br>
+<a href="https://video.twimg.com/amplify_video/2121198943153405952/vid/avc1/1080x1920/WYB34gGOqxherJOw.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/Stargridcompass/status/2121208957276713181">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/stargridcompass-2121208957276713181.md">Details</a>
+
+</td>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2121036047274397696/vid/avc1/1080x1080/T_I7ifp6OxLGa9Ti.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/imjustnewatai-2121036119999475934.webp" alt="A simulated figure learns to walk — @imjustnewatai" width="100%" loading="lazy"></a><br>
 <b>A simulated figure learns to walk</b><br>
@@ -1863,6 +1904,8 @@ Educational animation, science visualization, musical scores and synthesized sou
 <a href="https://video.twimg.com/amplify_video/2120947367142981632/vid/avc1/2160x2160/JErOSxM1cooLCIA5.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/kevin_t_ngo/status/2120948511038648596">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/kevin-t-ngo-2120948511038648596.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120895579266207744/vid/avc1/1920x1080/kIxFcuWQm186EBjK.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/keiru-ai-2120896365828173898.webp" alt="Low End Heart, a dream-pop and drum-and-bass music video — @keiru_ai" width="100%" loading="lazy"></a><br>
 <b>Low End Heart, a dream-pop and drum-and-bass music video</b><br>
@@ -1870,8 +1913,6 @@ Educational animation, science visualization, musical scores and synthesized sou
 <a href="https://video.twimg.com/amplify_video/2120895579266207744/vid/avc1/1920x1080/kIxFcuWQm186EBjK.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/keiru_ai/status/2120896365828173898">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/keiru-ai-2120896365828173898.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120668579783737344/vid/avc1/1920x1080/hHADTwaLDxu_Ufzz.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/imjustnewatai-2120668771119726698.webp" alt="How four voices form Renaissance counterpoint — @imjustnewatai" width="100%" loading="lazy"></a><br>
 <b>How four voices form Renaissance counterpoint</b><br>
@@ -1886,6 +1927,8 @@ Educational animation, science visualization, musical scores and synthesized sou
 <a href="https://video.twimg.com/amplify_video/2120650546348752896/vid/avc1/1920x1080/CdyshjzW6cC-NYZw.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/su_nagomi/status/2120652723561590844">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/su-nagomi-2120652723561590844.md">Details</a>
 <details><summary>📝 View prompt</summary><blockquote>最高だと思うMVを作って</blockquote><p><a href="https://x.com/su_nagomi/status/2120652723561590844">Read the creator’s prompt</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120616202565480448/vid/avc1/1920x1080/iaZdDW31ZHgJXkL4.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/chetaslua-2120616372434837677.webp" alt="A dawn chorus composed from modeled birdsong — @chetaslua" width="100%" loading="lazy"></a><br>
 <b>A dawn chorus composed from modeled birdsong</b><br>
@@ -1893,8 +1936,6 @@ Educational animation, science visualization, musical scores and synthesized sou
 <a href="https://video.twimg.com/amplify_video/2120616202565480448/vid/avc1/1920x1080/iaZdDW31ZHgJXkL4.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/chetaslua/status/2120616372434837677">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/chetaslua-2120616372434837677.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120609142628909056/vid/avc1/1920x1080/HIom3DAvJSv44LtV.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/imjustnewatai-2120609268319830027.webp" alt="A sonata played by falling balls — @imjustnewatai" width="100%" loading="lazy"></a><br>
 <b>A sonata played by falling balls</b><br>
@@ -1909,6 +1950,8 @@ Educational animation, science visualization, musical scores and synthesized sou
 <a href="https://video.twimg.com/amplify_video/2120561818313576448/vid/avc1/1008x1152/f28Cp0gRI6BQw11T.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/theoardley/status/2120561850802929711">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/theoardley-2120561850802929711.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120532142832934912/vid/avc1/1920x1080/pRXtEmq3PKIg5qOf.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/keiru-ai-2120532609625424195.webp" alt="Seeded industrial drum and bass with embossed visuals — @keiru_ai" width="100%" loading="lazy"></a><br>
 <b>Seeded industrial drum and bass with embossed visuals</b><br>
@@ -1916,8 +1959,6 @@ Educational animation, science visualization, musical scores and synthesized sou
 <a href="https://video.twimg.com/amplify_video/2120532142832934912/vid/avc1/1920x1080/pRXtEmq3PKIg5qOf.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/keiru_ai/status/2120532609625424195">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/keiru-ai-2120532609625424195.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120526618925899776/vid/avc1/3596x2084/5KVxtJ0HMeLJ5swp.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/0xmovez-2120526918621515872.webp" alt="A virtual hangar for exploring robot assemblies — @0xMovez" width="100%" loading="lazy"></a><br>
 <b>A virtual hangar for exploring robot assemblies</b><br>
@@ -1932,6 +1973,8 @@ Educational animation, science visualization, musical scores and synthesized sou
 <a href="https://video.twimg.com/amplify_video/2120471865902911488/vid/avc1/1920x1080/_jhdxUBeVUhaF4F4.mp4?tag=16">▶ Watch</a> · <a href="https://x.com/husky__create/status/2120471964787830947">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/husky-create-2120471964787830947.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120441073596354560/vid/avc1/1920x1080/X-fzihrCy46mRyEM.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/anxuanng-2120441299568619897.webp" alt="From an ant to the scale of the observable universe — @anxuanng" width="100%" loading="lazy"></a><br>
 <b>From an ant to the scale of the observable universe</b><br>
@@ -1939,8 +1982,6 @@ Educational animation, science visualization, musical scores and synthesized sou
 <a href="https://video.twimg.com/amplify_video/2120441073596354560/vid/avc1/1920x1080/X-fzihrCy46mRyEM.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/anxuanng/status/2120441299568619897">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/anxuanng-2120441299568619897.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120387994481983489/vid/avc1/1080x1920/c84_bK72bZ_xEuse.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/iamshankhadeep-2120388112606196223.webp" alt="Why do old portraits look so stiff? — @Iamshankhadeep" width="100%" loading="lazy"></a><br>
 <b>Why do old portraits look so stiff?</b><br>
@@ -1955,6 +1996,8 @@ Educational animation, science visualization, musical scores and synthesized sou
 <a href="https://video.twimg.com/amplify_video/2120383334937210880/vid/avc1/1920x1080/JsmjoUR0KG5ePYKK.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/imjustnewatai/status/2120383964686729410">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/imjustnewatai-2120383964686729410.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120163849806462976/vid/avc1/1920x1080/OMSIT8xlrky2bCi_.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/stargridcompass-2120313054936133751.webp" alt="A market-cap race animated with particle trails — @Stargridcompass" width="100%" loading="lazy"></a><br>
 <b>A market-cap race animated with particle trails</b><br>
@@ -1962,8 +2005,6 @@ Educational animation, science visualization, musical scores and synthesized sou
 <a href="https://video.twimg.com/amplify_video/2120163849806462976/vid/avc1/1920x1080/OMSIT8xlrky2bCi_.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/Stargridcompass/status/2120313054936133751">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/stargridcompass-2120313054936133751.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120309793521074176/vid/avc1/3024x1590/AI4JHsH3UdoxpUpG.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/theojaffee-2120312766544437738.webp" alt="A Bay Area history map with a year slider — @theojaffee" width="100%" loading="lazy"></a><br>
 <b>A Bay Area history map with a year slider</b><br>
@@ -1978,6 +2019,8 @@ Educational animation, science visualization, musical scores and synthesized sou
 <a href="https://video.twimg.com/amplify_video/2120288036147826688/vid/avc1/1920x1080/rsVqgZfdKMOHajLt.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/keiru_ai/status/2120288283167191402">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/keiru-ai-2120288283167191402.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120212244919160832/vid/avc1/1080x1920/wgu0fYjgfK6Xl25p.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/aollivier82-2120260208245043663.webp" alt="A lighthouse traces the history of computer graphics — @aollivier82" width="100%" loading="lazy"></a><br>
 <b>A lighthouse traces the history of computer graphics</b><br>
@@ -1985,8 +2028,6 @@ Educational animation, science visualization, musical scores and synthesized sou
 <a href="https://video.twimg.com/amplify_video/2120212244919160832/vid/avc1/1080x1920/wgu0fYjgfK6Xl25p.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/aollivier82/status/2120260208245043663">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/aollivier82-2120260208245043663.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120256332066365440/vid/avc1/1280x720/KXSlCskVGeCf-v47.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/nakazakifam-2120257523425103914.webp" alt="An Edo-era automaton reconstructed from drawings — @nakazakifam" width="100%" loading="lazy"></a><br>
 <b>An Edo-era automaton reconstructed from drawings</b><br>
@@ -2001,6 +2042,8 @@ Educational animation, science visualization, musical scores and synthesized sou
 <a href="https://video.twimg.com/amplify_video/2120238899217776640/vid/avc1/3596x2084/TK9rIF-se0SZ136N.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/0xMovez/status/2120239217880268919">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/0xmovez-2120239217880268919.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120217984568381440/vid/avc1/1920x1080/AAOQPmf__6M2zkFO.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/miki-code-2120219010860019977.webp" alt="A Three.js explainer of EUV lithography — @miki_code" width="100%" loading="lazy"></a><br>
 <b>A Three.js explainer of EUV lithography</b><br>
@@ -2008,8 +2051,6 @@ Educational animation, science visualization, musical scores and synthesized sou
 <a href="https://video.twimg.com/amplify_video/2120217984568381440/vid/avc1/1920x1080/AAOQPmf__6M2zkFO.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/miki_code/status/2120219010860019977">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/miki-code-2120219010860019977.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120197953780613120/vid/avc1/1080x1080/REJcjoiTa_AfPsB0.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kevin-t-ngo-2120198663062622581.webp" alt="A Clawd music video animated in Python and Blender — @kevin_t_ngo" width="100%" loading="lazy"></a><br>
 <b>A Clawd music video animated in Python and Blender</b><br>
@@ -2024,6 +2065,8 @@ Educational animation, science visualization, musical scores and synthesized sou
 <a href="https://video.twimg.com/amplify_video/2120175408390012929/vid/avc1/1440x1052/JMkN9Ia1xeiYMFgR.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/wquguru/status/2120177800288378938">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/wquguru-2120177800288378938.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120154489898618881/vid/avc1/1920x1080/BMdHEVJ-_drkWyrR.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/yousuke-001-2120154541186523612.webp" alt="How many banknotes would reach the Moon? — @yousuke_001" width="100%" loading="lazy"></a><br>
 <b>How many banknotes would reach the Moon?</b><br>
@@ -2031,8 +2074,6 @@ Educational animation, science visualization, musical scores and synthesized sou
 <a href="https://video.twimg.com/amplify_video/2120154489898618881/vid/avc1/1920x1080/BMdHEVJ-_drkWyrR.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/yousuke_001/status/2120154541186523612">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/yousuke-001-2120154541186523612.md">Details</a>
 <details><summary>📝 View prompt</summary><p>The creator shared a prompt at the link below. Read it in its original context, with any references and follow-up instructions.</p><p><a href="https://x.com/yousuke_001/status/2120154541186523612">Read the creator’s prompt</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120124118414798848/vid/avc1/1280x720/R0wF3MTXikpdyCZC.mp4?tag=14"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/hkkojima-2120124260954014152.webp" alt="Six equations in motion — @hkkojima" width="100%" loading="lazy"></a><br>
 <b>Six equations in motion</b><br>
@@ -2047,6 +2088,8 @@ Educational animation, science visualization, musical scores and synthesized sou
 <a href="https://video.twimg.com/ext_tw_video/2120118492892643328/pu/vid/avc1/1280x720/3fWpNaTnslgmcWG8.mp4?tag=12">▶ Watch</a> · <a href="https://x.com/bide_taro/status/2120118659540721770">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/bide-taro-2120118659540721770.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120088578005098496/vid/avc1/1920x1080/XMPOsp7PKvG1sYn-.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/anxuanng-2120088745139638375.webp" alt="From Zeno&#x27;s halving to a close-up of contact — @anxuanng" width="100%" loading="lazy"></a><br>
 <b>From Zeno&#x27;s halving to a close-up of contact</b><br>
@@ -2054,8 +2097,6 @@ Educational animation, science visualization, musical scores and synthesized sou
 <a href="https://video.twimg.com/amplify_video/2120088578005098496/vid/avc1/1920x1080/XMPOsp7PKvG1sYn-.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/anxuanng/status/2120088745139638375">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/anxuanng-2120088745139638375.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120081004001988608/vid/avc1/1920x1080/EEY78nPH5McLEfOs.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/stargridcompass-2120082786631516514.webp" alt="26 years of Nasdaq, visualized in motion — @Stargridcompass" width="100%" loading="lazy"></a><br>
 <b>26 years of Nasdaq, visualized in motion</b><br>
@@ -2070,6 +2111,8 @@ Educational animation, science visualization, musical scores and synthesized sou
 <a href="https://video.twimg.com/amplify_video/2120069533562191874/vid/avc1/1920x1080/d-di6uhJPEXGX7js.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/Gorden_Sun/status/2120069883597832595">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/gorden-sun-2120069883597832595.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120065308107120640/vid/avc1/1920x1080/YKoOFTwMaadyLQhl.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/seiiiiiiiiiiru-2120066857483063329.webp" alt="Making a 3D Japanese bathhouse, step by step — @seiiiiiiiiiiru" width="100%" loading="lazy"></a><br>
 <b>Making a 3D Japanese bathhouse, step by step</b><br>
@@ -2077,8 +2120,6 @@ Educational animation, science visualization, musical scores and synthesized sou
 <a href="https://video.twimg.com/amplify_video/2120065308107120640/vid/avc1/1920x1080/YKoOFTwMaadyLQhl.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/seiiiiiiiiiiru/status/2120066857483063329">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/seiiiiiiiiiiru-2120066857483063329.md">Details</a>
 <details><summary>📝 View prompt</summary><blockquote>銭湯の動画がどう作られていったか段階を踏んで見てわかるようなメイキング動画を作成して。</blockquote><p><a href="https://x.com/seiiiiiiiiiiru/status/2120066857483063329">Read the creator’s prompt</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119989522478063616/vid/avc1/1080x1920/TyXn42WY3EwIxhCV.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/excel-niisan-2119989558561698090.webp" alt="Turning a Japanese blog article into a vertical short — @excel_niisan" width="100%" loading="lazy"></a><br>
 <b>Turning a Japanese blog article into a vertical short</b><br>
@@ -2093,6 +2134,8 @@ Educational animation, science visualization, musical scores and synthesized sou
 <a href="https://video.twimg.com/amplify_video/2119974634523344896/vid/avc1/1920x1080/7EzivlAR3lILCLs4.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/linxiaobei888/status/2119978892861829227">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/linxiaobei888-2119978892861829227.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119973377255321600/vid/avc1/1920x1080/t4OGlQN-oqpflWYh.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/deryatr-2119974354260013293.webp" alt="A cinematic 3D journey through the history of science — @DeryaTR_" width="100%" loading="lazy"></a><br>
 <b>A cinematic 3D journey through the history of science</b><br>
@@ -2100,8 +2143,6 @@ Educational animation, science visualization, musical scores and synthesized sou
 <a href="https://video.twimg.com/amplify_video/2119973377255321600/vid/avc1/1920x1080/t4OGlQN-oqpflWYh.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/DeryaTR_/status/2119974354260013293">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/deryatr-2119974354260013293.md">Details</a>
 <details><summary>📝 View prompt</summary><p>The creator shared a prompt at the link below. Read it in its original context, with any references and follow-up instructions.</p><p><a href="https://x.com/DeryaTR_/status/2119974354260013293">Read the creator’s prompt</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119968396469309440/vid/avc1/1920x1080/Q748HuENLMQtMz8O.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/elliotarledge-2119968762069934415.webp" alt="A music video about megakernels — @elliotarledge" width="100%" loading="lazy"></a><br>
 <b>A music video about megakernels</b><br>
@@ -2116,6 +2157,8 @@ Educational animation, science visualization, musical scores and synthesized sou
 <a href="https://video.twimg.com/amplify_video/2119946393565450240/vid/avc1/1920x1080/Jt_-E4yC0PiI2m2M.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/nakazakifam/status/2119946561941606493">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/nakazakifam-2119946561941606493.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119945592977653760/vid/avc1/3840x2160/foNEVBH2Khao6Dd6.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/rileybrown-2119946022767980985.webp" alt="A visual history of writing — @rileybrown" width="100%" loading="lazy"></a><br>
 <b>A visual history of writing</b><br>
@@ -2123,8 +2166,6 @@ Educational animation, science visualization, musical scores and synthesized sou
 <a href="https://video.twimg.com/amplify_video/2119945592977653760/vid/avc1/3840x2160/foNEVBH2Khao6Dd6.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/rileybrown/status/2119946022767980985">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/rileybrown-2119946022767980985.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119941576290185217/vid/avc1/1920x1080/doJzvrUuyB86Ednp.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/konstantinsaifo-2119941967136379334.webp" alt="An explorable nuclear reactor in Three.js — @konstantinsaifo" width="100%" loading="lazy"></a><br>
 <b>An explorable nuclear reactor in Three.js</b><br>
@@ -2139,6 +2180,8 @@ Educational animation, science visualization, musical scores and synthesized sou
 <a href="https://video.twimg.com/amplify_video/2119919333140840449/vid/avc1/1920x1080/125Re1yzvUQndyX4.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/imjustnewatai/status/2119919644836347926">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/imjustnewatai-2119919644836347926.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119919371401244672/vid/avc1/1920x1080/yS6Kbc5l0NBv4N40.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/rasmic-2119919466163093768.webp" alt="Convex, explained in motion — @Rasmic" width="100%" loading="lazy"></a><br>
 <b>Convex, explained in motion</b><br>
@@ -2146,8 +2189,6 @@ Educational animation, science visualization, musical scores and synthesized sou
 <a href="https://video.twimg.com/amplify_video/2119919371401244672/vid/avc1/1920x1080/yS6Kbc5l0NBv4N40.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/Rasmic/status/2119919466163093768">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/rasmic-2119919466163093768.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119906799151448064/vid/avc1/1440x1080/nfRvSZRf-lGyoO3k.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/higgsfield-ai-987047.webp" alt="A synthesizer that sings from scratch — @higgsfield_ai" width="100%" loading="lazy"></a><br>
 <b>A synthesizer that sings from scratch</b><br>
@@ -2162,6 +2203,8 @@ Educational animation, science visualization, musical scores and synthesized sou
 <a href="https://video.twimg.com/amplify_video/2119907073026899968/vid/avc1/1920x1080/fJ7CuLzKleGXCpkO.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/yzr_koba/status/2119907670077722932">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/yzr-koba-722932.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119899444233863168/vid/avc1/1920x1080/hqqYkpi27k2cdXpg.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/khazix0918-590834.webp" alt="Four years of ChatGPT in one birthday film — @Khazix0918" width="100%" loading="lazy"></a><br>
 <b>Four years of ChatGPT in one birthday film</b><br>
@@ -2169,8 +2212,6 @@ Educational animation, science visualization, musical scores and synthesized sou
 <a href="https://video.twimg.com/amplify_video/2119899444233863168/vid/avc1/1920x1080/hqqYkpi27k2cdXpg.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/Khazix0918/status/2119902325460590834">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/khazix0918-590834.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119899446242918400/vid/avc1/1080x1350/S8_fma1a1es6Q4Tt.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/tekonburns-713872.webp" alt="An egg timer rebuilt from a single photo — @TekonBurns" width="100%" loading="lazy"></a><br>
 <b>An egg timer rebuilt from a single photo</b><br>
@@ -2185,6 +2226,8 @@ Educational animation, science visualization, musical scores and synthesized sou
 <a href="https://video.twimg.com/amplify_video/2119899879652876288/vid/avc1/1920x1080/Km5pgtjQ970n5n9b.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/buriedstupidity/status/2119900194540322870">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/buriedstupidity-322870.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119891672477679616/vid/avc1/2160x2160/L-CIBp2qNeTMs0hj.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/dfeinition-176088.webp" alt="A zoetrope spun to life — @dfeinition" width="100%" loading="lazy"></a><br>
 <b>A zoetrope spun to life</b><br>
@@ -2192,8 +2235,6 @@ Educational animation, science visualization, musical scores and synthesized sou
 <a href="https://video.twimg.com/amplify_video/2119891672477679616/vid/avc1/2160x2160/L-CIBp2qNeTMs0hj.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/dfeinition/status/2119892210376176088">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/dfeinition-176088.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119891424564895744/vid/avc1/2160x2160/cw5WN1voZQCaOihD.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/dfeinition-517201.webp" alt="Claymation rendered entirely in 3D — @dfeinition" width="100%" loading="lazy"></a><br>
 <b>Claymation rendered entirely in 3D</b><br>
@@ -2208,6 +2249,8 @@ Educational animation, science visualization, musical scores and synthesized sou
 <a href="https://video.twimg.com/amplify_video/2119891178682228736/vid/avc1/1920x1080/2q3_mQw6ZalpiaQz.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/Avenoxai/status/2119891378352058821">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/avenoxai-058821.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119889834751971328/vid/avc1/1280x720/FWYrwhFrNDz1DaVJ.mp4?tag=14"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/nottherajyk-985571.webp" alt="What people feel in the age of AI — @nottherajyk" width="100%" loading="lazy"></a><br>
 <b>What people feel in the age of AI</b><br>
@@ -2215,8 +2258,6 @@ Educational animation, science visualization, musical scores and synthesized sou
 <a href="https://video.twimg.com/amplify_video/2119889834751971328/vid/avc1/1280x720/FWYrwhFrNDz1DaVJ.mp4?tag=14">▶ Watch</a> · <a href="https://x.com/nottherajyk/status/2119890840067985571">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/nottherajyk-985571.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119889619286110208/vid/avc1/1080x1920/IG9or_uQyshexjHE.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ashen-one-424363.webp" alt="What if the Moon were ten feet from Earth — @ashen_one" width="100%" loading="lazy"></a><br>
 <b>What if the Moon were ten feet from Earth</b><br>
@@ -2231,6 +2272,8 @@ Educational animation, science visualization, musical scores and synthesized sou
 <a href="https://video.twimg.com/amplify_video/2119888023231844352/vid/avc1/1920x1080/bMAfu17GqdoH9jlN.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/SPAC89/status/2119888738595770843">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/spac89-770843.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119885999660843008/vid/avc1/1080x1920/FNwRCB0RWB6YcNpv.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/thetansen-134791.webp" alt="A pixel quest about the Fable 5.2 launch — @thetansen" width="100%" loading="lazy"></a><br>
 <b>A pixel quest about the Fable 5.2 launch</b><br>
@@ -2238,8 +2281,6 @@ Educational animation, science visualization, musical scores and synthesized sou
 <a href="https://video.twimg.com/amplify_video/2119885999660843008/vid/avc1/1080x1920/FNwRCB0RWB6YcNpv.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/thetansen/status/2119886204716134791">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/thetansen-134791.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119883996436082688/vid/avc1/1080x1920/vnjdC4iD158qDzXz.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/charan-kilari-538680.webp" alt="How a film smashed a real 747 — @charan_kilari" width="100%" loading="lazy"></a><br>
 <b>How a film smashed a real 747</b><br>
@@ -2254,6 +2295,8 @@ Educational animation, science visualization, musical scores and synthesized sou
 <a href="https://video.twimg.com/amplify_video/2119875528337555456/vid/avc1/1920x1080/QNFaHTtARFp56_Bb.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/aug5thmusic/status/2119879319426404780">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/aug5thmusic-404780.md">Details</a>
 <details><summary>📝 View prompt</summary><p>The creator shared a prompt at the link below. Read it in its original context, with any references and follow-up instructions.</p><p><a href="https://x.com/aug5thmusic/status/2119879973318414392">Read the creator’s prompt</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119879169731645440/vid/avc1/1280x720/Bh3U2lhMYgX9-Vb0.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/aidanshandle-761464.webp" alt="Porting a path tracer to WebGPU — @aidanshandle" width="100%" loading="lazy"></a><br>
 <b>Porting a path tracer to WebGPU</b><br>
@@ -2261,8 +2304,6 @@ Educational animation, science visualization, musical scores and synthesized sou
 <a href="https://video.twimg.com/amplify_video/2119879169731645440/vid/avc1/1280x720/Bh3U2lhMYgX9-Vb0.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/aidanshandle/status/2119879273196761464">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/aidanshandle-761464.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119870421478567936/vid/avc1/3840x2160/G6_gpxpBs-4beNTY.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/dfeinition-381391.webp" alt="How game characters blend their moves — @dfeinition" width="100%" loading="lazy"></a><br>
 <b>How game characters blend their moves</b><br>
@@ -2277,6 +2318,8 @@ Educational animation, science visualization, musical scores and synthesized sou
 <a href="https://video.twimg.com/amplify_video/2119868875127087104/vid/avc1/1280x720/VhIfEqbHcpwlznir.mp4?tag=14">▶ Watch</a> · <a href="https://x.com/maxleiter/status/2119869170871652487">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/maxleiter-652487.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119868088091017217/vid/avc1/1920x1080/5TB7-RiWDIUPCxdO.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/matthewberman-2119868633086378471.webp" alt="How language models work, in motion — @MatthewBerman" width="100%" loading="lazy"></a><br>
 <b>How language models work, in motion</b><br>
@@ -2284,8 +2327,6 @@ Educational animation, science visualization, musical scores and synthesized sou
 <a href="https://video.twimg.com/amplify_video/2119868088091017217/vid/avc1/1920x1080/5TB7-RiWDIUPCxdO.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/MatthewBerman/status/2119868633086378471">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/matthewberman-2119868633086378471.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119669941263597569/vid/avc1/1920x1080/h6JslKeeBV8e7IAn.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/alliekmiller-757417.webp" alt="A nationwide water safety map — @alliekmiller" width="100%" loading="lazy"></a><br>
 <b>A nationwide water safety map</b><br>
@@ -2294,25 +2335,40 @@ Educational animation, science visualization, musical scores and synthesized sou
 
 </td>
 <td width="33%"></td>
-<td width="33%"></td>
 </tr>
 </table>
 
 <a id="interactive"></a>
 
-## Games & Interactive Creations · 69
+## Games & Interactive Creations · 71
 
 Browser games, playable worlds, creative tools and interactive interface design.
 
 <table>
 <tr>
 <td width="33%" valign="top">
+<a href="https://video.twimg.com/amplify_video/2121223724628406273/vid/avc1/1080x1920/t3Zo4quBpWwRSnxb.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/tetumemo-2121223780718792936.webp" alt="Hibiki Trail, a rhythm game on a zigzag path — @tetumemo" width="100%" loading="lazy"></a><br>
+<b>Hibiki Trail, a rhythm game on a zigzag path</b><br>
+<sub><b>New</b> · <a href="https://x.com/tetumemo">@tetumemo</a> · 0:40 · 2026-11-13</sub><br>
+<a href="https://video.twimg.com/amplify_video/2121223724628406273/vid/avc1/1080x1920/t3Zo4quBpWwRSnxb.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/tetumemo/status/2121223780718792936">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/tetumemo-2121223780718792936.md">Details</a>
+
+</td>
+<td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2121218805183684608/vid/avc1/1920x1080/_RvcnTMVJqh6vCS1.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kanaworks-ai-2121221880673972463.webp" alt="Harappa, a Blender add-on for animated meadows — @KanaWorks_AI" width="100%" loading="lazy"></a><br>
 <b>Harappa, a Blender add-on for animated meadows</b><br>
-<sub><b>New</b> · <a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · 1:25 · 2026-11-13</sub><br>
+<sub><b>↗ Rising</b> · <a href="https://x.com/KanaWorks_AI">@KanaWorks_AI</a> · 1:25 · 2026-11-13</sub><br>
 <a href="https://video.twimg.com/amplify_video/2121218805183684608/vid/avc1/1920x1080/_RvcnTMVJqh6vCS1.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/KanaWorks_AI/status/2121221880673972463">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/kanaworks-ai-2121221880673972463.md">Details</a>
 
 </td>
+<td width="33%" valign="top">
+<a href="https://video.twimg.com/amplify_video/2121086832662233088/vid/avc1/1280x720/WoKjs3OOha2AzzCB.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/spidermanzdev-2121087583924941302.webp" alt="A three-on-three arcade pond hockey game — @Spidermanzdev" width="100%" loading="lazy"></a><br>
+<b>A three-on-three arcade pond hockey game</b><br>
+<sub><b>New</b> · <a href="https://x.com/Spidermanzdev">@Spidermanzdev</a> · 0:12 · 2026-11-13</sub><br>
+<a href="https://video.twimg.com/amplify_video/2121086832662233088/vid/avc1/1280x720/WoKjs3OOha2AzzCB.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/Spidermanzdev/status/2121087583924941302">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/spidermanzdev-2121087583924941302.md">Details</a>
+
+</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2121003810583683072/vid/avc1/1920x1080/ez-WbJx3u3EpJRds.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/loktar00-2121005021131083851.webp" alt="A hang-gliding game above a patchwork island — @loktar00" width="100%" loading="lazy"></a><br>
 <b>A hang-gliding game above a patchwork island</b><br>
@@ -2327,8 +2383,6 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2120694422136647680/vid/avc1/1706x1080/cuxS5q7B87MFwq6W.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/RyanSael/status/2120695866684231998">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/ryansael-2120695866684231998.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120692796327968768/vid/avc1/2134x1080/IgnOSwRg5XNSEAmN.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/op7418-2120694045299327187.webp" alt="A snowy 3D action game in one HTML file — @op7418" width="100%" loading="lazy"></a><br>
 <b>A snowy 3D action game in one HTML file</b><br>
@@ -2336,6 +2390,8 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2120692796327968768/vid/avc1/2134x1080/IgnOSwRg5XNSEAmN.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/op7418/status/2120694045299327187">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/op7418-2120694045299327187.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120684600557006848/vid/avc1/1920x1080/VEcNvdW3v6fKtdCn.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/yegor-2120689760595276193.webp" alt="COO, a bird’s-eye trailer for a living Toronto — @yegor" width="100%" loading="lazy"></a><br>
 <b>COO, a bird’s-eye trailer for a living Toronto</b><br>
@@ -2350,8 +2406,6 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2120566485575712768/vid/avc1/1920x1080/1or0Ua87gzV00NkA.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/Stargridcompass/status/2120675441677672879">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/stargridcompass-2120675441677672879.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120439724712030209/vid/avc1/1920x1080/xstfn4yqcQkOA9s2.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/stargridcompass-2120446433358692440.webp" alt="A four-lane rhythm game with live combo feedback — @Stargridcompass" width="100%" loading="lazy"></a><br>
 <b>A four-lane rhythm game with live combo feedback</b><br>
@@ -2359,6 +2413,8 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2120439724712030209/vid/avc1/1920x1080/xstfn4yqcQkOA9s2.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/Stargridcompass/status/2120446433358692440">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/stargridcompass-2120446433358692440.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120382863388590080/vid/avc1/720x1080/e1jp6XnSJ5Ia2UVw.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/wquguru-2120383332722905400.webp" alt="SUBLEVEL 07, a single-file browser game — @wquguru" width="100%" loading="lazy"></a><br>
 <b>SUBLEVEL 07, a single-file browser game</b><br>
@@ -2373,8 +2429,6 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2120339928337031168/vid/avc1/2560x1440/efsgZg5CNfhT9tWC.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/BlendiByl/status/2120341251178594532">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/blendibyl-2120341251178594532.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120313933710159872/vid/avc1/2560x1440/PKe7dLlC4bVyp-Y-.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/blendibyl-2120314459793355262.webp" alt="An impossible-spaces walkthrough through shifting rooms — @BlendiByl" width="100%" loading="lazy"></a><br>
 <b>An impossible-spaces walkthrough through shifting rooms</b><br>
@@ -2382,6 +2436,8 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2120313933710159872/vid/avc1/2560x1440/PKe7dLlC4bVyp-Y-.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/BlendiByl/status/2120314459793355262">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/blendibyl-2120314459793355262.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120282020399984640/vid/avc1/1920x1080/ajQOizdMhg4SwqVj.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/mattshumer-2120282133503820150.webp" alt="A city flyover from an open-world game prototype — @mattshumer_" width="100%" loading="lazy"></a><br>
 <b>A city flyover from an open-world game prototype</b><br>
@@ -2396,8 +2452,6 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2120253027571601408/vid/avc1/1898x1080/P8E_h3btMpQ54LCL.mp4?tag=16">▶ Watch</a> · <a href="https://x.com/M__Houser/status/2120253236309569696">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/m-houser-2120253236309569696.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120248122982985728/vid/avc1/1144x1076/1Aa5_PvPzNWweA5Q.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/emollick-2120248525254742318.webp" alt="Dread &amp; District, a fantasy transit game — @emollick" width="100%" loading="lazy"></a><br>
 <b>Dread &amp; District, a fantasy transit game</b><br>
@@ -2405,6 +2459,8 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2120248122982985728/vid/avc1/1144x1076/1Aa5_PvPzNWweA5Q.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/emollick/status/2120248525254742318">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/emollick-2120248525254742318.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120233931744391168/vid/avc1/1920x1080/qbytKTQjkq4MuaXz.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kevin-t-ngo-2120238844754923874.webp" alt="A dark-fantasy boss fight in the browser — @kevin_t_ngo" width="100%" loading="lazy"></a><br>
 <b>A dark-fantasy boss fight in the browser</b><br>
@@ -2419,8 +2475,6 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2120187656881516544/vid/avc1/1920x1080/YPzyBVlvXVwBta44.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/loktar00/status/2120192761542615271">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/loktar00-2120192761542615271.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120189727152230400/vid/avc1/1920x1080/773Fe7f-xdoEUjp2.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/teortaxestex-2120189862162657753.webp" alt="FLATROOMS V0.1 showcase video — @teortaxesTex" width="100%" loading="lazy"></a><br>
 <b>FLATROOMS V0.1 showcase video</b><br>
@@ -2428,6 +2482,8 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2120189727152230400/vid/avc1/1920x1080/773Fe7f-xdoEUjp2.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/teortaxesTex/status/2120189862162657753">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/teortaxestex-2120189862162657753.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120189120093757441/vid/avc1/1920x1200/IlWG73RcQBDsxhM4.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/vib3coded-2120189785247498513.webp" alt="A sailing ship demo with an ocean and weather controls — @vib3coded" width="100%" loading="lazy"></a><br>
 <b>A sailing ship demo with an ocean and weather controls</b><br>
@@ -2442,8 +2498,6 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2120154381584838656/vid/avc1/1920x1080/mRePQbLcVWXqKTsY.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/chongdashu/status/2120154573356793883">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/chongdashu-2120154573356793883.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120148511836835840/vid/avc1/2830x1496/qlQkuQ7RRb6l2keO.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/keiru-ai-2120148813142958454.webp" alt="A 3D previsualization stage for character choreography — @keiru_ai" width="100%" loading="lazy"></a><br>
 <b>A 3D previsualization stage for character choreography</b><br>
@@ -2451,6 +2505,8 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2120148511836835840/vid/avc1/2830x1496/qlQkuQ7RRb6l2keO.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/keiru_ai/status/2120148813142958454">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/keiru-ai-2120148813142958454.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120127605894701057/vid/avc1/1920x1080/vmX1EZ4VHCC4dij2.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/sara-kumodeck-2120127706675417428.webp" alt="A WebGPU water tank with shattering glass — @sara_kumodeck" width="100%" loading="lazy"></a><br>
 <b>A WebGPU water tank with shattering glass</b><br>
@@ -2465,8 +2521,6 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2120109165393715200/vid/avc1/1920x1080/nJhRHKUF8oxEnIPb.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/_MaxBlade/status/2120109725740159390">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/maxblade-2120109725740159390.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120084094549987328/vid/avc1/1920x1080/ZIT4h5bEZdMnBsHV.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/op7418-2120085300185833878.webp" alt="Interactive ink painting driven by typed words — @op7418" width="100%" loading="lazy"></a><br>
 <b>Interactive ink painting driven by typed words</b><br>
@@ -2474,6 +2528,8 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2120084094549987328/vid/avc1/1920x1080/ZIT4h5bEZdMnBsHV.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/op7418/status/2120085300185833878">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/op7418-2120085300185833878.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119973140008726528/vid/avc1/1728x1002/cAU-dap7QOqUYxWD.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/pleometric-2119973274402668852.webp" alt="BRYCEBALL: a renderer turned into a game — @pleometric" width="100%" loading="lazy"></a><br>
 <b>BRYCEBALL: a renderer turned into a game</b><br>
@@ -2488,8 +2544,6 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2119959903062183936/vid/avc1/1280x720/X10eV4fLngmXri42.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/LexnLin/status/2119966127149429093">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/lexnlin-2119966127149429093.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119922739230445568/vid/avc1/1920x1080/1eCM-Y_xZwPgP5Pv.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/techartist-2119946891106394518.webp" alt="A proving ground for four game-machine concepts — @techartist_" width="100%" loading="lazy"></a><br>
 <b>A proving ground for four game-machine concepts</b><br>
@@ -2497,6 +2551,8 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2119922739230445568/vid/avc1/1920x1080/1eCM-Y_xZwPgP5Pv.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/techartist_/status/2119946891106394518">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/techartist-2119946891106394518.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119936256498962432/vid/avc1/1920x1080/pYXo58uow7BeKq9v.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/amirmushich-2119937977426338283.webp" alt="Worm Rider, a code-built desert game — @AmirMushich" width="100%" loading="lazy"></a><br>
 <b>Worm Rider, a code-built desert game</b><br>
@@ -2511,8 +2567,6 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2119935171541831680/vid/avc1/1280x720/xSA0i-YfHsQC-kLT.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/_sholtodouglas/status/2119935331499925557">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/sholtodouglas-2119935331499925557.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119926035043237888/vid/avc1/1568x1080/6oTKgoLPQHeLU1Q7.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/theo-2119926277801144695.webp" alt="A new run at Fishslop — @theo" width="100%" loading="lazy"></a><br>
 <b>A new run at Fishslop</b><br>
@@ -2520,6 +2574,8 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2119926035043237888/vid/avc1/1568x1080/6oTKgoLPQHeLU1Q7.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/theo/status/2119926277801144695">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/theo-2119926277801144695.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119919821538447360/vid/avc1/3648x2022/y1dhMLmyKZ-oidQ6.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/felixrieseberg-2119925633564463609.webp" alt="Saltline, a first-person game in a rainy cargo port — @felixrieseberg" width="100%" loading="lazy"></a><br>
 <b>Saltline, a first-person game in a rainy cargo port</b><br>
@@ -2534,8 +2590,6 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2119916822719840256/vid/avc1/1280x720/lEbniPMiC8aWDbWF.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/emollick/status/2119918307457577163">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/emollick-2119918307457577163.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119916917502926849/vid/avc1/1080x1350/LDBsZC4Ong-7XOt4.mp4?tag=16"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/alexalbert-2119916954337349737.webp" alt="Da Vinci&#x27;s notebook becomes interactive — @alexalbert__" width="100%" loading="lazy"></a><br>
 <b>Da Vinci&#x27;s notebook becomes interactive</b><br>
@@ -2543,6 +2597,8 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2119916917502926849/vid/avc1/1080x1350/LDBsZC4Ong-7XOt4.mp4?tag=16">▶ Watch</a> · <a href="https://x.com/alexalbert__/status/2119916954337349737">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/alexalbert-2119916954337349737.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119909172820979712/vid/avc1/1920x1080/P7SbkhLDRCMxZ--E.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/mihawkxxxxx-699749.webp" alt="A Roblox horror game with its own trailer — @mihawkxxxxx" width="100%" loading="lazy"></a><br>
 <b>A Roblox horror game with its own trailer</b><br>
@@ -2557,8 +2613,6 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2119906798345818112/vid/avc1/3840x1950/dpgHMhE-Gqz3Kf9j.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/itssotsot/status/2119909017216491720">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/itssotsot-491720.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119907774444261377/vid/avc1/3840x2160/9SQx2NvOeH6bfmiM.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/elizaveta-ai-125485.webp" alt="A deep-dive volume slider with an ocean inside — @Elizaveta_ai" width="100%" loading="lazy"></a><br>
 <b>A deep-dive volume slider with an ocean inside</b><br>
@@ -2566,6 +2620,8 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2119907774444261377/vid/avc1/3840x2160/9SQx2NvOeH6bfmiM.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/Elizaveta_ai/status/2119907947132125485">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/elizaveta-ai-125485.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119905440352055296/vid/avc1/1920x1080/iC79cUKiFb-L77DB.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/clairevo-2119905651359142132.webp" alt="A working typewriter in the browser — @clairevo" width="100%" loading="lazy"></a><br>
 <b>A working typewriter in the browser</b><br>
@@ -2580,8 +2636,6 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2119905452037169152/vid/avc1/1080x1982/SHxRz6YwnG5hBSb8.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/evrentkg/status/2119905501601272283">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/evrentkg-272283.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119903779336118272/vid/avc1/1920x1080/ArLIv6GtbXBbhr7e.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/tymarsha-810582.webp" alt="A samurai duel from one prompt — @tymarsha" width="100%" loading="lazy"></a><br>
 <b>A samurai duel from one prompt</b><br>
@@ -2589,6 +2643,8 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2119903779336118272/vid/avc1/1920x1080/ArLIv6GtbXBbhr7e.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/tymarsha/status/2119904015454810582">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/tymarsha-810582.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119901977794519040/vid/avc1/1920x1080/bldsUQv-9Jwz1bxk.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/rezait00-997344.webp" alt="A single-file Minecraft with HDR lighting — @RezAIT00" width="100%" loading="lazy"></a><br>
 <b>A single-file Minecraft with HDR lighting</b><br>
@@ -2603,8 +2659,6 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2119901596008263680/vid/avc1/1920x1080/bZzGqWp4QvSXV_vV.mp4?tag=16">▶ Watch</a> · <a href="https://x.com/petergyang/status/2119901658394358005">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/petergyang-358005.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119899054520061952/vid/avc1/3840x2160/HbsyW6krobPpdwwM.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kevin-t-ngo-622171.webp" alt="Gilt &amp; Gutter, a 1v1 browser shooter — @kevin_t_ngo" width="100%" loading="lazy"></a><br>
 <b>Gilt &amp; Gutter, a 1v1 browser shooter</b><br>
@@ -2612,6 +2666,8 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2119899054520061952/vid/avc1/3840x2160/HbsyW6krobPpdwwM.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/kevin_t_ngo/status/2119900487688622171">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/kevin-t-ngo-622171.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119899124728217600/vid/avc1/1920x1080/YcrTSKlU-3rhGo3x.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/teortaxestex-225567.webp" alt="A Minecraft-style world in Three.js — @teortaxesTex" width="100%" loading="lazy"></a><br>
 <b>A Minecraft-style world in Three.js</b><br>
@@ -2626,8 +2682,6 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2119898682531430400/vid/avc1/1920x1080/SCNQd6ltHRSLHpQ4.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/repodoting/status/2119898879340765513">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/repodoting-765513.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119897032118960128/vid/avc1/1080x1120/7QwIbWUI-6I7Pb9b.mp4?tag=16"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/higgsfield-ai-529605.webp" alt="A sci-fi shooter built with Blender and Unreal — @higgsfield_ai" width="100%" loading="lazy"></a><br>
 <b>A sci-fi shooter built with Blender and Unreal</b><br>
@@ -2635,6 +2689,8 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2119897032118960128/vid/avc1/1080x1120/7QwIbWUI-6I7Pb9b.mp4?tag=16">▶ Watch</a> · <a href="https://x.com/higgsfield_ai/status/2119897113534529605">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/higgsfield-ai-529605.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119895838927548416/vid/avc1/2880x2160/-pnpOu_0XJg6SYgF.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/nft-chen-609967.webp" alt="The pelican benchmark turned into a playable scene — @NFT_Chen" width="100%" loading="lazy"></a><br>
 <b>The pelican benchmark turned into a playable scene</b><br>
@@ -2649,8 +2705,6 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2119893759680749568/vid/avc1/1920x1080/i-Pvhaojp1uGU1Cp.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/Pumpnasterr/status/2119895877250609238">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/pumpnasterr-609238.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119894054234107904/vid/avc1/1920x1080/DK_kuHlmGekNQkIK.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/jonathanhamiche-145756.webp" alt="A gravity slingshot game with ten levels — @jonathanhamiche" width="100%" loading="lazy"></a><br>
 <b>A gravity slingshot game with ten levels</b><br>
@@ -2658,6 +2712,8 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2119894054234107904/vid/avc1/1920x1080/DK_kuHlmGekNQkIK.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/jonathanhamiche/status/2119894929795145756">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/jonathanhamiche-145756.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119894505490935809/vid/avc1/1280x480/M7SRjks4Ivlr4XUs.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/joshvlc-958575.webp" alt="A one-shot basketball arena game — @joshvlc" width="100%" loading="lazy"></a><br>
 <b>A one-shot basketball arena game</b><br>
@@ -2672,8 +2728,6 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2119894021472473089/vid/avc1/1080x1080/s5bteQ4U9HF7p2yO.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/crtvTeknologist/status/2119894073024606617">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/crtvteknologist-606617.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/ext_tw_video/2119893860503400449/pu/vid/avc1/1276x720/7kCA0PlTFaYS97QG.mp4?tag=12"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ozantrai-231568.webp" alt="A day-and-night platformer — @OzanTRAI" width="100%" loading="lazy"></a><br>
 <b>A day-and-night platformer</b><br>
@@ -2681,6 +2735,8 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/ext_tw_video/2119893860503400449/pu/vid/avc1/1276x720/7kCA0PlTFaYS97QG.mp4?tag=12">▶ Watch</a> · <a href="https://x.com/OzanTRAI/status/2119893945895231568">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/ozantrai-231568.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119890796250021888/vid/avc1/3024x1896/CwC_7D7ZixZoFpUZ.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/pratyushrungta-501310.webp" alt="A Hollow Knight-style game in five minutes — @pratyushrungta" width="100%" loading="lazy"></a><br>
 <b>A Hollow Knight-style game in five minutes</b><br>
@@ -2695,8 +2751,6 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2119890100733784064/vid/avc1/3024x1898/hMpvuGQnH1hGMQoN.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/ashwinntwt/status/2119890312382603459">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/ashwinntwt-603459.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119888823903469568/vid/avc1/3802x2160/a5mkJz2c2gBFB0CJ.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/0xbunny-391575.webp" alt="A voxel shooter made in 30 minutes — @0xBunny" width="100%" loading="lazy"></a><br>
 <b>A voxel shooter made in 30 minutes</b><br>
@@ -2704,6 +2758,8 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2119888823903469568/vid/avc1/3802x2160/a5mkJz2c2gBFB0CJ.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/0xBunny/status/2119889077642391575">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/0xbunny-391575.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119885465025380352/vid/avc1/1920x1080/DneINmglfP3Csmjv.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/parallelao-877365.webp" alt="A PvP arena game in Unreal Engine — @parallelao" width="100%" loading="lazy"></a><br>
 <b>A PvP arena game in Unreal Engine</b><br>
@@ -2718,8 +2774,6 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2119888506004672512/vid/avc1/1080x1080/ci1wEkpCQQ0JBpuu.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/crtvTeknologist/status/2119888532886200528">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/crtvteknologist-200528.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119872724013326336/vid/avc1/1920x1080/h4GF7z7dZfj83gjJ.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/seanaiux-505512.webp" alt="A pixel-art toggle switch — @seanaiux" width="100%" loading="lazy"></a><br>
 <b>A pixel-art toggle switch</b><br>
@@ -2727,6 +2781,8 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2119872724013326336/vid/avc1/1920x1080/h4GF7z7dZfj83gjJ.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/seanaiux/status/2119888254753505512">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/seanaiux-505512.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119885862599106560/vid/avc1/1920x1080/G8v9gNgB0dbqki-C.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/bertranddiouly-765001.webp" alt="A Street Fighter 2 clone in 34 minutes — @BertrandDiouly" width="100%" loading="lazy"></a><br>
 <b>A Street Fighter 2 clone in 34 minutes</b><br>
@@ -2741,8 +2797,6 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2119883519157506049/vid/avc1/1920x1080/IP2GewMfLfh2jVOs.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/N1njaCodex/status/2119883560937001387">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/n1njacodex-001387.md">Details</a>
 <details><summary>📝 View prompt</summary><p>The creator shared a prompt at the link below. Read it in its original context, with any references and follow-up instructions.</p><p><a href="https://x.com/N1njaCodex/status/2119884222475522068">Read the creator’s prompt</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119882634582949888/vid/avc1/1920x1080/17IPCJugCRTgzICK.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/onehitkilldev-709524.webp" alt="A one-shot Souls-like boss fight — @OneHitKillDev" width="100%" loading="lazy"></a><br>
 <b>A one-shot Souls-like boss fight</b><br>
@@ -2750,6 +2804,8 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2119882634582949888/vid/avc1/1920x1080/17IPCJugCRTgzICK.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/OneHitKillDev/status/2119882801222709524">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/onehitkilldev-709524.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119880385467400192/vid/avc1/1920x1080/JE0D_sTwzBisfzxv.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/samsonfraser-159458.webp" alt="An end-to-end FPS playable in an artifact — @samsonfraser_" width="100%" loading="lazy"></a><br>
 <b>An end-to-end FPS playable in an artifact</b><br>
@@ -2764,8 +2820,6 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2119880356325154816/vid/avc1/3008x1222/W3Dj5sqzmnpiCcwd.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/nikodemszymansk/status/2119880518875435022">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/nikodemszymansk-435022.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119876453340782592/vid/avc1/1920x1080/fHB6cN_UkwptVASd.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/mattshumer-036047.webp" alt="Mirror Earth, the whole planet as a game — @mattshumer_" width="100%" loading="lazy"></a><br>
 <b>Mirror Earth, the whole planet as a game</b><br>
@@ -2773,6 +2827,8 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2119876453340782592/vid/avc1/1920x1080/fHB6cN_UkwptVASd.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/mattshumer_/status/2119877065701036047">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/mattshumer-036047.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119876729435033600/vid/avc1/1920x1080/QB_mINigwFKRIql6.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/vib3coded-505627.webp" alt="A volume slider with a cozy room inside — @vib3coded" width="100%" loading="lazy"></a><br>
 <b>A volume slider with a cozy room inside</b><br>
@@ -2787,8 +2843,6 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2119876130807197696/vid/avc1/1920x1080/dXuwXYdOdQQhPX84.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/emollick/status/2119876449494540554">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/emollick-540554.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119871902541881344/vid/avc1/1920x1080/cTrCH0UyeCYMxFoS.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/mattshumer-810226.webp" alt="Harry Potter meets Fortnite — @mattshumer_" width="100%" loading="lazy"></a><br>
 <b>Harry Potter meets Fortnite</b><br>
@@ -2796,6 +2850,8 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2119871902541881344/vid/avc1/1920x1080/cTrCH0UyeCYMxFoS.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/mattshumer_/status/2119872098306810226">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/mattshumer-810226.md">Details</a>
 <details><summary>📝 View prompt</summary><p>The creator shared a prompt at the link below. Read it in its original context, with any references and follow-up instructions.</p><p><a href="https://x.com/mattshumer_/status/2119872098306810226">Read the creator’s prompt</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119868302541586432/vid/avc1/3672x2160/ZRNjJilFvJjvoR9y.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kieranklaassen-2119871673294037280.webp" alt="First Crush: learning how wine is made — @kieranklaassen" width="100%" loading="lazy"></a><br>
 <b>First Crush: learning how wine is made</b><br>
@@ -2810,8 +2866,6 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2119868394363367424/vid/avc1/1920x1080/CrAv3IqRv4_2D7bU.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/kevin_t_ngo/status/2119868968307695818">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/kevin-t-ngo-695818.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119868000237170688/vid/avc1/1920x1080/-hWd-wkqJOCliYjA.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/matthewberman-789992.webp" alt="A Gears of War-style shooter in Unreal — @MatthewBerman" width="100%" loading="lazy"></a><br>
 <b>A Gears of War-style shooter in Unreal</b><br>
@@ -2819,6 +2873,8 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2119868000237170688/vid/avc1/1920x1080/-hWd-wkqJOCliYjA.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/MatthewBerman/status/2119868629491789992">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/matthewberman-789992.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119868044831002624/vid/avc1/1920x1080/7QVSQ6q2CIXBr-xD.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/matthewberman-254665.webp" alt="A complete Fall Guys-style party game — @MatthewBerman" width="100%" loading="lazy"></a><br>
 <b>A complete Fall Guys-style party game</b><br>
@@ -2833,5 +2889,6 @@ Browser games, playable worlds, creative tools and interactive interface design.
 <a href="https://video.twimg.com/amplify_video/2119867717532753920/vid/avc1/3390x2160/ylf8maSlUvJKA0OZ.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/kieranklaassen/status/2119868196773929160">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/kieranklaassen-2119868196773929160.md">Details</a>
 
 </td>
+<td width="33%"></td>
 </tr>
 </table>
