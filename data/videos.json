@@ -20145,13 +20145,21 @@
           "reposts": 0,
           "replies": 3,
           "bookmarks": 2
+        },
+        {
+          "checked_at": "2026-11-13T01:44:09.376651+00:00",
+          "views": 1175,
+          "likes": 26,
+          "reposts": 0,
+          "replies": 5,
+          "bookmarks": 3
         }
       ],
       "momentum": {
-        "state": "new",
-        "window_minutes": 1.2,
-        "views_delta": 7,
-        "likes_delta": 0,
+        "state": "rising",
+        "window_minutes": 176.8,
+        "views_delta": 705,
+        "likes_delta": 12,
         "reposts_delta": 0
       }
     },
@@ -20220,13 +20228,21 @@
           "reposts": 0,
           "replies": 1,
           "bookmarks": 6
+        },
+        {
+          "checked_at": "2026-11-13T01:44:09.391200+00:00",
+          "views": 752,
+          "likes": 19,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 7
         }
       ],
       "momentum": {
         "state": "new",
-        "window_minutes": 1.2,
-        "views_delta": 0,
-        "likes_delta": 0,
+        "window_minutes": 176.8,
+        "views_delta": 146,
+        "likes_delta": 3,
         "reposts_delta": 0
       }
     },
@@ -20295,13 +20311,21 @@
           "reposts": 0,
           "replies": 24,
           "bookmarks": 43
+        },
+        {
+          "checked_at": "2026-11-13T01:44:09.379900+00:00",
+          "views": 4722,
+          "likes": 128,
+          "reposts": 0,
+          "replies": 26,
+          "bookmarks": 52
         }
       ],
       "momentum": {
-        "state": "new",
-        "window_minutes": 0.9,
-        "views_delta": 8,
-        "likes_delta": 0,
+        "state": "rising",
+        "window_minutes": 176.8,
+        "views_delta": 893,
+        "likes_delta": 21,
         "reposts_delta": 0
       }
     },
@@ -20370,14 +20394,22 @@
           "reposts": 13,
           "replies": 22,
           "bookmarks": 123
+        },
+        {
+          "checked_at": "2026-11-13T01:44:09.412128+00:00",
+          "views": 16973,
+          "likes": 226,
+          "reposts": 14,
+          "replies": 23,
+          "bookmarks": 129
         }
       ],
       "momentum": {
-        "state": "new",
-        "window_minutes": 0.9,
-        "views_delta": 6,
-        "likes_delta": 0,
-        "reposts_delta": 0
+        "state": "rising",
+        "window_minutes": 176.8,
+        "views_delta": 1039,
+        "likes_delta": 10,
+        "reposts_delta": 1
       }
     },
     {
@@ -20835,6 +20867,571 @@
         "window_minutes": 0.7,
         "views_delta": 0,
         "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "akiyoshisan-2120387868665475262",
+      "titles": {
+        "en": "A bass note turns the page on a new world",
+        "zh-CN": "一声贝斯翻开一个新世界",
+        "ja": "ベースの一音で世界がめくれる",
+        "ko": "베이스 한 음에 새로운 세계가 펼쳐지는 영상",
+        "es": "Cada nota de bajo abre un mundo nuevo"
+      },
+      "category": "short-films",
+      "creator": {
+        "name": "akiyoshisan",
+        "url": "https://x.com/akiyoshisan"
+      },
+      "source_url": "https://x.com/akiyoshisan/status/2120387868665475262",
+      "published_at": "2026-11-11T05:27:17Z",
+      "duration_seconds": 32,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120387084984922112/img/jGGGIY8v6jquCbq0.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/akiyoshisan-2120387868665475262.webp",
+      "preview_path": "assets/previews/akiyoshisan-2120387868665475262.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120387084984922112/vid/avc1/1080x1920/Amvlx9hYtRvo0Fcn.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-13T01:43:53.870089+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "b7fd9883a0a54108691f266f9687848b74039395b60d5d3d374d31b46e966d76",
+        "model_named": true,
+        "video_checked_at": "2026-11-13T01:43:58.570041+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120387084984922112",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A hand-drawn character stays in place as the visual medium around it changes on successive bass notes, moving through paper, pixel art and other textures.",
+      "workflow": "creator-reported-multitool",
+      "workflow_notes": {
+        "en": "The creator supplied a drawing and a 10-second bass performance. Fable 5.2 directed the workflow, which cut out the drawings with OpenCV, rearranged the audio in Python and rendered the frames in Canvas.",
+        "zh-CN": "作者提供了手绘角色和 10 秒贝斯演奏。Fable 5.2 调度制作流程，由 OpenCV 抠图、Python 重组音频，Canvas 绘制画面。",
+        "ja": "作者が手描きのキャラクターと10秒のベース演奏を提供しました。Fable 5.2が工程を統括し、OpenCVで切り抜き、Pythonで音を組み直し、Canvasで描画しています。",
+        "ko": "제작자가 손그림 캐릭터와 10초 분량의 베이스 연주를 제공했습니다. Fable 5.2가 제작을 지휘하고 OpenCV로 그림을 오려 내고 Python으로 음원을 재구성한 뒤 Canvas로 화면을 그렸습니다.",
+        "es": "El autor aportó un dibujo y diez segundos de bajo. Fable 5.2 dirigió un flujo que recortó los dibujos con OpenCV, reorganizó el audio con Python y dibujó los fotogramas con Canvas."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T22:46:39.855042+00:00",
+          "views": 353,
+          "likes": 5,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-13T01:43:35.058404+00:00",
+          "views": 363,
+          "likes": 5,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-13T01:43:59.126174+00:00",
+          "views": 363,
+          "likes": 5,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 177.3,
+        "views_delta": 10,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "keiru-ai-2120896365828173898",
+      "titles": {
+        "en": "Low End Heart, a dream-pop and drum-and-bass music video",
+        "zh-CN": "《Low End Heart》梦幻流行与鼓打贝斯音乐视频",
+        "ja": "ドリームポップとドラムンベースのMV『Low End Heart』",
+        "ko": "드림 팝과 드럼 앤 베이스 뮤직비디오 Low End Heart",
+        "es": "Low End Heart, un videoclip de dream pop y drum and bass"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "keiru_ai",
+        "url": "https://x.com/keiru_ai"
+      },
+      "source_url": "https://x.com/keiru_ai/status/2120896365828173898",
+      "published_at": "2026-11-12T15:07:52Z",
+      "duration_seconds": 210.8,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120895579266207744/img/kA4f0DlRN5_K69xs.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/keiru-ai-2120896365828173898.webp",
+      "preview_path": "assets/previews/keiru-ai-2120896365828173898.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120895579266207744/vid/avc1/1920x1080/kIxFcuWQm186EBjK.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-13T01:43:50.586139+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "019fd394ae634cb199d547b4cfa41bd3ec9084294ea8b453907da8adf81db98e",
+        "model_named": true,
+        "video_checked_at": "2026-11-13T01:43:58.755072+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120895579266207744",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A dark corridor, expanding rings and an audio spectrum carry the track. The creator identifies each tool in the mixed workflow.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 in Claude Code for the edit, Suno for music, Midjourney for images and Three.js for the visuals.",
+        "zh-CN": "作者说明用 Claude Code 中的 Fable 5.2 剪辑，Suno 制作音乐，Midjourney 生成图片，Three.js 制作画面。",
+        "ja": "作者によると、編集はClaude CodeのFable 5.2、楽曲はSuno、画像はMidjourney、映像はThree.jsを使っています。",
+        "ko": "제작자는 Claude Code의 Fable 5.2로 편집하고 Suno로 음악을, Midjourney로 이미지를, Three.js로 영상 화면을 만들었다고 밝혔습니다.",
+        "es": "El autor atribuye el montaje a Fable 5.2 en Claude Code, la música a Suno, las imágenes a Midjourney y los efectos visuales a Three.js."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T22:46:38.829051+00:00",
+          "views": 209,
+          "likes": 4,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-13T01:43:32.901934+00:00",
+          "views": 223,
+          "likes": 4,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-13T01:43:59.229473+00:00",
+          "views": 223,
+          "likes": 4,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 177.3,
+        "views_delta": 14,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "su-nagomi-2120652723561590844",
+      "titles": {
+        "en": "Paper Pulse, a fold-out paper music video",
+        "zh-CN": "《Paper Pulse》从折纸世界展开的音乐视频",
+        "ja": "折り紙の世界が広がるMV『Paper Pulse』",
+        "ko": "종이 세계가 펼쳐지는 뮤직비디오 Paper Pulse",
+        "es": "Paper Pulse, un videoclip con un mundo de papel plegado"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "su_nagomi",
+        "url": "https://x.com/su_nagomi"
+      },
+      "source_url": "https://x.com/su_nagomi/status/2120652723561590844",
+      "published_at": "2026-11-11T22:59:43Z",
+      "duration_seconds": 49,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120650546348752896/img/5gUbKPCJNOb87YYc.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/su-nagomi-2120652723561590844.webp",
+      "preview_path": "assets/previews/su-nagomi-2120652723561590844.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120650546348752896/vid/avc1/1920x1080/CdyshjzW6cC-NYZw.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-13T01:43:50.583620+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "97f647c5aef2693cffe87d0cae4f0cbd0f1ad9f0973db073ec41ffa1b434a207",
+        "model_named": true,
+        "video_checked_at": "2026-11-13T01:43:58.743360+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": "最高だと思うMVを作って",
+        "source_url": "https://x.com/su_nagomi/status/2120652723561590844"
+      },
+      "native_media_id": "2120650546348752896",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The music video opens in a monochrome paper town and introduces color and lyric captions as the song builds.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator supplied a Suno song. Fable 5.2 analyzed the music, planned the sequence and added lyrics, with TapNow MCP supplying images and video.",
+        "zh-CN": "作者提供了 Suno 歌曲。Fable 5.2 分析音乐、规划结构并添加歌词，图片与视频由 TapNow MCP 生成。",
+        "ja": "作者はSunoの曲を渡し、Fable 5.2が楽曲分析、構成、歌詞テロップを担当しました。画像と動画はTapNow MCPを使用しています。",
+        "ko": "제작자가 Suno 음원을 제공했습니다. Fable 5.2가 곡을 분석하고 구성을 짜고 가사를 넣었으며 TapNow MCP로 이미지와 영상을 만들었습니다.",
+        "es": "El autor aportó una canción de Suno. Fable 5.2 analizó la música, planificó la secuencia y añadió la letra, con imágenes y vídeo de TapNow MCP."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-13T01:43:34.340431+00:00",
+          "views": 169,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-13T01:43:59.239148+00:00",
+          "views": 169,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.4,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "keiru-ai-2120532609625424195",
+      "titles": {
+        "en": "Seeded industrial drum and bass with embossed visuals",
+        "zh-CN": "随机种子生成的工业鼓打贝斯与浮雕画面",
+        "ja": "乱数シードで作ったインダストリアルなドラムンベースと浮き彫り映像",
+        "ko": "난수 시드로 만든 인더스트리얼 드럼 앤 베이스와 양각 영상",
+        "es": "Drum and bass industrial con semilla aleatoria y visuales en relieve"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "keiru_ai",
+        "url": "https://x.com/keiru_ai"
+      },
+      "source_url": "https://x.com/keiru_ai/status/2120532609625424195",
+      "published_at": "2026-11-11T15:02:26Z",
+      "duration_seconds": 96.3,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120532142832934912/img/ZoS67nwEDpIhCSzm.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/keiru-ai-2120532609625424195.webp",
+      "preview_path": "assets/previews/keiru-ai-2120532609625424195.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120532142832934912/vid/avc1/1920x1080/pRXtEmq3PKIg5qOf.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-13T01:43:52.508764+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "fb51bff18aebbd11c8f593a0711c1ff8b9eb1d5436f90176c3f9edd33387857a",
+        "model_named": true,
+        "video_checked_at": "2026-11-13T01:43:58.729162+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120532142832934912",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "Embossed forms switch from organic patterns to raised mechanical lines under moving colored light, accompanying the seeded composition.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 in Claude Code, seeded audio generation and a Three.js scene.",
+        "zh-CN": "作者说明使用了 Claude Code 中的 Fable 5.2、随机种子生成音频和 Three.js 场景。",
+        "ja": "作者はClaude CodeのFable 5.2、乱数シードによる音の生成、Three.jsの映像を使ったと説明しています。",
+        "ko": "제작자는 Claude Code의 Fable 5.2, 난수 시드로 생성한 오디오와 Three.js 장면을 사용했다고 밝혔습니다.",
+        "es": "El autor cita Fable 5.2 en Claude Code, generación de audio con semilla aleatoria y una escena en Three.js."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T22:46:39.308070+00:00",
+          "views": 188,
+          "likes": 3,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-13T01:43:34.360849+00:00",
+          "views": 190,
+          "likes": 3,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-13T01:43:59.236824+00:00",
+          "views": 190,
+          "likes": 3,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 177.3,
+        "views_delta": 2,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "su-nagomi-2120104480557642091",
+      "titles": {
+        "en": "Fractals, fluids and particles in a code-rendered reel",
+        "zh-CN": "用代码呈现分形、流体与粒子的动效短片",
+        "ja": "フラクタル・流体・粒子をコードで描いた映像",
+        "ko": "프랙털과 유체, 입자를 코드로 그린 영상",
+        "es": "Fractales, fluidos y partículas en un vídeo renderizado por código"
+      },
+      "category": "motion",
+      "creator": {
+        "name": "su_nagomi",
+        "url": "https://x.com/su_nagomi"
+      },
+      "source_url": "https://x.com/su_nagomi/status/2120104480557642091",
+      "published_at": "2026-11-10T10:41:12Z",
+      "duration_seconds": 54,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120101415309963264/img/lXv_ob1ZERcothZt.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/su-nagomi-2120104480557642091.webp",
+      "preview_path": "assets/previews/su-nagomi-2120104480557642091.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120101415309963264/vid/avc1/1920x1080/oD3qIv_KNpscxPqn.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-13T01:43:54.739747+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "b535216c1a2061e248c310efe32e57b7567039c06fc435d7fc3220a01103ae7b",
+        "model_named": true,
+        "video_checked_at": "2026-11-13T01:43:58.776181+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120101415309963264",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The reel moves through distinct visual chapters, including an orbital particle ring, fractals and a procedural landscape.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator says Fable 5.2 generated the motion reel and synthesized its soundtrack in code.",
+        "zh-CN": "作者称动效短片和配乐均由 Fable 5.2 通过代码制作。",
+        "ja": "作者は映像とBGMをFable 5.2がコードで作ったと説明しています。",
+        "ko": "제작자는 영상과 배경 음악을 Fable 5.2가 코드로 만들었다고 밝혔습니다.",
+        "es": "El autor afirma que Fable 5.2 generó los gráficos en movimiento y sintetizó la banda sonora mediante código."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-13T01:43:36.259296+00:00",
+          "views": 402,
+          "likes": 6,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 1
+        },
+        {
+          "checked_at": "2026-11-13T01:43:59.251360+00:00",
+          "views": 402,
+          "likes": 6,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 1
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.4,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "seiiiiiiiiiiru-2120066857483063329",
+      "titles": {
+        "en": "Making a 3D Japanese bathhouse, step by step",
+        "zh-CN": "逐步讲解日式浴场 3D 制作过程",
+        "ja": "銭湯の3D映像ができるまで",
+        "ko": "일본식 목욕탕 3D 영상 제작 과정",
+        "es": "Cómo se hizo un baño público japonés en 3D"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "seiiiiiiiiiiru",
+        "url": "https://x.com/seiiiiiiiiiiru"
+      },
+      "source_url": "https://x.com/seiiiiiiiiiiru/status/2120066857483063329",
+      "published_at": "2026-11-10T08:11:42Z",
+      "duration_seconds": 50,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120065308107120640/img/2jgv8viqE6C_fMEP.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/seiiiiiiiiiiru-2120066857483063329.webp",
+      "preview_path": "assets/previews/seiiiiiiiiiiru-2120066857483063329.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120065308107120640/vid/avc1/1920x1080/YKoOFTwMaadyLQhl.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-13T01:43:56.520534+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "9ab79300c646d3de3305c54402f83ca6946730483bb4a427e403d906d03809f9",
+        "model_named": true,
+        "video_checked_at": "2026-11-13T01:43:59.627352+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": "銭湯の動画がどう作られていったか段階を踏んで見てわかるようなメイキング動画を作成して。",
+        "source_url": "https://x.com/seiiiiiiiiiiru/status/2120066857483063329"
+      },
+      "native_media_id": "2120065308107120640",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The generated making-of uses a diagram of the bathhouse and illustrated controls to explain scene design and camera setup in stages.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator asked Fable 5.2 to make this illustrated making-of video and shared the brief in the post.",
+        "zh-CN": "作者请 Fable 5.2 制作这段图解幕后短片，并在原帖公开了要求。",
+        "ja": "作者はFable 5.2に図解のメイキング映像を依頼し、投稿でプロンプトを公開しています。",
+        "ko": "제작자는 Fable 5.2에 그림으로 제작 과정을 설명하는 영상을 요청했으며 게시물에 프롬프트를 공개했습니다.",
+        "es": "El autor pidió a Fable 5.2 este vídeo ilustrado sobre el proceso de producción y compartió la instrucción en la publicación."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T22:46:40.815322+00:00",
+          "views": 2054,
+          "likes": 46,
+          "reposts": 6,
+          "replies": 3,
+          "bookmarks": 16
+        },
+        {
+          "checked_at": "2026-11-13T01:43:36.359785+00:00",
+          "views": 2063,
+          "likes": 46,
+          "reposts": 6,
+          "replies": 3,
+          "bookmarks": 16
+        },
+        {
+          "checked_at": "2026-11-13T01:44:00.151810+00:00",
+          "views": 2063,
+          "likes": 46,
+          "reposts": 6,
+          "replies": 3,
+          "bookmarks": 16
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 177.3,
+        "views_delta": 9,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "chetaslua-2120464199096885739",
+      "titles": {
+        "en": "The Mona Lisa assembled stroke by stroke in JavaScript",
+        "zh-CN": "用 JavaScript 逐笔绘制《蒙娜丽莎》",
+        "ja": "JavaScriptで筆跡を重ねる『モナ・リザ』",
+        "ko": "JavaScript로 붓질을 쌓아 그린 모나리자",
+        "es": "La Mona Lisa pintada pincelada a pincelada con JavaScript"
+      },
+      "category": "motion",
+      "creator": {
+        "name": "chetaslua",
+        "url": "https://x.com/chetaslua"
+      },
+      "source_url": "https://x.com/chetaslua/status/2120464199096885739",
+      "published_at": "2026-11-11T10:30:36Z",
+      "duration_seconds": 16.316,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120464110202900480/img/Kg0xmBtkeO8IhgvU.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/chetaslua-2120464199096885739.webp",
+      "preview_path": "assets/previews/chetaslua-2120464199096885739.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120464110202900480/vid/avc1/3024x1660/PfVYLxXQxA7sYUuB.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-13",
+        "checked_at": "2026-11-13T01:43:57.063937+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "11bdb79b01202395ea6b3b35f31add38865ab0eb76beb509114d1a512dd64cb0",
+        "model_named": true,
+        "video_checked_at": "2026-11-13T01:43:59.637763+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120464110202900480",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The recording makes the drawing process visible, from broad color strokes to a recognizable portrait, beside a palette and progress readout.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 with drawing the portrait in JavaScript.",
+        "zh-CN": "作者称肖像由 Fable 5.2 使用 JavaScript 绘制。",
+        "ja": "作者はFable 5.2がJavaScriptで肖像を描いたと説明しています。",
+        "ko": "제작자는 Fable 5.2가 JavaScript로 초상화를 그렸다고 밝혔습니다.",
+        "es": "El autor atribuye a Fable 5.2 el dibujo del retrato en JavaScript."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T22:46:39.606032+00:00",
+          "views": 22712,
+          "likes": 283,
+          "reposts": 12,
+          "replies": 26,
+          "bookmarks": 72
+        },
+        {
+          "checked_at": "2026-11-13T01:43:34.811242+00:00",
+          "views": 23276,
+          "likes": 284,
+          "reposts": 12,
+          "replies": 26,
+          "bookmarks": 73
+        },
+        {
+          "checked_at": "2026-11-13T01:44:00.093538+00:00",
+          "views": 23279,
+          "likes": 284,
+          "reposts": 12,
+          "replies": 26,
+          "bookmarks": 73
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 177.3,
+        "views_delta": 567,
+        "likes_delta": 1,
         "reposts_delta": 0
       }
     }
