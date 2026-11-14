@@ -169,6 +169,36 @@
       "status": "held-possible-duplicate",
       "reason": "The creator describes this as a gameplay update to a continuing Blender and Unreal project. The relation to the already listed forest demo remains unresolved, so it is held to avoid counting the same project twice.",
       "checked_at": "2026-11-14T17:51:02.405958+00:00"
+    },
+    {
+      "source_url": "https://x.com/techfren/status/2119945743507058740",
+      "creator": {
+        "name": "techfren",
+        "url": "https://x.com/techfren"
+      },
+      "status": "held-possible-duplicate",
+      "reason": "The attached video is a presenter-led breakdown of the flock simulation already listed from the same creator as a finished film.",
+      "checked_at": "2026-11-14T20:54:52.779726+00:00"
+    },
+    {
+      "source_url": "https://x.com/eluchocha/status/2120511923590414568",
+      "creator": {
+        "name": "eluchocha",
+        "url": "https://x.com/eluchocha"
+      },
+      "status": "held-insufficient-workflow-evidence",
+      "reason": "The creator names Fable 5.2, and the screen recording shows a rendered garment. The post leaves the source of the garment and the scope of Fable’s animation work unspecified.",
+      "checked_at": "2026-11-14T20:54:51.080587+00:00"
+    },
+    {
+      "source_url": "https://x.com/eluchocha/status/2120856734759547259",
+      "creator": {
+        "name": "eluchocha",
+        "url": "https://x.com/eluchocha"
+      },
+      "status": "held-insufficient-workflow-evidence",
+      "reason": "The attached cartoon is visible in the original post, but the creator does not identify the animation code or source of the artwork and references a general workflow post.",
+      "checked_at": "2026-11-14T20:54:50.181725+00:00"
     }
   ]
 }

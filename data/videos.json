@@ -23396,14 +23396,22 @@
           "reposts": 162,
           "replies": 150,
           "bookmarks": 1463
+        },
+        {
+          "checked_at": "2026-11-14T20:54:45.617175+00:00",
+          "views": 173984,
+          "likes": 3495,
+          "reposts": 164,
+          "replies": 151,
+          "bookmarks": 1525
         }
       ],
       "momentum": {
         "state": "established",
-        "window_minutes": 415.4,
-        "views_delta": 22975,
-        "likes_delta": 324,
-        "reposts_delta": 18
+        "window_minutes": 183.7,
+        "views_delta": 6073,
+        "likes_delta": 120,
+        "reposts_delta": 2
       },
       "workflow_source_urls": [
         "https://x.com/chetaslua/status/2121176153667125296"
@@ -23921,14 +23929,22 @@
           "reposts": 22,
           "replies": 40,
           "bookmarks": 235
+        },
+        {
+          "checked_at": "2026-11-14T20:54:45.620938+00:00",
+          "views": 31435,
+          "likes": 409,
+          "reposts": 23,
+          "replies": 40,
+          "bookmarks": 240
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 415.4,
-        "views_delta": 9671,
-        "likes_delta": 72,
-        "reposts_delta": 3
+        "window_minutes": 183.7,
+        "views_delta": 2218,
+        "likes_delta": 7,
+        "reposts_delta": 1
       },
       "workflow_source_urls": [
         "https://x.com/scottstts/status/2121272406241120521"
@@ -24047,14 +24063,22 @@
           "reposts": 9,
           "replies": 15,
           "bookmarks": 98
+        },
+        {
+          "checked_at": "2026-11-14T20:54:45.631113+00:00",
+          "views": 10305,
+          "likes": 284,
+          "reposts": 10,
+          "replies": 15,
+          "bookmarks": 100
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 415.4,
-        "views_delta": 1491,
-        "likes_delta": 16,
-        "reposts_delta": 2
+        "window_minutes": 183.7,
+        "views_delta": 267,
+        "likes_delta": 4,
+        "reposts_delta": 1
       }
     },
     {
@@ -24559,13 +24583,21 @@
           "reposts": 7,
           "replies": 9,
           "bookmarks": 43
+        },
+        {
+          "checked_at": "2026-11-14T20:54:45.619794+00:00",
+          "views": 5281,
+          "likes": 100,
+          "reposts": 7,
+          "replies": 9,
+          "bookmarks": 45
         }
       ],
       "momentum": {
-        "state": "rising",
-        "window_minutes": 415.4,
-        "views_delta": 480,
-        "likes_delta": 13,
+        "state": "new",
+        "window_minutes": 183.7,
+        "views_delta": 80,
+        "likes_delta": 0,
         "reposts_delta": 0
       },
       "workflow_source_urls": [
@@ -24677,14 +24709,22 @@
           "reposts": 48,
           "replies": 30,
           "bookmarks": 462
+        },
+        {
+          "checked_at": "2026-11-14T20:54:45.648739+00:00",
+          "views": 22821,
+          "likes": 752,
+          "reposts": 48,
+          "replies": 31,
+          "bookmarks": 467
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 415.4,
-        "views_delta": 1486,
-        "likes_delta": 20,
-        "reposts_delta": 4
+        "window_minutes": 183.7,
+        "views_delta": 254,
+        "likes_delta": 3,
+        "reposts_delta": 0
       },
       "workflow_source_urls": [
         "https://x.com/BlendiByl/status/2121130651562967261"
@@ -25079,14 +25119,22 @@
           "reposts": 1,
           "replies": 4,
           "bookmarks": 17
+        },
+        {
+          "checked_at": "2026-11-14T20:54:45.637197+00:00",
+          "views": 2008,
+          "likes": 36,
+          "reposts": 1,
+          "replies": 4,
+          "bookmarks": 19
         }
       ],
       "momentum": {
-        "state": "rising",
-        "window_minutes": 415.4,
-        "views_delta": 493,
-        "likes_delta": 8,
-        "reposts_delta": 1
+        "state": "new",
+        "window_minutes": 183.7,
+        "views_delta": 105,
+        "likes_delta": 1,
+        "reposts_delta": 0
       },
       "workflow_source_urls": [
         "https://x.com/onofumi_AI/status/2121452953022202351"
@@ -25387,14 +25435,22 @@
           "reposts": 491,
           "replies": 45,
           "bookmarks": 1584
+        },
+        {
+          "checked_at": "2026-11-14T20:54:45.612627+00:00",
+          "views": 1001251,
+          "likes": 4681,
+          "reposts": 491,
+          "replies": 45,
+          "bookmarks": 1588
         }
       ],
       "momentum": {
         "state": "established",
-        "window_minutes": 415.4,
-        "views_delta": 17754,
-        "likes_delta": 93,
-        "reposts_delta": 13
+        "window_minutes": 183.7,
+        "views_delta": 1947,
+        "likes_delta": 10,
+        "reposts_delta": 0
       }
     },
     {
@@ -27162,14 +27218,22 @@
           "reposts": 1,
           "replies": 9,
           "bookmarks": 16
+        },
+        {
+          "checked_at": "2026-11-14T20:54:45.618759+00:00",
+          "views": 5047,
+          "likes": 96,
+          "reposts": 6,
+          "replies": 17,
+          "bookmarks": 47
         }
       ],
       "momentum": {
-        "state": "new",
-        "window_minutes": 1.9,
-        "views_delta": 55,
-        "likes_delta": 0,
-        "reposts_delta": 0
+        "state": "rising",
+        "window_minutes": 181.3,
+        "views_delta": 3474,
+        "likes_delta": 57,
+        "reposts_delta": 5
       },
       "workflow_source_urls": [
         "https://x.com/scottstts/status/2121626207334838473"
@@ -27256,14 +27320,22 @@
           "reposts": 33,
           "replies": 63,
           "bookmarks": 526
+        },
+        {
+          "checked_at": "2026-11-14T20:54:45.669546+00:00",
+          "views": 55612,
+          "likes": 1141,
+          "reposts": 46,
+          "replies": 78,
+          "bookmarks": 751
         }
       ],
       "momentum": {
-        "state": "new",
-        "window_minutes": 1.9,
-        "views_delta": 251,
-        "likes_delta": 8,
-        "reposts_delta": 0
+        "state": "rising",
+        "window_minutes": 181.3,
+        "views_delta": 18245,
+        "likes_delta": 333,
+        "reposts_delta": 13
       }
     },
     {
@@ -27686,6 +27758,617 @@
           "post_sha256": "733a354ddc4e9c1e32e28113741e2755ecc6d221334233e60cd58cbd3b2193ba"
         }
       ]
+    },
+    {
+      "id": "kevin-t-ngo-2121701020598415465",
+      "titles": {
+        "en": "Valsera, a side-scrolling RPG drawn in code",
+        "zh-CN": "《Valsera》用代码绘制的横版角色扮演游戏",
+        "ja": "『Valsera』コードで描いた横スクロールRPG",
+        "ko": "〈Valsera〉 코드로 그린 횡스크롤 RPG",
+        "es": "Valsera, un RPG de desplazamiento lateral dibujado con código"
+      },
+      "category": "interactive",
+      "creator": {
+        "name": "kevin_t_ngo",
+        "url": "https://x.com/kevin_t_ngo"
+      },
+      "source_url": "https://x.com/kevin_t_ngo/status/2121701020598415465",
+      "published_at": "2026-11-14T20:25:17Z",
+      "duration_seconds": 105,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121679674543890432/img/eGoaKNtrmFtjFM5k.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kevin-t-ngo-2121701020598415465.webp",
+      "preview_path": "assets/previews/kevin-t-ngo-2121701020598415465.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2121679674543890432/vid/avc1/1920x1080/BOfROoc3Hogm0aWs.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-14",
+        "checked_at": "2026-11-14T20:55:10.330398+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "94b37cad65da546993262da0df77d80344bae9dd4a9d59e01cc158ac735ea55e",
+        "model_named": true,
+        "video_checked_at": "2026-11-14T20:55:22.650129+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2121679674543890432",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "An original browser RPG demo. The illustrated character sheet and the side-scrolling footage show both art direction and live interaction.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for the visuals and says there was no image model or pre-made artwork. The demo shows a character sheet, villages and combat in an illustrated world. The creator shares a playable build in a reply.",
+        "zh-CN": "作者称视觉由 Fable 5.2 用代码绘制，未使用图像模型或预制美术素材。演示展示了角色设定、村镇和战斗，作者在回复里附上试玩入口。",
+        "ja": "作者によると、Fable 5.2が画像モデルや既製素材を使わずに絵を描画。イラスト調の世界でキャラクター設定、村、戦闘を見せ、返信に体験版を載せています。",
+        "ko": "제작자는 Fable 5.2로 이미지 모델이나 기성 아트 없이 화면을 그렸다고 밝혔습니다. 캐릭터 설정, 마을, 전투가 담겼으며 답글에서 체험판을 제공합니다.",
+        "es": "El autor atribuye las imágenes a Fable 5.2 y afirma que no usó un modelo de imagen ni arte prefabricado. La demo muestra una ficha de personaje, pueblos y combates. En una respuesta enlaza la versión jugable."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-14T20:54:43.568364+00:00",
+          "views": 1681,
+          "likes": 65,
+          "reposts": 1,
+          "replies": 11,
+          "bookmarks": 22
+        },
+        {
+          "checked_at": "2026-11-14T20:55:23.130082+00:00",
+          "views": 1705,
+          "likes": 66,
+          "reposts": 1,
+          "replies": 11,
+          "bookmarks": 22
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.7,
+        "views_delta": 24,
+        "likes_delta": 1,
+        "reposts_delta": 0
+      },
+      "workflow_source_urls": [
+        "https://x.com/kevin_t_ngo/status/2121701022087475398"
+      ],
+      "workflow_source_checks": [
+        {
+          "source_url": "https://x.com/kevin_t_ngo/status/2121701022087475398",
+          "checked_at": "2026-11-14T20:55:19.174218+00:00",
+          "method": "X official oEmbed",
+          "post_sha256": "22bc89cfb53fb69fe824870abb6ef35aea56e87dc5816ec9b78e0629cc4e91b2"
+        }
+      ]
+    },
+    {
+      "id": "toumorocorn-00-2120640549543936475",
+      "titles": {
+        "en": "Until Dawn, a desk-side story rendered in Blender",
+        "zh-CN": "《直到黎明》用 Blender 渲染的桌边故事",
+        "ja": "『夜明けまで』Blenderで描いた机の上の物語",
+        "ko": "〈새벽까지〉 Blender로 그린 책상 위 이야기",
+        "es": "Hasta el amanecer, una historia de escritorio renderizada en Blender"
+      },
+      "category": "short-films",
+      "creator": {
+        "name": "toumorocorn_00",
+        "url": "https://x.com/toumorocorn_00"
+      },
+      "source_url": "https://x.com/toumorocorn_00/status/2120640549543936475",
+      "published_at": "2026-11-11T22:11:21Z",
+      "duration_seconds": 59,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120640502261575680/img/0c7miinizC529mC4.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/toumorocorn-00-2120640549543936475.webp",
+      "preview_path": "assets/previews/toumorocorn-00-2120640549543936475.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120640502261575680/vid/avc1/1280x720/k2KorEXRvxHQV80s.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-14",
+        "checked_at": "2026-11-14T20:55:10.339513+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "36ee311dc4c4520f59f72b81e6c2c2f4447cb6bd0947192966dba54669b9b9b8",
+        "model_named": true,
+        "video_checked_at": "2026-11-14T20:55:22.920137+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120640502261575680",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A distinct remake with its own story beats, character, lighting and soundtrack. The creator credits the visual and audio workflows separately.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "Inspired by The Edge, the creator made a new film with its own mascot and soundtrack. Fable 5.2 scripted the room, desk and figure in Blender. The creator credits muse and Suno for the music.",
+        "zh-CN": "作者受《The Edge》启发另做一支短片，加入自己的吉祥物与配乐。Fable 5.2 用 Blender 脚本构建房间、桌面和人偶，音乐来自 muse 与 Suno。",
+        "ja": "作者は『The Edge』を参考に、独自のマスコットと音楽で新しい短編を制作。Fable 5.2がBlenderのスクリプトで部屋、机、人形を作り、音楽にはmuseとSunoを使用しました。",
+        "ko": "제작자는 〈The Edge〉에서 영감을 받아 자체 마스코트와 음악을 담은 새 단편을 만들었습니다. Fable 5.2가 Blender 스크립트로 방, 책상, 인형을 만들었으며 음악에는 muse와 Suno를 사용했습니다.",
+        "es": "El autor se inspiró en The Edge para hacer un corto con su propia mascota y música. Fable 5.2 programó la habitación, la mesa y la figura en Blender. El autor atribuye la música a muse y Suno."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-14T20:54:50.730021+00:00",
+          "views": 1079,
+          "likes": 16,
+          "reposts": 0,
+          "replies": 3,
+          "bookmarks": 3
+        },
+        {
+          "checked_at": "2026-11-14T20:55:23.410683+00:00",
+          "views": 1079,
+          "likes": 16,
+          "reposts": 0,
+          "replies": 3,
+          "bookmarks": 3
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.5,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "techfren-2119911343633682916",
+      "titles": {
+        "en": "A mechanical watch movement in an exploded view",
+        "zh-CN": "机械表机芯的爆炸分解动画",
+        "ja": "機械式時計のムーブメントを分解して見せる映像",
+        "ko": "기계식 시계 무브먼트의 분해 애니메이션",
+        "es": "Vista explosionada del mecanismo de un reloj"
+      },
+      "category": "product",
+      "creator": {
+        "name": "techfren",
+        "url": "https://x.com/techfren"
+      },
+      "source_url": "https://x.com/techfren/status/2119911343633682916",
+      "published_at": "2026-11-09T21:53:45Z",
+      "duration_seconds": 42,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119911154638376960/img/isj-GReXum_pTrgN.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/techfren-2119911343633682916.webp",
+      "preview_path": "assets/previews/techfren-2119911343633682916.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2119911154638376960/vid/avc1/1920x1080/W-EtG3d_QCeqJjGK.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-14",
+        "checked_at": "2026-11-14T20:55:14.820673+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "95b46f5e2f4d006620ad821b4384bb8c836c80451dc16489dee2d22a5b9bc923",
+        "model_named": true,
+        "video_checked_at": "2026-11-14T20:55:23.648232+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2119911154638376960",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A finished product-style film that isolates individual mechanical parts and ties the exploded view back to the assembled object.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator says Fable 5.2 built the movement in code. Gears and plates separate into layers before the camera returns to the assembled watch. The post does not name the rendering tool.",
+        "zh-CN": "作者称 Fable 5.2 用代码构建了机芯。齿轮与夹板逐层分离，镜头随后回到组装后的手表。原帖未披露渲染工具。",
+        "ja": "作者によると、Fable 5.2がコードでムーブメントを構築。歯車とプレートが層ごとに分かれ、組み上がった時計へと戻ります。描画ツールは未公表です。",
+        "ko": "제작자는 Fable 5.2가 무브먼트를 코드로 만들었다고 밝혔습니다. 톱니바퀴와 플레이트가 층층이 분리된 뒤 조립된 시계가 다시 등장합니다. 렌더링 도구는 명시되지 않았습니다.",
+        "es": "El autor dice que Fable 5.2 construyó el mecanismo con código. Los engranajes y las placas se separan en capas antes de volver al reloj montado. La publicación no indica la herramienta de renderizado."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-14T20:54:52.979545+00:00",
+          "views": 1341,
+          "likes": 19,
+          "reposts": 1,
+          "replies": 3,
+          "bookmarks": 13
+        },
+        {
+          "checked_at": "2026-11-14T20:55:24.108734+00:00",
+          "views": 1341,
+          "likes": 19,
+          "reposts": 1,
+          "replies": 3,
+          "bookmarks": 13
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.5,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "xrarchitect-2121336108370014266",
+      "titles": {
+        "en": "An illustrated storefront explored in 3D",
+        "zh-CN": "可在 3D 中漫游的插画店铺",
+        "ja": "イラスト調の店先を巡る3D映像",
+        "ko": "삽화풍 상점을 둘러보는 3D 영상",
+        "es": "Un recorrido 3D por un escaparate ilustrado"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "XRarchitect",
+        "url": "https://x.com/XRarchitect"
+      },
+      "source_url": "https://x.com/XRarchitect/status/2121336108370014266",
+      "published_at": "2026-11-13T20:15:15Z",
+      "duration_seconds": 25.8,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121335947447152640/img/m_TomruFWnZSJfCn.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/xrarchitect-2121336108370014266.webp",
+      "preview_path": "assets/previews/xrarchitect-2121336108370014266.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2121335947447152640/vid/avc1/1920x1080/Eg9KJBJWnmyqOmlI.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-14",
+        "checked_at": "2026-11-14T20:55:16.750304+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "82ff1ab2d84ae6c020195947acf16d8d44647845d678178a2069f5b441105918",
+        "model_named": true,
+        "video_checked_at": "2026-11-14T20:55:23.609979+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2121335947447152640",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A creator-posted walkthrough with distinct exterior and interior spaces. The original post names the separate scene tool and renderer.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator credits Atlas, Fable 5.2 and Three.js. The recording moves from a snowy street into a brightly lit shop with an illustrated look.",
+        "zh-CN": "作者披露使用 Atlas、Fable 5.2 和 Three.js。录像从雪地街道进入色彩明亮的插画风店铺。",
+        "ja": "作者はAtlas、Fable 5.2、Three.jsを使用。雪の積もる通りから、鮮やかな照明のイラスト調の店内へ進みます。",
+        "ko": "제작자는 Atlas, Fable 5.2, Three.js를 사용했다고 밝혔습니다. 영상은 눈 덮인 길에서 밝은 삽화풍 상점 안으로 들어갑니다.",
+        "es": "El autor menciona Atlas, Fable 5.2 y Three.js. La grabación pasa de una calle nevada al interior de una tienda ilustrada e iluminada."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-14T20:55:09.269293+00:00",
+          "views": 36856,
+          "likes": 830,
+          "reposts": 44,
+          "replies": 22,
+          "bookmarks": 494
+        },
+        {
+          "checked_at": "2026-11-14T20:55:24.090154+00:00",
+          "views": 36856,
+          "likes": 830,
+          "reposts": 44,
+          "replies": 22,
+          "bookmarks": 494
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.2,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "taka-claudecode-2120113849970077901",
+      "titles": {
+        "en": "Everything Is Calculation, from patterns to particles",
+        "zh-CN": "《一切皆计算》从反应图案到粒子文字",
+        "ja": "『すべては計算』模様から粒子へ",
+        "ko": "〈모든 것은 계산〉 패턴에서 입자까지",
+        "es": "Todo es cálculo, de los patrones a las partículas"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "taka_claudecode",
+        "url": "https://x.com/taka_claudecode"
+      },
+      "source_url": "https://x.com/taka_claudecode/status/2120113849970077901",
+      "published_at": "2026-11-10T11:18:26Z",
+      "duration_seconds": 38.011,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120113499863175169/img/dbSwSRrl6zUAVn-3.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/taka-claudecode-2120113849970077901.webp",
+      "preview_path": "assets/previews/taka-claudecode-2120113849970077901.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120113499863175169/vid/avc1/1280x720/a_xq1PDgfAYx4EmW.mp4?tag=14",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-14",
+        "checked_at": "2026-11-14T20:55:18.570364+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "0d47d2fe596663185c9cc656c67fa56ca6626d238ad1a22945a72ec4fca8830d",
+        "model_named": true,
+        "video_checked_at": "2026-11-14T20:55:23.758865+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120113499863175169",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A finished mathematical visualization with distinct scenes and a consistent visual identity across the chapters.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator says Fable 5.2 wrote the visuals and music. The short turns mathematical surfaces, fluid motion, reaction patterns and particles into successive scenes.",
+        "zh-CN": "作者称 Fable 5.2 编写了画面与音乐代码。短片依次展示数学曲面、流体运动、反应图案和粒子。",
+        "ja": "作者によると、Fable 5.2が映像と音楽のコードを作成。数学的な曲面、流体、反応模様、粒子が順に登場します。",
+        "ko": "제작자는 Fable 5.2가 영상과 음악 코드를 작성했다고 밝혔습니다. 수학적 곡면, 유체, 반응으로 생긴 패턴과 입자가 차례로 등장합니다.",
+        "es": "El autor dice que Fable 5.2 escribió el código de la imagen y la música. El corto encadena superficies matemáticas, fluidos, patrones de reacción y partículas."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-14T20:55:09.272576+00:00",
+          "views": 58,
+          "likes": 2,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-14T20:55:24.212073+00:00",
+          "views": 58,
+          "likes": 2,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.2,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "taka-claudecode-2120292244737683687",
+      "titles": {
+        "en": "Light and Waves, from refraction to interference",
+        "zh-CN": "《光与波》从宝石折射到波形干涉",
+        "ja": "『光と波』屈折から干渉まで",
+        "ko": "〈빛과 파동〉 굴절에서 간섭까지",
+        "es": "Luz y ondas, de la refracción a la interferencia"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "taka_claudecode",
+        "url": "https://x.com/taka_claudecode"
+      },
+      "source_url": "https://x.com/taka_claudecode/status/2120292244737683687",
+      "published_at": "2026-11-10T23:07:18Z",
+      "duration_seconds": 38.011,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120292139250962433/img/eKKX-UsX7X-AH5a7.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/taka-claudecode-2120292244737683687.webp",
+      "preview_path": "assets/previews/taka-claudecode-2120292244737683687.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120292139250962433/vid/avc1/1280x720/4Eq6Y8beUzyI6wnM.mp4?tag=14",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-14",
+        "checked_at": "2026-11-14T20:55:18.579769+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "d60e8bd08409bc6a4222188e2406230bb20a11b45ef19a63101552592b16a092",
+        "model_named": true,
+        "video_checked_at": "2026-11-14T20:55:23.948104+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120292139250962433",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A separate finished short using contrasting scenes to visualize related phenomena. The creator reports rewriting one chapter before publication.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator attributes the visuals and music to Fable 5.2. The chapters include a dispersive gemstone, paths resembling slime mold and particles moving in waves.",
+        "zh-CN": "作者称画面和音乐都由 Fable 5.2 编写。几段动画分别展示宝石色散、类似黏菌的生长路径以及随波运动的粒子。",
+        "ja": "作者によると、Fable 5.2が映像と音楽のコードを作成。宝石の分散、粘菌のような経路、波として進む粒子が登場します。",
+        "ko": "제작자는 Fable 5.2가 영상과 음악을 만들었다고 밝혔습니다. 보석의 분산, 점균류를 닮은 경로, 파동처럼 움직이는 입자가 등장합니다.",
+        "es": "El autor atribuye la imagen y la música a Fable 5.2. Las secciones muestran la dispersión en una gema, trayectorias parecidas a las de un moho mucilaginoso y partículas que avanzan como ondas."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-14T20:55:09.272083+00:00",
+          "views": 37,
+          "likes": 2,
+          "reposts": 1,
+          "replies": 1,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-14T20:55:24.421787+00:00",
+          "views": 37,
+          "likes": 2,
+          "reposts": 1,
+          "replies": 1,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.3,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "taka-claudecode-2120376647350358368",
+      "titles": {
+        "en": "Shapes, from a silk simulation to curved tiling",
+        "zh-CN": "《形状》从绸布模拟到曲面镶嵌",
+        "ja": "『かたち』絹のシミュレーションから曲がった敷き詰めへ",
+        "ko": "〈형태〉 비단 시뮬레이션에서 굽은 타일링까지",
+        "es": "Formas, de una simulación de seda a un mosaico curvo"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "taka_claudecode",
+        "url": "https://x.com/taka_claudecode"
+      },
+      "source_url": "https://x.com/taka_claudecode/status/2120376647350358368",
+      "published_at": "2026-11-11T04:42:42Z",
+      "duration_seconds": 38.011,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120376452348817408/img/SQ9JqbwfnREsxyT1.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/taka-claudecode-2120376647350358368.webp",
+      "preview_path": "assets/previews/taka-claudecode-2120376647350358368.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120376452348817408/vid/avc1/1280x720/fJ9ngFoaatwTwWpl.mp4?tag=14",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-14",
+        "checked_at": "2026-11-14T20:55:20.611120+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "ff78f1e856ccea3c5eb78306f03e65d1a468529094e488f988922859adb35e3b",
+        "model_named": true,
+        "video_checked_at": "2026-11-14T20:55:24.588111+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120376452348817408",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The moving cloth, patterned tiling and growing forms distinguish this third finished film from the creator’s earlier calculation and light pieces.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator says Fable 5.2 wrote the visuals and music. Cloth folds, curved tiling and evolving patterns show different ways to build up a shape.",
+        "zh-CN": "作者称 Fable 5.2 编写了画面和音乐。绸布褶皱、曲面镶嵌和演化图案分别展示形状如何生成。",
+        "ja": "作者によると、Fable 5.2が映像と音楽のコードを作成。布のひだ、曲がった空間のタイル、変化する模様を通して形が生まれる様子を見せます。",
+        "ko": "제작자는 Fable 5.2가 영상과 음악을 만들었다고 밝혔습니다. 옷감의 주름, 굽은 타일링, 변화하는 패턴으로 형태가 만들어지는 과정을 보여 줍니다.",
+        "es": "El autor dice que Fable 5.2 escribió el código de la imagen y la música. Los pliegues, los mosaicos curvos y los patrones cambiantes muestran distintas formas de construir una figura."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-14T20:55:09.272700+00:00",
+          "views": 77,
+          "likes": 3,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-14T20:55:25.061544+00:00",
+          "views": 77,
+          "likes": 3,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.3,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "eluchocha-2120059951485698350",
+      "titles": {
+        "en": "A 3D town from rooftops to street level",
+        "zh-CN": "从屋顶俯瞰到街面漫游的 3D 小镇",
+        "ja": "屋根の上から通りまで降りる3Dの街",
+        "ko": "지붕 위부터 거리까지 둘러보는 3D 마을",
+        "es": "Una ciudad en 3D desde los tejados hasta la calle"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "eluchocha",
+        "url": "https://x.com/eluchocha"
+      },
+      "source_url": "https://x.com/eluchocha/status/2120059951485698350",
+      "published_at": "2026-11-10T07:44:15Z",
+      "duration_seconds": 59.477,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120059143515987968/img/5cG1dpuwKrGR-aLx.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/eluchocha-2120059951485698350.webp",
+      "preview_path": "assets/previews/eluchocha-2120059951485698350.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120059143515987968/vid/avc1/2560x1440/T0fkZZHKry2zwcnM.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-14",
+        "checked_at": "2026-11-14T20:55:16.110190+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "2a3bf0b646134197f9b73ac1100f81c147e89f02cf805e126c53ae5bc1e76805",
+        "model_named": true,
+        "video_checked_at": "2026-11-14T20:55:23.749280+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120059143515987968",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "An original scene tour that shows the town layout at altitude and the scale of the buildings from the square.",
+      "workflow": "creator-reported-multitool",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for the town and says the assets were made in Blender. The video starts above the rooftops and ends at street level.",
+        "zh-CN": "作者将小镇归于 Fable 5.2，并称素材用 Blender 制作。视频从屋顶上方俯瞰，最终落到街面。",
+        "ja": "作者は街の制作にFable 5.2を使い、アセットはBlenderで作ったと説明。屋根を見下ろす視点から街路の高さに移ります。",
+        "ko": "제작자는 Fable 5.2로 마을을 만들고 에셋은 Blender에서 제작했다고 밝혔습니다. 영상은 지붕 위에서 시작해 거리 높이로 내려갑니다.",
+        "es": "El autor atribuye la ciudad a Fable 5.2 y dice que los recursos se hicieron en Blender. El vídeo empieza sobre los tejados y termina a pie de calle."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-14T20:54:51.800025+00:00",
+          "views": 153,
+          "likes": 1,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 1
+        },
+        {
+          "checked_at": "2026-11-14T20:55:24.240286+00:00",
+          "views": 153,
+          "likes": 1,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 1
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.5,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
     }
   ]
 }
