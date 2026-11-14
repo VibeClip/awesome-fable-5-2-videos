@@ -129,6 +129,26 @@
       "status": "held-after-visual-review",
       "reason": "The creator demonstrates a lighthouse reconstruction and earthquake simulation. The only verified full cut opens and closes with product promotion and includes a promotional URL in the footage. A separate clean cut has not been located.",
       "checked_at": "2026-11-13T07:42:57.512782+00:00"
+    },
+    {
+      "source_url": "https://x.com/RezAIT00/status/2121228378409726105",
+      "creator": {
+        "name": "RezAIT00",
+        "url": "https://x.com/RezAIT00"
+      },
+      "status": "held-insufficient-workflow-evidence",
+      "reason": "The creator describes this as an update to an ongoing game. The relationship to their existing world demos and whether it should have a separate entry remain unverified.",
+      "checked_at": "2026-11-14T04:53:32.386127+00:00"
+    },
+    {
+      "source_url": "https://x.com/MrTacticalX/status/2120565434424439292",
+      "creator": {
+        "name": "MrTacticalX",
+        "url": "https://x.com/MrTacticalX"
+      },
+      "status": "held-insufficient-workflow-evidence",
+      "reason": "The single clip combines a Claude Fable 5.1 and 5.2 comparison. The 5.2 portion has not been independently isolated for a preview.",
+      "checked_at": "2026-11-14T04:53:35.855810+00:00"
     }
   ]
 }
