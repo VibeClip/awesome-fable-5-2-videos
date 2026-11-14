@@ -149,6 +149,16 @@
       "status": "held-insufficient-workflow-evidence",
       "reason": "The single clip combines a Claude Fable 5.1 and 5.2 comparison. The 5.2 portion has not been independently isolated for a preview.",
       "checked_at": "2026-11-14T04:53:35.855810+00:00"
+    },
+    {
+      "source_url": "https://x.com/BlendiByl/status/2121177279451844707",
+      "creator": {
+        "name": "BlendiByl",
+        "url": "https://x.com/BlendiByl"
+      },
+      "status": "held-insufficient-workflow-evidence",
+      "reason": "The creator published an original gameplay clip showing watercolor spreading with each step. The post does not identify the model, so the clip stays a candidate while Fable 5.2 attribution remains unverified.",
+      "checked_at": "2026-11-14T07:57:33.000028+00:00"
     }
   ]
 }

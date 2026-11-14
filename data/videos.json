@@ -23372,14 +23372,22 @@
           "reposts": 129,
           "replies": 132,
           "bookmarks": 1147
+        },
+        {
+          "checked_at": "2026-11-14T07:57:42.171641+00:00",
+          "views": 135629,
+          "likes": 2902,
+          "reposts": 137,
+          "replies": 133,
+          "bookmarks": 1218
         }
       ],
       "momentum": {
         "state": "established",
-        "window_minutes": 542.9,
-        "views_delta": 36810,
-        "likes_delta": 652,
-        "reposts_delta": 36
+        "window_minutes": 184.0,
+        "views_delta": 9972,
+        "likes_delta": 127,
+        "reposts_delta": 8
       },
       "workflow_source_urls": [
         "https://x.com/chetaslua/status/2121176153667125296"
@@ -23873,14 +23881,22 @@
           "reposts": 18,
           "replies": 34,
           "bookmarks": 160
+        },
+        {
+          "checked_at": "2026-11-14T07:57:42.098039+00:00",
+          "views": 17184,
+          "likes": 308,
+          "reposts": 19,
+          "replies": 36,
+          "bookmarks": 174
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 542.9,
-        "views_delta": 8095,
-        "likes_delta": 133,
-        "reposts_delta": 8
+        "window_minutes": 184.0,
+        "views_delta": 2502,
+        "likes_delta": 19,
+        "reposts_delta": 1
       },
       "workflow_source_urls": [
         "https://x.com/scottstts/status/2121272406241120521"
@@ -23975,14 +23991,22 @@
           "reposts": 6,
           "replies": 15,
           "bookmarks": 84
+        },
+        {
+          "checked_at": "2026-11-14T07:57:42.103665+00:00",
+          "views": 8169,
+          "likes": 257,
+          "reposts": 7,
+          "replies": 15,
+          "bookmarks": 87
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 542.9,
-        "views_delta": 1969,
-        "likes_delta": 54,
-        "reposts_delta": 3
+        "window_minutes": 184.0,
+        "views_delta": 525,
+        "likes_delta": 17,
+        "reposts_delta": 1
       }
     },
     {
@@ -24463,14 +24487,22 @@
           "reposts": 6,
           "replies": 8,
           "bookmarks": 34
+        },
+        {
+          "checked_at": "2026-11-14T07:57:42.113148+00:00",
+          "views": 4434,
+          "likes": 83,
+          "reposts": 7,
+          "replies": 8,
+          "bookmarks": 35
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 542.8,
-        "views_delta": 2988,
-        "likes_delta": 56,
-        "reposts_delta": 6
+        "window_minutes": 184.0,
+        "views_delta": 316,
+        "likes_delta": 3,
+        "reposts_delta": 1
       },
       "workflow_source_urls": [
         "https://x.com/scottstts/status/2121313898934477065"
@@ -24557,14 +24589,22 @@
           "reposts": 41,
           "replies": 28,
           "bookmarks": 411
+        },
+        {
+          "checked_at": "2026-11-14T07:57:42.261475+00:00",
+          "views": 20268,
+          "likes": 717,
+          "reposts": 42,
+          "replies": 28,
+          "bookmarks": 426
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 542.8,
-        "views_delta": 4105,
-        "likes_delta": 133,
-        "reposts_delta": 11
+        "window_minutes": 184.0,
+        "views_delta": 870,
+        "likes_delta": 22,
+        "reposts_delta": 1
       },
       "workflow_source_urls": [
         "https://x.com/BlendiByl/status/2121130651562967261"
@@ -24935,13 +24975,21 @@
           "reposts": 0,
           "replies": 2,
           "bookmarks": 2
+        },
+        {
+          "checked_at": "2026-11-14T07:57:42.131152+00:00",
+          "views": 976,
+          "likes": 21,
+          "reposts": 0,
+          "replies": 2,
+          "bookmarks": 9
         }
       ],
       "momentum": {
-        "state": "new",
-        "window_minutes": 0.7,
-        "views_delta": 7,
-        "likes_delta": 1,
+        "state": "rising",
+        "window_minutes": 183.5,
+        "views_delta": 484,
+        "likes_delta": 10,
         "reposts_delta": 0
       },
       "workflow_source_urls": [
@@ -25219,14 +25267,22 @@
           "reposts": 430,
           "replies": 38,
           "bookmarks": 1388
+        },
+        {
+          "checked_at": "2026-11-14T07:57:42.101701+00:00",
+          "views": 965868,
+          "likes": 4509,
+          "reposts": 470,
+          "replies": 41,
+          "bookmarks": 1498
         }
       ],
       "momentum": {
         "state": "established",
-        "window_minutes": 0.7,
-        "views_delta": 329,
-        "likes_delta": 2,
-        "reposts_delta": 0
+        "window_minutes": 183.5,
+        "views_delta": 67031,
+        "likes_delta": 383,
+        "reposts_delta": 40
       }
     },
     {
@@ -25776,6 +25832,539 @@
         "state": "new",
         "window_minutes": 543.8,
         "views_delta": 31,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "dfeinition-2119867661463019972",
+      "titles": {
+        "en": "A garden refracted through a dew-covered spider web",
+        "zh-CN": "透过蛛网露珠折射的花园",
+        "ja": "クモの巣の露に屈折する庭の景色",
+        "ko": "거미줄의 이슬방울에 굴절된 정원",
+        "es": "Un jardín refractado en el rocío de una telaraña"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "dfeinition",
+        "url": "https://x.com/dfeinition"
+      },
+      "source_url": "https://x.com/dfeinition/status/2119867661463019972",
+      "published_at": "2026-11-09T19:00:10Z",
+      "duration_seconds": 41,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119867516046512129/img/pF9xsEx4hxbTm4WJ.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/dfeinition-2119867661463019972.webp",
+      "preview_path": "assets/previews/dfeinition-2119867661463019972.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2119867516046512129/vid/avc1/1440x1440/Eeo_eQ5Zb5uFWo77.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-14",
+        "checked_at": "2026-11-14T07:58:28.891146+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "6f1e167e996b0c781b45e4a38fbc29490069bfd9d47e72de6f979196184b11e3",
+        "model_named": true,
+        "video_checked_at": "2026-11-14T07:58:31.780657+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2119867516046512129",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "Macro camera movement reveals inverted garden reflections inside separate drops. The creator posted the finished clip as a reply to the official launch post.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator says Fable 5.2 rendered 7,330 droplets in code without image files. The camera moves close enough to show an inverted garden in the droplets. The rendering library was not disclosed.",
+        "zh-CN": "据作者介绍，Fable 5.2 用代码绘制了 7,330 颗露珠，没有使用图像文件。镜头拉近后可以看到露珠中倒立的花园。作者未披露渲染库。",
+        "ja": "作者によると、Fable 5.2は画像ファイルを使わず、7,330個のしずくをコードで描画しました。寄りの画面では、しずくに庭が逆さに映ります。描画ライブラリは未公表です。",
+        "ko": "제작자는 Fable 5.2가 이미지 파일 없이 코드로 이슬방울 7,330개를 그렸다고 밝혔습니다. 카메라가 가까이 다가가면 물방울 속에 거꾸로 맺힌 정원이 보입니다. 렌더링 라이브러리는 공개되지 않았습니다.",
+        "es": "El autor explica que Fable 5.2 dibujó 7.330 gotas mediante código, sin archivos de imagen. Al acercarse la cámara se ve el jardín invertido dentro de las gotas. No se indicó la biblioteca de renderizado."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-14T07:57:37.644906+00:00",
+          "views": 59794,
+          "likes": 333,
+          "reposts": 14,
+          "replies": 15,
+          "bookmarks": 101
+        },
+        {
+          "checked_at": "2026-11-14T07:58:32.252999+00:00",
+          "views": 59794,
+          "likes": 333,
+          "reposts": 14,
+          "replies": 15,
+          "bookmarks": 101
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.9,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "dfeinition-2120933859999059970",
+      "titles": {
+        "en": "An interactive pixel-art world told by a whale",
+        "zh-CN": "由鲸鱼讲述的可探索像素世界",
+        "ja": "クジラが案内する探索型ピクセルアートの世界",
+        "ko": "고래가 안내하는 탐험형 픽셀 아트 세계",
+        "es": "Un mundo interactivo de pixel art narrado por una ballena"
+      },
+      "category": "interactive",
+      "creator": {
+        "name": "dfeinition",
+        "url": "https://x.com/dfeinition"
+      },
+      "source_url": "https://x.com/dfeinition/status/2120933859999059970",
+      "published_at": "2026-11-12T17:36:51Z",
+      "duration_seconds": 117.442,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120933027748392960/img/M0u3ERHTnbphctPy.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/dfeinition-2120933859999059970.webp",
+      "preview_path": "assets/previews/dfeinition-2120933859999059970.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120933027748392960/vid/avc1/3840x2160/TBgnySF6q7jdJhfY.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-14",
+        "checked_at": "2026-11-14T07:58:22.967301+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "741d645c23a172757c006268139110b94e072ceae5c62b72b4fd98e8b27b5379",
+        "model_named": true,
+        "video_checked_at": "2026-11-14T07:58:30.514355+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120933027748392960",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "An original project walkthrough that mixes finished scenes and a short making-of. Pixel-art lighting carries through the shoreline and underwater spaces.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for coding the interactive 3D world. The video combines a tour led by a whale with views of how the world was made. The creator links the interactive version in a reply.",
+        "zh-CN": "作者称 Fable 5.2 用代码构建了这座交互式 3D 世界。视频结合鲸鱼带路的游览和若干制作画面，作者在回复中给出了可探索版本的入口。",
+        "ja": "作者はインタラクティブな3D世界をFable 5.2でコーディングしたと説明しています。映像にはクジラの案内と制作過程が収録され、作者の返信から体験版に進めます。",
+        "ko": "제작자는 Fable 5.2가 인터랙티브 3D 세계의 코드를 작성했다고 밝혔습니다. 영상에는 고래가 안내하는 탐험과 제작 과정이 담겼으며, 제작자 답글에 체험판 링크가 있습니다.",
+        "es": "El autor atribuye a Fable 5.2 el código del mundo 3D interactivo. El vídeo combina un recorrido guiado por una ballena con vistas del proceso. El autor enlaza la versión interactiva en una respuesta."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-14T07:57:34.491427+00:00",
+          "views": 1776,
+          "likes": 29,
+          "reposts": 1,
+          "replies": 4,
+          "bookmarks": 9
+        },
+        {
+          "checked_at": "2026-11-14T07:58:30.982926+00:00",
+          "views": 1776,
+          "likes": 29,
+          "reposts": 1,
+          "replies": 4,
+          "bookmarks": 9
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.9,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      },
+      "workflow_source_urls": [
+        "https://x.com/dfeinition/status/2120933862033240271"
+      ],
+      "workflow_source_checks": [
+        {
+          "source_url": "https://x.com/dfeinition/status/2120933862033240271",
+          "checked_at": "2026-11-14T07:59:18.972081+00:00",
+          "method": "X official oEmbed",
+          "post_sha256": "491b3b8ba3d247f9d4fba9dd538f459c580540ae6e17965bd6f492268a9cb5e2"
+        }
+      ]
+    },
+    {
+      "id": "chetaslua-2120548065044234504",
+      "titles": {
+        "en": "A flight through the history of computer graphics",
+        "zh-CN": "一场穿越计算机图形史的飞行",
+        "ja": "空を飛んでたどるコンピューターグラフィックスの歴史",
+        "ko": "비행으로 돌아보는 컴퓨터 그래픽의 역사",
+        "es": "Un vuelo por la historia de los gráficos por ordenador"
+      },
+      "category": "motion",
+      "creator": {
+        "name": "chetaslua",
+        "url": "https://x.com/chetaslua"
+      },
+      "source_url": "https://x.com/chetaslua/status/2120548065044234504",
+      "published_at": "2026-11-11T16:03:51Z",
+      "duration_seconds": 40,
+      "thumbnail_url": "https://pbs.twimg.com/media/HW2zFeIakAABh0z.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/chetaslua-2120548065044234504.webp",
+      "preview_path": "assets/previews/chetaslua-2120548065044234504.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120547906147282944/vid/avc1/1920x1080/whHhfWldX3JmsICQ.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-14",
+        "checked_at": "2026-11-14T07:58:22.966234+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "a265fe7d06342122a18f36e99a9c3a04f9dad4933a1b86d214c9952471ca1e39",
+        "model_named": true,
+        "video_checked_at": "2026-11-14T07:58:30.500790+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120547906147282944",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The same flight gives the viewer a reference as years, rendering styles and scene complexity change across the clip.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator describes a JavaScript-only short made with Fable 5.2. A Superman figure flies through successive visual eras, from monochrome blocks to imagery styled after modern path tracing.",
+        "zh-CN": "作者称用 Fable 5.2 编写 JavaScript 完成短片。超人的飞行贯穿多个图形时代，画面从黑白方块变换到模仿现代路径追踪的风格。",
+        "ja": "作者はFable 5.2を使い、JavaScriptだけで短編を制作したと説明。スーパーマンが飛び続ける中、白黒のブロックから現代のパストレーシング風の画面へと変化します。",
+        "ko": "제작자는 Fable 5.2로 JavaScript만 사용해 단편을 만들었다고 밝혔습니다. 슈퍼맨이 비행하는 동안 흑백 블록부터 현대 패스 트레이싱을 연상시키는 화면까지 그래픽 시대가 바뀝니다.",
+        "es": "El autor describe un corto hecho solo con JavaScript mediante Fable 5.2. Superman atraviesa distintas épocas visuales, desde bloques monocromos hasta imágenes que evocan el trazado de caminos moderno."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T22:46:39.309317+00:00",
+          "views": 13663,
+          "likes": 211,
+          "reposts": 7,
+          "replies": 15,
+          "bookmarks": 41
+        },
+        {
+          "checked_at": "2026-11-13T01:43:34.337505+00:00",
+          "views": 13773,
+          "likes": 211,
+          "reposts": 7,
+          "replies": 15,
+          "bookmarks": 41
+        },
+        {
+          "checked_at": "2026-11-13T04:46:39.274567+00:00",
+          "views": 13885,
+          "likes": 211,
+          "reposts": 7,
+          "replies": 16,
+          "bookmarks": 43
+        },
+        {
+          "checked_at": "2026-11-13T16:51:22.099476+00:00",
+          "views": 14343,
+          "likes": 212,
+          "reposts": 7,
+          "replies": 16,
+          "bookmarks": 44
+        },
+        {
+          "checked_at": "2026-11-14T07:57:35.651036+00:00",
+          "views": 14490,
+          "likes": 212,
+          "reposts": 7,
+          "replies": 16,
+          "bookmarks": 45
+        },
+        {
+          "checked_at": "2026-11-14T07:58:30.992272+00:00",
+          "views": 14490,
+          "likes": 212,
+          "reposts": 7,
+          "replies": 16,
+          "bookmarks": 45
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 907.1,
+        "views_delta": 147,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "chetaslua-2120500937852920144",
+      "titles": {
+        "en": "A rotating lineup of fictional characters in Three.js",
+        "zh-CN": "Three.js 里的旋转角色图鉴",
+        "ja": "Three.jsで回転する架空キャラクターの顔図鑑",
+        "ko": "Three.js로 만든 회전 캐릭터 모음",
+        "es": "Una galería giratoria de personajes de ficción en Three.js"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "chetaslua",
+        "url": "https://x.com/chetaslua"
+      },
+      "source_url": "https://x.com/chetaslua/status/2120500937852920144",
+      "published_at": "2026-11-11T12:56:35Z",
+      "duration_seconds": 20,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120500565855842304/img/0lAv9K2pvj8sXrWt.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/chetaslua-2120500937852920144.webp",
+      "preview_path": "assets/previews/chetaslua-2120500937852920144.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120500565855842304/vid/avc1/1920x1080/QIr-yYCmh1SRLnLh.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-14",
+        "checked_at": "2026-11-14T07:58:25.021521+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "5d290ae1654735abfb55c89b475fe0d3f7495e807d3c1a3b63404e461250ed5d",
+        "model_named": true,
+        "video_checked_at": "2026-11-14T07:58:30.679901+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120500565855842304",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A self-contained creator-posted character study. Constant framing and synchronized rotation make the silhouettes easy to compare.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator names Fable 5.2 and Three.js. The video presents two rows of stylized character heads and rotates them in place so their profiles become visible.",
+        "zh-CN": "作者披露使用 Fable 5.2 和 Three.js。视频把风格化角色头像摆成两排并逐个原地旋转，展示侧面造型。",
+        "ja": "作者はFable 5.2とThree.jsを使用。二列に並ぶデフォルメされたキャラクターの頭部が、その場で回転して横顔を見せます。",
+        "ko": "제작자는 Fable 5.2와 Three.js를 사용했다고 밝혔습니다. 두 줄로 배치된 캐릭터 얼굴이 제자리에서 돌아가며 옆모습을 드러냅니다.",
+        "es": "El autor menciona Fable 5.2 y Three.js. Dos filas de cabezas estilizadas giran en el sitio y muestran sus perfiles."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-12T22:46:39.304981+00:00",
+          "views": 6862,
+          "likes": 112,
+          "reposts": 4,
+          "replies": 10,
+          "bookmarks": 26
+        },
+        {
+          "checked_at": "2026-11-13T01:43:34.811021+00:00",
+          "views": 6903,
+          "likes": 112,
+          "reposts": 4,
+          "replies": 10,
+          "bookmarks": 26
+        },
+        {
+          "checked_at": "2026-11-13T04:46:39.674212+00:00",
+          "views": 6938,
+          "likes": 112,
+          "reposts": 4,
+          "replies": 10,
+          "bookmarks": 26
+        },
+        {
+          "checked_at": "2026-11-13T16:51:22.350361+00:00",
+          "views": 7102,
+          "likes": 113,
+          "reposts": 4,
+          "replies": 10,
+          "bookmarks": 26
+        },
+        {
+          "checked_at": "2026-11-14T07:57:35.752249+00:00",
+          "views": 7208,
+          "likes": 113,
+          "reposts": 4,
+          "replies": 10,
+          "bookmarks": 27
+        },
+        {
+          "checked_at": "2026-11-14T07:58:31.560525+00:00",
+          "views": 7208,
+          "likes": 113,
+          "reposts": 4,
+          "replies": 10,
+          "bookmarks": 27
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 907.2,
+        "views_delta": 106,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "dfeinition-2120330644261589051",
+      "titles": {
+        "en": "A virtual demo room you can walk through",
+        "zh-CN": "可走进去体验的虚拟演示室",
+        "ja": "歩いて回れる仮想デモルーム",
+        "ko": "직접 걸어 다닐 수 있는 가상 데모룸",
+        "es": "Una sala de demostración virtual que se puede recorrer"
+      },
+      "category": "product",
+      "creator": {
+        "name": "dfeinition",
+        "url": "https://x.com/dfeinition"
+      },
+      "source_url": "https://x.com/dfeinition/status/2120330644261589051",
+      "published_at": "2026-11-11T01:39:54Z",
+      "duration_seconds": 18.8,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120329981729353729/img/-klkT9WV5FIwcC6_.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/dfeinition-2120330644261589051.webp",
+      "preview_path": "assets/previews/dfeinition-2120330644261589051.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120329981729353729/vid/avc1/2160x2160/1mzNH4x3O8PLcEPj.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-14",
+        "checked_at": "2026-11-14T07:58:26.730869+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "e87636e2c10efecd8e5f3cdceef09756a8421f5f6dfcfc101bdf78f67111ee57",
+        "model_named": true,
+        "video_checked_at": "2026-11-14T07:58:30.513859+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120329981729353729",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "An original interactive demo where a virtual monitor becomes the interface after walking through a spatial reconstruction.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for the interactive room. The recording moves from a sunlit interior to a computer inside the scene. The original post links the playable artifact.",
+        "zh-CN": "作者将这座交互空间归于 Fable 5.2。录屏从阳光照进的室内走到场景中的电脑前。原帖提供了可交互版本入口。",
+        "ja": "作者はこのインタラクティブな部屋をFable 5.2で制作したと説明。映像は日差しの入る室内から、部屋に置かれたコンピューターへ進みます。体験版は元の投稿から開けます。",
+        "ko": "제작자는 이 인터랙티브 공간을 Fable 5.2로 만들었다고 밝혔습니다. 영상은 햇빛이 들어오는 실내에서 장면 속 컴퓨터로 이동합니다. 원본 게시물에 체험판 링크가 있습니다.",
+        "es": "El autor atribuye la sala interactiva a Fable 5.2. La grabación avanza desde un interior iluminado por el sol hasta un ordenador dentro de la escena. La publicación original enlaza la versión interactiva."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-14T07:57:36.070971+00:00",
+          "views": 15100,
+          "likes": 213,
+          "reposts": 13,
+          "replies": 7,
+          "bookmarks": 194
+        },
+        {
+          "checked_at": "2026-11-14T07:58:31.001588+00:00",
+          "views": 15100,
+          "likes": 213,
+          "reposts": 13,
+          "replies": 7,
+          "bookmarks": 194
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.9,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "matabee-gto-2120369352428110267",
+      "titles": {
+        "en": "A short about a day going wrong",
+        "zh-CN": "诸事不顺的一天",
+        "ja": "何もかもうまくいかない一日",
+        "ko": "모든 일이 꼬이는 하루를 담은 단편",
+        "es": "Un corto sobre un día en que todo sale mal"
+      },
+      "category": "short-films",
+      "creator": {
+        "name": "matabee_GTO",
+        "url": "https://x.com/matabee_GTO"
+      },
+      "source_url": "https://x.com/matabee_GTO/status/2120369352428110267",
+      "published_at": "2026-11-11T04:13:42Z",
+      "duration_seconds": 82,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120369184358219776/img/6qQTpwR35lMgG_o9.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/matabee-gto-2120369352428110267.webp",
+      "preview_path": "assets/previews/matabee-gto-2120369352428110267.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120369184358219776/vid/avc1/1920x1080/j9UKua0CYkk4uFst.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-14",
+        "checked_at": "2026-11-14T07:58:25.451891+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "bde1018902282ef1d5a877cd2bbb4c30849b5cb72d635c6b3f0a89d9429f81cd",
+        "model_named": true,
+        "video_checked_at": "2026-11-14T07:58:30.560557+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": "現在持てるすべての力を使い最高の脚本、演出、カメラで最悪の動画を作って",
+        "source_url": "https://x.com/matabee_GTO/status/2120369352428110267"
+      },
+      "native_media_id": "2120369184358219776",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A finished narrative short whose corridor shots and phone close-ups distinguish it from the creator’s separate domino-based animation.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator published the one-line brief given to Fable 5.2. The finished short moves through small everyday mishaps using dim corridors, close-ups and onscreen text. The production tools were not disclosed.",
+        "zh-CN": "作者公开了交给 Fable 5.2 的一句话提示词。短片用昏暗的走廊、特写和字幕串起一连串日常不顺。作者未披露制作工具。",
+        "ja": "作者はFable 5.2に渡した一行の指示を公開。薄暗い廊下、クローズアップ、画面内の文字で日常の小さな災難をつないでいます。制作ツールは未公表です。",
+        "ko": "제작자는 Fable 5.2에 전달한 한 줄 프롬프트를 공개했습니다. 어두운 복도와 클로즈업, 화면 속 문구가 사소한 일상의 불운을 이어 줍니다. 제작 도구는 공개되지 않았습니다.",
+        "es": "El autor publicó la instrucción de una línea que dio a Fable 5.2. El corto encadena contratiempos cotidianos con pasillos oscuros, primeros planos y texto en pantalla. Las herramientas de producción no se especificaron."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-14T04:53:36.273883+00:00",
+          "views": 142031,
+          "likes": 683,
+          "reposts": 85,
+          "replies": 15,
+          "bookmarks": 323
+        },
+        {
+          "checked_at": "2026-11-14T07:57:35.821442+00:00",
+          "views": 142178,
+          "likes": 683,
+          "reposts": 85,
+          "replies": 15,
+          "bookmarks": 324
+        },
+        {
+          "checked_at": "2026-11-14T07:58:31.049610+00:00",
+          "views": 142180,
+          "likes": 683,
+          "reposts": 85,
+          "replies": 15,
+          "bookmarks": 324
+        }
+      ],
+      "momentum": {
+        "state": "established",
+        "window_minutes": 184.9,
+        "views_delta": 149,
         "likes_delta": 0,
         "reposts_delta": 0
       }
