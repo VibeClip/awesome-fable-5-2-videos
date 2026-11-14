@@ -199,6 +199,16 @@
       "status": "held-insufficient-workflow-evidence",
       "reason": "The attached cartoon is visible in the original post, but the creator does not identify the animation code or source of the artwork and references a general workflow post.",
       "checked_at": "2026-11-14T20:54:50.181725+00:00"
+    },
+    {
+      "source_url": "https://x.com/XRarchitect/status/2120949765261451707",
+      "creator": {
+        "name": "XRarchitect",
+        "url": "https://x.com/XRarchitect"
+      },
+      "status": "held-possible-duplicate",
+      "reason": "A separate camera capture repeats the courtyard and interiors in the creator’s already listed Atlas and Three.js walkthrough. Kept out of the formal count.",
+      "checked_at": "2026-11-14T23:55:12.433575+00:00"
     }
   ]
 }
