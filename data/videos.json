@@ -23380,14 +23380,22 @@
           "reposts": 137,
           "replies": 133,
           "bookmarks": 1218
+        },
+        {
+          "checked_at": "2026-11-14T10:55:38.960715+00:00",
+          "views": 144936,
+          "likes": 3051,
+          "reposts": 144,
+          "replies": 135,
+          "bookmarks": 1288
         }
       ],
       "momentum": {
         "state": "established",
-        "window_minutes": 184.0,
-        "views_delta": 9972,
-        "likes_delta": 127,
-        "reposts_delta": 8
+        "window_minutes": 177.9,
+        "views_delta": 9307,
+        "likes_delta": 149,
+        "reposts_delta": 7
       },
       "workflow_source_urls": [
         "https://x.com/chetaslua/status/2121176153667125296"
@@ -23889,14 +23897,22 @@
           "reposts": 19,
           "replies": 36,
           "bookmarks": 174
+        },
+        {
+          "checked_at": "2026-11-14T10:55:38.955739+00:00",
+          "views": 19546,
+          "likes": 330,
+          "reposts": 19,
+          "replies": 37,
+          "bookmarks": 190
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 184.0,
-        "views_delta": 2502,
-        "likes_delta": 19,
-        "reposts_delta": 1
+        "window_minutes": 177.9,
+        "views_delta": 2362,
+        "likes_delta": 22,
+        "reposts_delta": 0
       },
       "workflow_source_urls": [
         "https://x.com/scottstts/status/2121272406241120521"
@@ -23999,14 +24015,22 @@
           "reposts": 7,
           "replies": 15,
           "bookmarks": 87
+        },
+        {
+          "checked_at": "2026-11-14T10:55:38.968553+00:00",
+          "views": 8547,
+          "likes": 264,
+          "reposts": 7,
+          "replies": 15,
+          "bookmarks": 89
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 184.0,
-        "views_delta": 525,
-        "likes_delta": 17,
-        "reposts_delta": 1
+        "window_minutes": 177.9,
+        "views_delta": 378,
+        "likes_delta": 7,
+        "reposts_delta": 0
       }
     },
     {
@@ -24495,14 +24519,22 @@
           "reposts": 7,
           "replies": 8,
           "bookmarks": 35
+        },
+        {
+          "checked_at": "2026-11-14T10:55:38.958687+00:00",
+          "views": 4721,
+          "likes": 87,
+          "reposts": 7,
+          "replies": 8,
+          "bookmarks": 39
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 184.0,
-        "views_delta": 316,
-        "likes_delta": 3,
-        "reposts_delta": 1
+        "window_minutes": 177.9,
+        "views_delta": 287,
+        "likes_delta": 4,
+        "reposts_delta": 0
       },
       "workflow_source_urls": [
         "https://x.com/scottstts/status/2121313898934477065"
@@ -24597,14 +24629,22 @@
           "reposts": 42,
           "replies": 28,
           "bookmarks": 426
+        },
+        {
+          "checked_at": "2026-11-14T10:55:38.978816+00:00",
+          "views": 21081,
+          "likes": 729,
+          "reposts": 44,
+          "replies": 28,
+          "bookmarks": 440
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 184.0,
-        "views_delta": 870,
-        "likes_delta": 22,
-        "reposts_delta": 1
+        "window_minutes": 177.9,
+        "views_delta": 813,
+        "likes_delta": 12,
+        "reposts_delta": 2
       },
       "workflow_source_urls": [
         "https://x.com/BlendiByl/status/2121130651562967261"
@@ -24983,13 +25023,21 @@
           "reposts": 0,
           "replies": 2,
           "bookmarks": 9
+        },
+        {
+          "checked_at": "2026-11-14T10:55:38.976058+00:00",
+          "views": 1410,
+          "likes": 27,
+          "reposts": 0,
+          "replies": 3,
+          "bookmarks": 15
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 183.5,
-        "views_delta": 484,
-        "likes_delta": 10,
+        "window_minutes": 177.9,
+        "views_delta": 434,
+        "likes_delta": 6,
         "reposts_delta": 0
       },
       "workflow_source_urls": [
@@ -25275,14 +25323,22 @@
           "reposts": 470,
           "replies": 41,
           "bookmarks": 1498
+        },
+        {
+          "checked_at": "2026-11-14T10:55:39.209325+00:00",
+          "views": 981550,
+          "likes": 4578,
+          "reposts": 478,
+          "replies": 44,
+          "bookmarks": 1530
         }
       ],
       "momentum": {
         "state": "established",
-        "window_minutes": 183.5,
-        "views_delta": 67031,
-        "likes_delta": 383,
-        "reposts_delta": 40
+        "window_minutes": 178.0,
+        "views_delta": 15682,
+        "likes_delta": 69,
+        "reposts_delta": 8
       }
     },
     {
@@ -26366,6 +26422,614 @@
         "window_minutes": 184.9,
         "views_delta": 149,
         "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "ddjcxx-2120728292084842578",
+      "titles": {
+        "en": "A flying apsara inspired by Dunhuang murals",
+        "zh-CN": "敦煌飞天：飘带、祥云与反弹琵琶",
+        "ja": "敦煌壁画をもとにした飛天のアニメーション",
+        "ko": "둔황 벽화에서 영감을 얻은 비천 애니메이션",
+        "es": "Una apsará voladora inspirada en los murales de Dunhuang"
+      },
+      "category": "short-films",
+      "creator": {
+        "name": "DDJCXX",
+        "url": "https://x.com/DDJCXX"
+      },
+      "source_url": "https://x.com/DDJCXX/status/2120728292084842578",
+      "published_at": "2026-11-12T04:00:00Z",
+      "duration_seconds": 30,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120525771433521152/img/VzB05Jav2z1FJjmn.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ddjcxx-2120728292084842578.webp",
+      "preview_path": "assets/previews/ddjcxx-2120728292084842578.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120525771433521152/vid/avc1/1920x1080/Sq8XVa5ZRgc_VMVh.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-14",
+        "checked_at": "2026-11-14T10:55:16.950648+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "fc8d59b51a63a1aae85fa012cc97417df66bdb25533a753f0e373a8b46627d46",
+        "model_named": true,
+        "video_checked_at": "2026-11-14T10:55:24.120660+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": "https://x.com/DDJCXX/status/2120728293003395350"
+      },
+      "native_media_id": "2120525771433521152",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "An original finished short with moving ribbons, an orbiting camera and a palette drawn from Dunhuang murals. The creator publishes the production brief in a reply.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator says Fable 5.2 wrote the code for the modeling and music. The published prompt specifies Blender, Python and FFmpeg. Flowing ribbons and a pipa-playing figure carry the Dunhuang mural theme.",
+        "zh-CN": "据作者介绍，Fable 5.2 编写了建模和配乐代码。公开提示词指定 Blender、Python 和 FFmpeg。长飘带与反弹琵琶的姿态呼应敦煌壁画。",
+        "ja": "作者によると、Fable 5.2がモデリングと音楽のコードを作成。公開プロンプトにはBlender、Python、FFmpegが指定されています。長い帯と琵琶を弾く姿が敦煌壁画を思わせます。",
+        "ko": "제작자는 Fable 5.2가 모델링과 음악 코드를 작성했다고 밝혔습니다. 공개 프롬프트에는 Blender, Python, FFmpeg가 명시됩니다. 흩날리는 띠와 비파를 연주하는 인물이 둔황 벽화를 떠올리게 합니다.",
+        "es": "Según el autor, Fable 5.2 escribió el código del modelado y la música. El prompt público especifica Blender, Python y FFmpeg. Las cintas ondulantes y la figura con la pipa evocan los murales de Dunhuang."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-14T10:55:01.337627+00:00",
+          "views": 30995,
+          "likes": 94,
+          "reposts": 9,
+          "replies": 19,
+          "bookmarks": 82
+        },
+        {
+          "checked_at": "2026-11-14T10:55:24.601254+00:00",
+          "views": 30995,
+          "likes": 94,
+          "reposts": 9,
+          "replies": 19,
+          "bookmarks": 82
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.4,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "stargridcompass-2121543669882745007",
+      "titles": {
+        "en": "Two models animate a pelican delivering food in the rain",
+        "zh-CN": "两款模型演绎鹈鹕雨中骑车送外卖",
+        "ja": "雨の中を自転車で配達するペリカンを2モデルで比較",
+        "ko": "빗속에서 자전거로 배달하는 펠리컨을 만든 두 모델 비교",
+        "es": "Dos modelos animan a un pelícano repartiendo comida bajo la lluvia"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "Stargridcompass",
+        "url": "https://x.com/Stargridcompass"
+      },
+      "source_url": "https://x.com/Stargridcompass/status/2121543669882745007",
+      "published_at": "2026-11-14T10:00:01Z",
+      "duration_seconds": 28.4,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121535105013334016/img/2TMrlNAT_4qSFCgG.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/stargridcompass-2121543669882745007.webp",
+      "preview_path": "assets/previews/stargridcompass-2121543669882745007.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2121535105013334016/vid/avc1/1080x1440/54zgdEgNUSGUZb8U.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-14",
+        "checked_at": "2026-11-14T10:55:14.950574+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "60ad046355a6239df45d7ccc273728919d5f749e51e6000d075062d05386c21c",
+        "model_named": true,
+        "video_checked_at": "2026-11-14T10:55:24.349254+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2121535105013334016",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "An original, visibly labeled comparison. The rainy street extends a familiar bicycle animation with reflections, signage and weather effects.",
+      "workflow": "model-comparison",
+      "workflow_notes": {
+        "en": "The creator labels GPT-6.2 Sol above and Fable 5.2 below. The two takes let viewers compare puddles, reflections, signs and movement in the rain.",
+        "zh-CN": "作者标明上方为 GPT-6.2 Sol，下方为 Fable 5.2。可以直接对照两版的积水、倒影、招牌和雨中动态。",
+        "ja": "作者によると、上段がGPT-6.2 Sol、下段がFable 5.2です。水たまり、路面の反射、看板、雨の中の動きを比較できます。",
+        "ko": "제작자는 위쪽에 GPT-6.2 Sol, 아래쪽에 Fable 5.2를 표시했습니다. 웅덩이, 반사, 간판과 빗속의 움직임을 비교할 수 있습니다.",
+        "es": "El autor sitúa GPT-6.2 Sol arriba y Fable 5.2 abajo. Las dos versiones permiten comparar los charcos, reflejos, carteles y movimientos bajo la lluvia."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-14T10:54:55.683341+00:00",
+          "views": 315,
+          "likes": 4,
+          "reposts": 0,
+          "replies": 4,
+          "bookmarks": 1
+        },
+        {
+          "checked_at": "2026-11-14T10:55:24.839033+00:00",
+          "views": 315,
+          "likes": 4,
+          "reposts": 0,
+          "replies": 4,
+          "bookmarks": 1
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.5,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "gclue-akira-2121494801506050378",
+      "titles": {
+        "en": "An illustrated breakdown of a robot drawing Kaminarimon",
+        "zh-CN": "图解机器人如何画出浅草雷门",
+        "ja": "ロボットが雷門を描く工程の図解",
+        "ko": "로봇이 가미나리몬을 그리는 과정 해설",
+        "es": "Una explicación ilustrada de cómo un robot dibujó Kaminarimon"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "gclue_akira",
+        "url": "https://x.com/gclue_akira"
+      },
+      "source_url": "https://x.com/gclue_akira/status/2121494801506050378",
+      "published_at": "2026-11-14T06:45:50Z",
+      "duration_seconds": 126.278,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121494558106439680/img/RzBLjSg_2TAYRFZW.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/gclue-akira-2121494801506050378.webp",
+      "preview_path": "assets/previews/gclue-akira-2121494801506050378.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2121494558106439680/vid/avc1/1920x1080/DPZRyASdC9HYAryE.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-14",
+        "checked_at": "2026-11-14T10:55:14.957493+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "6f06b64238c6e4b80d5ffc81913510606abf5cd64da204dd6a9ad46f9fc05ce5",
+        "model_named": true,
+        "video_checked_at": "2026-11-14T10:55:24.366315+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2121494558106439680",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A creator-posted explainer focused on a specific drawing task, with step-by-step screenshots. The post attributes the drawing workflow but does not specify how the explainer itself was rendered.",
+      "workflow": "creator-reported-multitool",
+      "workflow_notes": {
+        "en": "The creator describes a Kaminarimon drawing made with Fable 5.2 and Tazuna Robotics Harness. The attached explainer presents the process with an illustrated narrator and screenshots. The creator did not specify how the explainer itself was rendered.",
+        "zh-CN": "作者使用 Fable 5.2 和 Tazuna Robotics Harness 绘制雷门，并通过带插画讲解员和过程截图的视频解释步骤。 作者未披露解说视频本身的渲染方式。",
+        "ja": "作者はFable 5.2とTazuna Robotics Harnessで雷門を描いた工程を解説。映像にはイラストの案内役と作業画面が登場します。 解説映像自体の描画方法は未公表です。",
+        "ko": "제작자는 Fable 5.2와 Tazuna Robotics Harness로 가미나리몬을 그린 과정을 설명합니다. 영상에는 삽화 속 해설자와 작업 과정 화면이 등장합니다. 해설 영상 자체의 렌더링 방식은 공개되지 않았습니다.",
+        "es": "El autor explica el proceso de dibujo de Kaminarimon con Fable 5.2 y Tazuna Robotics Harness. El vídeo incluye un personaje narrador y capturas de las distintas etapas. El autor no especificó cómo se renderizó el propio vídeo explicativo."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-14T10:54:56.178599+00:00",
+          "views": 490,
+          "likes": 8,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-14T10:55:25.208566+00:00",
+          "views": 490,
+          "likes": 8,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.5,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "amirmushich-2121339167800213934",
+      "titles": {
+        "en": "A Blender reel built around shredded-paper typography",
+        "zh-CN": "Blender 碎纸拼贴字效短片",
+        "ja": "千切り紙のタイポグラフィを使ったBlender映像",
+        "ko": "찢어진 종이 타이포그래피를 활용한 Blender 릴",
+        "es": "Un reel de Blender con tipografía de papel rasgado"
+      },
+      "category": "motion",
+      "creator": {
+        "name": "AmirMushich",
+        "url": "https://x.com/AmirMushich"
+      },
+      "source_url": "https://x.com/AmirMushich/status/2121339167800213934",
+      "published_at": "2026-11-13T20:27:24Z",
+      "duration_seconds": 8.034,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121334291791593472/img/BeWqDu9qn8ObyKxi.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/amirmushich-2121339167800213934.webp",
+      "preview_path": "assets/previews/amirmushich-2121339167800213934.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2121334291791593472/vid/avc1/1080x1920/OJuFzWUGf-R_mS-G.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-14",
+        "checked_at": "2026-11-14T10:55:16.860282+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "1b30210ee8b951d5889fd328050eee4b723c8bec58b3fa2a263e30fa7024c1e9",
+        "model_named": true,
+        "video_checked_at": "2026-11-14T10:55:24.119079+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2121334291791593472",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A finished motion-design reel with layered typography and a recognizable paper treatment. The creator identifies Blender in the original post.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 and Blender for this reel. Paper strips slide across bold type, with a red accent against monochrome layers.",
+        "zh-CN": "作者披露使用 Fable 5.2 和 Blender。纸条掠过粗体文字，黑白拼贴中穿插红色强调。",
+        "ja": "作者はFable 5.2とBlenderを使用。紙片が太い文字の上を滑り、モノクロのレイヤーに赤が差し込まれます。",
+        "ko": "제작자는 Fable 5.2와 Blender를 사용했다고 밝혔습니다. 굵은 글자 위를 종이 조각이 가로지르고 흑백 레이어 사이에 빨간색이 들어갑니다.",
+        "es": "El autor atribuye el reel a Fable 5.2 y Blender. Tiras de papel cruzan letras gruesas, con acentos rojos entre capas en blanco y negro."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-14T10:54:57.566785+00:00",
+          "views": 9170,
+          "likes": 262,
+          "reposts": 20,
+          "replies": 17,
+          "bookmarks": 295
+        },
+        {
+          "checked_at": "2026-11-14T10:55:24.577665+00:00",
+          "views": 9175,
+          "likes": 262,
+          "reposts": 20,
+          "replies": 17,
+          "bookmarks": 295
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.5,
+        "views_delta": 5,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "takamasa045-2120014216753262816",
+      "titles": {
+        "en": "Kinetic lyrics for Voice dake de ii",
+        "zh-CN": "《Voiceだけでいい》动态歌词短片",
+        "ja": "『Voiceだけでいい』のリリックモーション",
+        "ko": "〈Voiceだけでいい〉 키네틱 가사 영상",
+        "es": "Letra animada de Voice dake de ii"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "takamasa045",
+        "url": "https://x.com/takamasa045"
+      },
+      "source_url": "https://x.com/takamasa045/status/2120014216753262816",
+      "published_at": "2026-11-10T04:42:31Z",
+      "duration_seconds": 52.6,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120012444575911936/img/rtyYc5ziZuU5PjxH.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/takamasa045-2120014216753262816.webp",
+      "preview_path": "assets/previews/takamasa045-2120014216753262816.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120012444575911936/vid/avc1/1920x1080/pOGKiL089_CJrm_D.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-14",
+        "checked_at": "2026-11-14T10:55:18.951030+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "31c558fecf061842e43d865f557ba7ace20a7790e8b401fa10725eeea5a1776d",
+        "model_named": true,
+        "video_checked_at": "2026-11-14T10:55:24.177799+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": "自分がどれほど優れたモーションデザイナーか、ポートフォリオ作品のつもりで披露せよ。ツールも技術も自由。大胆なアートディレクションと力強いモーションで、1秒も無駄にするな。まずは1分くらい",
+        "source_url": "https://x.com/takamasa045/status/2120014216753262816"
+      },
+      "native_media_id": "2120012444575911936",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The creator attached the Fable 5.2 cut and quoted a prior Opus version as context. The short brief is published in the original post.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator supplied the song and lyrics and used Fable 5.2 for this version. Japanese type, geometric patterns and an orange accent animate against black and cream backgrounds.",
+        "zh-CN": "作者提供歌曲和歌词，并用 Fable 5.2 制作这一版本。日文大字、几何纹样和橙色强调在黑色与米白背景之间切换。",
+        "ja": "作者が楽曲と歌詞を渡し、Fable 5.2でこのバージョンを制作。黒や生成りの背景に日本語の大きな文字、幾何学模様、オレンジのアクセントが動きます。",
+        "ko": "제작자는 곡과 가사를 제공하고 Fable 5.2로 이 버전을 만들었습니다. 검정과 크림색 배경 위에 큰 일본어 글자, 기하학 패턴, 주황색 강조가 움직입니다.",
+        "es": "El autor aportó la música y la letra y usó Fable 5.2 para esta versión. Tipografía japonesa, patrones geométricos y acentos naranjas se animan sobre fondos negros y crema."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-14T10:55:04.439501+00:00",
+          "views": 675,
+          "likes": 12,
+          "reposts": 4,
+          "replies": 0,
+          "bookmarks": 4
+        },
+        {
+          "checked_at": "2026-11-14T10:55:24.679487+00:00",
+          "views": 675,
+          "likes": 12,
+          "reposts": 4,
+          "replies": 0,
+          "bookmarks": 4
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.3,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "khvostikk-2120858483390337361",
+      "titles": {
+        "en": "PBR textures tested on brick, rock and wood",
+        "zh-CN": "砖墙、岩石与木板的 PBR 材质测试",
+        "ja": "レンガ・岩・木材のPBRマテリアル比較",
+        "ko": "벽돌·암석·목재 PBR 재질 테스트",
+        "es": "Pruebas de materiales PBR en ladrillo, roca y madera"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "KHvostikk",
+        "url": "https://x.com/KHvostikk"
+      },
+      "source_url": "https://x.com/KHvostikk/status/2120858483390337361",
+      "published_at": "2026-11-12T12:37:20Z",
+      "duration_seconds": 28.8,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120858404713304064/img/SpMomli5VpF97Nbu.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/khvostikk-2120858483390337361.webp",
+      "preview_path": "assets/previews/khvostikk-2120858483390337361.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120858404713304064/vid/avc1/1920x1080/Kz9wbfYR2hLYPYbK.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-14",
+        "checked_at": "2026-11-14T10:55:19.150118+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "26f911466887ae687b382b9ce918a7341378c0baca373f6f63a06d6eb9cb50f4",
+        "model_named": true,
+        "video_checked_at": "2026-11-14T10:55:24.999913+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120858404713304064",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "An original material showcase in which shaded samples and source maps can be compared directly. The creator identifies the separate image tool.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator supplied a reference image and used Fable 5.2 with Codex image generation for material maps. The video places the maps next to shaded sample objects.",
+        "zh-CN": "作者提供参考图，并结合 Fable 5.2 和 Codex 图像生成工具制作材质贴图。视频把贴图与光照下的样品并排展示。",
+        "ja": "作者は参照画像を用意し、Fable 5.2とCodexの画像生成を組み合わせてマップを作成。映像ではマップと照明を当てたサンプルを並べて表示します。",
+        "ko": "제작자는 참고 이미지를 제공하고 Fable 5.2와 Codex 이미지 생성을 함께 사용해 재질 맵을 만들었습니다. 영상은 맵과 조명이 적용된 샘플을 나란히 보여 줍니다.",
+        "es": "El autor aportó una referencia y usó Fable 5.2 con la generación de imágenes de Codex. El vídeo muestra los mapas junto a muestras iluminadas."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-14T10:55:00.908346+00:00",
+          "views": 10707,
+          "likes": 286,
+          "reposts": 14,
+          "replies": 16,
+          "bookmarks": 255
+        },
+        {
+          "checked_at": "2026-11-14T10:55:25.448090+00:00",
+          "views": 10707,
+          "likes": 286,
+          "reposts": 14,
+          "replies": 16,
+          "bookmarks": 255
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.4,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "khvostikk-2119939061049889130",
+      "titles": {
+        "en": "A motion reference transferred to a 3D character",
+        "zh-CN": "把参考动作转到 3D 角色上",
+        "ja": "参照映像の動きを3Dキャラクターへ転写",
+        "ko": "참고 영상의 동작을 3D 캐릭터에 옮긴 시연",
+        "es": "Captura de movimiento de referencia transferida a un personaje 3D"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "KHvostikk",
+        "url": "https://x.com/KHvostikk"
+      },
+      "source_url": "https://x.com/KHvostikk/status/2119939061049889130",
+      "published_at": "2026-11-09T23:43:53Z",
+      "duration_seconds": 10.041,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119938999607234560/img/8wcjN6FLrXjZCTwQ.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/khvostikk-2119939061049889130.webp",
+      "preview_path": "assets/previews/khvostikk-2119939061049889130.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2119938999607234560/vid/avc1/1920x1080/RjyQ4NxRqZJYIHMb.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-14",
+        "checked_at": "2026-11-14T10:55:20.889224+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "aa50eca73497e24a4f10c5cc5d24b9b7e6958952409d4a91ea5456543e7f6563",
+        "model_named": true,
+        "video_checked_at": "2026-11-14T10:55:24.967116+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2119938999607234560",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A self-contained motion-transfer demo with a synchronized comparison of the reference and the 3D result.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for a video-to-3D-animation test. The recording shows a colored moving figure beside a gray character performing the same motion. The creator did not specify the remaining tools in this post.",
+        "zh-CN": "作者称这次视频转 3D 动画的测试使用了 Fable 5.2。画面把彩色参考角色与同步做出动作的灰色角色并排显示。该帖未披露其余工具。",
+        "ja": "作者は動画から3Dアニメーションへの変換にFable 5.2を使用。色分けされた人物と同じ動作をする灰色のキャラクターが並びます。この投稿では他のツールは未公表です。",
+        "ko": "제작자는 영상에서 3D 애니메이션으로 전환하는 테스트에 Fable 5.2를 사용했습니다. 색으로 구분된 인물과 같은 동작을 하는 회색 캐릭터가 나란히 나옵니다. 게시물에는 나머지 도구가 명시되지 않았습니다.",
+        "es": "El autor atribuye a Fable 5.2 una prueba de conversión de vídeo a animación 3D. Una figura coloreada aparece junto a un personaje gris que repite el movimiento. La publicación no indica las demás herramientas."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-14T10:55:04.649334+00:00",
+          "views": 64570,
+          "likes": 1186,
+          "reposts": 55,
+          "replies": 28,
+          "bookmarks": 825
+        },
+        {
+          "checked_at": "2026-11-14T10:55:25.419266+00:00",
+          "views": 64570,
+          "likes": 1186,
+          "reposts": 55,
+          "replies": 28,
+          "bookmarks": 825
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.3,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "kazumarudrive-2120699556207919454",
+      "titles": {
+        "en": "A cooking clip with deliberately over-the-top editing",
+        "zh-CN": "一支故意把特效拉满的料理短片",
+        "ja": "演出を盛りすぎた料理ショート",
+        "ko": "과장된 효과를 잔뜩 넣은 요리 숏폼",
+        "es": "Un corto de cocina con una edición deliberadamente exagerada"
+      },
+      "category": "short-films",
+      "creator": {
+        "name": "kazumarudrive",
+        "url": "https://x.com/kazumarudrive"
+      },
+      "source_url": "https://x.com/kazumarudrive/status/2120699556207919454",
+      "published_at": "2026-11-12T02:05:49Z",
+      "duration_seconds": 14.9,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120699144675422209/img/FWnEOG8uBfzl7Um0.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kazumarudrive-2120699556207919454.webp",
+      "preview_path": "assets/previews/kazumarudrive-2120699556207919454.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120699144675422209/vid/avc1/1920x1080/gSq9XsjXigL3ZOUQ.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-14",
+        "checked_at": "2026-11-14T10:55:21.168097+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "12295fb8bd94b1d96f92fcdc17afeb424d54931cbf2e96c7ea4808a300c11cfe",
+        "model_named": true,
+        "video_checked_at": "2026-11-14T10:55:25.109185+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120699144675422209",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A finished comedic edit with food footage and a distinct set of graphics. The creator’s separate channel opener uses different footage and titles.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator asked Fable 5.2 to edit the footage. This cut repeatedly switches between ingredient close-ups, radiating lines and emphatic Japanese captions.",
+        "zh-CN": "作者让 Fable 5.2 剪辑实拍素材。短片在食材特写、放射状动效和醒目的日文字幕之间快速切换。",
+        "ja": "作者はFable 5.2に映像の編集を依頼。食材のアップ、集中線、大きな日本語のテロップが次々と切り替わります。",
+        "ko": "제작자는 Fable 5.2에 촬영 영상 편집을 맡겼습니다. 재료 클로즈업, 방사형 효과, 큰 일본어 자막이 빠르게 교차합니다.",
+        "es": "El autor encargó a Fable 5.2 el montaje del metraje. El corto alterna primeros planos de ingredientes, líneas radiales y subtítulos japoneses llamativos."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-14T04:53:35.575403+00:00",
+          "views": 93045,
+          "likes": 672,
+          "reposts": 52,
+          "replies": 7,
+          "bookmarks": 291
+        },
+        {
+          "checked_at": "2026-11-14T10:55:01.636306+00:00",
+          "views": 93475,
+          "likes": 673,
+          "reposts": 52,
+          "replies": 7,
+          "bookmarks": 293
+        },
+        {
+          "checked_at": "2026-11-14T10:55:25.609704+00:00",
+          "views": 93476,
+          "likes": 673,
+          "reposts": 52,
+          "replies": 7,
+          "bookmarks": 293
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 361.8,
+        "views_delta": 431,
+        "likes_delta": 1,
         "reposts_delta": 0
       }
     }
