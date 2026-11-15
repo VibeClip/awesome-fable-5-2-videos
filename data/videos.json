@@ -23428,14 +23428,22 @@
           "reposts": 172,
           "replies": 155,
           "bookmarks": 1606
+        },
+        {
+          "checked_at": "2026-11-15T08:51:51.767640+00:00",
+          "views": 182265,
+          "likes": 3650,
+          "reposts": 174,
+          "replies": 156,
+          "bookmarks": 1621
         }
       ],
       "momentum": {
         "state": "established",
-        "window_minutes": 182.6,
-        "views_delta": 1639,
-        "likes_delta": 29,
-        "reposts_delta": 3
+        "window_minutes": 179.6,
+        "views_delta": 1331,
+        "likes_delta": 13,
+        "reposts_delta": 2
       },
       "workflow_source_urls": [
         "https://x.com/chetaslua/status/2121176153667125296"
@@ -23985,14 +23993,22 @@
           "reposts": 25,
           "replies": 41,
           "bookmarks": 256
+        },
+        {
+          "checked_at": "2026-11-15T08:51:51.755949+00:00",
+          "views": 39063,
+          "likes": 435,
+          "reposts": 27,
+          "replies": 41,
+          "bookmarks": 257
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 182.6,
-        "views_delta": 1870,
-        "likes_delta": 8,
-        "reposts_delta": 1
+        "window_minutes": 179.6,
+        "views_delta": 2490,
+        "likes_delta": 6,
+        "reposts_delta": 2
       },
       "workflow_source_urls": [
         "https://x.com/scottstts/status/2121272406241120521"
@@ -24143,12 +24159,20 @@
           "reposts": 11,
           "replies": 15,
           "bookmarks": 102
+        },
+        {
+          "checked_at": "2026-11-15T08:51:51.749764+00:00",
+          "views": 11093,
+          "likes": 296,
+          "reposts": 11,
+          "replies": 15,
+          "bookmarks": 102
         }
       ],
       "momentum": {
         "state": "new",
-        "window_minutes": 182.6,
-        "views_delta": 187,
+        "window_minutes": 179.6,
+        "views_delta": 194,
         "likes_delta": 4,
         "reposts_delta": 0
       }
@@ -24687,13 +24711,21 @@
           "reposts": 7,
           "replies": 9,
           "bookmarks": 46
+        },
+        {
+          "checked_at": "2026-11-15T08:51:51.755311+00:00",
+          "views": 5383,
+          "likes": 99,
+          "reposts": 7,
+          "replies": 9,
+          "bookmarks": 46
         }
       ],
       "momentum": {
         "state": "new",
-        "window_minutes": 182.6,
-        "views_delta": 13,
-        "likes_delta": 0,
+        "window_minutes": 179.6,
+        "views_delta": 17,
+        "likes_delta": -1,
         "reposts_delta": 0
       },
       "workflow_source_urls": [
@@ -24837,12 +24869,20 @@
           "reposts": 49,
           "replies": 31,
           "bookmarks": 469
+        },
+        {
+          "checked_at": "2026-11-15T08:51:51.787788+00:00",
+          "views": 23389,
+          "likes": 756,
+          "reposts": 49,
+          "replies": 31,
+          "bookmarks": 471
         }
       ],
       "momentum": {
         "state": "new",
-        "window_minutes": 182.6,
-        "views_delta": 126,
+        "window_minutes": 179.6,
+        "views_delta": 158,
         "likes_delta": 1,
         "reposts_delta": 0
       },
@@ -25271,12 +25311,20 @@
           "reposts": 2,
           "replies": 4,
           "bookmarks": 23
+        },
+        {
+          "checked_at": "2026-11-15T08:51:51.765568+00:00",
+          "views": 2485,
+          "likes": 40,
+          "reposts": 2,
+          "replies": 4,
+          "bookmarks": 23
         }
       ],
       "momentum": {
         "state": "new",
-        "window_minutes": 182.6,
-        "views_delta": 84,
+        "window_minutes": 179.6,
+        "views_delta": 62,
         "likes_delta": 0,
         "reposts_delta": 0
       },
@@ -25611,13 +25659,21 @@
           "reposts": 494,
           "replies": 45,
           "bookmarks": 1588
+        },
+        {
+          "checked_at": "2026-11-15T08:51:51.842610+00:00",
+          "views": 1009665,
+          "likes": 4730,
+          "reposts": 495,
+          "replies": 45,
+          "bookmarks": 1594
         }
       ],
       "momentum": {
         "state": "established",
-        "window_minutes": 182.6,
-        "views_delta": 1995,
-        "likes_delta": 14,
+        "window_minutes": 179.6,
+        "views_delta": 2048,
+        "likes_delta": 19,
         "reposts_delta": 1
       }
     },
@@ -27418,14 +27474,22 @@
           "reposts": 12,
           "replies": 28,
           "bookmarks": 139
+        },
+        {
+          "checked_at": "2026-11-15T08:51:51.756569+00:00",
+          "views": 20753,
+          "likes": 279,
+          "reposts": 15,
+          "replies": 30,
+          "bookmarks": 163
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 182.6,
-        "views_delta": 4663,
-        "likes_delta": 49,
-        "reposts_delta": 2
+        "window_minutes": 179.6,
+        "views_delta": 5433,
+        "likes_delta": 33,
+        "reposts_delta": 3
       },
       "workflow_source_urls": [
         "https://x.com/scottstts/status/2121626207334838473"
@@ -27544,14 +27608,22 @@
           "reposts": 73,
           "replies": 101,
           "bookmarks": 1230
+        },
+        {
+          "checked_at": "2026-11-15T08:51:51.772991+00:00",
+          "views": 114738,
+          "likes": 2078,
+          "reposts": 88,
+          "replies": 109,
+          "bookmarks": 1431
         }
       ],
       "momentum": {
-        "state": "rising",
-        "window_minutes": 182.6,
-        "views_delta": 11646,
-        "likes_delta": 208,
-        "reposts_delta": 10
+        "state": "established",
+        "window_minutes": 179.6,
+        "views_delta": 23007,
+        "likes_delta": 295,
+        "reposts_delta": 15
       }
     },
     {
@@ -28064,14 +28136,22 @@
           "reposts": 13,
           "replies": 38,
           "bookmarks": 169
+        },
+        {
+          "checked_at": "2026-11-15T08:51:51.750021+00:00",
+          "views": 15046,
+          "likes": 409,
+          "reposts": 18,
+          "replies": 41,
+          "bookmarks": 191
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 182.6,
-        "views_delta": 2700,
-        "likes_delta": 50,
-        "reposts_delta": 3
+        "window_minutes": 179.6,
+        "views_delta": 2011,
+        "likes_delta": 44,
+        "reposts_delta": 5
       },
       "workflow_source_urls": [
         "https://x.com/kevin_t_ngo/status/2121701022087475398"
@@ -29302,14 +29382,22 @@
           "reposts": 7,
           "replies": 15,
           "bookmarks": 166
+        },
+        {
+          "checked_at": "2026-11-15T08:51:51.848207+00:00",
+          "views": 18171,
+          "likes": 378,
+          "reposts": 12,
+          "replies": 21,
+          "bookmarks": 263
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 182.0,
-        "views_delta": 7553,
-        "likes_delta": 166,
-        "reposts_delta": 4
+        "window_minutes": 179.6,
+        "views_delta": 7465,
+        "likes_delta": 134,
+        "reposts_delta": 5
       }
     },
     {
@@ -29915,14 +30003,22 @@
           "reposts": 65,
           "replies": 155,
           "bookmarks": 1176
+        },
+        {
+          "checked_at": "2026-11-15T08:51:51.749334+00:00",
+          "views": 90922,
+          "likes": 1340,
+          "reposts": 75,
+          "replies": 165,
+          "bookmarks": 1266
         }
       ],
       "momentum": {
-        "state": "new",
-        "window_minutes": 0.4,
-        "views_delta": 22,
-        "likes_delta": 0,
-        "reposts_delta": 0
+        "state": "rising",
+        "window_minutes": 179.0,
+        "views_delta": 7213,
+        "likes_delta": 87,
+        "reposts_delta": 10
       },
       "workflow_source_urls": [
         "https://x.com/rileybrown/status/2121643018117841275"
@@ -29971,7 +30067,7 @@
       },
       "prompt": {
         "text": null,
-        "source_url": null
+        "source_url": "https://x.com/ICO_AIvideo/status/2121170072127606912"
       },
       "native_media_id": "2120858849347567616",
       "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
@@ -30474,6 +30570,526 @@
         "window_minutes": 183.1,
         "views_delta": 14,
         "likes_delta": 1,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "stefan-3d-ai-2121647529750311377",
+      "titles": {
+        "en": "A pop-up book opens into a game menu",
+        "zh-CN": "立体书翻开变成游戏菜单",
+        "ja": "飛び出す絵本がゲームのメニューになる",
+        "ko": "팝업북이 펼쳐지는 게임 메뉴",
+        "es": "Un libro desplegable se convierte en menú de juego"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "Stefan_3D_AI",
+        "url": "https://x.com/Stefan_3D_AI"
+      },
+      "source_url": "https://x.com/Stefan_3D_AI/status/2121647529750311377",
+      "published_at": "2026-11-14T16:52:44Z",
+      "duration_seconds": 22.633,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121647404839849984/img/V6qmZciN5QE6aiJZ.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/stefan-3d-ai-2121647529750311377.webp",
+      "preview_path": "assets/previews/stefan-3d-ai-2121647529750311377.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2121647404839849984/vid/avc1/1920x1080/UTg0WIn08HjCjsnI.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-15",
+        "checked_at": "2026-11-15T08:52:22.440920+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "41916699f9341356978c83359e784fa91895dad2d02e5782d5906dc9fe114ed8",
+        "model_named": true,
+        "video_checked_at": "2026-11-15T08:52:30.909888+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2121647404839849984",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A creator-posted game menu demonstration. Physical page turns link the title, bestiary and settings, and the author discloses the separate asset tools.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 and Blender and names GPT Image 2.6 and Tripo P2.0 via Higgsfield MCP. The clip shows a book opening from the title spread to the bestiary and settings.",
+        "zh-CN": "作者披露使用 Fable 5.2 和 Blender，并通过 Higgsfield MCP 使用 GPT Image 2.6 与 Tripo P2.0。视频展示立体书从标题页翻到怪物图鉴和设置页。",
+        "ja": "作者はFable 5.2とBlenderに加え、Higgsfield MCP経由のGPT Image 2.6とTripo P2.0を使用。絵本が開き、タイトル、怪物図鑑、設定へとページがめくれます。",
+        "ko": "제작자는 Fable 5.2와 Blender를 사용하고, Higgsfield MCP를 통해 GPT Image 2.6과 Tripo P2.0을 이용했다고 밝혔습니다. 책이 펼쳐지며 타이틀, 몬스터 도감, 설정 페이지가 나옵니다.",
+        "es": "El autor cita Fable 5.2 y Blender, además de GPT Image 2.6 y Tripo P2.0 mediante Higgsfield MCP. El libro se abre en la portada y pasa al bestiario y los ajustes."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-15T08:52:10.763702+00:00",
+          "views": 6564,
+          "likes": 240,
+          "reposts": 8,
+          "replies": 28,
+          "bookmarks": 97
+        },
+        {
+          "checked_at": "2026-11-15T08:52:31.439656+00:00",
+          "views": 6564,
+          "likes": 240,
+          "reposts": 8,
+          "replies": 28,
+          "bookmarks": 97
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.3,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "hyphenholdings-2120340122461753345",
+      "titles": {
+        "en": "An island game demo with newly animated combat",
+        "zh-CN": "加入战斗动作的岛屿游戏演示",
+        "ja": "戦闘モーションを追加した島のゲーム",
+        "ko": "전투 애니메이션을 더한 섬 게임 데모",
+        "es": "Una demo de un juego insular con nuevas animaciones de combate"
+      },
+      "category": "interactive",
+      "creator": {
+        "name": "hyphenholdings",
+        "url": "https://x.com/hyphenholdings"
+      },
+      "source_url": "https://x.com/hyphenholdings/status/2120340122461753345",
+      "published_at": "2026-11-11T02:17:33Z",
+      "duration_seconds": 65.199,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120339686040158208/img/SaQpy-jrjN4Q5iDl.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/hyphenholdings-2120340122461753345.webp",
+      "preview_path": "assets/previews/hyphenholdings-2120340122461753345.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120339686040158208/vid/avc1/1920x1080/-d4odGYaB3R0mUbK.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-15",
+        "checked_at": "2026-11-15T08:52:22.442840+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "eea4ddf0a20c55908e09cd7b9b1c593d73a45f997696acbb153d6a22c72d0440",
+        "model_named": true,
+        "video_checked_at": "2026-11-15T08:52:31.157397+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120339686040158208",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "An original gameplay capture that establishes exactly which animations the creator attributes to Fable 5.2.",
+      "workflow": "creator-reported-multitool",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for the combat movements added in this update, including dodges and combos. The footage also shows traversal from the water to the island. The author shares a playable build in a reply.",
+        "zh-CN": "作者称此轮更新由 Fable 5.2 制作闪避和连招等战斗动作。实机录像也展示从水面登岛的过程。作者在回复中附有试玩入口。",
+        "ja": "作者によると、この更新の回避やコンボなどの戦闘モーションをFable 5.2で制作。映像では水上から島への移動も見せており、返信から体験版を開けます。",
+        "ko": "제작자는 이번 업데이트의 회피와 연계기 등 전투 동작을 Fable 5.2로 만들었다고 밝혔습니다. 영상에는 물에서 섬으로 이동하는 장면이 나오며, 답글에 체험판 링크가 있습니다.",
+        "es": "El autor atribuye a Fable 5.2 los movimientos de combate añadidos, incluidas las esquivas y las combinaciones. La grabación también muestra el paso del agua a la isla. El autor enlaza una versión jugable en una respuesta."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-15T08:52:12.809228+00:00",
+          "views": 557,
+          "likes": 5,
+          "reposts": 0,
+          "replies": 3,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-15T08:52:31.628854+00:00",
+          "views": 557,
+          "likes": 5,
+          "reposts": 0,
+          "replies": 3,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.3,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      },
+      "workflow_source_urls": [
+        "https://x.com/hyphenholdings/status/2120340296504643866"
+      ],
+      "workflow_source_checks": [
+        {
+          "source_url": "https://x.com/hyphenholdings/status/2120340296504643866",
+          "checked_at": "2026-11-15T08:52:32.148960+00:00",
+          "method": "X official oEmbed",
+          "post_sha256": "ef383bc3f55714fac80881a1f949135014f861f6c3164b6dd20683b179a41f0a"
+        }
+      ]
+    },
+    {
+      "id": "everestchris6-2120175941616128277",
+      "titles": {
+        "en": "A floor plan becomes a furnished home walkthrough",
+        "zh-CN": "从平面户型图到精装住宅漫游",
+        "ja": "間取り図から家具付き住宅の3D内覧へ",
+        "ko": "평면도에서 가구가 놓인 집의 3D 투어로",
+        "es": "De un plano a un recorrido por una vivienda amueblada"
+      },
+      "category": "product",
+      "creator": {
+        "name": "everestchris6",
+        "url": "https://x.com/everestchris6"
+      },
+      "source_url": "https://x.com/everestchris6/status/2120175941616128277",
+      "published_at": "2026-11-10T15:25:10Z",
+      "duration_seconds": 10.176,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120175906501345281/img/dUwiRWH4RxZBExAl.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/everestchris6-2120175941616128277.webp",
+      "preview_path": "assets/previews/everestchris6-2120175941616128277.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120175906501345281/vid/avc1/1902x1080/bf_XglfsEta4QCXA.mp4?tag=16",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-15",
+        "checked_at": "2026-11-15T08:52:24.308508+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "064e94391b5eba99bccfcd238255b840a1cfbcd60c6bb9fd1efe8c0093418377",
+        "model_named": true,
+        "video_checked_at": "2026-11-15T08:52:30.907044+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120175906501345281",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The inset blueprint and the moving camera show the connection between the plan and the furnished interior.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator attributes a blueprint-to-3D walkthrough to Fable 5.2. A floor plan stays in the corner as the camera moves through the furnished rooms.",
+        "zh-CN": "作者展示用 Fable 5.2 把平面图转为 3D 漫游。镜头穿过有家具的房间时，画面角落保留了平面图作为对照。",
+        "ja": "作者はFable 5.2で図面から3D内覧を作ったと説明。家具のある部屋を移動しながら画面の隅に間取り図を表示しています。",
+        "ko": "제작자는 Fable 5.2로 평면도를 3D 투어로 만들었다고 밝혔습니다. 가구가 놓인 방을 이동하는 동안 화면 한쪽에 평면도가 표시됩니다.",
+        "es": "El autor atribuye a Fable 5.2 la conversión de un plano en un recorrido 3D. El plano queda en una esquina mientras la cámara atraviesa las habitaciones amuebladas."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-14T23:55:21.292668+00:00",
+          "views": 757033,
+          "likes": 7233,
+          "reposts": 562,
+          "replies": 211,
+          "bookmarks": 8733
+        },
+        {
+          "checked_at": "2026-11-15T02:49:45.915298+00:00",
+          "views": 757619,
+          "likes": 7238,
+          "reposts": 562,
+          "replies": 211,
+          "bookmarks": 8735
+        },
+        {
+          "checked_at": "2026-11-15T05:52:21.122613+00:00",
+          "views": 758171,
+          "likes": 7244,
+          "reposts": 562,
+          "replies": 212,
+          "bookmarks": 8736
+        },
+        {
+          "checked_at": "2026-11-15T08:51:56.064808+00:00",
+          "views": 758750,
+          "likes": 7247,
+          "reposts": 562,
+          "replies": 212,
+          "bookmarks": 8737
+        },
+        {
+          "checked_at": "2026-11-15T08:52:31.377811+00:00",
+          "views": 758753,
+          "likes": 7247,
+          "reposts": 562,
+          "replies": 212,
+          "bookmarks": 8737
+        }
+      ],
+      "momentum": {
+        "state": "established",
+        "window_minutes": 180.2,
+        "views_delta": 582,
+        "likes_delta": 3,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "everestchris6-2120939600504074444",
+      "titles": {
+        "en": "A Three.js walkthrough from a tower exterior to an apartment",
+        "zh-CN": "用 Three.js 从高楼外景漫游到室内",
+        "ja": "Three.jsで高層タワーの外観から室内へ",
+        "ko": "Three.js로 고층 타워 외관에서 실내까지 둘러보는 영상",
+        "es": "Un recorrido en Three.js del exterior de una torre al apartamento"
+      },
+      "category": "product",
+      "creator": {
+        "name": "everestchris6",
+        "url": "https://x.com/everestchris6"
+      },
+      "source_url": "https://x.com/everestchris6/status/2120939600504074444",
+      "published_at": "2026-11-12T17:59:40Z",
+      "duration_seconds": 15.936,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120939561715163137/img/PCtkCd_akEH_qQ65.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/everestchris6-2120939600504074444.webp",
+      "preview_path": "assets/previews/everestchris6-2120939600504074444.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120939561715163137/vid/avc1/1898x1080/jxemZtOQ1szTzU7-.mp4?tag=16",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-15",
+        "checked_at": "2026-11-15T08:52:24.828891+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "20e48ad4a0dbc43506835b375b3576075d07715d746a19f1770e9fabd1d9cd07",
+        "model_named": true,
+        "video_checked_at": "2026-11-15T08:52:30.908239+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120939561715163137",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A separate architectural scene with an exterior establishing shot and a curved glass interior. The entry focuses on the demonstrated layout and camera movement.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator identifies Fable 5.2 and Three.js in a floor-plan walkthrough. The video first shows the tower and surrounding water, then moves inside an apartment with a curved window.",
+        "zh-CN": "作者披露用 Fable 5.2 和 Three.js 做户型漫游。视频先展现高楼与周围水域，再进入带弧形窗的室内。",
+        "ja": "作者は間取り図の内覧にFable 5.2とThree.jsを使用。水辺の高層タワーの外観から、曲面の窓がある室内へ進みます。",
+        "ko": "제작자는 평면도 투어에 Fable 5.2와 Three.js를 사용했다고 밝혔습니다. 수변의 고층 건물을 보여 준 뒤 곡선 창이 있는 실내로 들어갑니다.",
+        "es": "El autor menciona Fable 5.2 y Three.js para el recorrido. El vídeo muestra primero la torre rodeada de agua y después un apartamento con un ventanal curvo."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-14T23:55:20.350056+00:00",
+          "views": 63869,
+          "likes": 572,
+          "reposts": 42,
+          "replies": 34,
+          "bookmarks": 593
+        },
+        {
+          "checked_at": "2026-11-15T02:49:44.035711+00:00",
+          "views": 64510,
+          "likes": 572,
+          "reposts": 42,
+          "replies": 34,
+          "bookmarks": 596
+        },
+        {
+          "checked_at": "2026-11-15T05:52:19.072375+00:00",
+          "views": 64981,
+          "likes": 574,
+          "reposts": 42,
+          "replies": 34,
+          "bookmarks": 598
+        },
+        {
+          "checked_at": "2026-11-15T08:51:54.079165+00:00",
+          "views": 65646,
+          "likes": 578,
+          "reposts": 42,
+          "replies": 34,
+          "bookmarks": 602
+        },
+        {
+          "checked_at": "2026-11-15T08:52:31.353591+00:00",
+          "views": 65649,
+          "likes": 578,
+          "reposts": 42,
+          "replies": 34,
+          "bookmarks": 602
+        }
+      ],
+      "momentum": {
+        "state": "rising",
+        "window_minutes": 180.2,
+        "views_delta": 668,
+        "likes_delta": 4,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "shiomasvision-2121449322453860803",
+      "titles": {
+        "en": "An illustrated bedtime story about the value of life",
+        "zh-CN": "给孩子讲生命可贵的插画短片",
+        "ja": "命の大切さを伝える絵本風の短編",
+        "ko": "생명의 소중함을 전하는 그림책풍 단편",
+        "es": "Un cuento ilustrado para dormir sobre el valor de la vida"
+      },
+      "category": "short-films",
+      "creator": {
+        "name": "shiomasvision",
+        "url": "https://x.com/shiomasvision"
+      },
+      "source_url": "https://x.com/shiomasvision/status/2121449322453860803",
+      "published_at": "2026-11-14T03:45:07Z",
+      "duration_seconds": 88.51,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121449186055073792/img/3U2VZDkRmlMTxIoK.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/shiomasvision-2121449322453860803.webp",
+      "preview_path": "assets/previews/shiomasvision-2121449322453860803.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2121449186055073792/vid/avc1/1280x720/AGilyHy2M2HMhJpS.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-15",
+        "checked_at": "2026-11-15T08:52:26.739207+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "077085f72d06381c34c22ef69d759288c2f097b93974cf9e3e8d51b7cf538da1",
+        "model_named": true,
+        "video_checked_at": "2026-11-15T08:52:32.007576+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": "5歳くらいの子どもに、命の大切さが自然に伝わる、心が温まる動画を作って",
+        "source_url": "https://x.com/shiomasvision/status/2121449510316749105"
+      },
+      "native_media_id": "2121449186055073792",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A complete illustrated story with a child-centered brief disclosed by the author.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator used Claude Code with Fable 5.2 to make a story for young children. The film moves from a moonlit sky to family scenes, with soft colors and captions. The creator describes the brief in a reply.",
+        "zh-CN": "作者用 Claude Code 与 Fable 5.2 制作一支面向幼儿的故事短片。画面从月夜转入家庭场景，用柔和色彩和字幕串联。作者在回复里说明创作要求。",
+        "ja": "作者はClaude CodeとFable 5.2で幼い子ども向けの物語を制作。月夜から家族の場面へと移り、やわらかな色と字幕でつなぎます。作者は返信で指示の内容を説明しています。",
+        "ko": "제작자는 Claude Code와 Fable 5.2로 어린이를 위한 이야기를 만들었습니다. 달빛이 비치는 하늘에서 가족 장면으로 이어지며 부드러운 색과 자막을 사용합니다. 제작자는 답글에 요청 내용을 공개했습니다.",
+        "es": "El autor usó Claude Code con Fable 5.2 para crear un cuento infantil. La película pasa de un cielo nocturno a escenas familiares, con colores suaves y subtítulos. El autor explica la instrucción en una respuesta."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-15T08:52:10.688431+00:00",
+          "views": 110,
+          "likes": 4,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-15T08:52:32.480980+00:00",
+          "views": 110,
+          "likes": 4,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.4,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      },
+      "workflow_source_urls": [
+        "https://x.com/shiomasvision/status/2121449510316749105"
+      ],
+      "workflow_source_checks": [
+        {
+          "source_url": "https://x.com/shiomasvision/status/2121449510316749105",
+          "checked_at": "2026-11-15T08:52:32.578449+00:00",
+          "method": "X official oEmbed",
+          "post_sha256": "2fca9d9c562a501c60fe4285162afcd776458a64d7f6c345de14396270648975"
+        }
+      ]
+    },
+    {
+      "id": "nesaivideo-2120851458421821675",
+      "titles": {
+        "en": "A browser battle with visible turn order",
+        "zh-CN": "能看到行动顺序的浏览器回合制战斗",
+        "ja": "行動順が見えるブラウザーのターン制バトル",
+        "ko": "행동 순서가 표시되는 브라우저 턴제 전투",
+        "es": "Un combate por turnos en el navegador con el orden visible"
+      },
+      "category": "interactive",
+      "creator": {
+        "name": "nesaivideo",
+        "url": "https://x.com/nesaivideo"
+      },
+      "source_url": "https://x.com/nesaivideo/status/2120851458421821675",
+      "published_at": "2026-11-12T12:09:25Z",
+      "duration_seconds": 193.228,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120850004445470720/img/yZzDW3ugyUMsHsy2.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/nesaivideo-2120851458421821675.webp",
+      "preview_path": "assets/previews/nesaivideo-2120851458421821675.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120850004445470720/vid/avc1/1492x1660/RnGC-9muW2GDFzf5.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-15",
+        "checked_at": "2026-11-15T08:52:28.418911+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "2f1cbdee93832a34f809da9cfad000366decdfe4cf4135064a79fd3b81381247",
+        "model_named": true,
+        "video_checked_at": "2026-11-15T08:52:31.888223+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120850004445470720",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "Original gameplay with an explicit turn order and persistent decision interface.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for the browser demo, including four 3D characters, the arena and a visible turn order. The recording keeps the action interface visible throughout the battle.",
+        "zh-CN": "作者称浏览器演示由 Fable 5.2 制作，涵盖 4 个 3D 角色、场景和可见的行动顺序。录像展现战斗及操作界面。",
+        "ja": "作者はFable 5.2で4体の3Dキャラクター、背景、行動順が見えるブラウザーデモを制作。戦闘中も操作画面が見える録画です。",
+        "ko": "제작자는 Fable 5.2로 3D 캐릭터 네 명, 경기장, 행동 순서가 보이는 브라우저 데모를 만들었다고 밝혔습니다. 영상에는 전투와 조작 화면이 함께 나옵니다.",
+        "es": "El autor atribuye a Fable 5.2 la demo de navegador, con cuatro personajes 3D, una arena y un orden de turnos visible. La grabación mantiene la interfaz a la vista durante el combate."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-15T08:52:12.070223+00:00",
+          "views": 100,
+          "likes": 2,
+          "reposts": 1,
+          "replies": 0,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-15T08:52:32.338820+00:00",
+          "views": 100,
+          "likes": 2,
+          "reposts": 1,
+          "replies": 0,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.3,
+        "views_delta": 0,
+        "likes_delta": 0,
         "reposts_delta": 0
       }
     }

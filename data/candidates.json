@@ -249,6 +249,16 @@
       "status": "held-insufficient-workflow-evidence",
       "reason": "The recording shows a globe and street-level rendering. The original post leaves the source of the world and its relationship to existing projects unclear.",
       "checked_at": "2026-11-15T05:52:19.090264+00:00"
+    },
+    {
+      "source_url": "https://x.com/psychonurseblog/status/2121751784087568690",
+      "creator": {
+        "name": "psychonurseblog",
+        "url": "https://x.com/psychonurseblog"
+      },
+      "status": "held-insufficient-workflow-evidence",
+      "reason": "A long-form post ties Fable 5.2 to a template, but the model attribution for the attached clip could not be confirmed from original post or replies.",
+      "checked_at": "2026-11-15T08:51:48.458688+00:00"
     }
   ]
 }
