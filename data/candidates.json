@@ -229,6 +229,26 @@
       "status": "held-possible-duplicate",
       "reason": "The creator reuses the Fable 5.2 rainy pelican scene that is already listed, pairing it with a different comparison model.",
       "checked_at": "2026-11-15T02:49:38.315511+00:00"
+    },
+    {
+      "source_url": "https://x.com/Suzacque/status/2120115456044613950",
+      "creator": {
+        "name": "Suzacque",
+        "url": "https://x.com/Suzacque"
+      },
+      "status": "held-possible-duplicate",
+      "reason": "The loop repeats the portrait motif already listed in the creator’s falling-sphere demonstration. The relationship between the two cuts remains unverified.",
+      "checked_at": "2026-11-15T05:52:21.399245+00:00"
+    },
+    {
+      "source_url": "https://x.com/kaif9998/status/2120884346265743432",
+      "creator": {
+        "name": "kaif9998",
+        "url": "https://x.com/kaif9998"
+      },
+      "status": "held-insufficient-workflow-evidence",
+      "reason": "The recording shows a globe and street-level rendering. The original post leaves the source of the world and its relationship to existing projects unclear.",
+      "checked_at": "2026-11-15T05:52:19.090264+00:00"
     }
   ]
 }

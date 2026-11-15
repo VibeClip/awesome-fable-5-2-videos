@@ -23420,14 +23420,22 @@
           "reposts": 169,
           "replies": 154,
           "bookmarks": 1587
+        },
+        {
+          "checked_at": "2026-11-15T05:52:15.701860+00:00",
+          "views": 180934,
+          "likes": 3637,
+          "reposts": 172,
+          "replies": 155,
+          "bookmarks": 1606
         }
       ],
       "momentum": {
         "state": "established",
-        "window_minutes": 174.5,
-        "views_delta": 1828,
-        "likes_delta": 45,
-        "reposts_delta": 1
+        "window_minutes": 182.6,
+        "views_delta": 1639,
+        "likes_delta": 29,
+        "reposts_delta": 3
       },
       "workflow_source_urls": [
         "https://x.com/chetaslua/status/2121176153667125296"
@@ -23969,12 +23977,20 @@
           "reposts": 24,
           "replies": 40,
           "bookmarks": 254
+        },
+        {
+          "checked_at": "2026-11-15T05:52:15.782698+00:00",
+          "views": 36573,
+          "likes": 429,
+          "reposts": 25,
+          "replies": 41,
+          "bookmarks": 256
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 174.5,
-        "views_delta": 1685,
+        "window_minutes": 182.6,
+        "views_delta": 1870,
         "likes_delta": 8,
         "reposts_delta": 1
       },
@@ -24119,13 +24135,21 @@
           "reposts": 11,
           "replies": 15,
           "bookmarks": 102
+        },
+        {
+          "checked_at": "2026-11-15T05:52:15.676743+00:00",
+          "views": 10899,
+          "likes": 292,
+          "reposts": 11,
+          "replies": 15,
+          "bookmarks": 102
         }
       ],
       "momentum": {
-        "state": "rising",
-        "window_minutes": 174.5,
-        "views_delta": 201,
-        "likes_delta": 3,
+        "state": "new",
+        "window_minutes": 182.6,
+        "views_delta": 187,
+        "likes_delta": 4,
         "reposts_delta": 0
       }
     },
@@ -24655,12 +24679,20 @@
           "reposts": 7,
           "replies": 9,
           "bookmarks": 46
+        },
+        {
+          "checked_at": "2026-11-15T05:52:15.691844+00:00",
+          "views": 5366,
+          "likes": 100,
+          "reposts": 7,
+          "replies": 9,
+          "bookmarks": 46
         }
       ],
       "momentum": {
         "state": "new",
-        "window_minutes": 174.5,
-        "views_delta": 23,
+        "window_minutes": 182.6,
+        "views_delta": 13,
         "likes_delta": 0,
         "reposts_delta": 0
       },
@@ -24797,12 +24829,20 @@
           "reposts": 49,
           "replies": 31,
           "bookmarks": 469
+        },
+        {
+          "checked_at": "2026-11-15T05:52:15.702093+00:00",
+          "views": 23231,
+          "likes": 755,
+          "reposts": 49,
+          "replies": 31,
+          "bookmarks": 469
         }
       ],
       "momentum": {
         "state": "new",
-        "window_minutes": 174.5,
-        "views_delta": 121,
+        "window_minutes": 182.6,
+        "views_delta": 126,
         "likes_delta": 1,
         "reposts_delta": 0
       },
@@ -25223,13 +25263,21 @@
           "reposts": 2,
           "replies": 4,
           "bookmarks": 23
+        },
+        {
+          "checked_at": "2026-11-15T05:52:15.715706+00:00",
+          "views": 2423,
+          "likes": 40,
+          "reposts": 2,
+          "replies": 4,
+          "bookmarks": 23
         }
       ],
       "momentum": {
         "state": "new",
-        "window_minutes": 174.5,
-        "views_delta": 196,
-        "likes_delta": 2,
+        "window_minutes": 182.6,
+        "views_delta": 84,
+        "likes_delta": 0,
         "reposts_delta": 0
       },
       "workflow_source_urls": [
@@ -25555,14 +25603,22 @@
           "reposts": 493,
           "replies": 45,
           "bookmarks": 1587
+        },
+        {
+          "checked_at": "2026-11-15T05:52:15.692053+00:00",
+          "views": 1007617,
+          "likes": 4711,
+          "reposts": 494,
+          "replies": 45,
+          "bookmarks": 1588
         }
       ],
       "momentum": {
         "state": "established",
-        "window_minutes": 174.5,
-        "views_delta": 2211,
-        "likes_delta": 7,
-        "reposts_delta": 0
+        "window_minutes": 182.6,
+        "views_delta": 1995,
+        "likes_delta": 14,
+        "reposts_delta": 1
       }
     },
     {
@@ -27354,13 +27410,21 @@
           "reposts": 10,
           "replies": 23,
           "bookmarks": 105
+        },
+        {
+          "checked_at": "2026-11-15T05:52:15.721638+00:00",
+          "views": 15320,
+          "likes": 246,
+          "reposts": 12,
+          "replies": 28,
+          "bookmarks": 139
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 174.5,
-        "views_delta": 3549,
-        "likes_delta": 62,
+        "window_minutes": 182.6,
+        "views_delta": 4663,
+        "likes_delta": 49,
         "reposts_delta": 2
       },
       "workflow_source_urls": [
@@ -27472,14 +27536,22 @@
           "reposts": 63,
           "replies": 92,
           "bookmarks": 1076
+        },
+        {
+          "checked_at": "2026-11-15T05:52:15.714903+00:00",
+          "views": 91731,
+          "likes": 1783,
+          "reposts": 73,
+          "replies": 101,
+          "bookmarks": 1230
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 174.5,
-        "views_delta": 13846,
-        "likes_delta": 249,
-        "reposts_delta": 11
+        "window_minutes": 182.6,
+        "views_delta": 11646,
+        "likes_delta": 208,
+        "reposts_delta": 10
       }
     },
     {
@@ -27984,14 +28056,22 @@
           "reposts": 10,
           "replies": 32,
           "bookmarks": 139
+        },
+        {
+          "checked_at": "2026-11-15T05:52:15.681696+00:00",
+          "views": 13035,
+          "likes": 365,
+          "reposts": 13,
+          "replies": 38,
+          "bookmarks": 169
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 174.5,
-        "views_delta": 3536,
-        "likes_delta": 86,
-        "reposts_delta": 2
+        "window_minutes": 182.6,
+        "views_delta": 2700,
+        "likes_delta": 50,
+        "reposts_delta": 3
       },
       "workflow_source_urls": [
         "https://x.com/kevin_t_ngo/status/2121701022087475398"
@@ -29214,14 +29294,22 @@
           "reposts": 3,
           "replies": 6,
           "bookmarks": 49
+        },
+        {
+          "checked_at": "2026-11-15T05:52:15.710868+00:00",
+          "views": 10706,
+          "likes": 244,
+          "reposts": 7,
+          "replies": 15,
+          "bookmarks": 166
         }
       ],
       "momentum": {
-        "state": "new",
-        "window_minutes": 0.6,
-        "views_delta": 39,
-        "likes_delta": 1,
-        "reposts_delta": 0
+        "state": "rising",
+        "window_minutes": 182.0,
+        "views_delta": 7553,
+        "likes_delta": 166,
+        "reposts_delta": 4
       }
     },
     {
@@ -29759,6 +29847,633 @@
         "window_minutes": 174.9,
         "views_delta": 4,
         "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "rileybrown-2121642720045261185",
+      "titles": {
+        "en": "The Fable of Clawd",
+        "zh-CN": "《The Fable of Clawd》",
+        "ja": "『The Fable of Clawd』",
+        "ko": "〈The Fable of Clawd〉",
+        "es": "La fábula de Clawd"
+      },
+      "category": "short-films",
+      "creator": {
+        "name": "rileybrown",
+        "url": "https://x.com/rileybrown"
+      },
+      "source_url": "https://x.com/rileybrown/status/2121642720045261185",
+      "published_at": "2026-11-14T16:33:37Z",
+      "duration_seconds": 138.666,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121634141472997376/img/v5glSWVbjAW63STu.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/rileybrown-2121642720045261185.webp",
+      "preview_path": "assets/previews/rileybrown-2121642720045261185.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2121634141472997376/vid/avc1/3840x2160/ad8dwsaeRrRDLc6w.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-15",
+        "checked_at": "2026-11-15T05:52:41.373091+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "6da4c0f127c0abcea92fd2c8e311216cc0b97a1c3152b977bde62034d86184d3",
+        "model_named": true,
+        "video_checked_at": "2026-11-15T05:52:52.001948+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2121634141472997376",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A finished narrative film with custom characters and sets. The original post describes the Python and Blender workflow, and the creator provides further production details in a reply.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for writing Python to build and animate the Blender sets and characters. Clawd, Pip and a toy truck feature in a story that moves between a study, a workshop and outdoor sets.",
+        "zh-CN": "作者称 Fable 5.2 编写了 Python 代码，在 Blender 中搭建场景并制作角色动画。故事以 Clawd、Pip 和一辆玩具车为主角，穿过书房、工作间和室外场景。",
+        "ja": "作者によると、Fable 5.2がPythonでBlenderのセットとキャラクターを作り、動きを付けました。ClawdとPip、おもちゃのトラックが書斎、作業場、屋外を巡ります。",
+        "ko": "제작자는 Fable 5.2가 Blender 세트와 캐릭터를 만들고 움직이는 Python 코드를 작성했다고 밝혔습니다. Clawd, Pip, 장난감 트럭이 서재와 작업실, 야외를 오갑니다.",
+        "es": "El autor dice que Fable 5.2 escribió Python para construir y animar los escenarios y personajes en Blender. Clawd, Pip y un camión de juguete recorren un estudio, un taller y exteriores."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-15T05:52:26.854141+00:00",
+          "views": 83687,
+          "likes": 1253,
+          "reposts": 65,
+          "replies": 155,
+          "bookmarks": 1175
+        },
+        {
+          "checked_at": "2026-11-15T05:52:52.447715+00:00",
+          "views": 83709,
+          "likes": 1253,
+          "reposts": 65,
+          "replies": 155,
+          "bookmarks": 1176
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.4,
+        "views_delta": 22,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      },
+      "workflow_source_urls": [
+        "https://x.com/rileybrown/status/2121643018117841275"
+      ],
+      "workflow_source_checks": [
+        {
+          "source_url": "https://x.com/rileybrown/status/2121643018117841275",
+          "checked_at": "2026-11-15T05:52:51.987195+00:00",
+          "method": "X official oEmbed",
+          "post_sha256": "2ea303055ada027742f24cca147fe7c65d2aaf09cb396e2b625c60620016c913"
+        }
+      ]
+    },
+    {
+      "id": "ico-aivideo-2120860567581921508",
+      "titles": {
+        "en": "A small dog in a sunlit tatami room",
+        "zh-CN": "阳光照进和室，一只小狗跑过",
+        "ja": "日差しの差す和室を走る小さな犬",
+        "ko": "햇살 드는 다다미방을 뛰어다니는 작은 개",
+        "es": "Un perro pequeño en una sala de tatami iluminada por el sol"
+      },
+      "category": "short-films",
+      "creator": {
+        "name": "ICO_AIvideo",
+        "url": "https://x.com/ICO_AIvideo"
+      },
+      "source_url": "https://x.com/ICO_AIvideo/status/2120860567581921508",
+      "published_at": "2026-11-12T12:45:37Z",
+      "duration_seconds": 20,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120858849347567616/img/mus0NTkzEqUX-FV9.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ico-aivideo-2120860567581921508.webp",
+      "preview_path": "assets/previews/ico-aivideo-2120860567581921508.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120858849347567616/vid/avc1/1920x1080/nn3mPUMUshjI7UNO.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-15",
+        "checked_at": "2026-11-15T05:52:41.392905+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "b888581523f36a56857638f2b32dca28b5c438f6f073f349bcc6ed924a7c6de0",
+        "model_named": true,
+        "video_checked_at": "2026-11-15T05:52:52.402106+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120858849347567616",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A finished character short with consistent floor-level framing and clearly disclosed image references.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator says Fable 5.2 built the room and animated the dog in Blender using images as references. The video follows the dog through patches of sunlight on the floor.",
+        "zh-CN": "作者称使用参考图，让 Fable 5.2 在 Blender 中搭建和室并为小狗制作动画。镜头跟着小狗穿过地面上的几块日光。",
+        "ja": "作者は参照画像をもとにFable 5.2で和室を作り、Blenderで犬を動かしたと説明。犬が床に落ちる日差しの中を走ります。",
+        "ko": "제작자는 참고 이미지를 바탕으로 Fable 5.2로 방을 만들고 Blender에서 개를 움직였다고 밝혔습니다. 개가 바닥에 드리운 햇살 사이를 달립니다.",
+        "es": "El autor dice que Fable 5.2 construyó la sala y animó al perro en Blender a partir de imágenes de referencia. El vídeo sigue al perro entre manchas de sol sobre el suelo."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-15T05:52:28.411628+00:00",
+          "views": 3226,
+          "likes": 49,
+          "reposts": 2,
+          "replies": 4,
+          "bookmarks": 9
+        },
+        {
+          "checked_at": "2026-11-15T05:52:52.921248+00:00",
+          "views": 3226,
+          "likes": 49,
+          "reposts": 2,
+          "replies": 4,
+          "bookmarks": 9
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.4,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "ico-aivideo-2120311646933680355",
+      "titles": {
+        "en": "A looping miniature tea room in Blender",
+        "zh-CN": "Blender 里的微缩茶室循环短片",
+        "ja": "Blenderで作った小さなティールームのループ",
+        "ko": "Blender로 만든 작은 티룸 반복 영상",
+        "es": "Una pequeña sala de té en bucle hecha en Blender"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "ICO_AIvideo",
+        "url": "https://x.com/ICO_AIvideo"
+      },
+      "source_url": "https://x.com/ICO_AIvideo/status/2120311646933680355",
+      "published_at": "2026-11-11T00:24:24Z",
+      "duration_seconds": 21.958,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120311299917873153/img/_2IOlTIwNDjvdn7v.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ico-aivideo-2120311646933680355.webp",
+      "preview_path": "assets/previews/ico-aivideo-2120311646933680355.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120311299917873153/vid/avc1/1280x720/XX6AfZsYEyGyUmg8.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-15",
+        "checked_at": "2026-11-15T05:52:43.463383+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "e8a5bfb42b1a6d95da621f01ea349e9db376ce7c69b75bb124f49e5c4d35ab14",
+        "model_named": true,
+        "video_checked_at": "2026-11-15T05:52:52.140839+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120311299917873153",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A distinct looping Blender scene, with miniature objects introducing the space before the wide reveal.",
+      "workflow": "creator-reported-multitool",
+      "workflow_notes": {
+        "en": "The creator identifies Fable 5.2 and Blender for this loop. The camera travels past porcelain and a reflective sphere, then reveals the full pink room.",
+        "zh-CN": "作者披露用 Fable 5.2 和 Blender 制作循环短片。镜头经过瓷器和反光球，随后展现整间粉色茶室。",
+        "ja": "作者はFable 5.2とBlenderを使用。カメラが陶器と反射する球を通り過ぎ、ピンク色の部屋全体を見せます。",
+        "ko": "제작자는 Fable 5.2와 Blender를 사용했습니다. 카메라가 도자기와 반사되는 구를 지나 분홍빛 방 전체를 보여 줍니다.",
+        "es": "El autor menciona Fable 5.2 y Blender. La cámara pasa junto a la porcelana y una esfera reflectante antes de revelar la sala rosa."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-15T05:52:28.936276+00:00",
+          "views": 181481,
+          "likes": 670,
+          "reposts": 56,
+          "replies": 9,
+          "bookmarks": 536
+        },
+        {
+          "checked_at": "2026-11-15T05:52:52.683498+00:00",
+          "views": 181481,
+          "likes": 670,
+          "reposts": 56,
+          "replies": 9,
+          "bookmarks": 536
+        }
+      ],
+      "momentum": {
+        "state": "established",
+        "window_minutes": 0.4,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "ico-aivideo-2120125677081084110",
+      "titles": {
+        "en": "One line of text becomes a city of houses",
+        "zh-CN": "一行文字变成万家灯火",
+        "ja": "一行の文字が家々の街に変わる",
+        "ko": "한 줄의 문장이 집들이 모인 도시로 바뀌는 영상",
+        "es": "Una línea de texto se convierte en una ciudad de casas"
+      },
+      "category": "motion",
+      "creator": {
+        "name": "ICO_AIvideo",
+        "url": "https://x.com/ICO_AIvideo"
+      },
+      "source_url": "https://x.com/ICO_AIvideo/status/2120125677081084110",
+      "published_at": "2026-11-10T12:05:26Z",
+      "duration_seconds": 64.666,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120119936668545024/img/Uj-BYh8fhB2Hlsx9.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ico-aivideo-2120125677081084110.webp",
+      "preview_path": "assets/previews/ico-aivideo-2120125677081084110.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120119936668545024/vid/avc1/1280x720/X-ugBJVBUKnVPYSs.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-15",
+        "checked_at": "2026-11-15T05:52:43.503023+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "00e7c05a3be577af7eba008ef954d5b991d39797f812501259aba0ecc6065461",
+        "model_named": true,
+        "video_checked_at": "2026-11-15T05:52:51.979499+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": "いまのClaudeの実力を見せつける最強の動画を、自分で納得いくまで直しながら作って",
+        "source_url": "https://x.com/ICO_AIvideo/status/2120125677081084110"
+      },
+      "native_media_id": "2120119936668545024",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The camera reveal connects the original text prompt to the geometry of the city. The work has a different scene and composition from the creator’s Blender tea-room loop.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator asked Fable 5.2 to make a video that would show its capabilities. A text cursor introduces the scene and a pullback reveals houses arranged as lettering. The original post quotes the brief and discusses the visual choices.",
+        "zh-CN": "作者请 Fable 5.2 尽力展示自身能力。短片从文字光标开场，镜头拉远后揭示房屋排列成文字。原帖公开了提示词，并记录了这些视觉选择。",
+        "ja": "作者はFable 5.2に実力を示す映像を依頼。文字カーソルから始まり、カメラが引くと家々が文字を形作っていると分かります。元の投稿には指示文と演出の説明があります。",
+        "ko": "제작자는 Fable 5.2에 역량을 보여 줄 영상을 요청했습니다. 커서로 시작해 멀어지는 카메라가 글자로 배열된 집들을 드러냅니다. 원본 게시물에 프롬프트와 연출 설명이 있습니다.",
+        "es": "El autor pidió a Fable 5.2 un vídeo que mostrara sus capacidades. Un cursor abre la escena y, al alejarse la cámara, las casas forman letras. La publicación cita la instrucción y explica las decisiones visuales."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-15T05:52:29.413180+00:00",
+          "views": 41557,
+          "likes": 146,
+          "reposts": 15,
+          "replies": 7,
+          "bookmarks": 77
+        },
+        {
+          "checked_at": "2026-11-15T05:52:52.522421+00:00",
+          "views": 41557,
+          "likes": 146,
+          "reposts": 15,
+          "replies": 7,
+          "bookmarks": 77
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.4,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "creatorzz-2120707230513377714",
+      "titles": {
+        "en": "Two models cut a sci-fi trailer for The Final Signal",
+        "zh-CN": "两款模型剪出科幻预告《最终电波》",
+        "ja": "SF予告編『最終電波』を2モデルで比較",
+        "ko": "두 모델로 비교한 SF 예고편 〈최종 전파〉",
+        "es": "Dos modelos montan el tráiler de ciencia ficción La señal final"
+      },
+      "category": "short-films",
+      "creator": {
+        "name": "_creatorzz_",
+        "url": "https://x.com/_creatorzz_"
+      },
+      "source_url": "https://x.com/_creatorzz_/status/2120707230513377714",
+      "published_at": "2026-11-12T02:36:19Z",
+      "duration_seconds": 20.053,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120707203707621378/img/r8zdOZ-q2I6x1F58.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/creatorzz-2120707230513377714.webp",
+      "preview_path": "assets/previews/creatorzz-2120707230513377714.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120707203707621378/vid/avc1/1920x1080/phHDECzgrrQ5213D.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-15",
+        "checked_at": "2026-11-15T05:52:45.292485+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "3164d51ee163237237066f915d2d541a6425bb3cd16ff40085bacc96d933664a",
+        "model_named": true,
+        "video_checked_at": "2026-11-15T05:52:52.061942+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": "https://x.com/_creatorzz_/status/2120707232824492180"
+      },
+      "native_media_id": "2120707203707621378",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A side-by-side trailer experiment with visible model labels and a creator-published brief.",
+      "workflow": "model-comparison",
+      "workflow_notes": {
+        "en": "The creator places Opus 5.5 on the left and Fable 5.2 on the right. Same-prompt cuts show differences in staging, camera motion and neon-lit settings. The full brief is in the creator’s reply.",
+        "zh-CN": "作者标明左侧为 Opus 5.5，右侧为 Fable 5.2。同一提示词生成的画面可对照场面调度、运镜和霓虹环境。完整提示词见作者回复。",
+        "ja": "作者は左にOpus 5.5、右にFable 5.2を配置。同じ指示で構図、カメラの動き、ネオンに照らされた背景の違いが見えます。指示全文は作者の返信にあります。",
+        "ko": "제작자는 왼쪽에 Opus 5.5, 오른쪽에 Fable 5.2를 배치했습니다. 같은 프롬프트로 연출, 카메라 움직임, 네온 배경의 차이를 볼 수 있습니다. 전체 프롬프트는 제작자 답글에 있습니다.",
+        "es": "El autor coloca Opus 5.5 a la izquierda y Fable 5.2 a la derecha. Con la misma instrucción se aprecian diferencias de puesta en escena, cámara y luces de neón. El prompt completo está en la respuesta del autor."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-15T05:52:28.418114+00:00",
+          "views": 23880,
+          "likes": 87,
+          "reposts": 9,
+          "replies": 3,
+          "bookmarks": 63
+        },
+        {
+          "checked_at": "2026-11-15T05:52:52.533034+00:00",
+          "views": 23880,
+          "likes": 87,
+          "reposts": 9,
+          "replies": 3,
+          "bookmarks": 63
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.4,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "challenger-nd-2120149476057006186",
+      "titles": {
+        "en": "An acrobatic supercar race set to an ElevenLabs track",
+        "zh-CN": "配着 ElevenLabs 音乐的超跑特技短片",
+        "ja": "ElevenLabsの曲に合わせたスーパーカーのアクロバットレース",
+        "ko": "ElevenLabs 음악에 맞춘 슈퍼카 곡예 레이스",
+        "es": "Una carrera acrobática de superdeportivos al ritmo de ElevenLabs"
+      },
+      "category": "motion",
+      "creator": {
+        "name": "challenger_ND",
+        "url": "https://x.com/challenger_ND"
+      },
+      "source_url": "https://x.com/challenger_ND/status/2120149476057006186",
+      "published_at": "2026-11-10T13:40:00Z",
+      "duration_seconds": 30,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120135695037837313/img/ofLOiBpe8ZHOhOjp.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/challenger-nd-2120149476057006186.webp",
+      "preview_path": "assets/previews/challenger-nd-2120149476057006186.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120135695037837313/vid/avc1/1920x1080/yXrA_ezGd_Frjbvw.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-15",
+        "checked_at": "2026-11-15T05:52:45.513232+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "a45c9a4ceb7833c310136227cd85338b20603b6f542edf901f756d77a397d59d",
+        "model_named": true,
+        "video_checked_at": "2026-11-15T05:52:53.150282+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120135695037837313",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A complete racing film with changes in terrain and exaggerated car movement. The creator describes the music tool separately.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator asked Fable 5.2 for a code-generated racing clip timed to an ElevenLabs track. The cars flip and slide through several environments in a game-inspired edit.",
+        "zh-CN": "作者让 Fable 5.2 用代码制作赛车短片，按 ElevenLabs 音乐配合节奏。赛车在多个环境里翻转和漂移，剪辑采用游戏风格。",
+        "ja": "作者はFable 5.2にElevenLabsの曲に合わせてコードでレース映像を作るよう依頼。車は複数の舞台で宙返りやドリフトを見せます。",
+        "ko": "제작자는 Fable 5.2에 ElevenLabs 음악에 맞춰 경주 영상을 코드로 만들라고 요청했습니다. 자동차는 여러 환경에서 공중 회전과 드리프트를 합니다.",
+        "es": "El autor pidió a Fable 5.2 una carrera generada con código y sincronizada con una pista de ElevenLabs. Los coches giran en el aire y derrapan en varios escenarios."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-15T05:52:21.213581+00:00",
+          "views": 432,
+          "likes": 11,
+          "reposts": 3,
+          "replies": 0,
+          "bookmarks": 2
+        },
+        {
+          "checked_at": "2026-11-15T05:52:53.612995+00:00",
+          "views": 433,
+          "likes": 11,
+          "reposts": 3,
+          "replies": 0,
+          "bookmarks": 2
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.5,
+        "views_delta": 1,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "suzacque-2120054690029466026",
+      "titles": {
+        "en": "Falling spheres assemble a portrait in Blender",
+        "zh-CN": "用 Blender 落球模拟拼出头像",
+        "ja": "Blenderで落下する球が肖像画を作る",
+        "ko": "Blender에서 떨어지는 구슬이 초상화를 만드는 영상",
+        "es": "Esferas que caen y forman un retrato en Blender"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "Suzacque",
+        "url": "https://x.com/Suzacque"
+      },
+      "source_url": "https://x.com/Suzacque/status/2120054690029466026",
+      "published_at": "2026-11-10T07:23:21Z",
+      "duration_seconds": 10,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120051188712476672/img/LjZz0iMptVTwaiJ0.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/suzacque-2120054690029466026.webp",
+      "preview_path": "assets/previews/suzacque-2120054690029466026.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120051188712476672/vid/avc1/1920x1080/kEwkBi941l86-UIF.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-15",
+        "checked_at": "2026-11-15T05:52:47.814543+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "706372c5ec2851ca33f4ce98a0a79a4b84689335ef6e0d1117d02e194e1f0c14",
+        "model_named": true,
+        "video_checked_at": "2026-11-15T05:52:53.211764+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": "3Dの物理で、能力を出し切って何か作って",
+        "source_url": "https://x.com/Suzacque/status/2120054690029466026"
+      },
+      "native_media_id": "2120051188712476672",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A focused physics visualization with a documented link between the simulated landing positions and the final portrait.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator supplied a profile image and credits Fable 5.2 for the design and Python scripts. Blender simulated falling spheres with Bullet and rendered them in Cycles. A wider shot reveals how the settled spheres form the portrait.",
+        "zh-CN": "作者提供头像，并称 Fable 5.2 负责设计和编写 Python 脚本。Blender 用 Bullet 模拟小球落下，用 Cycles 渲染。镜头拉远后能看到落定的小球组成头像。",
+        "ja": "作者がプロフィール画像を渡し、Fable 5.2が設計とPythonスクリプトを担当。BlenderのBulletで球の落下を計算し、Cyclesで描画しました。引きの画面で球が肖像を形作ります。",
+        "ko": "제작자는 프로필 이미지를 제공하고 Fable 5.2에 설계와 Python 스크립트 작성을 맡겼습니다. Blender의 Bullet로 구슬의 낙하를 계산하고 Cycles로 렌더링했습니다. 카메라가 멀어지면 구슬로 된 초상화가 드러납니다.",
+        "es": "El autor aportó una imagen de perfil y atribuye el diseño y los scripts de Python a Fable 5.2. Blender simuló la caída con Bullet y renderizó con Cycles. Un plano abierto revela el retrato formado por las esferas."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-15T05:52:21.461793+00:00",
+          "views": 5934,
+          "likes": 38,
+          "reposts": 1,
+          "replies": 1,
+          "bookmarks": 19
+        },
+        {
+          "checked_at": "2026-11-15T05:52:53.815246+00:00",
+          "views": 5934,
+          "likes": 38,
+          "reposts": 1,
+          "replies": 1,
+          "bookmarks": 19
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.5,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "noel-ai-lab-2120504837855162425",
+      "titles": {
+        "en": "A black-and-white music video about a missing shadow",
+        "zh-CN": "女孩寻找影子的黑白动画 MV",
+        "ja": "影を探す少女を描いた白黒のアニメMV",
+        "ko": "그림자를 찾는 소녀의 흑백 애니메이션 뮤직비디오",
+        "es": "Un videoclip en blanco y negro sobre una sombra perdida"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "noel_ai_lab",
+        "url": "https://x.com/noel_ai_lab"
+      },
+      "source_url": "https://x.com/noel_ai_lab/status/2120504837855162425",
+      "published_at": "2026-11-11T13:12:05Z",
+      "duration_seconds": 58,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120504674575069184/img/kBOb7ukN8Tvym-8X.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/noel-ai-lab-2120504837855162425.webp",
+      "preview_path": "assets/previews/noel-ai-lab-2120504837855162425.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120504674575069184/vid/avc1/1920x1080/OdJEBcjYx5y-8ibz.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-15",
+        "checked_at": "2026-11-15T05:52:49.612963+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "90d479ab68bbb1e23e2db8c1e6ae9c77657365f9f9bb376c7c542606684310ef",
+        "model_named": true,
+        "video_checked_at": "2026-11-15T05:52:53.300412+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120504674575069184",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A finished music video with a recurring character and black-and-white compositions. The creator’s production write-up establishes the roles of the separate tools.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for direction and editing. The production notes identify Codex and GPT Image for artwork, MiniMax H3 for some animated cuts and Suno for the music.",
+        "zh-CN": "作者披露 Fable 5.2 负责导演与剪辑。制作说明注明用 Codex 和 GPT Image 做插画，部分片段用 MiniMax H3 做动态，配乐来自 Suno。",
+        "ja": "作者によると、Fable 5.2が演出と編集を担当。制作ノートでは絵にCodexとGPT Image、一部カットの動きにMiniMax H3、楽曲にSunoを挙げています。",
+        "ko": "제작자는 Fable 5.2가 연출과 편집을 맡았다고 밝혔습니다. 제작 기록에는 그림에 Codex와 GPT Image, 일부 장면에 MiniMax H3, 음악에 Suno를 썼다고 나옵니다.",
+        "es": "El autor atribuye a Fable 5.2 la dirección y el montaje. Sus notas citan Codex y GPT Image para las ilustraciones, MiniMax H3 para algunos planos animados y Suno para la música."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-14T23:55:20.819296+00:00",
+          "views": 1451,
+          "likes": 18,
+          "reposts": 3,
+          "replies": 2,
+          "bookmarks": 8
+        },
+        {
+          "checked_at": "2026-11-15T02:49:45.246466+00:00",
+          "views": 1467,
+          "likes": 18,
+          "reposts": 3,
+          "replies": 2,
+          "bookmarks": 8
+        },
+        {
+          "checked_at": "2026-11-15T05:52:20.172404+00:00",
+          "views": 1481,
+          "likes": 19,
+          "reposts": 3,
+          "replies": 3,
+          "bookmarks": 8
+        },
+        {
+          "checked_at": "2026-11-15T05:52:53.762780+00:00",
+          "views": 1481,
+          "likes": 19,
+          "reposts": 3,
+          "replies": 3,
+          "bookmarks": 8
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 183.1,
+        "views_delta": 14,
+        "likes_delta": 1,
         "reposts_delta": 0
       }
     }
