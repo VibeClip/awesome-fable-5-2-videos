@@ -25,3 +25,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+
+## Greed II in the fictional streamer preview
+
+Greed II by markmehere is based on Greed by Cosmo Myzrail Gorynych. The Greed II creator lists MIT for the game code and CC0 1.0 Universal for the game assets on the original game's itch.io page. This repository carries a short excerpt from the independently authored video and links to the original video. The game code is distributed by its creator. [Video attribution](https://x.com/kevin_t_ngo/status/2121780322106999106)

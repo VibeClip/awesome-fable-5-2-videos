@@ -1,5 +1,5 @@
 {
-  "checked_on": "2026-11-14",
+  "checked_on": "2026-11-15",
   "candidates": [
     {
       "source_url": "https://x.com/AlchainHust/status/2119949075898675292",
@@ -209,6 +209,26 @@
       "status": "held-possible-duplicate",
       "reason": "A separate camera capture repeats the courtyard and interiors in the creator’s already listed Atlas and Three.js walkthrough. Kept out of the formal count.",
       "checked_at": "2026-11-14T23:55:12.433575+00:00"
+    },
+    {
+      "source_url": "https://x.com/chetaslua/status/2121704006779290054",
+      "creator": {
+        "name": "chetaslua",
+        "url": "https://x.com/chetaslua"
+      },
+      "status": "held-insufficient-workflow-evidence",
+      "reason": "The creator names Fable and JavaScript, but the original post does not specify the model version.",
+      "checked_at": "2026-11-15T02:49:38.285094+00:00"
+    },
+    {
+      "source_url": "https://x.com/Stargridcompass/status/2121635969501688182",
+      "creator": {
+        "name": "Stargridcompass",
+        "url": "https://x.com/Stargridcompass"
+      },
+      "status": "held-possible-duplicate",
+      "reason": "The creator reuses the Fable 5.2 rainy pelican scene that is already listed, pairing it with a different comparison model.",
+      "checked_at": "2026-11-15T02:49:38.315511+00:00"
     }
   ]
 }
