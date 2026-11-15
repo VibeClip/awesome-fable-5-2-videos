@@ -259,6 +259,26 @@
       "status": "held-insufficient-workflow-evidence",
       "reason": "A long-form post ties Fable 5.2 to a template, but the model attribution for the attached clip could not be confirmed from original post or replies.",
       "checked_at": "2026-11-15T08:51:48.458688+00:00"
+    },
+    {
+      "source_url": "https://x.com/Stefan_3D_AI/status/2121244334859464810",
+      "creator": {
+        "name": "Stefan_3D_AI",
+        "url": "https://x.com/Stefan_3D_AI"
+      },
+      "status": "held-after-visual-review",
+      "reason": "The post includes a multi-stage game comparison. The sampled clip is largely labeled for the other model, and an excerpt centered on the Fable 5.2 result has not been verified.",
+      "checked_at": "2026-11-15T11:58:23.112210+00:00"
+    },
+    {
+      "source_url": "https://x.com/willbepan/status/2120617681602916728",
+      "creator": {
+        "name": "willbepan",
+        "url": "https://x.com/willbepan"
+      },
+      "status": "held-possible-duplicate",
+      "reason": "An earlier recording from the same creator shows the same 3D portfolio island. The gallery uses the later focused capture.",
+      "checked_at": "2026-11-15T11:58:43.790802+00:00"
     }
   ]
 }

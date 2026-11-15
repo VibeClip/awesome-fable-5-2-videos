@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-15T08:54:26.145707+00:00",
-  "method": "WebP animation bytes matched to GitHub blob SHA and rendered README images",
+  "checked_at": "2026-11-15T12:00:29.299147+00:00",
+  "method": "Local WebP RIFF ANIM/ANMF chunks",
   "previews": [
     {
       "id": "wesroth-934330",
@@ -5707,6 +5707,71 @@
       "bytes": 123648,
       "file_sha256": "fc29de12a5411a18be98ea7e8023732314155f260d20fba4429e25938f75cecd",
       "blob_sha": "b03aa881f41c8f2ffa21e48c1632c4866f800c48",
+      "status": "animated"
+    },
+    {
+      "id": "noel-ai-lab-2121921922300879121",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/noel-ai-lab-2121921922300879121.webp",
+      "frames": 33,
+      "duration_ms": 5511,
+      "width": 416,
+      "height": 234,
+      "loop_count": 0,
+      "bytes": 302938,
+      "file_sha256": "74980a2ef3ef94fd6dc604b7406afd2d0644685469933e8d22c9fe217196d1a4",
+      "blob_sha": "80d9574d9dcb665708e5450788513d6abae9b094",
+      "status": "animated"
+    },
+    {
+      "id": "akiyoshisan-2121890007237722501",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/akiyoshisan-2121890007237722501.webp",
+      "frames": 33,
+      "duration_ms": 5511,
+      "width": 416,
+      "height": 234,
+      "loop_count": 0,
+      "bytes": 88362,
+      "file_sha256": "475bfab9e536fb2611c6cbbd5a28e49a1be9a43b5cf217522d050f9e6414563a",
+      "blob_sha": "bad5b7aa38a3e44034f5f75569a3c47fd468a4ae",
+      "status": "animated"
+    },
+    {
+      "id": "mengto-2121896633848017145",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/mengto-2121896633848017145.webp",
+      "frames": 33,
+      "duration_ms": 5511,
+      "width": 416,
+      "height": 234,
+      "loop_count": 0,
+      "bytes": 146508,
+      "file_sha256": "6ca5d3b17f348a9c003d9c8a17f1366c5b12d65418f49bbfca11fb3e6f81ed83",
+      "blob_sha": "237b621804d7e597f3ebd43c540a63e6fa454def",
+      "status": "animated"
+    },
+    {
+      "id": "willbepan-2120683775499575626",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/willbepan-2120683775499575626.webp",
+      "frames": 33,
+      "duration_ms": 5511,
+      "width": 416,
+      "height": 234,
+      "loop_count": 0,
+      "bytes": 71712,
+      "file_sha256": "50e49242ab05b4f2097b7549ba4b0a1a440fa55fc4c8d9986379afcdcbf69dd7",
+      "blob_sha": "8a647308ca21ef7d0f638ff235f873a223e98097",
+      "status": "animated"
+    },
+    {
+      "id": "mengto-2121139143615074501",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/mengto-2121139143615074501.webp",
+      "frames": 33,
+      "duration_ms": 5511,
+      "width": 416,
+      "height": 234,
+      "loop_count": 0,
+      "bytes": 209546,
+      "file_sha256": "ab8175ba0337868ebfa3accd0dbd125394d32e1c21a148c1960d636c78097a45",
+      "blob_sha": "287b987ef4271097212063f24a122969864748ec",
       "status": "animated"
     }
   ]

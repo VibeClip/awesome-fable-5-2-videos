@@ -23436,14 +23436,22 @@
           "reposts": 174,
           "replies": 156,
           "bookmarks": 1621
+        },
+        {
+          "checked_at": "2026-11-15T11:58:22.261988+00:00",
+          "views": 183411,
+          "likes": 3668,
+          "reposts": 175,
+          "replies": 156,
+          "bookmarks": 1627
         }
       ],
       "momentum": {
         "state": "established",
-        "window_minutes": 179.6,
-        "views_delta": 1331,
-        "likes_delta": 13,
-        "reposts_delta": 2
+        "window_minutes": 186.5,
+        "views_delta": 1146,
+        "likes_delta": 18,
+        "reposts_delta": 1
       },
       "workflow_source_urls": [
         "https://x.com/chetaslua/status/2121176153667125296"
@@ -24001,14 +24009,22 @@
           "reposts": 27,
           "replies": 41,
           "bookmarks": 257
+        },
+        {
+          "checked_at": "2026-11-15T11:58:22.207226+00:00",
+          "views": 41167,
+          "likes": 440,
+          "reposts": 27,
+          "replies": 41,
+          "bookmarks": 261
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 179.6,
-        "views_delta": 2490,
-        "likes_delta": 6,
-        "reposts_delta": 2
+        "window_minutes": 186.5,
+        "views_delta": 2104,
+        "likes_delta": 5,
+        "reposts_delta": 0
       },
       "workflow_source_urls": [
         "https://x.com/scottstts/status/2121272406241120521"
@@ -24167,13 +24183,21 @@
           "reposts": 11,
           "replies": 15,
           "bookmarks": 102
+        },
+        {
+          "checked_at": "2026-11-15T11:58:22.252621+00:00",
+          "views": 11271,
+          "likes": 299,
+          "reposts": 11,
+          "replies": 15,
+          "bookmarks": 103
         }
       ],
       "momentum": {
         "state": "new",
-        "window_minutes": 179.6,
-        "views_delta": 194,
-        "likes_delta": 4,
+        "window_minutes": 186.5,
+        "views_delta": 178,
+        "likes_delta": 3,
         "reposts_delta": 0
       }
     },
@@ -24719,13 +24743,21 @@
           "reposts": 7,
           "replies": 9,
           "bookmarks": 46
+        },
+        {
+          "checked_at": "2026-11-15T11:58:22.203722+00:00",
+          "views": 5417,
+          "likes": 99,
+          "reposts": 7,
+          "replies": 9,
+          "bookmarks": 46
         }
       ],
       "momentum": {
         "state": "new",
-        "window_minutes": 179.6,
-        "views_delta": 17,
-        "likes_delta": -1,
+        "window_minutes": 186.5,
+        "views_delta": 34,
+        "likes_delta": 0,
         "reposts_delta": 0
       },
       "workflow_source_urls": [
@@ -24877,12 +24909,20 @@
           "reposts": 49,
           "replies": 31,
           "bookmarks": 471
+        },
+        {
+          "checked_at": "2026-11-15T11:58:22.199892+00:00",
+          "views": 23495,
+          "likes": 757,
+          "reposts": 49,
+          "replies": 31,
+          "bookmarks": 471
         }
       ],
       "momentum": {
         "state": "new",
-        "window_minutes": 179.6,
-        "views_delta": 158,
+        "window_minutes": 186.5,
+        "views_delta": 106,
         "likes_delta": 1,
         "reposts_delta": 0
       },
@@ -25319,12 +25359,20 @@
           "reposts": 2,
           "replies": 4,
           "bookmarks": 23
+        },
+        {
+          "checked_at": "2026-11-15T11:58:22.208942+00:00",
+          "views": 2546,
+          "likes": 40,
+          "reposts": 2,
+          "replies": 4,
+          "bookmarks": 23
         }
       ],
       "momentum": {
         "state": "new",
-        "window_minutes": 179.6,
-        "views_delta": 62,
+        "window_minutes": 186.5,
+        "views_delta": 61,
         "likes_delta": 0,
         "reposts_delta": 0
       },
@@ -25667,14 +25715,22 @@
           "reposts": 495,
           "replies": 45,
           "bookmarks": 1594
+        },
+        {
+          "checked_at": "2026-11-15T11:58:22.204902+00:00",
+          "views": 1011327,
+          "likes": 4747,
+          "reposts": 497,
+          "replies": 45,
+          "bookmarks": 1599
         }
       ],
       "momentum": {
         "state": "established",
-        "window_minutes": 179.6,
-        "views_delta": 2048,
-        "likes_delta": 19,
-        "reposts_delta": 1
+        "window_minutes": 186.5,
+        "views_delta": 1662,
+        "likes_delta": 17,
+        "reposts_delta": 2
       }
     },
     {
@@ -27482,13 +27538,21 @@
           "reposts": 15,
           "replies": 30,
           "bookmarks": 163
+        },
+        {
+          "checked_at": "2026-11-15T11:58:22.682972+00:00",
+          "views": 24743,
+          "likes": 317,
+          "reposts": 18,
+          "replies": 35,
+          "bookmarks": 195
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 179.6,
-        "views_delta": 5433,
-        "likes_delta": 33,
+        "window_minutes": 186.5,
+        "views_delta": 3990,
+        "likes_delta": 38,
         "reposts_delta": 3
       },
       "workflow_source_urls": [
@@ -27616,14 +27680,22 @@
           "reposts": 88,
           "replies": 109,
           "bookmarks": 1431
+        },
+        {
+          "checked_at": "2026-11-15T11:58:22.351779+00:00",
+          "views": 127466,
+          "likes": 2248,
+          "reposts": 95,
+          "replies": 112,
+          "bookmarks": 1545
         }
       ],
       "momentum": {
         "state": "established",
-        "window_minutes": 179.6,
-        "views_delta": 23007,
-        "likes_delta": 295,
-        "reposts_delta": 15
+        "window_minutes": 186.5,
+        "views_delta": 12728,
+        "likes_delta": 170,
+        "reposts_delta": 7
       }
     },
     {
@@ -28144,14 +28216,22 @@
           "reposts": 18,
           "replies": 41,
           "bookmarks": 191
+        },
+        {
+          "checked_at": "2026-11-15T11:58:22.423385+00:00",
+          "views": 16196,
+          "likes": 431,
+          "reposts": 21,
+          "replies": 43,
+          "bookmarks": 198
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 179.6,
-        "views_delta": 2011,
-        "likes_delta": 44,
-        "reposts_delta": 5
+        "window_minutes": 186.5,
+        "views_delta": 1150,
+        "likes_delta": 22,
+        "reposts_delta": 3
       },
       "workflow_source_urls": [
         "https://x.com/kevin_t_ngo/status/2121701022087475398"
@@ -29390,14 +29470,22 @@
           "reposts": 12,
           "replies": 21,
           "bookmarks": 263
+        },
+        {
+          "checked_at": "2026-11-15T11:58:22.204714+00:00",
+          "views": 22297,
+          "likes": 459,
+          "reposts": 16,
+          "replies": 26,
+          "bookmarks": 334
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 179.6,
-        "views_delta": 7465,
-        "likes_delta": 134,
-        "reposts_delta": 5
+        "window_minutes": 186.5,
+        "views_delta": 4126,
+        "likes_delta": 81,
+        "reposts_delta": 4
       }
     },
     {
@@ -30011,14 +30099,22 @@
           "reposts": 75,
           "replies": 165,
           "bookmarks": 1266
+        },
+        {
+          "checked_at": "2026-11-15T11:58:22.205684+00:00",
+          "views": 97815,
+          "likes": 1434,
+          "reposts": 83,
+          "replies": 175,
+          "bookmarks": 1353
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 179.0,
-        "views_delta": 7213,
-        "likes_delta": 87,
-        "reposts_delta": 10
+        "window_minutes": 186.5,
+        "views_delta": 6893,
+        "likes_delta": 94,
+        "reposts_delta": 8
       },
       "workflow_source_urls": [
         "https://x.com/rileybrown/status/2121643018117841275"
@@ -30638,13 +30734,21 @@
           "reposts": 8,
           "replies": 28,
           "bookmarks": 97
+        },
+        {
+          "checked_at": "2026-11-15T11:58:22.207510+00:00",
+          "views": 7163,
+          "likes": 264,
+          "reposts": 8,
+          "replies": 30,
+          "bookmarks": 103
         }
       ],
       "momentum": {
-        "state": "new",
-        "window_minutes": 0.3,
-        "views_delta": 0,
-        "likes_delta": 0,
+        "state": "rising",
+        "window_minutes": 185.8,
+        "views_delta": 599,
+        "likes_delta": 24,
         "reposts_delta": 0
       }
     },
@@ -31090,6 +31194,392 @@
         "window_minutes": 0.3,
         "views_delta": 0,
         "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "noel-ai-lab-2121921922300879121",
+      "titles": {
+        "en": "A cliffside port town built as a diorama",
+        "zh-CN": "悬崖港镇的微缩景观",
+        "ja": "崖の港町を描いたジオラマ",
+        "ko": "절벽 항구 마을을 만든 디오라마",
+        "es": "Un diorama de un pueblo portuario en un acantilado"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "noel_ai_lab",
+        "url": "https://x.com/noel_ai_lab"
+      },
+      "source_url": "https://x.com/noel_ai_lab/status/2121921922300879121",
+      "published_at": "2026-11-15T11:03:04Z",
+      "duration_seconds": 51,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121921828784586752/img/p0uVBj9AoADgAhMH.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/noel-ai-lab-2121921922300879121.webp",
+      "preview_path": "assets/previews/noel-ai-lab-2121921922300879121.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2121921828784586752/vid/avc1/1280x720/lxPkkg2dkW9IZK95.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-15",
+        "checked_at": "2026-11-15T11:58:44.863079+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "6e87289d15728bf8e07c8923451d3b11e97608cfa88bae0734bd47d67c40abdf",
+        "model_named": true,
+        "video_checked_at": "2026-11-15T11:58:51.141545+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2121921828784586752",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The original clip uses a wide reveal to connect individual storefronts with the overall miniature layout.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator attributes the imaginary cliff town to code written by Fable 5.2. The video moves from street-level storefronts to a wide view of the stepped diorama.",
+        "zh-CN": "作者称虚构的悬崖小镇由 Fable 5.2 编写代码完成。镜头从街面的商铺拉到远景，展现层层叠起的微缩模型。",
+        "ja": "作者によると、架空の崖の町をFable 5.2がコードで制作。店先を間近に見せたあと、段状のジオラマ全体を映します。",
+        "ko": "제작자는 Fable 5.2가 가상의 절벽 마을을 코드로 만들었다고 밝혔습니다. 가게 앞의 거리 시점에서 계단식 디오라마 전체로 시야가 넓어집니다.",
+        "es": "El autor atribuye el pueblo imaginario al código de Fable 5.2. El vídeo pasa de las tiendas a pie de calle a una vista general del diorama escalonado."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-15T11:58:17.880364+00:00",
+          "views": 269,
+          "likes": 4,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-15T11:58:51.996169+00:00",
+          "views": 270,
+          "likes": 4,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.6,
+        "views_delta": 1,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "akiyoshisan-2121890007237722501",
+      "titles": {
+        "en": "A hand-drawn line becomes thread and redraws a character",
+        "zh-CN": "手绘线条化作毛线，重新织出角色",
+        "ja": "手描きの線が糸になり、キャラクターを編み直す",
+        "ko": "손그림의 선이 실이 되어 캐릭터를 다시 짜는 영상",
+        "es": "Una línea dibujada se vuelve hilo y recompone un personaje"
+      },
+      "category": "short-films",
+      "creator": {
+        "name": "akiyoshisan",
+        "url": "https://x.com/akiyoshisan"
+      },
+      "source_url": "https://x.com/akiyoshisan/status/2121890007237722501",
+      "published_at": "2026-11-15T08:56:15Z",
+      "duration_seconds": 68.166,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121888732135788544/img/I9Il8atQJpZK0t_A.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/akiyoshisan-2121890007237722501.webp",
+      "preview_path": "assets/previews/akiyoshisan-2121890007237722501.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2121888732135788544/vid/avc1/1080x1920/T6MRHBPf7hXe_aPh.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-15",
+        "checked_at": "2026-11-15T11:58:44.853678+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "99a16e46c24531797121917e1283a69d7f47237067a70686f4a3fd53cdcf5d9c",
+        "model_named": true,
+        "video_checked_at": "2026-11-15T11:58:51.291480+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": "手描きの線そのものを立体にして",
+        "source_url": "https://x.com/akiyoshisan/status/2121890007237722501"
+      },
+      "native_media_id": "2121888732135788544",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "An original short where ink, wire and yarn behave differently from the drawing’s shadow. The creator distinguishes supplied drawings and music from code-rendered visuals.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for extracting lines from hand-drawn art with OpenCV and rendering in Blender with Python. A bass recording supplies the musical seed, and Suno extends part of it.",
+        "zh-CN": "作者披露用 Fable 5.2 调用 OpenCV 从手绘原画提取线条，再通过 Python 驱动 Blender 渲染。音乐以作者的贝斯录音为素材，其中一部分由 Suno 延展。",
+        "ja": "作者によると、Fable 5.2がOpenCVで手描きの絵から線を抽出し、PythonでBlenderを動かして描画。自分のベース録音をもとに、曲の一部をSunoで延ばしています。",
+        "ko": "제작자는 Fable 5.2가 OpenCV로 손그림에서 선을 추출하고 Python으로 Blender를 구동해 렌더링했다고 밝혔습니다. 음악은 직접 녹음한 베이스를 바탕으로 일부를 Suno로 늘렸습니다.",
+        "es": "El autor atribuye a Fable 5.2 la extracción de líneas con OpenCV y el renderizado con Python en Blender. La música parte de una grabación de bajo y Suno prolonga una sección."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-15T11:58:18.403389+00:00",
+          "views": 210,
+          "likes": 2,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-15T11:58:51.812714+00:00",
+          "views": 210,
+          "likes": 2,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.6,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "mengto-2121896633848017145",
+      "titles": {
+        "en": "A dark fantasy browser game built with Three.js",
+        "zh-CN": "Three.js 制作的黑暗奇幻浏览器游戏",
+        "ja": "Three.jsで作ったダークファンタジーのブラウザーゲーム",
+        "ko": "Three.js로 만든 다크 판타지 브라우저 게임",
+        "es": "Un juego de fantasía oscura en el navegador con Three.js"
+      },
+      "category": "interactive",
+      "creator": {
+        "name": "MengTo",
+        "url": "https://x.com/MengTo"
+      },
+      "source_url": "https://x.com/MengTo/status/2121896633848017145",
+      "published_at": "2026-11-15T09:22:35Z",
+      "duration_seconds": 99.118,
+      "thumbnail_url": "https://pbs.twimg.com/ext_tw_video_thumb/2121896455816548352/pu/img/64C320SXAJ7oPGQ8.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/mengto-2121896633848017145.webp",
+      "preview_path": "assets/previews/mengto-2121896633848017145.webp",
+      "video_url": "https://video.twimg.com/ext_tw_video/2121896455816548352/pu/vid/avc1/1280x720/RU6LuiJL3vKv0LKs.mp4?tag=12",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-15",
+        "checked_at": "2026-11-15T11:58:47.193178+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "2dd5334b8576c8a5c5b4c423b6a71b1a5dc5c7f9a148d45946e7519fdf3c3992",
+        "model_named": true,
+        "video_checked_at": "2026-11-15T11:58:51.125600+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": "https://x.com/MengTo/status/2121896842300686560"
+      },
+      "native_media_id": "2121896455816548352",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A finished gameplay demonstration with distinctly styled environments and an author-documented mixed workflow.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator reports using Fable 5.2 and Opus 5.5 in Claude Code, with Seedream 5.0 Pro and Tripo for assets. The capture shows a map, atmospheric environments and boss gameplay.",
+        "zh-CN": "作者披露在 Claude Code 中使用 Fable 5.2 和 Opus 5.5，素材使用 Seedream 5.0 Pro 与 Tripo。实机画面展示地图、环境光效和首领关卡。",
+        "ja": "作者はClaude CodeでFable 5.2とOpus 5.5を使用し、素材にSeedream 5.0 ProとTripoを使用。マップや雰囲気のある風景、ボス戦を映しています。",
+        "ko": "제작자는 Claude Code에서 Fable 5.2와 Opus 5.5를 사용하고 에셋에 Seedream 5.0 Pro와 Tripo를 썼다고 밝혔습니다. 지도, 분위기 있는 환경, 보스 플레이가 담겼습니다.",
+        "es": "El autor indica que usó Fable 5.2 y Opus 5.5 en Claude Code, además de Seedream 5.0 Pro y Tripo para los recursos. La grabación muestra un mapa, escenarios y un encuentro con un jefe."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-15T11:58:42.843305+00:00",
+          "views": 15706,
+          "likes": 235,
+          "reposts": 15,
+          "replies": 69,
+          "bookmarks": 201
+        },
+        {
+          "checked_at": "2026-11-15T11:58:51.583275+00:00",
+          "views": 15706,
+          "likes": 235,
+          "reposts": 15,
+          "replies": 69,
+          "bookmarks": 201
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.1,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      },
+      "workflow_source_urls": [
+        "https://x.com/MengTo/status/2121896684653576574"
+      ],
+      "workflow_source_checks": [
+        {
+          "source_url": "https://x.com/MengTo/status/2121896684653576574",
+          "checked_at": "2026-11-15T11:58:52.593069+00:00",
+          "method": "X official oEmbed",
+          "post_sha256": "129ad937fdc26ac86d69d131b827db3d8839f7cbdbceb2228bd29881612d725b"
+        }
+      ]
+    },
+    {
+      "id": "willbepan-2120683775499575626",
+      "titles": {
+        "en": "A portfolio header becomes a playable miniature island",
+        "zh-CN": "把作品集页眉变成可互动的迷你岛",
+        "ja": "ポートフォリオのヘッダーが遊べる小さな島に",
+        "ko": "포트폴리오 헤더를 플레이 가능한 작은 섬으로",
+        "es": "La cabecera de un portafolio se convierte en una isla interactiva"
+      },
+      "category": "product",
+      "creator": {
+        "name": "willbepan",
+        "url": "https://x.com/willbepan"
+      },
+      "source_url": "https://x.com/willbepan/status/2120683775499575626",
+      "published_at": "2026-11-12T01:03:07Z",
+      "duration_seconds": 20.316,
+      "thumbnail_url": "https://pbs.twimg.com/media/HW4uoOvXUAAKV40.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/willbepan-2120683775499575626.webp",
+      "preview_path": "assets/previews/willbepan-2120683775499575626.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120683743199301632/vid/avc1/1080x1080/ezd_CzSHH4_ZktKm.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-15",
+        "checked_at": "2026-11-15T11:58:47.351609+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "80441b87e59c0aa6a9b47c7c273ebb7817b9850826a41e366624ea0bc13e1e41",
+        "model_named": true,
+        "video_checked_at": "2026-11-15T11:58:51.501094+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120683743199301632",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "An original web experience where the illustrated header becomes the scene users explore.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 with turning a flat portfolio header into an interactive 3D island. The recording alternates between a raised overview and a closer view of the landscape.",
+        "zh-CN": "作者称 Fable 5.2 把平面的作品集页眉变成了可互动的 3D 岛屿。录像在俯瞰全岛和近距离观察地形之间切换。",
+        "ja": "作者はFable 5.2で平面のヘッダーを遊べる3Dの島に変えたと説明。俯瞰と、地形に近づいた視点を切り替えています。",
+        "ko": "제작자는 Fable 5.2로 평면 포트폴리오 헤더를 인터랙티브 3D 섬으로 만들었다고 밝혔습니다. 영상은 전경과 가까이 본 지형을 번갈아 보여 줍니다.",
+        "es": "El autor atribuye a Fable 5.2 la conversión de la cabecera plana de su portafolio en una isla 3D interactiva. La grabación alterna una vista elevada y otra más cercana del paisaje."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-15T11:58:43.772043+00:00",
+          "views": 126,
+          "likes": 1,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 1
+        },
+        {
+          "checked_at": "2026-11-15T11:58:51.983559+00:00",
+          "views": 126,
+          "likes": 1,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 1
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.1,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "mengto-2121139143615074501",
+      "titles": {
+        "en": "A browser action game set in a cherry-blossom valley",
+        "zh-CN": "樱花谷里的浏览器动作游戏",
+        "ja": "桜の谷を舞台にしたブラウザーアクションゲーム",
+        "ko": "벚꽃 골짜기를 배경으로 한 브라우저 액션 게임",
+        "es": "Un juego de acción en el navegador ambientado en un valle de cerezos"
+      },
+      "category": "interactive",
+      "creator": {
+        "name": "MengTo",
+        "url": "https://x.com/MengTo"
+      },
+      "source_url": "https://x.com/MengTo/status/2121139143615074501",
+      "published_at": "2026-11-13T07:12:35Z",
+      "duration_seconds": 52.5,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121119476183949312/img/GltxTArH8zixMyni.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/mengto-2121139143615074501.webp",
+      "preview_path": "assets/previews/mengto-2121139143615074501.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2121119476183949312/vid/avc1/3840x2160/1B5Se8KJ2Uf3V53F.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-15",
+        "checked_at": "2026-11-15T11:58:48.933459+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "00421a8816e7cf51931c495f0c6e2afdff3dce6c12bf7ce84d22ef69d58b8c20",
+        "model_named": true,
+        "video_checked_at": "2026-11-15T11:58:51.291192+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2121119476183949312",
+      "media_rights": "Creator-owned; short preview excerpt for curation; full video remains at the original source.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A separate browser game showing how the creator adapted an existing landscape into an interactive level. Its scene and sourcing differ from the creator’s later dark fantasy project.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator used Fable 5.2 and Three.js on top of an existing scene they had made. The video moves through lantern-lit structures, paths and distant towers in first person.",
+        "zh-CN": "作者将自己已有的场景作为基础，使用 Fable 5.2 和 Three.js 制作游戏。第一人称镜头穿过灯笼照亮的建筑、道路和远处的塔楼。",
+        "ja": "作者は自作の既存シーンを土台にFable 5.2とThree.jsを使用。主観視点で、灯籠のある建物や小道、遠くの塔を巡ります。",
+        "ko": "제작자는 자신이 만든 기존 장면에 Fable 5.2와 Three.js를 적용했습니다. 1인칭 시점으로 등불이 켜진 건물과 길, 멀리 보이는 탑을 지나갑니다.",
+        "es": "El autor usó Fable 5.2 y Three.js sobre una escena propia ya existente. El vídeo recorre en primera persona estructuras iluminadas con faroles, caminos y torres al fondo."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-15T11:58:43.322522+00:00",
+          "views": 33149,
+          "likes": 516,
+          "reposts": 37,
+          "replies": 28,
+          "bookmarks": 348
+        },
+        {
+          "checked_at": "2026-11-15T11:58:51.772917+00:00",
+          "views": 33149,
+          "likes": 517,
+          "reposts": 37,
+          "replies": 28,
+          "bookmarks": 349
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 0.1,
+        "views_delta": 0,
+        "likes_delta": 1,
         "reposts_delta": 0
       }
     }
