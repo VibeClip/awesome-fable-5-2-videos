@@ -279,6 +279,16 @@
       "status": "held-possible-duplicate",
       "reason": "An earlier recording from the same creator shows the same 3D portfolio island. The gallery uses the later focused capture.",
       "checked_at": "2026-11-15T11:58:43.790802+00:00"
+    },
+    {
+      "source_url": "https://x.com/Stargridcompass/status/2121968965517709715",
+      "creator": {
+        "name": "Stargridcompass",
+        "url": "https://x.com/Stargridcompass"
+      },
+      "status": "held-possible-duplicate",
+      "reason": "The same rainy pelican brief returns with an X-High pass beside a Medium pass. The Medium scene is already represented in the catalog, so the comparison remains an alternate take.",
+      "checked_at": "2026-11-15T14:58:53.541010+00:00"
     }
   ]
 }
