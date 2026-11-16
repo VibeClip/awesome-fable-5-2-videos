@@ -306,9 +306,9 @@
         "name": "Stargridcompass",
         "url": "https://x.com/Stargridcompass"
       },
-      "status": "held-insufficient-workflow-evidence",
-      "reason": "The post is a playthrough by a reviewer who describes work by another developer. The original developer post and its model attribution remain to be verified.",
-      "checked_at": "2026-11-16T07:04:26.372785+00:00"
+      "status": "excluded-repost",
+      "reason": "This is a third-party playthrough of Valle Morta. The developer’s original upload is cataloged at https://x.com/LexnLin/status/2121934071429468543.",
+      "checked_at": "2026-11-16T07:13:29.140919+00:00"
     }
   ]
 }

@@ -29,3 +29,7 @@ SOFTWARE.
 ## Greed II in the fictional streamer preview
 
 Greed II by markmehere is based on Greed by Cosmo Myzrail Gorynych. The Greed II creator lists MIT for the game code and CC0 1.0 Universal for the game assets on the original game's itch.io page. This repository carries a short excerpt from the independently authored video and links to the original video. The game code is distributed by its creator. [Video attribution](https://x.com/kevin_t_ngo/status/2121780322106999106)
+
+## Audio in the original Valle Morta video
+
+Leon Lin credits Kevin MacLeod’s “Five Armies” (CC BY 4.0), CC0 sound effects, and foley by dklon (CC BY 3.0). The gallery stores a silent visual excerpt. The full video and audio remain on X. [Creator’s audio credits](https://x.com/LexnLin/status/2121934078408597998)
