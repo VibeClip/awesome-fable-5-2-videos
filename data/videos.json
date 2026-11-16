@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "updated_on": "2026-11-15",
+  "updated_on": "2026-11-16",
   "featured_ids": [
     "higgsfield-ai-2119918834841010320",
     "imjustnewatai-2119919644836347926",
@@ -23452,14 +23452,22 @@
           "reposts": 176,
           "replies": 156,
           "bookmarks": 1629
+        },
+        {
+          "checked_at": "2026-11-16T07:04:20.961410+00:00",
+          "views": 188638,
+          "likes": 3716,
+          "reposts": 179,
+          "replies": 156,
+          "bookmarks": 1651
         }
       ],
       "momentum": {
         "state": "established",
-        "window_minutes": 180.6,
-        "views_delta": 1014,
-        "likes_delta": 10,
-        "reposts_delta": 1
+        "window_minutes": 965.4,
+        "views_delta": 4213,
+        "likes_delta": 38,
+        "reposts_delta": 3
       },
       "workflow_source_urls": [
         "https://x.com/chetaslua/status/2121176153667125296"
@@ -24033,14 +24041,22 @@
           "reposts": 27,
           "replies": 41,
           "bookmarks": 264
+        },
+        {
+          "checked_at": "2026-11-16T07:04:20.981356+00:00",
+          "views": 49218,
+          "likes": 462,
+          "reposts": 30,
+          "replies": 41,
+          "bookmarks": 276
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 180.6,
-        "views_delta": 2473,
-        "likes_delta": 4,
-        "reposts_delta": 0
+        "window_minutes": 965.4,
+        "views_delta": 5578,
+        "likes_delta": 18,
+        "reposts_delta": 3
       },
       "workflow_source_urls": [
         "https://x.com/scottstts/status/2121272406241120521"
@@ -24215,13 +24231,21 @@
           "reposts": 11,
           "replies": 15,
           "bookmarks": 105
+        },
+        {
+          "checked_at": "2026-11-16T07:04:21.006224+00:00",
+          "views": 11858,
+          "likes": 304,
+          "reposts": 11,
+          "replies": 15,
+          "bookmarks": 107
         }
       ],
       "momentum": {
-        "state": "new",
-        "window_minutes": 180.6,
-        "views_delta": 127,
-        "likes_delta": 2,
+        "state": "rising",
+        "window_minutes": 965.4,
+        "views_delta": 460,
+        "likes_delta": 3,
         "reposts_delta": 0
       }
     },
@@ -24783,13 +24807,21 @@
           "reposts": 7,
           "replies": 9,
           "bookmarks": 46
+        },
+        {
+          "checked_at": "2026-11-16T07:04:20.953499+00:00",
+          "views": 5506,
+          "likes": 100,
+          "reposts": 7,
+          "replies": 10,
+          "bookmarks": 46
         }
       ],
       "momentum": {
         "state": "new",
-        "window_minutes": 180.6,
-        "views_delta": 23,
-        "likes_delta": 0,
+        "window_minutes": 965.4,
+        "views_delta": 66,
+        "likes_delta": 1,
         "reposts_delta": 0
       },
       "workflow_source_urls": [
@@ -24957,13 +24989,21 @@
           "reposts": 49,
           "replies": 31,
           "bookmarks": 471
+        },
+        {
+          "checked_at": "2026-11-16T07:04:21.018515+00:00",
+          "views": 23850,
+          "likes": 760,
+          "reposts": 49,
+          "replies": 31,
+          "bookmarks": 473
         }
       ],
       "momentum": {
-        "state": "new",
-        "window_minutes": 180.6,
-        "views_delta": 73,
-        "likes_delta": 0,
+        "state": "rising",
+        "window_minutes": 965.4,
+        "views_delta": 282,
+        "likes_delta": 3,
         "reposts_delta": 0
       },
       "workflow_source_urls": [
@@ -25415,12 +25455,20 @@
           "reposts": 2,
           "replies": 4,
           "bookmarks": 24
+        },
+        {
+          "checked_at": "2026-11-16T07:04:21.026887+00:00",
+          "views": 2713,
+          "likes": 40,
+          "reposts": 2,
+          "replies": 4,
+          "bookmarks": 24
         }
       ],
       "momentum": {
         "state": "new",
-        "window_minutes": 180.6,
-        "views_delta": 44,
+        "window_minutes": 965.4,
+        "views_delta": 123,
         "likes_delta": 0,
         "reposts_delta": 0
       },
@@ -25779,14 +25827,22 @@
           "reposts": 498,
           "replies": 45,
           "bookmarks": 1606
+        },
+        {
+          "checked_at": "2026-11-16T07:04:20.998790+00:00",
+          "views": 1016005,
+          "likes": 4793,
+          "reposts": 502,
+          "replies": 45,
+          "bookmarks": 1620
         }
       ],
       "momentum": {
         "state": "established",
-        "window_minutes": 180.6,
-        "views_delta": 1620,
-        "likes_delta": 16,
-        "reposts_delta": 1
+        "window_minutes": 965.4,
+        "views_delta": 3058,
+        "likes_delta": 30,
+        "reposts_delta": 4
       }
     },
     {
@@ -27610,14 +27666,22 @@
           "reposts": 19,
           "replies": 39,
           "bookmarks": 214
+        },
+        {
+          "checked_at": "2026-11-16T07:04:21.446126+00:00",
+          "views": 39319,
+          "likes": 420,
+          "reposts": 21,
+          "replies": 42,
+          "bookmarks": 251
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 180.6,
-        "views_delta": 5381,
-        "likes_delta": 36,
-        "reposts_delta": 1
+        "window_minutes": 965.4,
+        "views_delta": 9195,
+        "likes_delta": 67,
+        "reposts_delta": 2
       },
       "workflow_source_urls": [
         "https://x.com/scottstts/status/2121626207334838473"
@@ -27760,14 +27824,22 @@
           "reposts": 103,
           "replies": 117,
           "bookmarks": 1623
+        },
+        {
+          "checked_at": "2026-11-16T07:04:21.443669+00:00",
+          "views": 151189,
+          "likes": 2512,
+          "reposts": 117,
+          "replies": 129,
+          "bookmarks": 1725
         }
       ],
       "momentum": {
         "state": "established",
-        "window_minutes": 180.6,
-        "views_delta": 9933,
-        "likes_delta": 110,
-        "reposts_delta": 8
+        "window_minutes": 965.4,
+        "views_delta": 13790,
+        "likes_delta": 154,
+        "reposts_delta": 14
       }
     },
     {
@@ -28304,13 +28376,21 @@
           "reposts": 22,
           "replies": 44,
           "bookmarks": 204
+        },
+        {
+          "checked_at": "2026-11-16T07:04:20.977782+00:00",
+          "views": 19596,
+          "likes": 491,
+          "reposts": 23,
+          "replies": 45,
+          "bookmarks": 226
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 180.6,
-        "views_delta": 1150,
-        "likes_delta": 19,
+        "window_minutes": 965.4,
+        "views_delta": 2250,
+        "likes_delta": 41,
         "reposts_delta": 1
       },
       "workflow_source_urls": [
@@ -29566,14 +29646,22 @@
           "reposts": 25,
           "replies": 31,
           "bookmarks": 399
+        },
+        {
+          "checked_at": "2026-11-16T07:04:20.990481+00:00",
+          "views": 53438,
+          "likes": 799,
+          "reposts": 40,
+          "replies": 46,
+          "bookmarks": 587
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 180.6,
-        "views_delta": 6523,
-        "likes_delta": 87,
-        "reposts_delta": 9
+        "window_minutes": 965.4,
+        "views_delta": 24618,
+        "likes_delta": 253,
+        "reposts_delta": 15
       }
     },
     {
@@ -30203,14 +30291,22 @@
           "reposts": 84,
           "replies": 185,
           "bookmarks": 1420
+        },
+        {
+          "checked_at": "2026-11-16T07:04:20.987228+00:00",
+          "views": 115917,
+          "likes": 1623,
+          "reposts": 92,
+          "replies": 194,
+          "bookmarks": 1516
         }
       ],
       "momentum": {
         "state": "established",
-        "window_minutes": 180.6,
-        "views_delta": 6167,
-        "likes_delta": 64,
-        "reposts_delta": 1
+        "window_minutes": 965.4,
+        "views_delta": 11935,
+        "likes_delta": 125,
+        "reposts_delta": 8
       },
       "workflow_source_urls": [
         "https://x.com/rileybrown/status/2121643018117841275"
@@ -30846,13 +30942,21 @@
           "reposts": 8,
           "replies": 31,
           "bookmarks": 106
+        },
+        {
+          "checked_at": "2026-11-16T07:04:20.969775+00:00",
+          "views": 8801,
+          "likes": 302,
+          "reposts": 8,
+          "replies": 33,
+          "bookmarks": 114
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 180.6,
-        "views_delta": 537,
-        "likes_delta": 13,
+        "window_minutes": 965.4,
+        "views_delta": 1101,
+        "likes_delta": 25,
         "reposts_delta": 0
       }
     },
@@ -31374,12 +31478,20 @@
           "reposts": 0,
           "replies": 0,
           "bookmarks": 1
+        },
+        {
+          "checked_at": "2026-11-16T07:04:21.513036+00:00",
+          "views": 816,
+          "likes": 10,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 1
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 180.1,
-        "views_delta": 332,
+        "window_minutes": 965.4,
+        "views_delta": 214,
         "likes_delta": 3,
         "reposts_delta": 0
       }
@@ -31457,12 +31569,20 @@
           "reposts": 0,
           "replies": 1,
           "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-16T07:04:21.685958+00:00",
+          "views": 525,
+          "likes": 4,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 1
         }
       ],
       "momentum": {
         "state": "new",
-        "window_minutes": 180.1,
-        "views_delta": 37,
+        "window_minutes": 965.4,
+        "views_delta": 278,
         "likes_delta": 1,
         "reposts_delta": 0
       }
@@ -31540,14 +31660,22 @@
           "reposts": 29,
           "replies": 104,
           "bookmarks": 493
+        },
+        {
+          "checked_at": "2026-11-16T07:04:20.983541+00:00",
+          "views": 65079,
+          "likes": 844,
+          "reposts": 56,
+          "replies": 152,
+          "bookmarks": 844
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 180.1,
-        "views_delta": 19670,
-        "likes_delta": 275,
-        "reposts_delta": 14
+        "window_minutes": 965.4,
+        "views_delta": 29703,
+        "likes_delta": 334,
+        "reposts_delta": 27
       },
       "workflow_source_urls": [
         "https://x.com/MengTo/status/2121896684653576574"
@@ -32170,6 +32298,582 @@
         "views_delta": 0,
         "likes_delta": 0,
         "reposts_delta": 0
+      }
+    },
+    {
+      "id": "kevin-t-ngo-2122215593382457738",
+      "titles": {
+        "en": "A ’90s Toy Commercial",
+        "zh-CN": "90 年代风格玩具广告",
+        "ja": "90年代風おもちゃCM",
+        "ko": "90년대풍 장난감 광고",
+        "es": "Un anuncio de juguetes de los noventa"
+      },
+      "category": "product",
+      "creator": {
+        "name": "kevin_t_ngo",
+        "url": "https://x.com/kevin_t_ngo"
+      },
+      "source_url": "https://x.com/kevin_t_ngo/status/2122215593382457738",
+      "published_at": "2026-11-16T06:30:00Z",
+      "duration_seconds": 30,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122214524615114752/img/fOQvNzL3KoOH26ai.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kevin-t-ngo-2122215593382457738.webp",
+      "preview_path": "assets/previews/kevin-t-ngo-2122215593382457738.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2122214524615114752/vid/avc1/1080x1080/r-D7z6HsHljXOsVl.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-16",
+        "checked_at": "2026-11-16T07:04:54.748357+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "a7256900862d436333d4ade437e0cea4c872168fd3fef71621b8199f63901f6f",
+        "model_named": true,
+        "video_checked_at": "2026-11-16T07:05:28.551755+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2122214524615114752",
+      "media_rights": "Short excerpt of the original creator’s upload for the gallery; full video remains on the original platform.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A finished fictional toy spot uses neon-lit miniature sets, product close-ups and punchy title cards. The creator credits Python animation and Blender rendering.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator built the visuals in code, animated them in Python and rendered them in Blender.",
+        "zh-CN": "据作者说明，画面用代码制作，以 Python 编排动画，由 Blender 渲染。",
+        "ja": "作者によると、映像をコードで作り、Pythonでアニメーションを付け、Blenderでレンダリングした。",
+        "ko": "제작자는 화면을 코드로 만들고 Python으로 애니메이션을 구성한 뒤 Blender로 렌더링했다고 밝혔다.",
+        "es": "Según el autor, las imágenes se crearon con código, se animaron con Python y se renderizaron en Blender."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-16T07:04:24.423814+00:00",
+          "views": 1444,
+          "likes": 43,
+          "reposts": 1,
+          "replies": 8,
+          "bookmarks": 12
+        },
+        {
+          "checked_at": "2026-11-16T07:05:29.031803+00:00",
+          "views": 1461,
+          "likes": 43,
+          "reposts": 1,
+          "replies": 8,
+          "bookmarks": 12
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 1.1,
+        "views_delta": 17,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "akiyoshisan-2122177989928763667",
+      "titles": {
+        "en": "Crossing the Bass Strings",
+        "zh-CN": "穿越贝斯琴弦",
+        "ja": "弦を渡る",
+        "ko": "베이스 줄 건너기",
+        "es": "Cruzando las cuerdas del bajo"
+      },
+      "category": "motion",
+      "creator": {
+        "name": "akiyoshisan",
+        "url": "https://x.com/akiyoshisan"
+      },
+      "source_url": "https://x.com/akiyoshisan/status/2122177989928763667",
+      "published_at": "2026-11-16T04:00:35Z",
+      "duration_seconds": 67,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122177261424222209/img/CmBrvGi_BcybrIxX.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/akiyoshisan-2122177989928763667.webp",
+      "preview_path": "assets/previews/akiyoshisan-2122177989928763667.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2122177261424222209/vid/avc1/1080x1920/F6rTkgB40WfGH_Kr.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-16",
+        "checked_at": "2026-11-16T07:04:54.758308+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "79a24fed86ad7a36d5905cdedd943bc025aacff1cf93e364af5eb7ba48591d11",
+        "model_named": true,
+        "video_checked_at": "2026-11-16T07:05:28.506679+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": "お絵描きに芝居をさせて",
+        "source_url": "https://x.com/akiyoshisan/status/2122177989928763667"
+      },
+      "native_media_id": "2122177261424222209",
+      "media_rights": "Short excerpt of the original creator’s upload for the gallery; full video remains on the original platform.",
+      "discovery_group": "independent-x",
+      "curation_reason": "Nine rigged pieces of a scanned drawing create a performance on bass strings. Formula-driven motion follows measured beats, and the author discloses Suno-assisted audio.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "Fable directed the work. OpenCV split the drawing, Python drove the rig and Blender rendered the frames. Suno extended the creator’s bass recording.",
+        "zh-CN": "Fable 负责统筹，OpenCV 拆分原画，Python 驱动骨骼，Blender 渲染画面。Suno 延长了作者录制的贝斯片段。",
+        "ja": "Fableが制作を統括し、OpenCVで原画を分割、Pythonで骨格を動かし、Blenderで描画。作者のベース録音をSunoで延長した。",
+        "ko": "Fable이 제작을 지휘했다. OpenCV로 원화를 분리하고 Python으로 리그를 움직여 Blender에서 렌더링했다. Suno로 제작자의 베이스 연주를 연장했다.",
+        "es": "Fable dirigió el trabajo. OpenCV separó el dibujo, Python movió el rig y Blender renderizó los fotogramas. Suno alargó la grabación de bajo del autor."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-16T07:04:24.488394+00:00",
+          "views": 209,
+          "likes": 5,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-16T07:05:29.038914+00:00",
+          "views": 209,
+          "likes": 5,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 1.1,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "yashvrdn-2122094907179610234",
+      "titles": {
+        "en": "An Animated Reading of the Bhagavad Gita",
+        "zh-CN": "《薄伽梵歌》动画解读",
+        "ja": "『バガヴァッド・ギーター』のアニメーション解説",
+        "ko": "애니메이션으로 읽는 바가바드 기타",
+        "es": "Una lectura animada de la Bhagavad Gita"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "YashVrdn",
+        "url": "https://x.com/YashVrdn"
+      },
+      "source_url": "https://x.com/YashVrdn/status/2122094907179610234",
+      "published_at": "2026-11-15T22:30:27Z",
+      "duration_seconds": 309.833,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122094774819889152/img/1DwnI8df4wmSq-V_.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/yashvrdn-2122094907179610234.webp",
+      "preview_path": "assets/previews/yashvrdn-2122094907179610234.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2122094774819889152/vid/avc1/1920x1080/TFDaqmQklxyNq6UJ.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-16",
+        "checked_at": "2026-11-16T07:04:57.448981+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "caa11077d1ca096dc75c60b8e2b4dca00836785e3e8cecd7428fec64a140a60e",
+        "model_named": true,
+        "video_checked_at": "2026-11-16T07:05:28.690310+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2122094774819889152",
+      "media_rights": "Short excerpt of the original creator’s upload for the gallery; full video remains on the original platform.",
+      "discovery_group": "independent-x",
+      "curation_reason": "An original animated reading organizes the text with typography, symbolic diagrams and chapter transitions across a five-minute cut.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The author credits Fable 5.2 for the adaptation. The post leaves the renderer and asset sources unspecified.",
+        "zh-CN": "作者将这部动画改编归功于 Fable 5.2，原帖未交代渲染器与素材来源。",
+        "ja": "作者はFable 5.2で映像化したと説明。レンダラーや素材の出所は投稿で明らかにされていない。",
+        "ko": "제작자는 Fable 5.2로 각색했다고 밝혔다. 렌더러와 에셋 출처는 공개하지 않았다.",
+        "es": "El autor atribuye la adaptación a Fable 5.2. La publicación deja sin especificar el motor de renderizado y las fuentes de los recursos."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-16T07:04:25.432776+00:00",
+          "views": 103,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-16T07:05:29.152093+00:00",
+          "views": 103,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 1.1,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "scottstts-2121997403284774933",
+      "titles": {
+        "en": "Heaven’s Threshold",
+        "zh-CN": "天国之门",
+        "ja": "天国の門",
+        "ko": "천국의 문턱",
+        "es": "El umbral del cielo"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "scottstts",
+        "url": "https://x.com/scottstts"
+      },
+      "source_url": "https://x.com/scottstts/status/2121997403284774933",
+      "published_at": "2026-11-15T16:03:00Z",
+      "duration_seconds": 120,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121888580725325824/img/SOXoiMfP1eR0_oHM.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/scottstts-2121997403284774933.webp",
+      "preview_path": "assets/previews/scottstts-2121997403284774933.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2121888580725325824/vid/avc1/3840x2160/m4Q_EVAAdEgVlKjR.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-16",
+        "checked_at": "2026-11-16T07:04:59.168672+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "600878de9b0e23b51faa82be806067691f2b45dac036b61bf821a3d323affffc",
+        "model_named": true,
+        "video_checked_at": "2026-11-16T07:05:28.507172+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2121888580725325824",
+      "media_rights": "Short excerpt of the original creator’s upload for the gallery; full video remains on the original platform.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A two-minute camera pass explores a towering gilded gateway, reflective grounds and monumental statuary. The creator names Three.js and links an HDR version in a reply.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator reports building this 3D environment in Three.js with Fable 5.2 and provides an HDR version in a reply.",
+        "zh-CN": "作者说明用 Fable 5.2 和 Three.js 搭建这座 3D 场景，并在回复中提供 HDR 版。",
+        "ja": "作者はFable 5.2とThree.jsで3D空間を制作し、返信でHDR版も案内した。",
+        "ko": "제작자는 Fable 5.2와 Three.js로 3D 공간을 만들었으며 답글에서 HDR 버전도 공개했다.",
+        "es": "El autor creó este entorno 3D con Fable 5.2 y Three.js y compartió una versión HDR en una respuesta."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-16T07:04:26.335682+00:00",
+          "views": 15783,
+          "likes": 174,
+          "reposts": 11,
+          "replies": 14,
+          "bookmarks": 77
+        },
+        {
+          "checked_at": "2026-11-16T07:05:28.988961+00:00",
+          "views": 15800,
+          "likes": 174,
+          "reposts": 11,
+          "replies": 14,
+          "bookmarks": 77
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 1.0,
+        "views_delta": 17,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      },
+      "workflow_source_urls": [
+        "https://x.com/scottstts/status/2121997403595129298"
+      ],
+      "workflow_source_checks": [
+        {
+          "source_url": "https://x.com/scottstts/status/2121997403595129298",
+          "checked_at": "2026-11-16T07:05:11.933749+00:00",
+          "method": "X official oEmbed",
+          "post_sha256": "7465477006b952d905f02e380bda4a5e0e6323b796397bd47d4e87c756e6312a"
+        }
+      ]
+    },
+    {
+      "id": "rezait00-2121976873236529296",
+      "titles": {
+        "en": "The Evolution of AI",
+        "zh-CN": "人工智能的演进",
+        "ja": "AIの進化",
+        "ko": "AI의 진화",
+        "es": "La evolución de la IA"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "RezAIT00",
+        "url": "https://x.com/RezAIT00"
+      },
+      "source_url": "https://x.com/RezAIT00/status/2121976873236529296",
+      "published_at": "2026-11-15T14:41:25Z",
+      "duration_seconds": 124.8,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121976575449092096/img/PYtWmo2vpOn0t3TM.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/rezait00-2121976873236529296.webp",
+      "preview_path": "assets/previews/rezait00-2121976873236529296.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2121976575449092096/vid/avc1/1920x1080/5Bk1R2c_ofx7e9UB.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-16",
+        "checked_at": "2026-11-16T07:05:00.618732+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "1766820460427fe42d0ab1fd445bfd01f58c54b6836610328f95129193415a92",
+        "model_named": true,
+        "video_checked_at": "2026-11-16T07:05:29.505039+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2121976575449092096",
+      "media_rights": "Short excerpt of the original creator’s upload for the gallery; full video remains on the original platform.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A finished AI history explainer uses anime-inspired chapter cards and animated memory illustrations to give the timeline a visual structure.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The author credits Fable 5.2. The post leaves the rendering and asset workflow unspecified.",
+        "zh-CN": "作者确认使用了 Fable 5.2，原帖未交代渲染与素材流程。",
+        "ja": "作者はFable 5.2を使用したと述べている。描画や素材の工程は明らかにされていない。",
+        "ko": "제작자는 Fable 5.2를 사용했다고 밝혔다. 렌더링과 에셋 제작 과정은 공개하지 않았다.",
+        "es": "El autor atribuye la pieza a Fable 5.2. La publicación deja sin especificar el proceso de renderizado y creación de recursos."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-16T07:04:26.548972+00:00",
+          "views": 535,
+          "likes": 14,
+          "reposts": 0,
+          "replies": 2,
+          "bookmarks": 2
+        },
+        {
+          "checked_at": "2026-11-16T07:05:29.979355+00:00",
+          "views": 535,
+          "likes": 14,
+          "reposts": 0,
+          "replies": 2,
+          "bookmarks": 2
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 1.1,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "challenger-nd-2120423740756664820",
+      "titles": {
+        "en": "The Last Concert",
+        "zh-CN": "最后一场演出",
+        "ja": "最後のライブ",
+        "ko": "마지막 공연",
+        "es": "El último concierto"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "challenger_ND",
+        "url": "https://x.com/challenger_ND"
+      },
+      "source_url": "https://x.com/challenger_ND/status/2120423740756664820",
+      "published_at": "2026-11-11T07:49:50Z",
+      "duration_seconds": 181.84,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120422211702177792/img/_qnHOtB_dmEu76V3.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/challenger-nd-2120423740756664820.webp",
+      "preview_path": "assets/previews/challenger-nd-2120423740756664820.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120422211702177792/vid/avc1/1280x720/s1sR2PVkGpwyUSqy.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-16",
+        "checked_at": "2026-11-16T07:05:01.538150+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "be83a207dc3c64dfe3a98576f0e6a47b833f1f435202c02ded06307ea3786a4b",
+        "model_named": true,
+        "video_checked_at": "2026-11-16T07:05:29.504798+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": "全米が泣けるレベルのライブ動画をコードのみで作って",
+        "source_url": "https://x.com/challenger_ND/status/2120423740756664820"
+      },
+      "native_media_id": "2120422211702177792",
+      "media_rights": "Short excerpt of the original creator’s upload for the gallery; full video remains on the original platform.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The longer cut sets a solitary performer and a sea of audience lights to music. The same creator post documents a code-only first pass and the subsequent Suno-assisted edit.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "This is the second cut in the post. Fable 5.2 created the code-based first pass; the creator added a Suno track and adjusted that cut to the music.",
+        "zh-CN": "这里展示原帖的第二版。Fable 5.2 先用代码制作初版，作者再用 Suno 制作歌曲，并按音乐调整画面。",
+        "ja": "投稿の2本目。Fable 5.2がコードで初稿を作り、作者がSunoで曲を制作し、曲に合わせて映像を調整した。",
+        "ko": "게시물의 두 번째 영상이다. Fable 5.2가 코드로 초안을 만들었고, 제작자는 Suno로 곡을 만든 뒤 음악에 맞춰 영상을 조정했다.",
+        "es": "Es el segundo montaje de la publicación. Fable 5.2 creó la primera versión con código. El autor añadió una pista hecha con Suno y adaptó el montaje a la música."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-15T05:52:20.382178+00:00",
+          "views": 443,
+          "likes": 13,
+          "reposts": 4,
+          "replies": 1,
+          "bookmarks": 2
+        },
+        {
+          "checked_at": "2026-11-15T08:51:55.238085+00:00",
+          "views": 446,
+          "likes": 13,
+          "reposts": 4,
+          "replies": 1,
+          "bookmarks": 2
+        },
+        {
+          "checked_at": "2026-11-15T11:58:26.322331+00:00",
+          "views": 446,
+          "likes": 13,
+          "reposts": 4,
+          "replies": 1,
+          "bookmarks": 2
+        },
+        {
+          "checked_at": "2026-11-15T14:59:01.653782+00:00",
+          "views": 447,
+          "likes": 13,
+          "reposts": 4,
+          "replies": 1,
+          "bookmarks": 2
+        },
+        {
+          "checked_at": "2026-11-16T07:04:35.730624+00:00",
+          "views": 452,
+          "likes": 13,
+          "reposts": 4,
+          "replies": 1,
+          "bookmarks": 2
+        },
+        {
+          "checked_at": "2026-11-16T07:05:30.167881+00:00",
+          "views": 452,
+          "likes": 13,
+          "reposts": 4,
+          "replies": 1,
+          "bookmarks": 2
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 966.5,
+        "views_delta": 5,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "deedydas-2120079288372494782",
+      "titles": {
+        "en": "Interactive Cricket Ball Rendering",
+        "zh-CN": "板球交互渲染",
+        "ja": "クリケットボールのインタラクティブ描画",
+        "ko": "크리켓 공 인터랙티브 렌더링",
+        "es": "Renderizado interactivo de una pelota de críquet"
+      },
+      "category": "product",
+      "creator": {
+        "name": "deedydas",
+        "url": "https://x.com/deedydas"
+      },
+      "source_url": "https://x.com/deedydas/status/2120079288372494782",
+      "published_at": "2026-11-10T09:01:06Z",
+      "duration_seconds": 17.753,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120079222689697792/img/aq8mZG_G8jumAast.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/deedydas-2120079288372494782.webp",
+      "preview_path": "assets/previews/deedydas-2120079288372494782.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120079222689697792/vid/avc1/1206x1464/ZMBtfuAAUuCSN6CZ.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-16",
+        "checked_at": "2026-11-16T07:05:02.887967+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "c7d5930b74f875d65a2eab83db8b0a183d2f29e63c7816e787fb9985a8da1492",
+        "model_named": true,
+        "video_checked_at": "2026-11-16T07:05:29.460830+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120079222689697792",
+      "media_rights": "Short excerpt of the original creator’s upload for the gallery; full video remains on the original platform.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The original short capture demonstrates an interactive product viewer, with rotating leather panels, seam detail and an age control.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "Fable 5.2 attribution comes from the creator’s original post. The renderer is unspecified.",
+        "zh-CN": "作者在原帖确认使用了 Fable 5.2，未披露渲染器。",
+        "ja": "元の投稿で作者がFable 5.2に言及。レンダラーは明らかにされていない。",
+        "ko": "제작자는 원본 게시물에서 Fable 5.2를 언급했다. 렌더러는 공개하지 않았다.",
+        "es": "El autor menciona Fable 5.2 en la publicación original. El motor de renderizado queda sin especificar."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-15T14:59:09.559244+00:00",
+          "views": 69093,
+          "likes": 1215,
+          "reposts": 38,
+          "replies": 81,
+          "bookmarks": 119
+        },
+        {
+          "checked_at": "2026-11-16T07:04:36.455188+00:00",
+          "views": 69282,
+          "likes": 1218,
+          "reposts": 39,
+          "replies": 81,
+          "bookmarks": 119
+        },
+        {
+          "checked_at": "2026-11-16T07:05:29.969439+00:00",
+          "views": 69282,
+          "likes": 1218,
+          "reposts": 39,
+          "replies": 81,
+          "bookmarks": 119
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 966.3,
+        "views_delta": 189,
+        "likes_delta": 3,
+        "reposts_delta": 1
       }
     }
   ]

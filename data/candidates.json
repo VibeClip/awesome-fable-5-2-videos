@@ -1,5 +1,5 @@
 {
-  "checked_on": "2026-11-15",
+  "checked_on": "2026-11-16",
   "candidates": [
     {
       "source_url": "https://x.com/AlchainHust/status/2119949075898675292",
@@ -289,6 +289,26 @@
       "status": "held-possible-duplicate",
       "reason": "The same rainy pelican brief returns with an X-High pass beside a Medium pass. The Medium scene is already represented in the catalog, so the comparison remains an alternate take.",
       "checked_at": "2026-11-15T14:58:53.541010+00:00"
+    },
+    {
+      "source_url": "https://x.com/mattworkman/status/2121997424508198948",
+      "creator": {
+        "name": "mattworkman",
+        "url": "https://x.com/mattworkman"
+      },
+      "status": "held-after-visual-review",
+      "reason": "The creator posted a filmed monitor and named Fable 5.2. The sampled clip shows the working interface and text, with no identifiable gameplay or finished scene.",
+      "checked_at": "2026-11-16T07:04:26.316042+00:00"
+    },
+    {
+      "source_url": "https://x.com/Stargridcompass/status/2121994431641313641",
+      "creator": {
+        "name": "Stargridcompass",
+        "url": "https://x.com/Stargridcompass"
+      },
+      "status": "held-insufficient-workflow-evidence",
+      "reason": "The post is a playthrough by a reviewer who describes work by another developer. The original developer post and its model attribution remain to be verified.",
+      "checked_at": "2026-11-16T07:04:26.372785+00:00"
     }
   ]
 }
