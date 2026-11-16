@@ -309,6 +309,36 @@
       "status": "excluded-repost",
       "reason": "This is a third-party playthrough of Valle Morta. The developer’s original upload is cataloged at https://x.com/LexnLin/status/2121934071429468543.",
       "checked_at": "2026-11-16T07:13:29.140919+00:00"
+    },
+    {
+      "source_url": "https://x.com/seiiiiiiiiiiru/status/2121724395354018201",
+      "creator": {
+        "name": "seiiiiiiiiiiru",
+        "url": "https://x.com/seiiiiiiiiiiru"
+      },
+      "status": "held-after-visual-review",
+      "reason": "The split-screen compares a Blender rig with live figure-skating footage. The post does not identify the reference footage or its reuse terms.",
+      "checked_at": "2026-11-16T10:09:46.762348+00:00"
+    },
+    {
+      "source_url": "https://x.com/tazmannner/status/2121973945721315822",
+      "creator": {
+        "name": "tazmannner",
+        "url": "https://x.com/tazmannner"
+      },
+      "status": "held-insufficient-workflow-evidence",
+      "reason": "The creator discloses Fable 5.2, Gemini and H3, but the source and reuse terms of the anime reference files are unspecified.",
+      "checked_at": "2026-11-16T10:09:45.544571+00:00"
+    },
+    {
+      "source_url": "https://x.com/aGim_asf/status/2121654813469430255",
+      "creator": {
+        "name": "aGim_asf",
+        "url": "https://x.com/aGim_asf"
+      },
+      "status": "excluded-repost",
+      "reason": "The X post describes another creator’s Abyssal Garden project. Its original publication is on Reddit, and original-platform video playback was not verified for this gallery.",
+      "checked_at": "2026-11-16T10:09:47.231757+00:00"
     }
   ]
 }

@@ -33,3 +33,7 @@ Greed II by markmehere is based on Greed by Cosmo Myzrail Gorynych. The Greed II
 ## Audio in the original Valle Morta video
 
 Leon Lin credits Kevin MacLeod’s “Five Armies” (CC BY 4.0), CC0 sound effects, and foley by dklon (CC BY 3.0). The gallery stores a silent visual excerpt. The full video and audio remain on X. [Creator’s audio credits](https://x.com/LexnLin/status/2121934078408597998)
+
+## Audio in the original Lantern Spider video
+
+The creator credits CC0 field recordings from OpenGameArt for the sound effects. The gallery stores a silent visual excerpt. The audio remains in the original video on X. [Creator’s workflow and sound credits](https://x.com/aGim_asf/status/2122065188325122269)
