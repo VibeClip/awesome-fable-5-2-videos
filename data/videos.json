@@ -27848,13 +27848,21 @@
           "reposts": 120,
           "replies": 129,
           "bookmarks": 1737
+        },
+        {
+          "checked_at": "2026-11-16T13:40:47.241708+00:00",
+          "views": 155250,
+          "likes": 2541,
+          "reposts": 123,
+          "replies": 131,
+          "bookmarks": 1746
         }
       ],
       "momentum": {
         "state": "established",
-        "window_minutes": 186.8,
-        "views_delta": 2037,
-        "likes_delta": 17,
+        "window_minutes": 209.6,
+        "views_delta": 2024,
+        "likes_delta": 12,
         "reposts_delta": 3
       }
     },
@@ -29686,13 +29694,21 @@
           "reposts": 41,
           "replies": 46,
           "bookmarks": 594
+        },
+        {
+          "checked_at": "2026-11-16T13:40:47.140736+00:00",
+          "views": 65565,
+          "likes": 819,
+          "reposts": 42,
+          "replies": 47,
+          "bookmarks": 603
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 180.4,
-        "views_delta": 5803,
-        "likes_delta": 9,
+        "window_minutes": 209.6,
+        "views_delta": 6250,
+        "likes_delta": 10,
         "reposts_delta": 1
       }
     },
@@ -31716,14 +31732,22 @@
           "reposts": 62,
           "replies": 157,
           "bookmarks": 885
+        },
+        {
+          "checked_at": "2026-11-16T13:40:47.137114+00:00",
+          "views": 72398,
+          "likes": 909,
+          "reposts": 63,
+          "replies": 160,
+          "bookmarks": 929
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 180.3,
-        "views_delta": 3627,
-        "likes_delta": 28,
-        "reposts_delta": 6
+        "window_minutes": 209.6,
+        "views_delta": 3610,
+        "likes_delta": 36,
+        "reposts_delta": 1
       },
       "workflow_source_urls": [
         "https://x.com/MengTo/status/2121896684653576574"
@@ -32429,14 +32453,22 @@
           "reposts": 4,
           "replies": 17,
           "bookmarks": 33
+        },
+        {
+          "checked_at": "2026-11-16T13:40:47.135019+00:00",
+          "views": 5252,
+          "likes": 126,
+          "reposts": 4,
+          "replies": 22,
+          "bookmarks": 43
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 180.4,
-        "views_delta": 2235,
-        "likes_delta": 53,
-        "reposts_delta": 2
+        "window_minutes": 209.6,
+        "views_delta": 1414,
+        "likes_delta": 27,
+        "reposts_delta": 0
       }
     },
     {
@@ -32686,14 +32718,22 @@
           "reposts": 12,
           "replies": 15,
           "bookmarks": 88
+        },
+        {
+          "checked_at": "2026-11-16T13:40:47.144466+00:00",
+          "views": 23177,
+          "likes": 211,
+          "reposts": 15,
+          "replies": 16,
+          "bookmarks": 94
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 180.3,
-        "views_delta": 3948,
-        "likes_delta": 21,
-        "reposts_delta": 1
+        "window_minutes": 209.6,
+        "views_delta": 3345,
+        "likes_delta": 14,
+        "reposts_delta": 3
       },
       "workflow_source_urls": [
         "https://x.com/scottstts/status/2121997403595129298"
@@ -33053,14 +33093,22 @@
           "reposts": 3,
           "replies": 25,
           "bookmarks": 56
+        },
+        {
+          "checked_at": "2026-11-16T13:40:47.124382+00:00",
+          "views": 9379,
+          "likes": 200,
+          "reposts": 4,
+          "replies": 30,
+          "bookmarks": 72
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 180.1,
-        "views_delta": 1540,
-        "likes_delta": 30,
-        "reposts_delta": 0
+        "window_minutes": 209.6,
+        "views_delta": 1733,
+        "likes_delta": 38,
+        "reposts_delta": 1
       }
     },
     {
@@ -33294,14 +33342,22 @@
           "reposts": 11,
           "replies": 42,
           "bookmarks": 159
+        },
+        {
+          "checked_at": "2026-11-16T13:40:47.148546+00:00",
+          "views": 18111,
+          "likes": 300,
+          "reposts": 13,
+          "replies": 44,
+          "bookmarks": 167
         }
       ],
       "momentum": {
         "state": "rising",
-        "window_minutes": 180.1,
-        "views_delta": 1088,
-        "likes_delta": 16,
-        "reposts_delta": 1
+        "window_minutes": 209.6,
+        "views_delta": 1002,
+        "likes_delta": 11,
+        "reposts_delta": 2
       },
       "workflow_source_urls": [
         "https://x.com/LexnLin/status/2121934075229303036",
@@ -33903,14 +33959,22 @@
           "reposts": 187,
           "replies": 90,
           "bookmarks": 2989
+        },
+        {
+          "checked_at": "2026-11-16T13:40:47.124618+00:00",
+          "views": 193041,
+          "likes": 4191,
+          "reposts": 194,
+          "replies": 92,
+          "bookmarks": 3151
         }
       ],
       "momentum": {
         "state": "established",
-        "window_minutes": 1.5,
-        "views_delta": 71,
-        "likes_delta": 0,
-        "reposts_delta": 0
+        "window_minutes": 209.1,
+        "views_delta": 20290,
+        "likes_delta": 155,
+        "reposts_delta": 7
       },
       "workflow_source_urls": [
         "https://x.com/JungleSilicon/status/2122245399746637972"
@@ -33989,13 +34053,21 @@
           "reposts": 15,
           "replies": 17,
           "bookmarks": 254
+        },
+        {
+          "checked_at": "2026-11-16T13:40:47.135364+00:00",
+          "views": 32018,
+          "likes": 476,
+          "reposts": 15,
+          "replies": 17,
+          "bookmarks": 262
         }
       ],
       "momentum": {
-        "state": "new",
-        "window_minutes": 1.5,
-        "views_delta": 3,
-        "likes_delta": 0,
+        "state": "rising",
+        "window_minutes": 209.1,
+        "views_delta": 1535,
+        "likes_delta": 7,
         "reposts_delta": 0
       },
       "workflow_source_urls": [
@@ -34075,12 +34147,20 @@
           "reposts": 0,
           "replies": 18,
           "bookmarks": 2
+        },
+        {
+          "checked_at": "2026-11-16T13:40:47.119539+00:00",
+          "views": 1676,
+          "likes": 34,
+          "reposts": 0,
+          "replies": 18,
+          "bookmarks": 2
         }
       ],
       "momentum": {
         "state": "new",
-        "window_minutes": 1.5,
-        "views_delta": 2,
+        "window_minutes": 209.1,
+        "views_delta": 97,
         "likes_delta": 0,
         "reposts_delta": 0
       },
@@ -34236,14 +34316,22 @@
           "reposts": 1,
           "replies": 6,
           "bookmarks": 14
+        },
+        {
+          "checked_at": "2026-11-16T13:40:47.148238+00:00",
+          "views": 4189,
+          "likes": 76,
+          "reposts": 2,
+          "replies": 7,
+          "bookmarks": 18
         }
       ],
       "momentum": {
-        "state": "new",
-        "window_minutes": 1.9,
-        "views_delta": 6,
-        "likes_delta": 0,
-        "reposts_delta": 0
+        "state": "rising",
+        "window_minutes": 209.1,
+        "views_delta": 1578,
+        "likes_delta": 14,
+        "reposts_delta": 1
       },
       "workflow_source_urls": [
         "https://x.com/aGim_asf/status/2122065188325122269"
@@ -34702,6 +34790,542 @@
       "momentum": {
         "state": "new",
         "window_minutes": 1.5,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "29meat-ai-2122290725551546425",
+      "titles": {
+        "en": "A Loop Through Depth-Mapped Worlds",
+        "zh-CN": "穿行于深度图构建的循环世界",
+        "ja": "深度マップでつなぐループ空間",
+        "ko": "깊이 맵으로 이어지는 순환 공간",
+        "es": "Un recorrido en bucle por mundos con mapas de profundidad"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "29meat_ai",
+        "url": "https://x.com/29meat_ai"
+      },
+      "source_url": "https://x.com/29meat_ai/status/2122290725551546425",
+      "published_at": "2026-11-16T11:28:33Z",
+      "duration_seconds": 45,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122289190226575360/img/j62Ux9VjdBkd8G2h.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/29meat-ai-2122290725551546425.webp",
+      "preview_path": "assets/previews/29meat-ai-2122290725551546425.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2122289190226575360/vid/avc1/1920x1080/0vV4P9TB8HPqWz-s.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-16",
+        "checked_at": "2026-11-16T13:41:35.776516+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "537a1d0238183beb1d2a17492e6129ab10afe789b0b7c7c88cc39c00577dab84",
+        "model_named": true,
+        "video_checked_at": "2026-11-16T13:41:40.477241+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2122289190226575360",
+      "media_rights": "Short excerpt of the original creator’s upload for the gallery; full video remains on the original platform.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The looping camera moves through a conservatory, a neon alley and a red canyon. The creator identifies the image and depth inputs and the Three.js scene.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator used Fable 5.2 with Three.js and Atlas image and depth inputs to build the loop without pre-made 3D models.",
+        "zh-CN": "作者使用 Fable 5.2、Three.js 与 Atlas 图像和深度数据构建循环空间，未使用预制 3D 模型。",
+        "ja": "作者はFable 5.2、Three.js、Atlasの画像と深度データから、既製の3Dモデルを使わずにループ空間を制作した。",
+        "ko": "제작자는 Fable 5.2, Three.js, Atlas의 이미지와 깊이 데이터를 사용해 사전 제작 3D 모델 없이 순환 공간을 만들었다.",
+        "es": "El autor creó el bucle con Fable 5.2, Three.js e imágenes y datos de profundidad de Atlas, sin modelos 3D prefabricados."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-16T13:07:20.615046+00:00",
+          "views": 308,
+          "likes": 2,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 1
+        },
+        {
+          "checked_at": "2026-11-16T13:41:41.009761+00:00",
+          "views": 406,
+          "likes": 3,
+          "reposts": 1,
+          "replies": 1,
+          "bookmarks": 1
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 34.3,
+        "views_delta": 98,
+        "likes_delta": 1,
+        "reposts_delta": 1
+      }
+    },
+    {
+      "id": "terry-djony-2122313989157687794",
+      "titles": {
+        "en": "A Birthday Card with Candles You Can Blow Out",
+        "zh-CN": "可以吹灭蜡烛的生日贺卡",
+        "ja": "ろうそくを吹き消せる誕生日カード",
+        "ko": "촛불을 불어 끌 수 있는 생일 카드",
+        "es": "Una tarjeta de cumpleaños con velas que puedes soplar"
+      },
+      "category": "interactive",
+      "creator": {
+        "name": "Terry_Djony",
+        "url": "https://x.com/Terry_Djony"
+      },
+      "source_url": "https://x.com/Terry_Djony/status/2122313989157687794",
+      "published_at": "2026-11-16T13:01:00Z",
+      "duration_seconds": 31.066,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121810327398645760/img/eXNSRj8QElpC5CeW.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/terry-djony-2122313989157687794.webp",
+      "preview_path": "assets/previews/terry-djony-2122313989157687794.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2121810327398645760/vid/avc1/1280x720/IkGXMJrX0wd1gUEF.mp4?tag=14",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-16",
+        "checked_at": "2026-11-16T13:41:35.798572+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "4132fec8382b464462166a7556abce0d9fa0ab8031a2627a4266bb2b01246af5",
+        "model_named": true,
+        "video_checked_at": "2026-11-16T13:41:40.471686+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2121810327398645760",
+      "media_rights": "Short excerpt of the original creator’s upload for the gallery; full video remains on the original platform.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A playable birthday card lets viewers personalize the greeting and interact with candles in a scene drawn in pastel strokes.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for the interactive card and says its pastel strokes are drawn live in code.",
+        "zh-CN": "作者用 Fable 5.2 制作互动贺卡，粉彩笔触由代码实时绘制。",
+        "ja": "作者はFable 5.2でインタラクティブなカードを制作し、パステルの筆致をコードでリアルタイム描画したと説明している。",
+        "ko": "제작자는 Fable 5.2로 인터랙티브 카드를 만들고 코드로 파스텔 획을 실시간으로 그렸다고 밝혔다.",
+        "es": "El autor atribuye a Fable 5.2 la tarjeta interactiva y señala que los trazos de pastel se dibujan en tiempo real con código."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-16T13:07:45.025890+00:00",
+          "views": 20,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-16T13:41:40.978216+00:00",
+          "views": 56,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 33.9,
+        "views_delta": 36,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "terry-djony-2121953865730027622",
+      "titles": {
+        "en": "An Aurora Drawn Stroke by Stroke",
+        "zh-CN": "一笔一笔画出的极光",
+        "ja": "一筆ずつ描くオーロラ",
+        "ko": "한 획씩 그린 오로라",
+        "es": "Una aurora dibujada trazo a trazo"
+      },
+      "category": "motion",
+      "creator": {
+        "name": "Terry_Djony",
+        "url": "https://x.com/Terry_Djony"
+      },
+      "source_url": "https://x.com/Terry_Djony/status/2121953865730027622",
+      "published_at": "2026-11-15T13:10:00Z",
+      "duration_seconds": 28.433,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121810479509274624/img/IPP34ZvuiGqvzRzc.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/terry-djony-2121953865730027622.webp",
+      "preview_path": "assets/previews/terry-djony-2121953865730027622.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2121810479509274624/vid/avc1/1280x720/ZXhjmQqQuup48IsG.mp4?tag=14",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-16",
+        "checked_at": "2026-11-16T13:41:36.596595+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "06af0717ce008a61b94608230eb2bca06ebca7d3bb720c4438cc524f7ef62675",
+        "model_named": true,
+        "video_checked_at": "2026-11-16T13:41:40.477043+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2121810479509274624",
+      "media_rights": "Short excerpt of the original creator’s upload for the gallery; full video remains on the original platform.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A code-drawn painting gradually adds pastel and colored-pencil marks to a night sky over a mountain lake.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for drawing each pastel and colored-pencil stroke live in code.",
+        "zh-CN": "作者说极光的粉彩与彩铅笔触由 Fable 5.2 写出的代码实时绘制。",
+        "ja": "作者によると、パステルと色鉛筆の筆致をFable 5.2が書いたコードでリアルタイムに描いている。",
+        "ko": "제작자는 Fable 5.2가 작성한 코드로 파스텔과 색연필 획을 실시간으로 그렸다고 밝혔다.",
+        "es": "Según el autor, el código escrito por Fable 5.2 dibuja en tiempo real cada trazo de pastel y lápiz de color."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-16T13:07:46.723672+00:00",
+          "views": 287,
+          "likes": 2,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-16T13:41:40.979944+00:00",
+          "views": 288,
+          "likes": 2,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 33.9,
+        "views_delta": 1,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "gengo6com-2121960819244372252",
+      "titles": {
+        "en": "A 3D Shishi-Odoshi Water Feature",
+        "zh-CN": "三维添水竹筒景观",
+        "ja": "ししおどしの3Dシミュレーション",
+        "ko": "3D 시시오도시 물 장치",
+        "es": "Un shishi-odoshi de bambú en 3D"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "gengo6com",
+        "url": "https://x.com/gengo6com"
+      },
+      "source_url": "https://x.com/gengo6com/status/2121960819244372252",
+      "published_at": "2026-11-15T13:37:38Z",
+      "duration_seconds": 14.3,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121960705310232576/img/ozjMK6hqtj7nwy8T.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/gengo6com-2121960819244372252.webp",
+      "preview_path": "assets/previews/gengo6com-2121960819244372252.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2121960705310232576/vid/avc1/2400x1720/ats5frt2FrWmPy0S.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-16",
+        "checked_at": "2026-11-16T13:41:37.390684+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "914d54527f70e42fb18623c13e33b213fb01700886e5ef8140ea905922b2e53c",
+        "model_named": true,
+        "video_checked_at": "2026-11-16T13:41:40.467000+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2121960705310232576",
+      "media_rights": "Short excerpt of the original creator’s upload for the gallery; full video remains on the original platform.",
+      "discovery_group": "independent-x",
+      "curation_reason": "An interactive Japanese garden scene shows a bamboo tube filling, tipping and resetting. The creator credits Fable 5.2 for this revised 3D simulation.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for the revised shishi-odoshi simulation. The exact rendering engine is unspecified in the post.",
+        "zh-CN": "作者说明新版添水模拟由 Fable 5.2 制作，原帖未注明渲染引擎。",
+        "ja": "作者は改良したししおどしのシミュレーションをFable 5.2で制作。投稿では描画エンジンを明記していない。",
+        "ko": "제작자는 개선된 시시오도시 시뮬레이션에 Fable 5.2를 사용했다고 밝혔다. 렌더링 엔진은 게시물에 명시되지 않았다.",
+        "es": "El autor atribuye a Fable 5.2 la versión revisada del shishi-odoshi. La publicación no especifica el motor de renderizado."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-16T13:07:46.687035+00:00",
+          "views": 359,
+          "likes": 1,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-16T13:41:40.971169+00:00",
+          "views": 360,
+          "likes": 1,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 33.9,
+        "views_delta": 1,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "ikowwy-2121298628556013995",
+      "titles": {
+        "en": "A Drivable Mars Rover in Three.js",
+        "zh-CN": "Three.js 火星车驾驶模拟",
+        "ja": "Three.jsで走る火星探査車",
+        "ko": "Three.js로 주행하는 화성 탐사차",
+        "es": "Un rover marciano conducible en Three.js"
+      },
+      "category": "interactive",
+      "creator": {
+        "name": "ikowwy",
+        "url": "https://x.com/ikowwy"
+      },
+      "source_url": "https://x.com/ikowwy/status/2121298628556013995",
+      "published_at": "2026-11-13T17:46:19Z",
+      "duration_seconds": 99.869,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121298507961159680/img/YkOdRfxfSX1DQfLh.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ikowwy-2121298628556013995.webp",
+      "preview_path": "assets/previews/ikowwy-2121298628556013995.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2121298507961159680/vid/avc1/1280x720/nhXcrFt9DK3QepWN.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-16",
+        "checked_at": "2026-11-16T13:41:37.413780+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "65949aadc4ba82836cbaf8e93a171485eb5ca9926452a47fbc2f9ec516fc9196",
+        "model_named": true,
+        "video_checked_at": "2026-11-16T13:41:41.513410+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2121298507961159680",
+      "media_rights": "Short excerpt of the original creator’s upload for the gallery; full video remains on the original platform.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The gameplay capture shows a rover climbing red terrain, switching to headlights at night and unfolding into an exploded view.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator reports building the interactive rover in Three.js with Fable 5.2 and parallel agents, without imported 3D models.",
+        "zh-CN": "作者说明，用 Fable 5.2 与并行代理在 Three.js 中制作可驾驶火星车，未导入 3D 模型。",
+        "ja": "作者はFable 5.2と並列エージェントを使用し、外部の3Dモデルを読み込まずにThree.jsで走行可能な探査車を制作した。",
+        "ko": "제작자는 Fable 5.2와 병렬 에이전트로 Three.js 탐사차를 만들었으며 외부 3D 모델을 가져오지 않았다고 밝혔다.",
+        "es": "El autor creó el rover interactivo en Three.js con Fable 5.2 y agentes en paralelo, sin importar modelos 3D."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-16T13:07:49.224278+00:00",
+          "views": 69,
+          "likes": 1,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-16T13:41:41.986382+00:00",
+          "views": 69,
+          "likes": 1,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 33.9,
+        "views_delta": 0,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "kloss-xyz-2120689622124798324",
+      "titles": {
+        "en": "Iridescent Glass in a Single GLSL Shader",
+        "zh-CN": "单个 GLSL 着色器里的虹彩玻璃",
+        "ja": "単一のGLSLシェーダーで描く虹色のガラス",
+        "ko": "GLSL 셰이더 하나로 표현한 무지갯빛 유리",
+        "es": "Vidrio iridiscente en un solo shader GLSL"
+      },
+      "category": "motion",
+      "creator": {
+        "name": "kloss_xyz",
+        "url": "https://x.com/kloss_xyz"
+      },
+      "source_url": "https://x.com/kloss_xyz/status/2120689622124798324",
+      "published_at": "2026-11-12T01:26:21Z",
+      "duration_seconds": 30,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120689574079078400/img/iWy5dw077WfhbO4p.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kloss-xyz-2120689622124798324.webp",
+      "preview_path": "assets/previews/kloss-xyz-2120689622124798324.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120689574079078400/vid/avc1/1080x1080/GQ2VNJwrUh4fKSoc.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-16",
+        "checked_at": "2026-11-16T13:41:38.195535+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "933dfb400ffcf20c697a0f95134be4309fb5a4723641ce86fc7678b91fd9f9c3",
+        "model_named": true,
+        "video_checked_at": "2026-11-16T13:41:41.512507+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": "https://x.com/kloss_xyz/status/2120691788700910046"
+      },
+      "native_media_id": "2120689574079078400",
+      "media_rights": "Short excerpt of the original creator’s upload for the gallery; full video remains on the original platform.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A 30-second abstract film turns a glass sphere and the shifting caustics beneath it into the subject. The creator shared the full direction, timing and audio brief in a reply.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator animated the visuals with Python and rendered them in one GLSL shader. The audio uses recordings from sample libraries mixed in Python.",
+        "zh-CN": "作者用 Python 制作动画、用单个 GLSL 着色器渲染，音频使用采样库录音并在 Python 中混音。",
+        "ja": "作者はPythonで動きを付け、単一のGLSLシェーダーで描画した。音はサンプルライブラリの録音をPythonでミックスした。",
+        "ko": "제작자는 Python으로 애니메이션을 구성하고 GLSL 셰이더 하나로 렌더링했다. 샘플 라이브러리의 녹음을 Python에서 믹싱했다.",
+        "es": "El autor animó las imágenes en Python y las renderizó con un solo shader GLSL. Mezcló en Python grabaciones procedentes de bibliotecas de muestras."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-16T13:07:50.647058+00:00",
+          "views": 3127,
+          "likes": 34,
+          "reposts": 1,
+          "replies": 11,
+          "bookmarks": 7
+        },
+        {
+          "checked_at": "2026-11-16T13:41:41.980265+00:00",
+          "views": 3128,
+          "likes": 34,
+          "reposts": 1,
+          "replies": 11,
+          "bookmarks": 7
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 33.9,
+        "views_delta": 1,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      },
+      "workflow_source_urls": [
+        "https://x.com/kloss_xyz/status/2120691788700910046"
+      ],
+      "workflow_source_checks": [
+        {
+          "source_url": "https://x.com/kloss_xyz/status/2120691788700910046",
+          "checked_at": "2026-11-16T13:41:35.733696+00:00",
+          "method": "X official oEmbed",
+          "post_sha256": "44705fa46f181274a0feaafd4813054f08d6f00f7093d3cd3e0a31331fef35fa"
+        }
+      ]
+    },
+    {
+      "id": "gabranskristers-2121361595313828070",
+      "titles": {
+        "en": "A Wish in the Night",
+        "zh-CN": "夜色中的愿望",
+        "ja": "夜に灯る願い",
+        "ko": "밤에 피어난 소원",
+        "es": "Un deseo en la noche"
+      },
+      "category": "short-films",
+      "creator": {
+        "name": "GabransKristers",
+        "url": "https://x.com/GabransKristers"
+      },
+      "source_url": "https://x.com/GabransKristers/status/2121361595313828070",
+      "published_at": "2026-11-13T21:56:31Z",
+      "duration_seconds": 20,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121360344727609344/img/n1Y9B9KXCwtbuKZq.jpg",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/gabranskristers-2121361595313828070.webp",
+      "preview_path": "assets/previews/gabranskristers-2121361595313828070.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2121360344727609344/vid/avc1/1280x720/4oNmqpcE1pO7yUPp.mp4?tag=14",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-16",
+        "checked_at": "2026-11-16T13:41:39.040935+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "7a117b9858c14bceae8db6c72fb18e6689956411c222e4a13fb36d6bda38df08",
+        "model_named": true,
+        "video_checked_at": "2026-11-16T13:41:41.899380+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2121360344727609344",
+      "media_rights": "Short excerpt of the original creator’s upload for the gallery; full video remains on the original platform.",
+      "discovery_group": "independent-x",
+      "curation_reason": "An original 20-second story follows a small light into a cloudy night sky, using a compact narration and a visual reveal.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for the story, code-drawn frames and sound.",
+        "zh-CN": "作者说明，故事、代码绘制的画面与声音均由 Fable 5.2 制作。",
+        "ja": "作者は物語、コードで描いた映像、音をFable 5.2で制作したと説明している。",
+        "ko": "제작자는 Fable 5.2가 이야기와 코드로 그린 화면, 음향을 만들었다고 밝혔다.",
+        "es": "El autor atribuye a Fable 5.2 la historia, los fotogramas dibujados con código y el sonido."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-16T13:07:48.632921+00:00",
+          "views": 4,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-16T13:41:42.411015+00:00",
+          "views": 4,
+          "likes": 0,
+          "reposts": 0,
+          "replies": 0,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 33.9,
         "views_delta": 0,
         "likes_delta": 0,
         "reposts_delta": 0

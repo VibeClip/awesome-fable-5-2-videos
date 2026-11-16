@@ -339,6 +339,36 @@
       "status": "excluded-repost",
       "reason": "The X post describes another creator’s Abyssal Garden project. Its original publication is on Reddit, and original-platform video playback was not verified for this gallery.",
       "checked_at": "2026-11-16T10:09:47.231757+00:00"
+    },
+    {
+      "source_url": "https://x.com/muratcan/status/2120686928966082740",
+      "creator": {
+        "name": "muratcan",
+        "url": "https://x.com/muratcan"
+      },
+      "status": "held-after-visual-review",
+      "reason": "The creator identifies a mixed workflow and use of real archive material. The original research and credits page was unavailable during this review, so reuse terms for the visual excerpt remain unresolved.",
+      "checked_at": "2026-11-16T13:07:50.665206+00:00"
+    },
+    {
+      "source_url": "https://x.com/0xMovez/status/2122101050253447300",
+      "creator": {
+        "name": "0xMovez",
+        "url": "https://x.com/0xMovez"
+      },
+      "status": "held-after-visual-review",
+      "reason": "The posted clip is a workflow diagram accompanying a tutorial. It does not establish an independently playable cut of the product reveal discussed in the post.",
+      "checked_at": "2026-11-16T13:07:46.064136+00:00"
+    },
+    {
+      "source_url": "https://x.com/devteamdrew/status/2121405946211799421",
+      "creator": {
+        "name": "devteamdrew",
+        "url": "https://x.com/devteamdrew"
+      },
+      "status": "held-after-visual-review",
+      "reason": "The post attributes the artwork to Fable 5.2. The sampled frames show the same completed illustration, with no substantial animation confirmed in this review.",
+      "checked_at": "2026-11-16T13:07:48.274043+00:00"
     }
   ]
 }
