@@ -35744,6 +35744,69 @@
         "likes_delta": 25,
         "reposts_delta": 3
       }
+    },
+    {
+      "id": "akiyoshisan-2123710585963692068",
+      "titles": {
+        "en": "The Cursor Gets Bitten",
+        "zh-CN": "鼠标指针被咬了一口",
+        "ja": "かじられたマウスカーソル",
+        "ko": "한 입 베어 물린 마우스 커서",
+        "es": "El cursor recibe un mordisco"
+      },
+      "category": "short-films",
+      "creator": {
+        "name": "akiyoshisan",
+        "url": "https://x.com/akiyoshisan"
+      },
+      "source_url": "https://x.com/akiyoshisan/status/2123710585963692068",
+      "published_at": "2026-11-20T09:30:34+00:00",
+      "duration_seconds": 32.466,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123710302386814976/img/i0u67TsF5Qlf81Y4.jpg",
+      "preview_path": "assets/previews/akiyoshisan-2123710585963692068.webp",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/akiyoshisan-2123710585963692068.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2123710302386814976/vid/avc1/320x568/hElUVF47HZ87yHTf.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-21",
+        "checked_at": "2026-11-21T14:03:54.797634+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "22670e08fcb24c7d858fa79881381d236f50506c512923b95e42cd8b6fde8888",
+        "model_named": true,
+        "video_checked_at": "2026-11-21T14:03:56.843402+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": "絵が矢印に反応する",
+        "source_url": "https://x.com/akiyoshisan/status/2123710585963692068"
+      },
+      "native_media_id": "2123710302386814976",
+      "media_rights": "Silent visual excerpt of the creator’s original upload. Full video remains on X.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A hand-drawn character bites a persistent notch into a mouse cursor, turning cursor contact into a running visual gag.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "Fable 5.2 directed nine original drawings in Blender via Python. Suno extended the creator’s bass recording and FFmpeg assembled the frames.",
+        "zh-CN": "Fable 5.2 编排九幅原画，用 Python 驱动 Blender，并用 FFmpeg 合成。音乐由 Suno 延展作者自己的贝斯录音。",
+        "ja": "Fable 5.2が9枚の原画を演出し、PythonでBlenderを動かしてFFmpegで映像化。音は作者のベースをSunoで延長した。",
+        "ko": "Fable 5.2가 원화 아홉 장을 연출하고 Python으로 Blender를 구동했다. FFmpeg로 영상을 합쳤으며 Suno로 제작자의 베이스 녹음을 늘렸다.",
+        "es": "Fable 5.2 dirigió nueve dibujos originales con Python y Blender. Suno amplió la grabación de bajo del autor y FFmpeg ensambló los fotogramas."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-21T04:54:58.940535+00:00",
+          "views": 262,
+          "likes": 5,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 0
+        }
+      ],
+      "momentum": {
+        "state": "new"
+      }
     }
   ]
 }

@@ -8,12 +8,19 @@
 
 <a id="short-films"></a>
 
-## 단편과 스토리 · 65
+## 단편과 스토리 · 66
 
 캐릭터 이야기, 애니메이션 단편, 영화적 서사와 뮤직비디오.
 
 <table>
 <tr>
+<td width="33%" valign="top">
+<a href="https://video.twimg.com/amplify_video/2123710302386814976/vid/avc1/320x568/hElUVF47HZ87yHTf.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/akiyoshisan-2123710585963692068.webp" alt="한 입 베어 물린 마우스 커서 — @akiyoshisan" width="100%" loading="lazy"></a><br>
+<b>한 입 베어 물린 마우스 커서</b><br>
+<sub><b>새 발견</b> · <a href="https://x.com/akiyoshisan">@akiyoshisan</a> · 0:32 · 2026-11-20</sub><br>
+<a href="https://video.twimg.com/amplify_video/2123710302386814976/vid/avc1/320x568/hElUVF47HZ87yHTf.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/akiyoshisan/status/2123710585963692068">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/akiyoshisan-2123710585963692068.md">상세 정보</a>
+<details><summary>📝 프롬프트 보기</summary><blockquote>絵が矢印に反応する</blockquote><p><a href="https://x.com/akiyoshisan/status/2123710585963692068">창작자의 공개 프롬프트 보기</a></p></details>
+</td>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2122082407050625025/vid/avc1/1920x1080/a886u05N-7FNnxww.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/matabee-gto-2122082697413841091.webp" alt="최악의 하루 2편 — @matabee_GTO" width="100%" loading="lazy"></a><br>
 <b>최악의 하루 2편</b><br>
@@ -28,6 +35,8 @@
 <a href="https://video.twimg.com/amplify_video/2122065027339329536/vid/avc1/2580x1080/TXi8bpetSDYDKLzz.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/aGim_asf/status/2122065184743153882">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/agim-asf-2122065184743153882.md">상세 정보</a>
 <details><summary>📝 프롬프트 보기</summary><p>창작자가 아래 링크에서 프롬프트를 공유했습니다. 참고 자료와 추가 지시를 포함한 원래 맥락을 확인하세요.</p><p><a href="https://x.com/aGim_asf/status/2122065188325122269">창작자의 공개 프롬프트 보기</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2121888732135788544/vid/avc1/1080x1920/T6MRHBPf7hXe_aPh.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/akiyoshisan-2121890007237722501.webp" alt="손그림의 선이 실이 되어 캐릭터를 다시 짜는 영상 — @akiyoshisan" width="100%" loading="lazy"></a><br>
 <b>손그림의 선이 실이 되어 캐릭터를 다시 짜는 영상</b><br>
@@ -35,8 +44,6 @@
 <a href="https://video.twimg.com/amplify_video/2121888732135788544/vid/avc1/1080x1920/T6MRHBPf7hXe_aPh.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/akiyoshisan/status/2121890007237722501">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/akiyoshisan-2121890007237722501.md">상세 정보</a>
 <details><summary>📝 프롬프트 보기</summary><blockquote>手描きの線そのものを立体にして</blockquote><p><a href="https://x.com/akiyoshisan/status/2121890007237722501">창작자의 공개 프롬프트 보기</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2121780079818911744/vid/avc1/3840x2160/Si2gJV-V3_k7SLyG.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kevin-t-ngo-2121780322106999106.webp" alt="가상 스트리머가 실제 퍼즐 플랫폼 게임을 플레이하는 영상 — @kevin_t_ngo" width="100%" loading="lazy"></a><br>
 <b>가상 스트리머가 실제 퍼즐 플랫폼 게임을 플레이하는 영상</b><br>
@@ -51,6 +58,8 @@
 <a href="https://video.twimg.com/amplify_video/2121634141472997376/vid/avc1/3840x2160/ad8dwsaeRrRDLc6w.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/rileybrown/status/2121642720045261185">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/rileybrown-2121642720045261185.md">상세 정보</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2121533377635561472/vid/avc1/720x1280/GWsG5RFifG3RAvyK.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/daiusami-2121533741730508841.webp" alt="공룡 발밑을 달리는 탐험가 — @daiusami" width="100%" loading="lazy"></a><br>
 <b>공룡 발밑을 달리는 탐험가</b><br>
@@ -58,8 +67,6 @@
 <a href="https://video.twimg.com/amplify_video/2121533377635561472/vid/avc1/720x1280/GWsG5RFifG3RAvyK.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/daiusami/status/2121533741730508841">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/daiusami-2121533741730508841.md">상세 정보</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2121449186055073792/vid/avc1/1280x720/AGilyHy2M2HMhJpS.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/shiomasvision-2121449322453860803.webp" alt="생명의 소중함을 전하는 그림책풍 단편 — @shiomasvision" width="100%" loading="lazy"></a><br>
 <b>생명의 소중함을 전하는 그림책풍 단편</b><br>
@@ -74,6 +81,8 @@
 <a href="https://video.twimg.com/amplify_video/2121360344727609344/vid/avc1/1280x720/4oNmqpcE1pO7yUPp.mp4?tag=14">▶ 전체 영상</a> · <a href="https://x.com/GabransKristers/status/2121361595313828070">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/gabranskristers-2121361595313828070.md">상세 정보</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2121260777667735552/vid/avc1/1080x1080/E9SGCsLNIrFdfgmJ.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kevin-t-ngo-2121261917016903748.webp" alt="오리와 알이 등장하는 손그림풍 단편 — @kevin_t_ngo" width="100%" loading="lazy"></a><br>
 <b>오리와 알이 등장하는 손그림풍 단편</b><br>
@@ -81,8 +90,6 @@
 <a href="https://video.twimg.com/amplify_video/2121260777667735552/vid/avc1/1080x1080/E9SGCsLNIrFdfgmJ.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/kevin_t_ngo/status/2121261917016903748">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/kevin-t-ngo-2121261917016903748.md">상세 정보</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2121175618289389568/vid/avc1/3024x1660/GD6vq4RoARkQT7vs.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/chetaslua-2121176151234330707.webp" alt="Three.js로 만든 용 단편 적룡 — @chetaslua" width="100%" loading="lazy"></a><br>
 <b>Three.js로 만든 용 단편 적룡</b><br>
@@ -97,6 +104,8 @@
 <a href="https://video.twimg.com/amplify_video/2121169025631997952/vid/avc1/1920x1080/IgSo06brX97Ok9aR.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/manaimovie/status/2121170941090857245">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/manaimovie-2121170941090857245.md">상세 정보</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2121121702482747392/vid/avc1/1080x1920/Eg6j8xBR8oMxvQRB.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/akiyoshisan-2121122179018531193.webp" alt="종이 로봇이 거울로 변하는 단편 — @akiyoshisan" width="100%" loading="lazy"></a><br>
 <b>종이 로봇이 거울로 변하는 단편</b><br>
@@ -104,8 +113,6 @@
 <a href="https://video.twimg.com/amplify_video/2121121702482747392/vid/avc1/1080x1920/Eg6j8xBR8oMxvQRB.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/akiyoshisan/status/2121122179018531193">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/akiyoshisan-2121122179018531193.md">상세 정보</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2121066008483913728/vid/avc1/1920x1080/kzRTU-ZlEwqnem5b.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/loktar00-2121066943662743624.webp" alt="파도까지 블록으로 만든 해적 단편 — @loktar00" width="100%" loading="lazy"></a><br>
 <b>파도까지 블록으로 만든 해적 단편</b><br>
@@ -120,6 +127,8 @@
 <a href="https://video.twimg.com/amplify_video/2121001266042044416/vid/avc1/1920x1080/oqE5i6yq8lLnPvqf.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/0xMovez/status/2121001440470577157">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/0xmovez-2121001440470577157.md">상세 정보</a>
 <details><summary>📝 프롬프트 보기</summary><p>창작자가 아래 링크에서 프롬프트를 공유했습니다. 참고 자료와 추가 지시를 포함한 원래 맥락을 확인하세요.</p><p><a href="https://x.com/0xMovez/status/2121001444383814027">창작자의 공개 프롬프트 보기</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120994255674265600/vid/avc1/1920x1080/cnZy7HvICvE7MpNw.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/matabee-gto-2120995946372985144.webp" alt="도미노와 일부러 신경을 거슬리게 만든 애니메이션 — @matabee_GTO" width="100%" loading="lazy"></a><br>
 <b>도미노와 일부러 신경을 거슬리게 만든 애니메이션</b><br>
@@ -127,8 +136,6 @@
 <a href="https://video.twimg.com/amplify_video/2120994255674265600/vid/avc1/1920x1080/cnZy7HvICvE7MpNw.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/matabee_GTO/status/2120995946372985144">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/matabee-gto-2120995946372985144.md">상세 정보</a>
 <details><summary>📝 프롬프트 보기</summary><blockquote>今持っている力を全て使って不快な動画を作って</blockquote><p><a href="https://x.com/matabee_GTO/status/2120995946372985144">창작자의 공개 프롬프트 보기</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120993122905714688/vid/avc1/1920x1080/YvGH-b768C4qpAkk.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/finnardley-2120993184561995884.webp" alt="물가의 녹슨 로봇 — @finnardley" width="100%" loading="lazy"></a><br>
 <b>물가의 녹슨 로봇</b><br>
@@ -143,6 +150,8 @@
 <a href="https://video.twimg.com/amplify_video/2120858849347567616/vid/avc1/1920x1080/nn3mPUMUshjI7UNO.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/ICO_AIvideo/status/2120860567581921508">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/ico-aivideo-2120860567581921508.md">상세 정보</a>
 <details><summary>📝 프롬프트 보기</summary><p>창작자가 아래 링크에서 프롬프트를 공유했습니다. 참고 자료와 추가 지시를 포함한 원래 맥락을 확인하세요.</p><p><a href="https://x.com/ICO_AIvideo/status/2121170072127606912">창작자의 공개 프롬프트 보기</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120840737180823552/vid/avc1/1080x1080/HLKE2U0C4YCpziCB.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/eluchocha-2120856734759547259.webp" alt="랜턴을 든 여정 — @eluchocha" width="100%" loading="lazy"></a><br>
 <b>랜턴을 든 여정</b><br>
@@ -150,8 +159,6 @@
 <a href="https://video.twimg.com/amplify_video/2120840737180823552/vid/avc1/1080x1080/HLKE2U0C4YCpziCB.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/eluchocha/status/2120856734759547259">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/eluchocha-2120856734759547259.md">상세 정보</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120729437482455040/vid/avc1/1920x1080/6gkPJnL7ykHAwazS.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/wangray-2120730013037466048.webp" alt="책상 위 Clawd가 등장하는 Blender 단편 — @wangray" width="100%" loading="lazy"></a><br>
 <b>책상 위 Clawd가 등장하는 Blender 단편</b><br>
@@ -166,6 +173,8 @@
 <a href="https://video.twimg.com/amplify_video/2120525771433521152/vid/avc1/1920x1080/Sq8XVa5ZRgc_VMVh.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/DDJCXX/status/2120728292084842578">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/ddjcxx-2120728292084842578.md">상세 정보</a>
 <details><summary>📝 프롬프트 보기</summary><p>창작자가 아래 링크에서 프롬프트를 공유했습니다. 참고 자료와 추가 지시를 포함한 원래 맥락을 확인하세요.</p><p><a href="https://x.com/DDJCXX/status/2120728293003395350">창작자의 공개 프롬프트 보기</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120707203707621378/vid/avc1/1920x1080/phHDECzgrrQ5213D.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/creatorzz-2120707230513377714.webp" alt="두 모델로 비교한 SF 예고편 〈최종 전파〉 — @_creatorzz_" width="100%" loading="lazy"></a><br>
 <b>두 모델로 비교한 SF 예고편 〈최종 전파〉</b><br>
@@ -173,8 +182,6 @@
 <a href="https://video.twimg.com/amplify_video/2120707203707621378/vid/avc1/1920x1080/phHDECzgrrQ5213D.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/_creatorzz_/status/2120707230513377714">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/creatorzz-2120707230513377714.md">상세 정보</a>
 <details><summary>📝 프롬프트 보기</summary><p>창작자가 아래 링크에서 프롬프트를 공유했습니다. 참고 자료와 추가 지시를 포함한 원래 맥락을 확인하세요.</p><p><a href="https://x.com/_creatorzz_/status/2120707232824492180">창작자의 공개 프롬프트 보기</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120699144675422209/vid/avc1/1920x1080/gSq9XsjXigL3ZOUQ.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kazumarudrive-2120699556207919454.webp" alt="과장된 효과를 잔뜩 넣은 요리 숏폼 — @kazumarudrive" width="100%" loading="lazy"></a><br>
 <b>과장된 효과를 잔뜩 넣은 요리 숏폼</b><br>
@@ -189,6 +196,8 @@
 <a href="https://video.twimg.com/amplify_video/2120643700003082240/vid/avc1/3840x2160/IrX_jwUNliOLWHBc.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/JacobMolBio/status/2120648796334178374">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/jacobmolbio-2120648796334178374.md">상세 정보</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120640502261575680/vid/avc1/1280x720/k2KorEXRvxHQV80s.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/toumorocorn-00-2120640549543936475.webp" alt="〈새벽까지〉 Blender로 그린 책상 위 이야기 — @toumorocorn_00" width="100%" loading="lazy"></a><br>
 <b>〈새벽까지〉 Blender로 그린 책상 위 이야기</b><br>
@@ -196,8 +205,6 @@
 <a href="https://video.twimg.com/amplify_video/2120640502261575680/vid/avc1/1280x720/k2KorEXRvxHQV80s.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/toumorocorn_00/status/2120640549543936475">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/toumorocorn-00-2120640549543936475.md">상세 정보</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120351689219936256/vid/avc1/1280x720/-ICvOF8Av4JnSAaj.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/shun-cmdouga-2120622594663616515.webp" alt="서로 다른 세계로 뛰어드는 1인칭 Blender 단편 — @shun_cmdouga" width="100%" loading="lazy"></a><br>
 <b>서로 다른 세계로 뛰어드는 1인칭 Blender 단편</b><br>
@@ -212,6 +219,8 @@
 <a href="https://video.twimg.com/amplify_video/2120601647760261120/vid/avc1/1920x1080/IAnqlZZmZKQrtPKZ.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/Iamshankhadeep/status/2120601879029907520">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/iamshankhadeep-2120601879029907520.md">상세 정보</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120387084984922112/vid/avc1/1080x1920/Amvlx9hYtRvo0Fcn.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/akiyoshisan-2120387868665475262.webp" alt="베이스 한 음에 새로운 세계가 펼쳐지는 영상 — @akiyoshisan" width="100%" loading="lazy"></a><br>
 <b>베이스 한 음에 새로운 세계가 펼쳐지는 영상</b><br>
@@ -219,8 +228,6 @@
 <a href="https://video.twimg.com/amplify_video/2120387084984922112/vid/avc1/1080x1920/Amvlx9hYtRvo0Fcn.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/akiyoshisan/status/2120387868665475262">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/akiyoshisan-2120387868665475262.md">상세 정보</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120369184358219776/vid/avc1/1920x1080/j9UKua0CYkk4uFst.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/matabee-gto-2120369352428110267.webp" alt="모든 일이 꼬이는 하루를 담은 단편 — @matabee_GTO" width="100%" loading="lazy"></a><br>
 <b>모든 일이 꼬이는 하루를 담은 단편</b><br>
@@ -235,6 +242,8 @@
 <a href="https://video.twimg.com/amplify_video/2120214618446417920/vid/avc1/1080x1920/jW0o4UtzTEqtErDB.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/aollivier82/status/2120335703062290623">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/aollivier82-2120335703062290623.md">상세 정보</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120214452507115520/vid/avc1/1080x1920/C_n2LMgpQ5ZWqwdh.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/aollivier82-2120324378521116962.webp" alt="물에 떨어진 기름으로 이야기를 그린 추상 단편 — @aollivier82" width="100%" loading="lazy"></a><br>
 <b>물에 떨어진 기름으로 이야기를 그린 추상 단편</b><br>
@@ -242,8 +251,6 @@
 <a href="https://video.twimg.com/amplify_video/2120214452507115520/vid/avc1/1080x1920/C_n2LMgpQ5ZWqwdh.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/aollivier82/status/2120324378521116962">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/aollivier82-2120324378521116962.md">상세 정보</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120291597568954368/vid/avc1/1080x1080/s1ZeBfuKZ6fDnlbx.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/iaencrudo-2120291820844273983.webp" alt="나무를 키우는 이야기를 코드로 그린 단편 — @IAenCrudo" width="100%" loading="lazy"></a><br>
 <b>나무를 키우는 이야기를 코드로 그린 단편</b><br>
@@ -258,6 +265,8 @@
 <a href="https://video.twimg.com/amplify_video/2120265887135715328/vid/avc1/1920x1080/6M8UYJ2wXkM5cgJM.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/untitled_sys/status/2120265921390621058">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/untitled-sys-2120265921390621058.md">상세 정보</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120264070083620864/vid/avc1/1920x1080/80xVsB3rl4Bxzo30.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/iamshankhadeep-2120264513224392712.webp" alt="폭포 옆 책상을 담은 Blender 쇼릴 — @Iamshankhadeep" width="100%" loading="lazy"></a><br>
 <b>폭포 옆 책상을 담은 Blender 쇼릴</b><br>
@@ -265,8 +274,6 @@
 <a href="https://video.twimg.com/amplify_video/2120264070083620864/vid/avc1/1920x1080/80xVsB3rl4Bxzo30.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/Iamshankhadeep/status/2120264513224392712">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/iamshankhadeep-2120264513224392712.md">상세 정보</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120168960221966337/vid/avc1/1008x1152/0S9D71pMUOb8P1h9.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/theoardley-2120169016601853958.webp" alt="자신을 나무 상자에 넣어 호주로 보낸 남자 — @theoardley" width="100%" loading="lazy"></a><br>
 <b>자신을 나무 상자에 넣어 호주로 보낸 남자</b><br>
@@ -281,6 +288,8 @@
 <a href="https://video.twimg.com/amplify_video/2120128135681470464/vid/avc1/910x512/z_FMx9vV7-Tja50p.mp4?tag=14">▶ 전체 영상</a> · <a href="https://x.com/kosen_labo/status/2120128253327474845">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/kosen-labo-2120128253327474845.md">상세 정보</a>
 <details><summary>📝 프롬프트 보기</summary><blockquote>高専について、なんかすごい動画を作ってください</blockquote><p><a href="https://x.com/kosen_labo/status/2120128253327474845">창작자의 공개 프롬프트 보기</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120128077975977984/vid/avc1/1280x720/m9IjLTrfzffl_S5p.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/uraharastudio-2120128234499002537.webp" alt="코드로 그린 야미와 샹크스의 대결 — @Uraharastudio" width="100%" loading="lazy"></a><br>
 <b>코드로 그린 야미와 샹크스의 대결</b><br>
@@ -288,8 +297,6 @@
 <a href="https://video.twimg.com/amplify_video/2120128077975977984/vid/avc1/1280x720/m9IjLTrfzffl_S5p.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/Uraharastudio/status/2120128234499002537">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/uraharastudio-2120128234499002537.md">상세 정보</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120117891240742914/vid/avc1/1920x1080/-2LACPT73SSi5tr7.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/lemomo-ai-2120118194409193682.webp" alt="달빛 도서관에서 날아오르는 책장 — @lemomo_ai" width="100%" loading="lazy"></a><br>
 <b>달빛 도서관에서 날아오르는 책장</b><br>
@@ -304,6 +311,8 @@
 <a href="https://video.twimg.com/amplify_video/2120100208990371842/vid/avc1/1920x1080/AvuwxFaTzQOwI2tO.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/argofowl/status/2120100759195000942">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/argofowl-2120100759195000942.md">상세 정보</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120091572830388224/vid/avc1/1212x668/4dpNdt1GmAYYx4ix.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/hajimetwi3-2120093427731943510.webp" alt="HTML 파일 하나로 만든 실시간 영상시 — @hajimetwi3" width="100%" loading="lazy"></a><br>
 <b>HTML 파일 하나로 만든 실시간 영상시</b><br>
@@ -311,8 +320,6 @@
 <a href="https://video.twimg.com/amplify_video/2120091572830388224/vid/avc1/1212x668/4dpNdt1GmAYYx4ix.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/hajimetwi3/status/2120093427731943510">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/hajimetwi3-2120093427731943510.md">상세 정보</a>
 <details><summary>📝 프롬프트 보기</summary><blockquote>凄いものを作って！！</blockquote><p><a href="https://x.com/hajimetwi3/status/2120093427731943510">창작자의 공개 프롬프트 보기</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120093387827408896/vid/avc1/1280x720/smY9JD24a6IJBHmb.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/okknews-2120093425739706435.webp" alt="최종 보스가 등장하는 Model Wars 애니메이션 — @okknews" width="100%" loading="lazy"></a><br>
 <b>최종 보스가 등장하는 Model Wars 애니메이션</b><br>
@@ -327,6 +334,8 @@
 <a href="https://video.twimg.com/amplify_video/2119959242413379584/vid/avc1/1920x1080/wGI80-cGZLEwRMvR.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/seiiiiiiiiiiru/status/2120079029386588503">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/seiiiiiiiiiiru-2120079029386588503.md">상세 정보</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120077244446183424/vid/avc1/1920x1080/i_TF0cdPU4CEPy9M.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ds-nakajima-2120077444724191633.webp" alt="하나의 빛점에서 시작하는 우주 애니메이션 — @ds_nakajima" width="100%" loading="lazy"></a><br>
 <b>하나의 빛점에서 시작하는 우주 애니메이션</b><br>
@@ -334,8 +343,6 @@
 <a href="https://video.twimg.com/amplify_video/2120077244446183424/vid/avc1/1920x1080/i_TF0cdPU4CEPy9M.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/ds_nakajima/status/2120077444724191633">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/ds-nakajima-2120077444724191633.md">상세 정보</a>
 <details><summary>📝 프롬프트 보기</summary><blockquote>すごい動画を作ったほしい</blockquote><p><a href="https://x.com/ds_nakajima/status/2120077444724191633">창작자의 공개 프롬프트 보기</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120076635022176256/vid/avc1/1920x1080/_pMVSUXNU5xgUqUo.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/rute1203d-2120077147872391540.webp" alt="입자 실험에서 벚꽃 풍경으로 이어지는 일본어 단편 — @rute1203d" width="100%" loading="lazy"></a><br>
 <b>입자 실험에서 벚꽃 풍경으로 이어지는 일본어 단편</b><br>
@@ -350,6 +357,8 @@
 <a href="https://video.twimg.com/amplify_video/2120073390942048256/vid/avc1/3024x1714/xZRjyNo0Fwszd5WF.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/HaileyAILabs/status/2120075292043890890">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/haileyailabs-2120075292043890890.md">상세 정보</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120014231450034176/vid/avc1/1920x1080/7CaA0vV2Tej61d3g.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/wshuyi-2120014892040417720.webp" alt="사냥하는 검치호의 코드 애니메이션 — @wshuyi" width="100%" loading="lazy"></a><br>
 <b>사냥하는 검치호의 코드 애니메이션</b><br>
@@ -357,8 +366,6 @@
 <a href="https://video.twimg.com/amplify_video/2120014231450034176/vid/avc1/1920x1080/7CaA0vV2Tej61d3g.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/wshuyi/status/2120014892040417720">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/wshuyi-2120014892040417720.md">상세 정보</a>
 <details><summary>📝 프롬프트 보기</summary><p>창작자가 아래 링크에서 프롬프트를 공유했습니다. 참고 자료와 추가 지시를 포함한 원래 맥락을 확인하세요.</p><p><a href="https://x.com/wshuyi/status/2120014892040417720">창작자의 공개 프롬프트 보기</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120010999818289152/vid/avc1/1920x1080/IWfi7bdM6kIQXIB4.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/anabology-2120011096287297557.webp" alt="코드로 무대를 만든 꿈의 단편 — @anabology" width="100%" loading="lazy"></a><br>
 <b>코드로 무대를 만든 꿈의 단편</b><br>
@@ -373,6 +380,8 @@
 <a href="https://video.twimg.com/amplify_video/2119991676600975360/vid/avc1/1920x1080/SkX17BUiYGK12VwD.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/imjustnewatai/status/2119991883997045049">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/imjustnewatai-2119991883997045049.md">상세 정보</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119959154026840064/vid/avc1/1920x1080/xTHXVvf_6YhKOkmx.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/renoiseai-2119959294716326280.webp" alt="대본을 따르지 않는 고양이 — @renoiseai" width="100%" loading="lazy"></a><br>
 <b>대본을 따르지 않는 고양이</b><br>
@@ -380,8 +389,6 @@
 <a href="https://video.twimg.com/amplify_video/2119959154026840064/vid/avc1/1920x1080/xTHXVvf_6YhKOkmx.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/renoiseai/status/2119959294716326280">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/renoiseai-2119959294716326280.md">상세 정보</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119937132647313408/vid/avc1/1080x1080/T2W6Dhpu_gMoxVTM.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kevin-t-ngo-2119938129079808282.webp" alt="JavaScript로 프레임을 그린 애니메이션 단편 — @kevin_t_ngo" width="100%" loading="lazy"></a><br>
 <b>JavaScript로 프레임을 그린 애니메이션 단편</b><br>
@@ -396,6 +403,8 @@
 <a href="https://video.twimg.com/amplify_video/2119923123092893696/vid/avc1/720x1280/M2J_aC5567oGoPEu.mp4?tag=14">▶ 전체 영상</a> · <a href="https://x.com/osmanaga__/status/2119923975635738780">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/osmanaga-146194.md">상세 정보</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119910396719177728/vid/avc1/1280x720/0X1wTe1JivqZgtXw.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/wesroth-934330.webp" alt="가사에 맞춰 움직이는 애니메이션 뮤직비디오 — @WesRoth" width="100%" loading="lazy"></a><br>
 <b>가사에 맞춰 움직이는 애니메이션 뮤직비디오</b><br>
@@ -403,8 +412,6 @@
 <a href="https://video.twimg.com/amplify_video/2119910396719177728/vid/avc1/1280x720/0X1wTe1JivqZgtXw.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/WesRoth/status/2119911161386934330">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/wesroth-934330.md">상세 정보</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119909698367557632/vid/avc1/1920x1080/EkOxfDMK1PSG_XOD.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kloss-xyz-2119910613828980846.webp" alt="Fable 5.2가 기획하고 Opus 5.5가 제작한 Blender 단편 — @kloss_xyz" width="100%" loading="lazy"></a><br>
 <b>Fable 5.2가 기획하고 Opus 5.5가 제작한 Blender 단편</b><br>
@@ -419,6 +426,8 @@
 <a href="https://video.twimg.com/amplify_video/2119904158409256960/vid/avc1/1920x1080/FHiVbLKGnw5mFlJ7.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/EngMoElgaraihy/status/2119904813718643141">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/engmoelgaraihy-643141.md">상세 정보</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119904119569690624/vid/avc1/1080x1920/24p1AimqIbXNXJ-Z.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/cube-lol-832554.webp" alt="생성 이미지 없이 만든 46초 영상 — @cube__lol" width="100%" loading="lazy"></a><br>
 <b>생성 이미지 없이 만든 46초 영상</b><br>
@@ -426,8 +435,6 @@
 <a href="https://video.twimg.com/amplify_video/2119904119569690624/vid/avc1/1080x1920/24p1AimqIbXNXJ-Z.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/cube__lol/status/2119904449556832554">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/cube-lol-832554.md">상세 정보</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119904334397792256/vid/avc1/1920x1080/Sz-4m8aagrACSa85.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/g-beyrouti-780943.webp" alt="코드로 그려낸 심해 탐험 — @g_beyrouti" width="100%" loading="lazy"></a><br>
 <b>코드로 그려낸 심해 탐험</b><br>
@@ -442,6 +449,8 @@
 <a href="https://video.twimg.com/amplify_video/2119900741783400450/vid/avc1/1920x1080/m--vaF5s-VQhaEAL.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/0kncn/status/2119901782482543073">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/0kncn-543073.md">상세 정보</a>
 <details><summary>📝 프롬프트 보기</summary><p>창작자가 아래 링크에서 프롬프트를 공유했습니다. 참고 자료와 추가 지시를 포함한 원래 맥락을 확인하세요.</p><p><a href="https://x.com/0kncn/status/2119901786060259612">창작자의 공개 프롬프트 보기</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119899951345893376/vid/avc1/1920x1080/YjLMjLxfThe6MUXI.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/noisyb0y1-218472.webp" alt="코드로 만든 83초 애니메이션 영화 — @noisyb0y1" width="100%" loading="lazy"></a><br>
 <b>코드로 만든 83초 애니메이션 영화</b><br>
@@ -449,8 +458,6 @@
 <a href="https://video.twimg.com/amplify_video/2119899951345893376/vid/avc1/1920x1080/YjLMjLxfThe6MUXI.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/noisyb0y1/status/2119900528197218472">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/noisyb0y1-218472.md">상세 정보</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119897357940621312/vid/avc1/1920x1080/ZjoaXFviS7F_qc-m.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/yinyangyoeshi-001317.webp" alt="Discovery: Three.js 단편 영상 — @YinYangYoeshi" width="100%" loading="lazy"></a><br>
 <b>Discovery: Three.js 단편 영상</b><br>
@@ -465,6 +472,8 @@
 <a href="https://video.twimg.com/amplify_video/2119895450509586432/vid/avc1/1920x1080/AS5GlEaPMeHXKU5d.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/jessalanfields/status/2119895969957392730">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/jessalanfields-392730.md">상세 정보</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119892377045237760/vid/avc1/1920x1080/u8IeGB-A3MQgl4XE.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/devteamdrew-241283.webp" alt="작은 생명체에서 우주까지 — @devteamdrew" width="100%" loading="lazy"></a><br>
 <b>작은 생명체에서 우주까지</b><br>
@@ -472,8 +481,6 @@
 <a href="https://video.twimg.com/amplify_video/2119892377045237760/vid/avc1/1920x1080/u8IeGB-A3MQgl4XE.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/devteamdrew/status/2119892540950241283">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/devteamdrew-241283.md">상세 정보</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119889346706673664/vid/avc1/1920x1080/VxlTVaaElWO17W42.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/marvellousdev-380563.webp" alt="등대지기의 단편 영상 — @MarvellousDev" width="100%" loading="lazy"></a><br>
 <b>등대지기의 단편 영상</b><br>
@@ -488,6 +495,8 @@
 <a href="https://video.twimg.com/amplify_video/2119887881321787392/vid/avc1/1920x1080/zPvL0-S5VSv6SkYI.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/ponken00/status/2119888362148622656">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/ponken00-622656.md">상세 정보</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/ext_tw_video/2119885702250786816/pu/vid/avc1/1280x720/vaqq1fwB8qUuFlPu.mp4?tag=27"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/peach2k2-738033.webp" alt="테토가 부르는 보컬로이드 사랑 노래 — @peach2k2" width="100%" loading="lazy"></a><br>
 <b>테토가 부르는 보컬로이드 사랑 노래</b><br>
@@ -495,8 +504,6 @@
 <a href="https://video.twimg.com/ext_tw_video/2119885702250786816/pu/vid/avc1/1280x720/vaqq1fwB8qUuFlPu.mp4?tag=27">▶ 전체 영상</a> · <a href="https://x.com/peach2k2/status/2119885741773738033">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/peach2k2-738033.md">상세 정보</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119880037172146176/vid/avc1/1920x1080/E4G1BysAeWIl4yTX.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/lexnlin-977333.webp" alt="살아 있는 세계를 가로지르는 비행 — @LexnLin" width="100%" loading="lazy"></a><br>
 <b>살아 있는 세계를 가로지르는 비행</b><br>
@@ -511,7 +518,6 @@
 <a href="https://video.twimg.com/amplify_video/2119874130904502272/vid/avc1/1920x1080/FVx09qWfu11d8QIK.mp4?tag=29">▶ 전체 영상</a> · <a href="https://x.com/abhinavflac/status/2119875975131676827">원본</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/ko/abhinavflac-676827.md">상세 정보</a>
 
 </td>
-<td width="33%"></td>
 </tr>
 </table>
 

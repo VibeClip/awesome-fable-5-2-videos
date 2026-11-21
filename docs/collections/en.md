@@ -8,12 +8,19 @@ Looping previews on every card. Full videos open on the original platform; unava
 
 <a id="short-films"></a>
 
-## Short Films & Stories · 65
+## Short Films & Stories · 66
 
 Character animation, anime shorts, cinematic storytelling and music videos.
 
 <table>
 <tr>
+<td width="33%" valign="top">
+<a href="https://video.twimg.com/amplify_video/2123710302386814976/vid/avc1/320x568/hElUVF47HZ87yHTf.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/akiyoshisan-2123710585963692068.webp" alt="The Cursor Gets Bitten — @akiyoshisan" width="100%" loading="lazy"></a><br>
+<b>The Cursor Gets Bitten</b><br>
+<sub><b>New</b> · <a href="https://x.com/akiyoshisan">@akiyoshisan</a> · 0:32 · 2026-11-20</sub><br>
+<a href="https://video.twimg.com/amplify_video/2123710302386814976/vid/avc1/320x568/hElUVF47HZ87yHTf.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/akiyoshisan/status/2123710585963692068">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/akiyoshisan-2123710585963692068.md">Details</a>
+<details><summary>📝 View prompt</summary><blockquote>絵が矢印に反応する</blockquote><p><a href="https://x.com/akiyoshisan/status/2123710585963692068">Read the creator’s prompt</a></p></details>
+</td>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2122082407050625025/vid/avc1/1920x1080/a886u05N-7FNnxww.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/matabee-gto-2122082697413841091.webp" alt="The Worst Day, Part Two — @matabee_GTO" width="100%" loading="lazy"></a><br>
 <b>The Worst Day, Part Two</b><br>
@@ -28,6 +35,8 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2122065027339329536/vid/avc1/2580x1080/TXi8bpetSDYDKLzz.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/aGim_asf/status/2122065184743153882">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/agim-asf-2122065184743153882.md">Details</a>
 <details><summary>📝 View prompt</summary><p>The creator shared a prompt at the link below. Read it in its original context, with any references and follow-up instructions.</p><p><a href="https://x.com/aGim_asf/status/2122065188325122269">Read the creator’s prompt</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2121888732135788544/vid/avc1/1080x1920/T6MRHBPf7hXe_aPh.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/akiyoshisan-2121890007237722501.webp" alt="A hand-drawn line becomes thread and redraws a character — @akiyoshisan" width="100%" loading="lazy"></a><br>
 <b>A hand-drawn line becomes thread and redraws a character</b><br>
@@ -35,8 +44,6 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2121888732135788544/vid/avc1/1080x1920/T6MRHBPf7hXe_aPh.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/akiyoshisan/status/2121890007237722501">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/akiyoshisan-2121890007237722501.md">Details</a>
 <details><summary>📝 View prompt</summary><blockquote>手描きの線そのものを立体にして</blockquote><p><a href="https://x.com/akiyoshisan/status/2121890007237722501">Read the creator’s prompt</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2121780079818911744/vid/avc1/3840x2160/Si2gJV-V3_k7SLyG.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kevin-t-ngo-2121780322106999106.webp" alt="A fictional streamer plays a real puzzle platformer — @kevin_t_ngo" width="100%" loading="lazy"></a><br>
 <b>A fictional streamer plays a real puzzle platformer</b><br>
@@ -51,6 +58,8 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2121634141472997376/vid/avc1/3840x2160/ad8dwsaeRrRDLc6w.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/rileybrown/status/2121642720045261185">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/rileybrown-2121642720045261185.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2121533377635561472/vid/avc1/720x1280/GWsG5RFifG3RAvyK.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/daiusami-2121533741730508841.webp" alt="An explorer runs through a dinosaur world — @daiusami" width="100%" loading="lazy"></a><br>
 <b>An explorer runs through a dinosaur world</b><br>
@@ -58,8 +67,6 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2121533377635561472/vid/avc1/720x1280/GWsG5RFifG3RAvyK.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/daiusami/status/2121533741730508841">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/daiusami-2121533741730508841.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2121449186055073792/vid/avc1/1280x720/AGilyHy2M2HMhJpS.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/shiomasvision-2121449322453860803.webp" alt="An illustrated bedtime story about the value of life — @shiomasvision" width="100%" loading="lazy"></a><br>
 <b>An illustrated bedtime story about the value of life</b><br>
@@ -74,6 +81,8 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2121360344727609344/vid/avc1/1280x720/4oNmqpcE1pO7yUPp.mp4?tag=14">▶ Watch</a> · <a href="https://x.com/GabransKristers/status/2121361595313828070">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/gabranskristers-2121361595313828070.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2121260777667735552/vid/avc1/1080x1080/E9SGCsLNIrFdfgmJ.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kevin-t-ngo-2121261917016903748.webp" alt="A hand-drawn-style short about an egg and a duck — @kevin_t_ngo" width="100%" loading="lazy"></a><br>
 <b>A hand-drawn-style short about an egg and a duck</b><br>
@@ -81,8 +90,6 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2121260777667735552/vid/avc1/1080x1080/E9SGCsLNIrFdfgmJ.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/kevin_t_ngo/status/2121261917016903748">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/kevin-t-ngo-2121261917016903748.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2121175618289389568/vid/avc1/3024x1660/GD6vq4RoARkQT7vs.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/chetaslua-2121176151234330707.webp" alt="Crimson Loong, a Three.js dragon short — @chetaslua" width="100%" loading="lazy"></a><br>
 <b>Crimson Loong, a Three.js dragon short</b><br>
@@ -97,6 +104,8 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2121169025631997952/vid/avc1/1920x1080/IgSo06brX97Ok9aR.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/manaimovie/status/2121170941090857245">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/manaimovie-2121170941090857245.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2121121702482747392/vid/avc1/1080x1920/Eg6j8xBR8oMxvQRB.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/akiyoshisan-2121122179018531193.webp" alt="A paper robot becomes a mirror — @akiyoshisan" width="100%" loading="lazy"></a><br>
 <b>A paper robot becomes a mirror</b><br>
@@ -104,8 +113,6 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2121121702482747392/vid/avc1/1080x1920/Eg6j8xBR8oMxvQRB.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/akiyoshisan/status/2121122179018531193">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/akiyoshisan-2121122179018531193.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2121066008483913728/vid/avc1/1920x1080/kzRTU-ZlEwqnem5b.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/loktar00-2121066943662743624.webp" alt="A brick-built pirate short with rolling waves — @loktar00" width="100%" loading="lazy"></a><br>
 <b>A brick-built pirate short with rolling waves</b><br>
@@ -120,6 +127,8 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2121001266042044416/vid/avc1/1920x1080/oqE5i6yq8lLnPvqf.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/0xMovez/status/2121001440470577157">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/0xmovez-2121001440470577157.md">Details</a>
 <details><summary>📝 View prompt</summary><p>The creator shared a prompt at the link below. Read it in its original context, with any references and follow-up instructions.</p><p><a href="https://x.com/0xMovez/status/2121001444383814027">Read the creator’s prompt</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120994255674265600/vid/avc1/1920x1080/cnZy7HvICvE7MpNw.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/matabee-gto-2120995946372985144.webp" alt="Dominoes and other deliberately irritating animations — @matabee_GTO" width="100%" loading="lazy"></a><br>
 <b>Dominoes and other deliberately irritating animations</b><br>
@@ -127,8 +136,6 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2120994255674265600/vid/avc1/1920x1080/cnZy7HvICvE7MpNw.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/matabee_GTO/status/2120995946372985144">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/matabee-gto-2120995946372985144.md">Details</a>
 <details><summary>📝 View prompt</summary><blockquote>今持っている力を全て使って不快な動画を作って</blockquote><p><a href="https://x.com/matabee_GTO/status/2120995946372985144">Read the creator’s prompt</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120993122905714688/vid/avc1/1920x1080/YvGH-b768C4qpAkk.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/finnardley-2120993184561995884.webp" alt="A Rusted Robot on the Waterfront — @finnardley" width="100%" loading="lazy"></a><br>
 <b>A Rusted Robot on the Waterfront</b><br>
@@ -143,6 +150,8 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2120858849347567616/vid/avc1/1920x1080/nn3mPUMUshjI7UNO.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/ICO_AIvideo/status/2120860567581921508">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/ico-aivideo-2120860567581921508.md">Details</a>
 <details><summary>📝 View prompt</summary><p>The creator shared a prompt at the link below. Read it in its original context, with any references and follow-up instructions.</p><p><a href="https://x.com/ICO_AIvideo/status/2121170072127606912">Read the creator’s prompt</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120840737180823552/vid/avc1/1080x1080/HLKE2U0C4YCpziCB.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/eluchocha-2120856734759547259.webp" alt="A Lantern Journey — @eluchocha" width="100%" loading="lazy"></a><br>
 <b>A Lantern Journey</b><br>
@@ -150,8 +159,6 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2120840737180823552/vid/avc1/1080x1080/HLKE2U0C4YCpziCB.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/eluchocha/status/2120856734759547259">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/eluchocha-2120856734759547259.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120729437482455040/vid/avc1/1920x1080/6gkPJnL7ykHAwazS.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/wangray-2120730013037466048.webp" alt="A Blender film with a desktop-sized Clawd — @wangray" width="100%" loading="lazy"></a><br>
 <b>A Blender film with a desktop-sized Clawd</b><br>
@@ -166,6 +173,8 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2120525771433521152/vid/avc1/1920x1080/Sq8XVa5ZRgc_VMVh.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/DDJCXX/status/2120728292084842578">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/ddjcxx-2120728292084842578.md">Details</a>
 <details><summary>📝 View prompt</summary><p>The creator shared a prompt at the link below. Read it in its original context, with any references and follow-up instructions.</p><p><a href="https://x.com/DDJCXX/status/2120728293003395350">Read the creator’s prompt</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120707203707621378/vid/avc1/1920x1080/phHDECzgrrQ5213D.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/creatorzz-2120707230513377714.webp" alt="Two models cut a sci-fi trailer for The Final Signal — @_creatorzz_" width="100%" loading="lazy"></a><br>
 <b>Two models cut a sci-fi trailer for The Final Signal</b><br>
@@ -173,8 +182,6 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2120707203707621378/vid/avc1/1920x1080/phHDECzgrrQ5213D.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/_creatorzz_/status/2120707230513377714">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/creatorzz-2120707230513377714.md">Details</a>
 <details><summary>📝 View prompt</summary><p>The creator shared a prompt at the link below. Read it in its original context, with any references and follow-up instructions.</p><p><a href="https://x.com/_creatorzz_/status/2120707232824492180">Read the creator’s prompt</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120699144675422209/vid/avc1/1920x1080/gSq9XsjXigL3ZOUQ.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kazumarudrive-2120699556207919454.webp" alt="A cooking clip with deliberately over-the-top editing — @kazumarudrive" width="100%" loading="lazy"></a><br>
 <b>A cooking clip with deliberately over-the-top editing</b><br>
@@ -189,6 +196,8 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2120643700003082240/vid/avc1/3840x2160/IrX_jwUNliOLWHBc.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/JacobMolBio/status/2120648796334178374">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/jacobmolbio-2120648796334178374.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120640502261575680/vid/avc1/1280x720/k2KorEXRvxHQV80s.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/toumorocorn-00-2120640549543936475.webp" alt="Until Dawn, a desk-side story rendered in Blender — @toumorocorn_00" width="100%" loading="lazy"></a><br>
 <b>Until Dawn, a desk-side story rendered in Blender</b><br>
@@ -196,8 +205,6 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2120640502261575680/vid/avc1/1280x720/k2KorEXRvxHQV80s.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/toumorocorn_00/status/2120640549543936475">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/toumorocorn-00-2120640549543936475.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120351689219936256/vid/avc1/1280x720/-ICvOF8Av4JnSAaj.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/shun-cmdouga-2120622594663616515.webp" alt="A first-person Blender short that jumps between worlds — @shun_cmdouga" width="100%" loading="lazy"></a><br>
 <b>A first-person Blender short that jumps between worlds</b><br>
@@ -212,6 +219,8 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2120601647760261120/vid/avc1/1920x1080/IAnqlZZmZKQrtPKZ.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/Iamshankhadeep/status/2120601879029907520">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/iamshankhadeep-2120601879029907520.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120387084984922112/vid/avc1/1080x1920/Amvlx9hYtRvo0Fcn.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/akiyoshisan-2120387868665475262.webp" alt="A bass note turns the page on a new world — @akiyoshisan" width="100%" loading="lazy"></a><br>
 <b>A bass note turns the page on a new world</b><br>
@@ -219,8 +228,6 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2120387084984922112/vid/avc1/1080x1920/Amvlx9hYtRvo0Fcn.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/akiyoshisan/status/2120387868665475262">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/akiyoshisan-2120387868665475262.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120369184358219776/vid/avc1/1920x1080/j9UKua0CYkk4uFst.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/matabee-gto-2120369352428110267.webp" alt="A short about a day going wrong — @matabee_GTO" width="100%" loading="lazy"></a><br>
 <b>A short about a day going wrong</b><br>
@@ -235,6 +242,8 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2120214618446417920/vid/avc1/1080x1920/jW0o4UtzTEqtErDB.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/aollivier82/status/2120335703062290623">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/aollivier82-2120335703062290623.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120214452507115520/vid/avc1/1080x1920/C_n2LMgpQ5ZWqwdh.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/aollivier82-2120324378521116962.webp" alt="An abstract story told through oil and water — @aollivier82" width="100%" loading="lazy"></a><br>
 <b>An abstract story told through oil and water</b><br>
@@ -242,8 +251,6 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2120214452507115520/vid/avc1/1080x1920/C_n2LMgpQ5ZWqwdh.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/aollivier82/status/2120324378521116962">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/aollivier82-2120324378521116962.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120291597568954368/vid/avc1/1080x1080/s1ZeBfuKZ6fDnlbx.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/iaencrudo-2120291820844273983.webp" alt="A code-drawn story about growing a tree — @IAenCrudo" width="100%" loading="lazy"></a><br>
 <b>A code-drawn story about growing a tree</b><br>
@@ -258,6 +265,8 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2120265887135715328/vid/avc1/1920x1080/6M8UYJ2wXkM5cgJM.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/untitled_sys/status/2120265921390621058">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/untitled-sys-2120265921390621058.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120264070083620864/vid/avc1/1920x1080/80xVsB3rl4Bxzo30.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/iamshankhadeep-2120264513224392712.webp" alt="A Blender showreel on a desk beside a waterfall — @Iamshankhadeep" width="100%" loading="lazy"></a><br>
 <b>A Blender showreel on a desk beside a waterfall</b><br>
@@ -265,8 +274,6 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2120264070083620864/vid/avc1/1920x1080/80xVsB3rl4Bxzo30.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/Iamshankhadeep/status/2120264513224392712">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/iamshankhadeep-2120264513224392712.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120168960221966337/vid/avc1/1008x1152/0S9D71pMUOb8P1h9.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/theoardley-2120169016601853958.webp" alt="The man who mailed himself to Australia — @theoardley" width="100%" loading="lazy"></a><br>
 <b>The man who mailed himself to Australia</b><br>
@@ -281,6 +288,8 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2120128135681470464/vid/avc1/910x512/z_FMx9vV7-Tja50p.mp4?tag=14">▶ Watch</a> · <a href="https://x.com/kosen_labo/status/2120128253327474845">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/kosen-labo-2120128253327474845.md">Details</a>
 <details><summary>📝 View prompt</summary><blockquote>高専について、なんかすごい動画を作ってください</blockquote><p><a href="https://x.com/kosen_labo/status/2120128253327474845">Read the creator’s prompt</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120128077975977984/vid/avc1/1280x720/m9IjLTrfzffl_S5p.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/uraharastudio-2120128234499002537.webp" alt="Yami vs Shanks, animated in code — @Uraharastudio" width="100%" loading="lazy"></a><br>
 <b>Yami vs Shanks, animated in code</b><br>
@@ -288,8 +297,6 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2120128077975977984/vid/avc1/1280x720/m9IjLTrfzffl_S5p.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/Uraharastudio/status/2120128234499002537">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/uraharastudio-2120128234499002537.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120117891240742914/vid/avc1/1920x1080/-2LACPT73SSi5tr7.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/lemomo-ai-2120118194409193682.webp" alt="A moonlit library of flying pages — @lemomo_ai" width="100%" loading="lazy"></a><br>
 <b>A moonlit library of flying pages</b><br>
@@ -304,6 +311,8 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2120100208990371842/vid/avc1/1920x1080/AvuwxFaTzQOwI2tO.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/argofowl/status/2120100759195000942">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/argofowl-2120100759195000942.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120091572830388224/vid/avc1/1212x668/4dpNdt1GmAYYx4ix.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/hajimetwi3-2120093427731943510.webp" alt="A real-time visual poem in a single HTML file — @hajimetwi3" width="100%" loading="lazy"></a><br>
 <b>A real-time visual poem in a single HTML file</b><br>
@@ -311,8 +320,6 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2120091572830388224/vid/avc1/1212x668/4dpNdt1GmAYYx4ix.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/hajimetwi3/status/2120093427731943510">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/hajimetwi3-2120093427731943510.md">Details</a>
 <details><summary>📝 View prompt</summary><blockquote>凄いものを作って！！</blockquote><p><a href="https://x.com/hajimetwi3/status/2120093427731943510">Read the creator’s prompt</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120093387827408896/vid/avc1/1280x720/smY9JD24a6IJBHmb.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/okknews-2120093425739706435.webp" alt="Model Wars, an animated final-boss reveal — @okknews" width="100%" loading="lazy"></a><br>
 <b>Model Wars, an animated final-boss reveal</b><br>
@@ -327,6 +334,8 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2119959242413379584/vid/avc1/1920x1080/wGI80-cGZLEwRMvR.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/seiiiiiiiiiiru/status/2120079029386588503">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/seiiiiiiiiiiru-2120079029386588503.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120077244446183424/vid/avc1/1920x1080/i_TF0cdPU4CEPy9M.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ds-nakajima-2120077444724191633.webp" alt="A cosmic animation from a single bright point — @ds_nakajima" width="100%" loading="lazy"></a><br>
 <b>A cosmic animation from a single bright point</b><br>
@@ -334,8 +343,6 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2120077244446183424/vid/avc1/1920x1080/i_TF0cdPU4CEPy9M.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/ds_nakajima/status/2120077444724191633">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/ds-nakajima-2120077444724191633.md">Details</a>
 <details><summary>📝 View prompt</summary><blockquote>すごい動画を作ったほしい</blockquote><p><a href="https://x.com/ds_nakajima/status/2120077444724191633">Read the creator’s prompt</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120076635022176256/vid/avc1/1920x1080/_pMVSUXNU5xgUqUo.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/rute1203d-2120077147872391540.webp" alt="A Japanese short from particle studies to a cherry-blossom scene — @rute1203d" width="100%" loading="lazy"></a><br>
 <b>A Japanese short from particle studies to a cherry-blossom scene</b><br>
@@ -350,6 +357,8 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2120073390942048256/vid/avc1/3024x1714/xZRjyNo0Fwszd5WF.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/HaileyAILabs/status/2120075292043890890">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/haileyailabs-2120075292043890890.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120014231450034176/vid/avc1/1920x1080/7CaA0vV2Tej61d3g.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/wshuyi-2120014892040417720.webp" alt="A saber-toothed tiger on the hunt — @wshuyi" width="100%" loading="lazy"></a><br>
 <b>A saber-toothed tiger on the hunt</b><br>
@@ -357,8 +366,6 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2120014231450034176/vid/avc1/1920x1080/7CaA0vV2Tej61d3g.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/wshuyi/status/2120014892040417720">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/wshuyi-2120014892040417720.md">Details</a>
 <details><summary>📝 View prompt</summary><p>The creator shared a prompt at the link below. Read it in its original context, with any references and follow-up instructions.</p><p><a href="https://x.com/wshuyi/status/2120014892040417720">Read the creator’s prompt</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120010999818289152/vid/avc1/1920x1080/IWfi7bdM6kIQXIB4.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/anabology-2120011096287297557.webp" alt="A dream film with code-built sets — @anabology" width="100%" loading="lazy"></a><br>
 <b>A dream film with code-built sets</b><br>
@@ -373,6 +380,8 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2119991676600975360/vid/avc1/1920x1080/SkX17BUiYGK12VwD.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/imjustnewatai/status/2119991883997045049">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/imjustnewatai-2119991883997045049.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119959154026840064/vid/avc1/1920x1080/xTHXVvf_6YhKOkmx.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/renoiseai-2119959294716326280.webp" alt="A cat that refuses to follow the script — @renoiseai" width="100%" loading="lazy"></a><br>
 <b>A cat that refuses to follow the script</b><br>
@@ -380,8 +389,6 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2119959154026840064/vid/avc1/1920x1080/xTHXVvf_6YhKOkmx.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/renoiseai/status/2119959294716326280">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/renoiseai-2119959294716326280.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119937132647313408/vid/avc1/1080x1080/T2W6Dhpu_gMoxVTM.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kevin-t-ngo-2119938129079808282.webp" alt="A JavaScript-drawn animated short — @kevin_t_ngo" width="100%" loading="lazy"></a><br>
 <b>A JavaScript-drawn animated short</b><br>
@@ -396,6 +403,8 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2119923123092893696/vid/avc1/720x1280/M2J_aC5567oGoPEu.mp4?tag=14">▶ Watch</a> · <a href="https://x.com/osmanaga__/status/2119923975635738780">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/osmanaga-146194.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119910396719177728/vid/avc1/1280x720/0X1wTe1JivqZgtXw.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/wesroth-934330.webp" alt="An anime music video with timed lyrics — @WesRoth" width="100%" loading="lazy"></a><br>
 <b>An anime music video with timed lyrics</b><br>
@@ -403,8 +412,6 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2119910396719177728/vid/avc1/1280x720/0X1wTe1JivqZgtXw.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/WesRoth/status/2119911161386934330">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/wesroth-934330.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119909698367557632/vid/avc1/1920x1080/EkOxfDMK1PSG_XOD.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kloss-xyz-2119910613828980846.webp" alt="A Blender short planned by Fable 5.2 and built by Opus 5.5 — @kloss_xyz" width="100%" loading="lazy"></a><br>
 <b>A Blender short planned by Fable 5.2 and built by Opus 5.5</b><br>
@@ -419,6 +426,8 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2119904158409256960/vid/avc1/1920x1080/FHiVbLKGnw5mFlJ7.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/EngMoElgaraihy/status/2119904813718643141">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/engmoelgaraihy-643141.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119904119569690624/vid/avc1/1080x1920/24p1AimqIbXNXJ-Z.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/cube-lol-832554.webp" alt="A 46-second film with zero generated images — @cube__lol" width="100%" loading="lazy"></a><br>
 <b>A 46-second film with zero generated images</b><br>
@@ -426,8 +435,6 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2119904119569690624/vid/avc1/1080x1920/24p1AimqIbXNXJ-Z.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/cube__lol/status/2119904449556832554">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/cube-lol-832554.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119904334397792256/vid/avc1/1920x1080/Sz-4m8aagrACSa85.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/g-beyrouti-780943.webp" alt="A deep-sea dive rendered in code — @g_beyrouti" width="100%" loading="lazy"></a><br>
 <b>A deep-sea dive rendered in code</b><br>
@@ -442,6 +449,8 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2119900741783400450/vid/avc1/1920x1080/m--vaF5s-VQhaEAL.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/0kncn/status/2119901782482543073">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/0kncn-543073.md">Details</a>
 <details><summary>📝 View prompt</summary><p>The creator shared a prompt at the link below. Read it in its original context, with any references and follow-up instructions.</p><p><a href="https://x.com/0kncn/status/2119901786060259612">Read the creator’s prompt</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119899951345893376/vid/avc1/1920x1080/YjLMjLxfThe6MUXI.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/noisyb0y1-218472.webp" alt="An 83-second anime film made of code — @noisyb0y1" width="100%" loading="lazy"></a><br>
 <b>An 83-second anime film made of code</b><br>
@@ -449,8 +458,6 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2119899951345893376/vid/avc1/1920x1080/YjLMjLxfThe6MUXI.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/noisyb0y1/status/2119900528197218472">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/noisyb0y1-218472.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119897357940621312/vid/avc1/1920x1080/ZjoaXFviS7F_qc-m.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/yinyangyoeshi-001317.webp" alt="Discovery, a short film in Three.js — @YinYangYoeshi" width="100%" loading="lazy"></a><br>
 <b>Discovery, a short film in Three.js</b><br>
@@ -465,6 +472,8 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2119895450509586432/vid/avc1/1920x1080/AS5GlEaPMeHXKU5d.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/jessalanfields/status/2119895969957392730">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/jessalanfields-392730.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119892377045237760/vid/avc1/1920x1080/u8IeGB-A3MQgl4XE.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/devteamdrew-241283.webp" alt="From a tiny creature to the cosmos — @devteamdrew" width="100%" loading="lazy"></a><br>
 <b>From a tiny creature to the cosmos</b><br>
@@ -472,8 +481,6 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2119892377045237760/vid/avc1/1920x1080/u8IeGB-A3MQgl4XE.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/devteamdrew/status/2119892540950241283">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/devteamdrew-241283.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119889346706673664/vid/avc1/1920x1080/VxlTVaaElWO17W42.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/marvellousdev-380563.webp" alt="A lighthouse keeper short film — @MarvellousDev" width="100%" loading="lazy"></a><br>
 <b>A lighthouse keeper short film</b><br>
@@ -488,6 +495,8 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2119887881321787392/vid/avc1/1920x1080/zPvL0-S5VSv6SkYI.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/ponken00/status/2119888362148622656">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/ponken00-622656.md">Details</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/ext_tw_video/2119885702250786816/pu/vid/avc1/1280x720/vaqq1fwB8qUuFlPu.mp4?tag=27"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/peach2k2-738033.webp" alt="A Vocaloid love song starring Teto — @peach2k2" width="100%" loading="lazy"></a><br>
 <b>A Vocaloid love song starring Teto</b><br>
@@ -495,8 +504,6 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/ext_tw_video/2119885702250786816/pu/vid/avc1/1280x720/vaqq1fwB8qUuFlPu.mp4?tag=27">▶ Watch</a> · <a href="https://x.com/peach2k2/status/2119885741773738033">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/peach2k2-738033.md">Details</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119880037172146176/vid/avc1/1920x1080/E4G1BysAeWIl4yTX.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/lexnlin-977333.webp" alt="A flight through a living world — @LexnLin" width="100%" loading="lazy"></a><br>
 <b>A flight through a living world</b><br>
@@ -511,7 +518,6 @@ Character animation, anime shorts, cinematic storytelling and music videos.
 <a href="https://video.twimg.com/amplify_video/2119874130904502272/vid/avc1/1920x1080/FVx09qWfu11d8QIK.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/abhinavflac/status/2119875975131676827">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/abhinavflac-676827.md">Details</a>
 
 </td>
-<td width="33%"></td>
 </tr>
 </table>
 
