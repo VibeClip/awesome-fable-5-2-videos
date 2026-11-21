@@ -1,6 +1,6 @@
 {
   "baseline_id": "baseline-2026-11-10",
-  "checked_on": "2026-11-16",
+  "checked_on": "2026-11-21",
   "entries": [
     {
       "id": "wesroth-934330",
@@ -752,7 +752,7 @@
       "source_url": "https://x.com/chetaslua/status/2121176151234330707"
     }
   ],
-  "checked_at": "2026-11-16T13:06:47.822468+00:00",
+  "checked_at": "2026-11-21T04:56:49.816615+00:00",
   "expected_total": 182,
   "pending_entries": []
 }

@@ -369,36 +369,6 @@
       "status": "held-after-visual-review",
       "reason": "The post attributes the artwork to Fable 5.2. The sampled frames show the same completed illustration, with no substantial animation confirmed in this review.",
       "checked_at": "2026-11-16T13:07:48.274043+00:00"
-    },
-    {
-      "source_url": "https://x.com/LexnLin/status/2123174205306908806",
-      "creator": {
-        "name": "LexnLin",
-        "url": "https://x.com/LexnLin"
-      },
-      "status": "held-preview-unavailable",
-      "reason": "Original Blender koi pond diorama. Full video requests returned HTTP 403 during preview preparation.",
-      "checked_at": "2026-11-21T04:55:55.336855+00:00"
-    },
-    {
-      "source_url": "https://x.com/BlendiByl/status/2123618324823388410",
-      "creator": {
-        "name": "BlendiByl",
-        "url": "https://x.com/BlendiByl"
-      },
-      "status": "held-preview-unavailable",
-      "reason": "Original code-drawn pixel village for the browser. Full video requests returned HTTP 403 during preview preparation.",
-      "checked_at": "2026-11-21T04:55:55.336855+00:00"
-    },
-    {
-      "source_url": "https://x.com/kevin_t_ngo/status/2123931925220094008",
-      "creator": {
-        "name": "kevin_t_ngo",
-        "url": "https://x.com/kevin_t_ngo"
-      },
-      "status": "held-preview-unavailable",
-      "reason": "Original code-drawn animation titled Rainbow Run. Full video requests returned HTTP 403 during preview preparation.",
-      "checked_at": "2026-11-21T04:55:55.336855+00:00"
     }
   ]
 }

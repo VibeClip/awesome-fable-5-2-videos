@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "updated_on": "2026-11-16",
+  "updated_on": "2026-11-21",
   "featured_ids": [
     "higgsfield-ai-2119918834841010320",
     "imjustnewatai-2119919644836347926",
@@ -35329,6 +35329,195 @@
         "views_delta": 0,
         "likes_delta": 0,
         "reposts_delta": 0
+      }
+    },
+    {
+      "id": "lexnlin-2123174205306908806",
+      "titles": {
+        "en": "A Koi Pond Inside a Keyboard Key",
+        "zh-CN": "键帽里的锦鲤池",
+        "ja": "キーキャップの中の錦鯉池",
+        "ko": "키캡 속 잉어 연못",
+        "es": "Un estanque koi dentro de una tecla"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "LexnLin",
+        "url": "https://x.com/LexnLin"
+      },
+      "source_url": "https://x.com/LexnLin/status/2123174205306908806",
+      "published_at": "2026-11-18T21:59:11+00:00",
+      "duration_seconds": 45,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123173961248772096/img/lDA-R03VFZhnt1Fi.jpg",
+      "preview_path": "assets/previews/lexnlin-2123174205306908806.webp",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/lexnlin-2123174205306908806.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2123173961248772096/vid/avc1/480x270/QrOqrmFKR6eX7ma7.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-21",
+        "checked_at": "2026-11-21T04:56:32.039130+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "b9e51b63dc4afccfdec4f71f211721be21d2b29f4ade375da484e1520c7d86d5",
+        "model_named": true,
+        "video_checked_at": "2026-11-21T04:56:33.899190+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2123173961248772096",
+      "media_rights": "Silent visual excerpt of the creator’s original upload. Full video remains on X.",
+      "discovery_group": "independent-x",
+      "curation_reason": "An original Blender diorama uses a keyboard key as the frame for a miniature koi pond.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator built the miniature koi pond in Blender using Fable 5.2.",
+        "zh-CN": "作者用 Fable 5.2 和 Blender 制作微缩锦鲤池。",
+        "ja": "作者はFable 5.2とBlenderで小さな錦鯉池を制作した。",
+        "ko": "제작자는 Fable 5.2와 Blender로 작은 잉어 연못을 만들었다.",
+        "es": "El autor creó el estanque en miniatura con Fable 5.2 y Blender."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-21T04:55:00.515792+00:00",
+          "views": 4959,
+          "likes": 131,
+          "reposts": 3,
+          "replies": 10,
+          "bookmarks": 29
+        }
+      ],
+      "momentum": {
+        "state": "new"
+      }
+    },
+    {
+      "id": "blendibyl-2123618324823388410",
+      "titles": {
+        "en": "A Dreamy Pixel Village",
+        "zh-CN": "梦幻像素村庄",
+        "ja": "夢のようなピクセルの村",
+        "ko": "몽환적인 픽셀 마을",
+        "es": "Una aldea de píxeles de ensueño"
+      },
+      "category": "interactive",
+      "creator": {
+        "name": "BlendiByl",
+        "url": "https://x.com/BlendiByl"
+      },
+      "source_url": "https://x.com/BlendiByl/status/2123618324823388410",
+      "published_at": "2026-11-20T03:23:58+00:00",
+      "duration_seconds": 28.583,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123617050056970240/img/nbVacvTDh7eaiNLg.jpg",
+      "preview_path": "assets/previews/blendibyl-2123618324823388410.webp",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/blendibyl-2123618324823388410.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2123617050056970240/vid/avc1/480x270/DvCi4sP-fsmTKfCr.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-21",
+        "checked_at": "2026-11-21T04:56:32.039686+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "fa17a865e9eaec0276da853b0aa69c8c9d3f1f9d2de76528de37c0453fecceb1",
+        "model_named": true,
+        "video_checked_at": "2026-11-21T04:56:33.927184+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2123617050056970240",
+      "media_rights": "Silent visual excerpt of the creator’s original upload. Full video remains on X.",
+      "discovery_group": "independent-x",
+      "curation_reason": "An original browser scene shows how code can reproduce a pixel-art village without imported images being required for its drawn pixels.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator used Fable 5.2 to draw every pixel in code, in a scene that runs in the browser.",
+        "zh-CN": "作者用 Fable 5.2 编写代码逐像素绘制，可在浏览器运行。",
+        "ja": "作者はFable 5.2を使い、ブラウザーで動く村をコードで描いた。",
+        "ko": "제작자는 Fable 5.2를 사용해 브라우저에서 실행되는 마을의 모든 픽셀을 코드로 그렸다.",
+        "es": "El autor usó Fable 5.2 para dibujar cada píxel con código y ejecutar la escena en el navegador."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-21T04:54:59.783426+00:00",
+          "views": 3869,
+          "likes": 77,
+          "reposts": 6,
+          "replies": 5,
+          "bookmarks": 46
+        }
+      ],
+      "momentum": {
+        "state": "new"
+      }
+    },
+    {
+      "id": "kevin-t-ngo-2123931925220094008",
+      "titles": {
+        "en": "Rainbow Run",
+        "zh-CN": "彩虹奔跑",
+        "ja": "レインボーラン",
+        "ko": "레인보우 런",
+        "es": "Carrera arcoíris"
+      },
+      "category": "motion",
+      "creator": {
+        "name": "kevin_t_ngo",
+        "url": "https://x.com/kevin_t_ngo"
+      },
+      "source_url": "https://x.com/kevin_t_ngo/status/2123931925220094008",
+      "published_at": "2026-11-21T00:10:06+00:00",
+      "duration_seconds": 36,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123931435912577024/img/qbMjg-m-iVyDsJNu.jpg",
+      "preview_path": "assets/previews/kevin-t-ngo-2123931925220094008.webp",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kevin-t-ngo-2123931925220094008.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2123931435912577024/vid/avc1/320x320/8iMFZi7dBdqOyaWJ.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-21",
+        "checked_at": "2026-11-21T04:56:32.039998+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "c47ccf8c4d7d5abcfab3e3097e6c4f8c00354e47ac184ed12e9fb735d2d7e222",
+        "model_named": true,
+        "video_checked_at": "2026-11-21T04:56:33.810456+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2123931435912577024",
+      "media_rights": "Silent visual excerpt of the creator’s original upload. Full video remains on X.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The creator presents a finished code-drawn animation built around a rainbow palette.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for drawing the animation in code.",
+        "zh-CN": "作者说明这段动画由 Fable 5.2 编写代码绘制。",
+        "ja": "作者はFable 5.2がコードで描いたアニメーションと説明している。",
+        "ko": "제작자는 Fable 5.2가 코드로 그린 애니메이션이라고 밝혔다.",
+        "es": "El autor atribuye a Fable 5.2 la animación dibujada con código."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-21T04:54:58.391415+00:00",
+          "views": 3650,
+          "likes": 115,
+          "reposts": 8,
+          "replies": 8,
+          "bookmarks": 32
+        }
+      ],
+      "momentum": {
+        "state": "new"
       }
     }
   ]

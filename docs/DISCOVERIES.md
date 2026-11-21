@@ -1,6 +1,6 @@
 # New discoveries and observed momentum
 
-303 additional original-source entries beyond 182 covered entries in the 182-source coverage target. The earliest Vela AI post still returns HTTP 404. The same creator posted the 41-second film again, matching the title card, duration and production description. [Available creator post](https://x.com/ercankeskinx/status/2120177242034872774). The first post of The Scream is also unavailable. The creator’s 88-second cut has the same opening and supplies the full video. [Available creator post](https://x.com/osmanaga__/status/2119923975635738780).
+306 additional original-source entries beyond 182 covered entries in the 182-source coverage target. The earliest Vela AI post still returns HTTP 404. The same creator posted the 41-second film again, matching the title card, duration and production description. [Available creator post](https://x.com/ercankeskinx/status/2120177242034872774). The first post of The Scream is also unavailable. The creator’s 88-second cut has the same opening and supplies the full video. [Available creator post](https://x.com/osmanaga__/status/2119923975635738780).
 
 Engagement values below are dated public snapshots, not live counters. “Rising” requires at least five minutes between observations, at least 200 new views, and at least two new likes or one new repost, while below 100,000 total views. “Established” already has at least 100,000 views. Other selections remain “New”; inclusion does not imply virality. This is a curation heuristic, not a forecast.
 
@@ -8,6 +8,9 @@ Production tools, costs and run times are creator claims unless explicitly verif
 
 | Original creator | Views at last check | Observed change | Window | Signal | Why included |
 | :-- | --: | :-- | --: | :-- | :-- |
+| [@LexnLin](https://x.com/LexnLin/status/2123174205306908806) | 4,959 | — | — | New | An original Blender diorama uses a keyboard key as the frame for a miniature koi pond. |
+| [@BlendiByl](https://x.com/BlendiByl/status/2123618324823388410) | 3,869 | — | — | New | An original browser scene shows how code can reproduce a pixel-art village without imported images being required for its drawn pixels. |
+| [@kevin_t_ngo](https://x.com/kevin_t_ngo/status/2123931925220094008) | 3,650 | — | — | New | The creator presents a finished code-drawn animation built around a rainbow palette. |
 | [@29meat_ai](https://x.com/29meat_ai/status/2122290725551546425) | 406 | +98 views / +1 likes / +1 reposts | 34.3 min | New | The looping camera moves through a conservatory, a neon alley and a red canyon. The creator identifies the image and depth inputs and the Three.js scene. |
 | [@Terry_Djony](https://x.com/Terry_Djony/status/2122313989157687794) | 56 | +36 views / +0 likes / +0 reposts | 33.9 min | New | A playable birthday card lets viewers personalize the greeting and interact with candles in a scene drawn in pastel strokes. |
 | [@Terry_Djony](https://x.com/Terry_Djony/status/2121953865730027622) | 288 | +1 views / +0 likes / +0 reposts | 33.9 min | New | A code-drawn painting gradually adds pastel and colored-pencil marks to a night sky over a mountain lake. |
