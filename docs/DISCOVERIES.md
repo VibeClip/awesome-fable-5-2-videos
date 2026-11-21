@@ -1,6 +1,6 @@
 # New discoveries and observed momentum
 
-310 additional original-source entries beyond 182 covered entries in the 182-source coverage target. The earliest Vela AI post still returns HTTP 404. The same creator posted the 41-second film again, matching the title card, duration and production description. [Available creator post](https://x.com/ercankeskinx/status/2120177242034872774). The first post of The Scream is also unavailable. The creator’s 88-second cut has the same opening and supplies the full video. [Available creator post](https://x.com/osmanaga__/status/2119923975635738780).
+311 additional original-source entries beyond 182 covered entries in the 182-source coverage target. The earliest Vela AI post still returns HTTP 404. The same creator posted the 41-second film again, matching the title card, duration and production description. [Available creator post](https://x.com/ercankeskinx/status/2120177242034872774). The first post of The Scream is also unavailable. The creator’s 88-second cut has the same opening and supplies the full video. [Available creator post](https://x.com/osmanaga__/status/2119923975635738780).
 
 Engagement values below are dated public snapshots, not live counters. “Rising” requires at least five minutes between observations, at least 200 new views, and at least two new likes or one new repost, while below 100,000 total views. “Established” already has at least 100,000 views. Other selections remain “New”; inclusion does not imply virality. This is a curation heuristic, not a forecast.
 
@@ -8,7 +8,8 @@ Production tools, costs and run times are creator claims unless explicitly verif
 
 | Original creator | Views at last check | Observed change | Window | Signal | Why included |
 | :-- | --: | :-- | --: | :-- | :-- |
-| [@akiyoshisan](https://x.com/akiyoshisan/status/2123710585963692068) | 262 | — | — | New | A hand-drawn character bites a persistent notch into a mouse cursor, turning cursor contact into a running visual gag. |
+| [@akiyoshisan](https://x.com/akiyoshisan/status/2122970728492646854) | 584 | — | — | New | A paper drawing comes to life as its sewn mouth opens in time with a bass recording. |
+| [@akiyoshisan](https://x.com/akiyoshisan/status/2123710585963692068) | 302 | +40 views / +1 likes / +0 reposts | 726.8 min | New | A hand-drawn character bites a persistent notch into a mouse cursor, turning cursor contact into a running visual gag. |
 | [@JungleSilicon](https://x.com/JungleSilicon/status/2123938805254332825) | 4,244 | +1,771 views / +25 likes / +3 reposts | 364.7 min | Rising | An original 3D study uses Gaussian splats with a pixel-art aesthetic. |
 | [@JungleSilicon](https://x.com/JungleSilicon/status/2123972106073571812) | 875 | +290 views / +3 likes / +0 reposts | 364.7 min | Rising | A ballerina study applies pixel-art Gaussian splats to a figure. |
 | [@BlendiByl](https://x.com/BlendiByl/status/2122673770607591855) | 31,910 | +56 views / +0 likes / +0 reposts | 364.7 min | New | The original interactive demo highlights uninterrupted travel between small planets. |

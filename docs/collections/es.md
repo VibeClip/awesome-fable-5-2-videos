@@ -8,7 +8,7 @@ Todas las tarjetas tienen una vista animada. El vídeo abre en su plataforma ori
 
 <a id="short-films"></a>
 
-## Cortometrajes e historias · 66
+## Cortometrajes e historias · 67
 
 Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 
@@ -22,12 +22,21 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <details><summary>📝 Ver prompt</summary><blockquote>絵が矢印に反応する</blockquote><p><a href="https://x.com/akiyoshisan/status/2123710585963692068">Leer el prompt del creador</a></p></details>
 </td>
 <td width="33%" valign="top">
+<a href="https://video.twimg.com/amplify_video/2122969942878564352/vid/avc1/320x568/6ePWZHP5RN8fjeCS.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/akiyoshisan-2122970728492646854.webp" alt="La boca cosida — @akiyoshisan" width="100%" loading="lazy"></a><br>
+<b>La boca cosida</b><br>
+<sub><b>Nuevo</b> · <a href="https://x.com/akiyoshisan">@akiyoshisan</a> · 0:42 · 2026-11-18</sub><br>
+<a href="https://video.twimg.com/amplify_video/2122969942878564352/vid/avc1/320x568/6ePWZHP5RN8fjeCS.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/akiyoshisan/status/2122970728492646854">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/akiyoshisan-2122970728492646854.md">Detalles</a>
+<details><summary>📝 Ver prompt</summary><blockquote>顔に芝居をさせて！</blockquote><p><a href="https://x.com/akiyoshisan/status/2122970728492646854">Leer el prompt del creador</a></p></details>
+</td>
+<td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2122082407050625025/vid/avc1/1920x1080/a886u05N-7FNnxww.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/matabee-gto-2122082697413841091.webp" alt="El peor día, segunda parte — @matabee_GTO" width="100%" loading="lazy"></a><br>
 <b>El peor día, segunda parte</b><br>
 <sub><b>Nuevo</b> · <a href="https://x.com/matabee_GTO">@matabee_GTO</a> · 1:31 · 2026-11-15</sub><br>
 <a href="https://video.twimg.com/amplify_video/2122082407050625025/vid/avc1/1920x1080/a886u05N-7FNnxww.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/matabee_GTO/status/2122082697413841091">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/matabee-gto-2122082697413841091.md">Detalles</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2122065027339329536/vid/avc1/2580x1080/TXi8bpetSDYDKLzz.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/agim-asf-2122065184743153882.webp" alt="La araña de la linterna — @aGim_asf" width="100%" loading="lazy"></a><br>
 <b>La araña de la linterna</b><br>
@@ -35,8 +44,6 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2122065027339329536/vid/avc1/2580x1080/TXi8bpetSDYDKLzz.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/aGim_asf/status/2122065184743153882">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/agim-asf-2122065184743153882.md">Detalles</a>
 <details><summary>📝 Ver prompt</summary><p>El creador compartió un prompt en el enlace siguiente. Consulta el contexto original, sus referencias y las instrucciones posteriores.</p><p><a href="https://x.com/aGim_asf/status/2122065188325122269">Leer el prompt del creador</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2121888732135788544/vid/avc1/1080x1920/T6MRHBPf7hXe_aPh.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/akiyoshisan-2121890007237722501.webp" alt="Una línea dibujada se vuelve hilo y recompone un personaje — @akiyoshisan" width="100%" loading="lazy"></a><br>
 <b>Una línea dibujada se vuelve hilo y recompone un personaje</b><br>
@@ -51,6 +58,8 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2121780079818911744/vid/avc1/3840x2160/Si2gJV-V3_k7SLyG.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/kevin_t_ngo/status/2121780322106999106">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/kevin-t-ngo-2121780322106999106.md">Detalles</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2121634141472997376/vid/avc1/3840x2160/ad8dwsaeRrRDLc6w.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/rileybrown-2121642720045261185.webp" alt="La fábula de Clawd — @rileybrown" width="100%" loading="lazy"></a><br>
 <b>La fábula de Clawd</b><br>
@@ -58,8 +67,6 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2121634141472997376/vid/avc1/3840x2160/ad8dwsaeRrRDLc6w.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/rileybrown/status/2121642720045261185">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/rileybrown-2121642720045261185.md">Detalles</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2121533377635561472/vid/avc1/720x1280/GWsG5RFifG3RAvyK.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/daiusami-2121533741730508841.webp" alt="Un explorador corre entre dinosaurios — @daiusami" width="100%" loading="lazy"></a><br>
 <b>Un explorador corre entre dinosaurios</b><br>
@@ -74,6 +81,8 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2121449186055073792/vid/avc1/1280x720/AGilyHy2M2HMhJpS.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/shiomasvision/status/2121449322453860803">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/shiomasvision-2121449322453860803.md">Detalles</a>
 <details><summary>📝 Ver prompt</summary><blockquote>5歳くらいの子どもに、命の大切さが自然に伝わる、心が温まる動画を作って</blockquote><p><a href="https://x.com/shiomasvision/status/2121449510316749105">Leer el prompt del creador</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2121360344727609344/vid/avc1/1280x720/4oNmqpcE1pO7yUPp.mp4?tag=14"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/gabranskristers-2121361595313828070.webp" alt="Un deseo en la noche — @GabransKristers" width="100%" loading="lazy"></a><br>
 <b>Un deseo en la noche</b><br>
@@ -81,8 +90,6 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2121360344727609344/vid/avc1/1280x720/4oNmqpcE1pO7yUPp.mp4?tag=14">▶ Ver vídeo</a> · <a href="https://x.com/GabransKristers/status/2121361595313828070">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/gabranskristers-2121361595313828070.md">Detalles</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2121260777667735552/vid/avc1/1080x1080/E9SGCsLNIrFdfgmJ.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kevin-t-ngo-2121261917016903748.webp" alt="Un corto de estilo dibujado sobre un pato y un huevo — @kevin_t_ngo" width="100%" loading="lazy"></a><br>
 <b>Un corto de estilo dibujado sobre un pato y un huevo</b><br>
@@ -97,6 +104,8 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2121175618289389568/vid/avc1/3024x1660/GD6vq4RoARkQT7vs.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/chetaslua/status/2121176151234330707">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/chetaslua-2121176151234330707.md">Detalles</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2121169025631997952/vid/avc1/1920x1080/IgSo06brX97Ok9aR.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/manaimovie-2121170941090857245.webp" alt="Un jardín en miniatura y un personaje estilizado — @manaimovie" width="100%" loading="lazy"></a><br>
 <b>Un jardín en miniatura y un personaje estilizado</b><br>
@@ -104,8 +113,6 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2121169025631997952/vid/avc1/1920x1080/IgSo06brX97Ok9aR.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/manaimovie/status/2121170941090857245">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/manaimovie-2121170941090857245.md">Detalles</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2121121702482747392/vid/avc1/1080x1920/Eg6j8xBR8oMxvQRB.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/akiyoshisan-2121122179018531193.webp" alt="Un robot de papel se convierte en espejo — @akiyoshisan" width="100%" loading="lazy"></a><br>
 <b>Un robot de papel se convierte en espejo</b><br>
@@ -120,6 +127,8 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2121066008483913728/vid/avc1/1920x1080/kzRTU-ZlEwqnem5b.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/loktar00/status/2121066943662743624">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/loktar00-2121066943662743624.md">Detalles</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2121001266042044416/vid/avc1/1920x1080/oqE5i6yq8lLnPvqf.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/0xmovez-2121001440470577157.webp" alt="Un viaje en globo por ocho mundos de cuento — @0xMovez" width="100%" loading="lazy"></a><br>
 <b>Un viaje en globo por ocho mundos de cuento</b><br>
@@ -127,8 +136,6 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2121001266042044416/vid/avc1/1920x1080/oqE5i6yq8lLnPvqf.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/0xMovez/status/2121001440470577157">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/0xmovez-2121001440470577157.md">Detalles</a>
 <details><summary>📝 Ver prompt</summary><p>El creador compartió un prompt en el enlace siguiente. Consulta el contexto original, sus referencias y las instrucciones posteriores.</p><p><a href="https://x.com/0xMovez/status/2121001444383814027">Leer el prompt del creador</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120994255674265600/vid/avc1/1920x1080/cnZy7HvICvE7MpNw.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/matabee-gto-2120995946372985144.webp" alt="Dominós y otras animaciones deliberadamente irritantes — @matabee_GTO" width="100%" loading="lazy"></a><br>
 <b>Dominós y otras animaciones deliberadamente irritantes</b><br>
@@ -143,6 +150,8 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2120993122905714688/vid/avc1/1920x1080/YvGH-b768C4qpAkk.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/finnardley/status/2120993184561995884">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/finnardley-2120993184561995884.md">Detalles</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120858849347567616/vid/avc1/1920x1080/nn3mPUMUshjI7UNO.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ico-aivideo-2120860567581921508.webp" alt="Un perro pequeño en una sala de tatami iluminada por el sol — @ICO_AIvideo" width="100%" loading="lazy"></a><br>
 <b>Un perro pequeño en una sala de tatami iluminada por el sol</b><br>
@@ -150,8 +159,6 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2120858849347567616/vid/avc1/1920x1080/nn3mPUMUshjI7UNO.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/ICO_AIvideo/status/2120860567581921508">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/ico-aivideo-2120860567581921508.md">Detalles</a>
 <details><summary>📝 Ver prompt</summary><p>El creador compartió un prompt en el enlace siguiente. Consulta el contexto original, sus referencias y las instrucciones posteriores.</p><p><a href="https://x.com/ICO_AIvideo/status/2121170072127606912">Leer el prompt del creador</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120840737180823552/vid/avc1/1080x1080/HLKE2U0C4YCpziCB.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/eluchocha-2120856734759547259.webp" alt="Un viaje con linterna — @eluchocha" width="100%" loading="lazy"></a><br>
 <b>Un viaje con linterna</b><br>
@@ -166,6 +173,8 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2120729437482455040/vid/avc1/1920x1080/6gkPJnL7ykHAwazS.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/wangray/status/2120730013037466048">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/wangray-2120730013037466048.md">Detalles</a>
 <details><summary>📝 Ver prompt</summary><p>El creador compartió un prompt en el enlace siguiente. Consulta el contexto original, sus referencias y las instrucciones posteriores.</p><p><a href="https://x.com/wangray/status/2120730013037466048">Leer el prompt del creador</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120525771433521152/vid/avc1/1920x1080/Sq8XVa5ZRgc_VMVh.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ddjcxx-2120728292084842578.webp" alt="Una apsará voladora inspirada en los murales de Dunhuang — @DDJCXX" width="100%" loading="lazy"></a><br>
 <b>Una apsará voladora inspirada en los murales de Dunhuang</b><br>
@@ -173,8 +182,6 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2120525771433521152/vid/avc1/1920x1080/Sq8XVa5ZRgc_VMVh.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/DDJCXX/status/2120728292084842578">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/ddjcxx-2120728292084842578.md">Detalles</a>
 <details><summary>📝 Ver prompt</summary><p>El creador compartió un prompt en el enlace siguiente. Consulta el contexto original, sus referencias y las instrucciones posteriores.</p><p><a href="https://x.com/DDJCXX/status/2120728293003395350">Leer el prompt del creador</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120707203707621378/vid/avc1/1920x1080/phHDECzgrrQ5213D.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/creatorzz-2120707230513377714.webp" alt="Dos modelos montan el tráiler de ciencia ficción La señal final — @_creatorzz_" width="100%" loading="lazy"></a><br>
 <b>Dos modelos montan el tráiler de ciencia ficción La señal final</b><br>
@@ -189,6 +196,8 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2120699144675422209/vid/avc1/1920x1080/gSq9XsjXigL3ZOUQ.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/kazumarudrive/status/2120699556207919454">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/kazumarudrive-2120699556207919454.md">Detalles</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120643700003082240/vid/avc1/3840x2160/IrX_jwUNliOLWHBc.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/jacobmolbio-2120648796334178374.webp" alt="Better Half, un corto de Blender sobre pequeños cangrejos — @JacobMolBio" width="100%" loading="lazy"></a><br>
 <b>Better Half, un corto de Blender sobre pequeños cangrejos</b><br>
@@ -196,8 +205,6 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2120643700003082240/vid/avc1/3840x2160/IrX_jwUNliOLWHBc.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/JacobMolBio/status/2120648796334178374">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/jacobmolbio-2120648796334178374.md">Detalles</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120640502261575680/vid/avc1/1280x720/k2KorEXRvxHQV80s.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/toumorocorn-00-2120640549543936475.webp" alt="Hasta el amanecer, una historia de escritorio renderizada en Blender — @toumorocorn_00" width="100%" loading="lazy"></a><br>
 <b>Hasta el amanecer, una historia de escritorio renderizada en Blender</b><br>
@@ -212,6 +219,8 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2120351689219936256/vid/avc1/1280x720/-ICvOF8Av4JnSAaj.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/shun_cmdouga/status/2120622594663616515">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/shun-cmdouga-2120622594663616515.md">Detalles</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120601647760261120/vid/avc1/1920x1080/IAnqlZZmZKQrtPKZ.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/iamshankhadeep-2120601879029907520.webp" alt="Un montaje de cortos renderizados en el navegador — @Iamshankhadeep" width="100%" loading="lazy"></a><br>
 <b>Un montaje de cortos renderizados en el navegador</b><br>
@@ -219,8 +228,6 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2120601647760261120/vid/avc1/1920x1080/IAnqlZZmZKQrtPKZ.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/Iamshankhadeep/status/2120601879029907520">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/iamshankhadeep-2120601879029907520.md">Detalles</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120387084984922112/vid/avc1/1080x1920/Amvlx9hYtRvo0Fcn.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/akiyoshisan-2120387868665475262.webp" alt="Cada nota de bajo abre un mundo nuevo — @akiyoshisan" width="100%" loading="lazy"></a><br>
 <b>Cada nota de bajo abre un mundo nuevo</b><br>
@@ -235,6 +242,8 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2120369184358219776/vid/avc1/1920x1080/j9UKua0CYkk4uFst.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/matabee_GTO/status/2120369352428110267">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/matabee-gto-2120369352428110267.md">Detalles</a>
 <details><summary>📝 Ver prompt</summary><blockquote>現在持てるすべての力を使い最高の脚本、演出、カメラで最悪の動画を作って</blockquote><p><a href="https://x.com/matabee_GTO/status/2120369352428110267">Leer el prompt del creador</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120214618446417920/vid/avc1/1080x1920/jW0o4UtzTEqtErDB.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/aollivier82-2120335703062290623.webp" alt="Un viaje tranquilo por vías que atraviesan distintos paisajes — @aollivier82" width="100%" loading="lazy"></a><br>
 <b>Un viaje tranquilo por vías que atraviesan distintos paisajes</b><br>
@@ -242,8 +251,6 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2120214618446417920/vid/avc1/1080x1920/jW0o4UtzTEqtErDB.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/aollivier82/status/2120335703062290623">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/aollivier82-2120335703062290623.md">Detalles</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120214452507115520/vid/avc1/1080x1920/C_n2LMgpQ5ZWqwdh.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/aollivier82-2120324378521116962.webp" alt="Una historia abstracta contada con aceite y agua — @aollivier82" width="100%" loading="lazy"></a><br>
 <b>Una historia abstracta contada con aceite y agua</b><br>
@@ -258,6 +265,8 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2120291597568954368/vid/avc1/1080x1080/s1ZeBfuKZ6fDnlbx.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/IAenCrudo/status/2120291820844273983">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/iaencrudo-2120291820844273983.md">Detalles</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120265887135715328/vid/avc1/1920x1080/6M8UYJ2wXkM5cgJM.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/untitled-sys-2120265921390621058.webp" alt="Un corto en Blender sobre la luz en una habitación silenciosa — @untitled_sys" width="100%" loading="lazy"></a><br>
 <b>Un corto en Blender sobre la luz en una habitación silenciosa</b><br>
@@ -265,8 +274,6 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2120265887135715328/vid/avc1/1920x1080/6M8UYJ2wXkM5cgJM.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/untitled_sys/status/2120265921390621058">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/untitled-sys-2120265921390621058.md">Detalles</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120264070083620864/vid/avc1/1920x1080/80xVsB3rl4Bxzo30.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/iamshankhadeep-2120264513224392712.webp" alt="Una muestra de Blender en un escritorio junto a una cascada — @Iamshankhadeep" width="100%" loading="lazy"></a><br>
 <b>Una muestra de Blender en un escritorio junto a una cascada</b><br>
@@ -281,6 +288,8 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2120168960221966337/vid/avc1/1008x1152/0S9D71pMUOb8P1h9.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/theoardley/status/2120169016601853958">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/theoardley-2120169016601853958.md">Detalles</a>
 <details><summary>📝 Ver prompt</summary><p>El creador compartió un prompt en el enlace siguiente. Consulta el contexto original, sus referencias y las instrucciones posteriores.</p><p><a href="https://x.com/theoardley/status/2120124748159996152">Leer el prompt del creador</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120128135681470464/vid/avc1/910x512/z_FMx9vV7-Tja50p.mp4?tag=14"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kosen-labo-2120128253327474845.webp" alt="Un corto sobre los centros técnicos japoneses creado con código — @kosen_labo" width="100%" loading="lazy"></a><br>
 <b>Un corto sobre los centros técnicos japoneses creado con código</b><br>
@@ -288,8 +297,6 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2120128135681470464/vid/avc1/910x512/z_FMx9vV7-Tja50p.mp4?tag=14">▶ Ver vídeo</a> · <a href="https://x.com/kosen_labo/status/2120128253327474845">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/kosen-labo-2120128253327474845.md">Detalles</a>
 <details><summary>📝 Ver prompt</summary><blockquote>高専について、なんかすごい動画を作ってください</blockquote><p><a href="https://x.com/kosen_labo/status/2120128253327474845">Leer el prompt del creador</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120128077975977984/vid/avc1/1280x720/m9IjLTrfzffl_S5p.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/uraharastudio-2120128234499002537.webp" alt="Yami contra Shanks, animados con código — @Uraharastudio" width="100%" loading="lazy"></a><br>
 <b>Yami contra Shanks, animados con código</b><br>
@@ -304,6 +311,8 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2120117891240742914/vid/avc1/1920x1080/-2LACPT73SSi5tr7.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/lemomo_ai/status/2120118194409193682">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/lemomo-ai-2120118194409193682.md">Detalles</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120100208990371842/vid/avc1/1920x1080/AvuwxFaTzQOwI2tO.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/argofowl-2120100759195000942.webp" alt="El paso del tiempo en un pasillo — @argofowl" width="100%" loading="lazy"></a><br>
 <b>El paso del tiempo en un pasillo</b><br>
@@ -311,8 +320,6 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2120100208990371842/vid/avc1/1920x1080/AvuwxFaTzQOwI2tO.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/argofowl/status/2120100759195000942">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/argofowl-2120100759195000942.md">Detalles</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120091572830388224/vid/avc1/1212x668/4dpNdt1GmAYYx4ix.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/hajimetwi3-2120093427731943510.webp" alt="Un poema visual en tiempo real en un solo archivo HTML — @hajimetwi3" width="100%" loading="lazy"></a><br>
 <b>Un poema visual en tiempo real en un solo archivo HTML</b><br>
@@ -327,6 +334,8 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2120093387827408896/vid/avc1/1280x720/smY9JD24a6IJBHmb.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/okknews/status/2120093425739706435">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/okknews-2120093425739706435.md">Detalles</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119959242413379584/vid/avc1/1920x1080/wGI80-cGZLEwRMvR.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/seiiiiiiiiiiru-2120079029386588503.webp" alt="Río de faroles, un corto nocturno renderizado por código — @seiiiiiiiiiiru" width="100%" loading="lazy"></a><br>
 <b>Río de faroles, un corto nocturno renderizado por código</b><br>
@@ -334,8 +343,6 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2119959242413379584/vid/avc1/1920x1080/wGI80-cGZLEwRMvR.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/seiiiiiiiiiiru/status/2120079029386588503">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/seiiiiiiiiiiru-2120079029386588503.md">Detalles</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120077244446183424/vid/avc1/1920x1080/i_TF0cdPU4CEPy9M.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ds-nakajima-2120077444724191633.webp" alt="Una animación cósmica que parte de un punto de luz — @ds_nakajima" width="100%" loading="lazy"></a><br>
 <b>Una animación cósmica que parte de un punto de luz</b><br>
@@ -350,6 +357,8 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2120076635022176256/vid/avc1/1920x1080/_pMVSUXNU5xgUqUo.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/rute1203d/status/2120077147872391540">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/rute1203d-2120077147872391540.md">Detalles</a>
 <details><summary>📝 Ver prompt</summary><p>El creador compartió un prompt en el enlace siguiente. Consulta el contexto original, sus referencias y las instrucciones posteriores.</p><p><a href="https://x.com/rute1203d/status/2120077147872391540">Leer el prompt del creador</a></p></details>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120073390942048256/vid/avc1/3024x1714/xZRjyNo0Fwszd5WF.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/haileyailabs-2120075292043890890.webp" alt="No tocar: un corto 3D guiado por un storyboard — @HaileyAILabs" width="100%" loading="lazy"></a><br>
 <b>No tocar: un corto 3D guiado por un storyboard</b><br>
@@ -357,8 +366,6 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2120073390942048256/vid/avc1/3024x1714/xZRjyNo0Fwszd5WF.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/HaileyAILabs/status/2120075292043890890">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/haileyailabs-2120075292043890890.md">Detalles</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2120014231450034176/vid/avc1/1920x1080/7CaA0vV2Tej61d3g.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/wshuyi-2120014892040417720.webp" alt="Un tigre dientes de sable a la caza — @wshuyi" width="100%" loading="lazy"></a><br>
 <b>Un tigre dientes de sable a la caza</b><br>
@@ -373,6 +380,8 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2120010999818289152/vid/avc1/1920x1080/IWfi7bdM6kIQXIB4.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/anabology/status/2120011096287297557">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/anabology-2120011096287297557.md">Detalles</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119991676600975360/vid/avc1/1920x1080/SkX17BUiYGK12VwD.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/imjustnewatai-2119991883997045049.webp" alt="Una apertura y obertura originales de ópera espacial — @imjustnewatai" width="100%" loading="lazy"></a><br>
 <b>Una apertura y obertura originales de ópera espacial</b><br>
@@ -380,8 +389,6 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2119991676600975360/vid/avc1/1920x1080/SkX17BUiYGK12VwD.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/imjustnewatai/status/2119991883997045049">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/imjustnewatai-2119991883997045049.md">Detalles</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119959154026840064/vid/avc1/1920x1080/xTHXVvf_6YhKOkmx.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/renoiseai-2119959294716326280.webp" alt="Un gato que se niega a seguir el guion — @renoiseai" width="100%" loading="lazy"></a><br>
 <b>Un gato que se niega a seguir el guion</b><br>
@@ -396,6 +403,8 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2119937132647313408/vid/avc1/1080x1080/T2W6Dhpu_gMoxVTM.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/kevin_t_ngo/status/2119938129079808282">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/kevin-t-ngo-2119938129079808282.md">Detalles</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119923123092893696/vid/avc1/720x1280/M2J_aC5567oGoPEu.mp4?tag=14"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/osmanaga-146194.webp" alt="La historia de El grito en un corto — @osmanaga__" width="100%" loading="lazy"></a><br>
 <b>La historia de El grito en un corto</b><br>
@@ -403,8 +412,6 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2119923123092893696/vid/avc1/720x1280/M2J_aC5567oGoPEu.mp4?tag=14">▶ Ver vídeo</a> · <a href="https://x.com/osmanaga__/status/2119923975635738780">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/osmanaga-146194.md">Detalles</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119910396719177728/vid/avc1/1280x720/0X1wTe1JivqZgtXw.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/wesroth-934330.webp" alt="Un videoclip de anime sincronizado con la letra — @WesRoth" width="100%" loading="lazy"></a><br>
 <b>Un videoclip de anime sincronizado con la letra</b><br>
@@ -419,6 +426,8 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2119909698367557632/vid/avc1/1920x1080/EkOxfDMK1PSG_XOD.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/kloss_xyz/status/2119910613828980846">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/kloss-xyz-2119910613828980846.md">Detalles</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119904158409256960/vid/avc1/1920x1080/FHiVbLKGnw5mFlJ7.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/engmoelgaraihy-643141.webp" alt="Un gato devuelve la vida a un viejo robot — @EngMoElgaraihy" width="100%" loading="lazy"></a><br>
 <b>Un gato devuelve la vida a un viejo robot</b><br>
@@ -426,8 +435,6 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2119904158409256960/vid/avc1/1920x1080/FHiVbLKGnw5mFlJ7.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/EngMoElgaraihy/status/2119904813718643141">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/engmoelgaraihy-643141.md">Detalles</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119904119569690624/vid/avc1/1080x1920/24p1AimqIbXNXJ-Z.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/cube-lol-832554.webp" alt="Una película de 46 segundos sin imágenes generadas — @cube__lol" width="100%" loading="lazy"></a><br>
 <b>Una película de 46 segundos sin imágenes generadas</b><br>
@@ -442,6 +449,8 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2119904334397792256/vid/avc1/1920x1080/Sz-4m8aagrACSa85.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/g_beyrouti/status/2119904386826780943">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/g-beyrouti-780943.md">Detalles</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119900741783400450/vid/avc1/1920x1080/m--vaF5s-VQhaEAL.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/0kncn-543073.webp" alt="Un corto de anime sobre una locomotora — @0kncn" width="100%" loading="lazy"></a><br>
 <b>Un corto de anime sobre una locomotora</b><br>
@@ -449,8 +458,6 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2119900741783400450/vid/avc1/1920x1080/m--vaF5s-VQhaEAL.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/0kncn/status/2119901782482543073">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/0kncn-543073.md">Detalles</a>
 <details><summary>📝 Ver prompt</summary><p>El creador compartió un prompt en el enlace siguiente. Consulta el contexto original, sus referencias y las instrucciones posteriores.</p><p><a href="https://x.com/0kncn/status/2119901786060259612">Leer el prompt del creador</a></p></details>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119899951345893376/vid/avc1/1920x1080/YjLMjLxfThe6MUXI.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/noisyb0y1-218472.webp" alt="Una película de anime de 83 segundos hecha con código — @noisyb0y1" width="100%" loading="lazy"></a><br>
 <b>Una película de anime de 83 segundos hecha con código</b><br>
@@ -465,6 +472,8 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2119897357940621312/vid/avc1/1920x1080/ZjoaXFviS7F_qc-m.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/YinYangYoeshi/status/2119897840965001317">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/yinyangyoeshi-001317.md">Detalles</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119895450509586432/vid/avc1/1920x1080/AS5GlEaPMeHXKU5d.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/jessalanfields-392730.webp" alt="Un mar que nunca he visto — @jessalanfields" width="100%" loading="lazy"></a><br>
 <b>Un mar que nunca he visto</b><br>
@@ -472,8 +481,6 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2119895450509586432/vid/avc1/1920x1080/AS5GlEaPMeHXKU5d.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/jessalanfields/status/2119895969957392730">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/jessalanfields-392730.md">Detalles</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119892377045237760/vid/avc1/1920x1080/u8IeGB-A3MQgl4XE.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/devteamdrew-241283.webp" alt="De una pequeña criatura al cosmos — @devteamdrew" width="100%" loading="lazy"></a><br>
 <b>De una pequeña criatura al cosmos</b><br>
@@ -488,6 +495,8 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2119889346706673664/vid/avc1/1920x1080/VxlTVaaElWO17W42.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/MarvellousDev/status/2119889511333380563">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/marvellousdev-380563.md">Detalles</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119887881321787392/vid/avc1/1920x1080/zPvL0-S5VSv6SkYI.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/ponken00-622656.webp" alt="Una película a partir del prompt más sencillo — @ponken00" width="100%" loading="lazy"></a><br>
 <b>Una película a partir del prompt más sencillo</b><br>
@@ -495,8 +504,6 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2119887881321787392/vid/avc1/1920x1080/zPvL0-S5VSv6SkYI.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/ponken00/status/2119888362148622656">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/ponken00-622656.md">Detalles</a>
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/ext_tw_video/2119885702250786816/pu/vid/avc1/1280x720/vaqq1fwB8qUuFlPu.mp4?tag=27"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/peach2k2-738033.webp" alt="Una canción de amor de Vocaloid con Teto — @peach2k2" width="100%" loading="lazy"></a><br>
 <b>Una canción de amor de Vocaloid con Teto</b><br>
@@ -511,6 +518,8 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2119880037172146176/vid/avc1/1920x1080/E4G1BysAeWIl4yTX.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/LexnLin/status/2119880654858977333">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/lexnlin-977333.md">Detalles</a>
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2119874130904502272/vid/avc1/1920x1080/FVx09qWfu11d8QIK.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/abhinavflac-676827.webp" alt="Un viaje hacia el cielo — @abhinavflac" width="100%" loading="lazy"></a><br>
 <b>Un viaje hacia el cielo</b><br>
@@ -518,6 +527,8 @@ Personajes, cortos de anime, narrativa cinematográfica y videoclips.
 <a href="https://video.twimg.com/amplify_video/2119874130904502272/vid/avc1/1920x1080/FVx09qWfu11d8QIK.mp4?tag=29">▶ Ver vídeo</a> · <a href="https://x.com/abhinavflac/status/2119875975131676827">Fuente</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/es/abhinavflac-676827.md">Detalles</a>
 
 </td>
+<td width="33%"></td>
+<td width="33%"></td>
 </tr>
 </table>
 

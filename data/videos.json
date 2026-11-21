@@ -35802,6 +35802,81 @@
           "reposts": 0,
           "replies": 1,
           "bookmarks": 0
+        },
+        {
+          "checked_at": "2026-11-21T17:01:45.323964+00:00",
+          "views": 302,
+          "likes": 6,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 1
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 726.8,
+        "views_delta": 40,
+        "likes_delta": 1,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "akiyoshisan-2122970728492646854",
+      "titles": {
+        "en": "The Sewn Mouth",
+        "zh-CN": "缝起来的嘴",
+        "ja": "縫われた口",
+        "ko": "꿰매어진 입",
+        "es": "La boca cosida"
+      },
+      "category": "short-films",
+      "creator": {
+        "name": "akiyoshisan",
+        "url": "https://x.com/akiyoshisan"
+      },
+      "source_url": "https://x.com/akiyoshisan/status/2122970728492646854",
+      "published_at": "2026-11-18T08:30:39+00:00",
+      "duration_seconds": 42.1,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122969942878564352/img/raLP418kQqvhwyEb.jpg",
+      "preview_path": "assets/previews/akiyoshisan-2122970728492646854.webp",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/akiyoshisan-2122970728492646854.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2122969942878564352/vid/avc1/320x568/6ePWZHP5RN8fjeCS.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-21",
+        "checked_at": "2026-11-21T17:01:17.558623+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "c6434f1ab0d1231c7c9542c4007545a1e4d54ddef673be86785faa41627fabcf",
+        "model_named": true,
+        "video_checked_at": "2026-11-21T17:01:21.477705+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": "顔に芝居をさせて！",
+        "source_url": "https://x.com/akiyoshisan/status/2122970728492646854"
+      },
+      "native_media_id": "2122969942878564352",
+      "media_rights": "Silent visual excerpt of the creator’s original upload. Full video remains on X.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A paper drawing comes to life as its sewn mouth opens in time with a bass recording.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "Fable 5.2 animated the original drawing with Python and Blender. Suno extended the creator’s bass recording.",
+        "zh-CN": "Fable 5.2 用 Python 和 Blender 为原画制作动画。Suno 延展了作者的贝斯录音。",
+        "ja": "Fable 5.2がPythonとBlenderで原画を動かし、作者のベース録音をSunoで延長した。",
+        "ko": "Fable 5.2가 Python과 Blender로 원화를 움직였으며 Suno로 제작자의 베이스 녹음을 늘렸다.",
+        "es": "Fable 5.2 animó el dibujo original con Python y Blender. Suno amplió la grabación de bajo del autor."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-21T04:55:00.865081+00:00",
+          "views": 584,
+          "likes": 4,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 0
         }
       ],
       "momentum": {
