@@ -35810,13 +35810,21 @@
           "reposts": 0,
           "replies": 1,
           "bookmarks": 1
+        },
+        {
+          "checked_at": "2026-11-21T23:02:00.965458+00:00",
+          "views": 310,
+          "likes": 6,
+          "reposts": 0,
+          "replies": 1,
+          "bookmarks": 1
         }
       ],
       "momentum": {
         "state": "new",
-        "window_minutes": 726.8,
-        "views_delta": 40,
-        "likes_delta": 1,
+        "window_minutes": 360.3,
+        "views_delta": 8,
+        "likes_delta": 0,
         "reposts_delta": 0
       }
     },
