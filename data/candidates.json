@@ -369,6 +369,16 @@
       "status": "held-after-visual-review",
       "reason": "The post attributes the artwork to Fable 5.2. The sampled frames show the same completed illustration, with no substantial animation confirmed in this review.",
       "checked_at": "2026-11-16T13:07:48.274043+00:00"
+    },
+    {
+      "source_url": "https://x.com/kevin_t_ngo/status/2123194632670748790",
+      "creator": {
+        "name": "kevin_t_ngo",
+        "url": "https://x.com/kevin_t_ngo"
+      },
+      "status": "held-preview-unavailable",
+      "reason": "The creator credits Fable 5.2 for the code-drawn animation. Verification timed out before a local looping preview could be produced.",
+      "checked_at": "2026-11-21T20:07:56.724982+00:00"
     }
   ]
 }
