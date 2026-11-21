@@ -35577,10 +35577,22 @@
           "reposts": 0,
           "replies": 3,
           "bookmarks": 4
+        },
+        {
+          "checked_at": "2026-11-21T10:59:43.048465+00:00",
+          "views": 875,
+          "likes": 12,
+          "reposts": 0,
+          "replies": 4,
+          "bookmarks": 4
         }
       ],
       "momentum": {
-        "state": "new"
+        "state": "rising",
+        "window_minutes": 364.7,
+        "views_delta": 290,
+        "likes_delta": 3,
+        "reposts_delta": 0
       }
     },
     {
@@ -35640,10 +35652,97 @@
           "reposts": 45,
           "replies": 60,
           "bookmarks": 430
+        },
+        {
+          "checked_at": "2026-11-21T10:59:43.606005+00:00",
+          "views": 31910,
+          "likes": 796,
+          "reposts": 45,
+          "replies": 60,
+          "bookmarks": 430
         }
       ],
       "momentum": {
-        "state": "new"
+        "state": "new",
+        "window_minutes": 364.7,
+        "views_delta": 56,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "junglesilicon-2123938805254332825",
+      "titles": {
+        "en": "Return to Dust",
+        "zh-CN": "归于尘土",
+        "ja": "塵に帰る",
+        "ko": "먼지로 돌아가다",
+        "es": "Volver al polvo"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "JungleSilicon",
+        "url": "https://x.com/JungleSilicon"
+      },
+      "source_url": "https://x.com/JungleSilicon/status/2123938805254332825",
+      "published_at": "2026-11-21T00:37:26+00:00",
+      "duration_seconds": 40.833,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123938550148427777/img/o2KmADoI6Qy8X-MB.jpg",
+      "preview_path": "assets/previews/junglesilicon-2123938805254332825.webp",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/junglesilicon-2123938805254332825.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2123938550148427777/vid/avc1/444x270/LilNc2fAICkT_HK4.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-21",
+        "checked_at": "2026-11-21T10:59:43.974935+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "624e0c25c925d98b282e88696234272e7f4609d28eba7b68ed4c3e0aceab66e9",
+        "model_named": true,
+        "video_checked_at": "2026-11-21T10:59:45.918061+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2123938550148427777",
+      "media_rights": "Silent visual excerpt of the creator’s original upload. Full video remains on X.",
+      "discovery_group": "independent-x",
+      "curation_reason": "An original 3D study uses Gaussian splats with a pixel-art aesthetic.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 and describes the piece as 3D pixel-art Gaussian splats.",
+        "zh-CN": "作者注明用 Fable 5.2 制作，采用像素风 3D 高斯泼溅。",
+        "ja": "作者はFable 5.2を使用し、3Dピクセルアート風ガウシアンスプラットと説明している。",
+        "ko": "제작자는 Fable 5.2로 만든 3D 픽셀 아트 가우시안 스플래팅 작품이라고 밝혔다.",
+        "es": "El autor atribuye la pieza a Fable 5.2 y describe la técnica como Gaussian splats en 3D con estética de píxeles."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-21T04:54:58.394878+00:00",
+          "views": 2473,
+          "likes": 87,
+          "reposts": 6,
+          "replies": 7,
+          "bookmarks": 24
+        },
+        {
+          "checked_at": "2026-11-21T10:59:42.439150+00:00",
+          "views": 4244,
+          "likes": 112,
+          "reposts": 9,
+          "replies": 9,
+          "bookmarks": 35
+        }
+      ],
+      "momentum": {
+        "state": "rising",
+        "window_minutes": 364.7,
+        "views_delta": 1771,
+        "likes_delta": 25,
+        "reposts_delta": 3
       }
     }
   ]
