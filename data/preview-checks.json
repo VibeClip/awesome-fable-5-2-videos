@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-21T04:57:02.472947+00:00",
-  "method": "WebP animation bytes matched to GitHub blob SHA and rendered README images",
+  "checked_at": "2026-11-21T07:52:31.546743+00:00",
+  "method": "Local WebP RIFF ANIM/ANMF chunks",
   "previews": [
     {
       "id": "wesroth-934330",
@@ -6344,6 +6344,32 @@
       "bytes": 154220,
       "file_sha256": "be92e9dd653dd2dd5457507e3175c7e2a73730eba8bd1de15fbe7cd733ddecbc",
       "blob_sha": "8cf419ab534d43b8a4ccb8eaf15bc854137da2c0",
+      "status": "animated"
+    },
+    {
+      "id": "junglesilicon-2123972106073571812",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/junglesilicon-2123972106073571812.webp",
+      "frames": 33,
+      "duration_ms": 5511,
+      "width": 416,
+      "height": 234,
+      "loop_count": 0,
+      "bytes": 128644,
+      "file_sha256": "5f8ced56463f7d7d9e1414d6e3a47b70cb810fef6ef13d79a44cd8d377caa11d",
+      "blob_sha": "c09709c35b406796aa41b770701964f6bfc7502d",
+      "status": "animated"
+    },
+    {
+      "id": "blendibyl-2122673770607591855",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/blendibyl-2122673770607591855.webp",
+      "frames": 33,
+      "duration_ms": 5511,
+      "width": 416,
+      "height": 234,
+      "loop_count": 0,
+      "bytes": 131440,
+      "file_sha256": "1c98c2b3a5486083e20cf4217ee021bf4c1e9ae46be9be85829943fdc105459c",
+      "blob_sha": "85d1c6e169d0be9cfaf752e783258ca262f089c3",
       "status": "animated"
     }
   ]

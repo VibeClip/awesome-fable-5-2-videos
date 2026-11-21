@@ -35519,6 +35519,132 @@
       "momentum": {
         "state": "new"
       }
+    },
+    {
+      "id": "junglesilicon-2123972106073571812",
+      "titles": {
+        "en": "The Ballerina",
+        "zh-CN": "芭蕾舞者",
+        "ja": "バレリーナ",
+        "ko": "발레리나",
+        "es": "La bailarina"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "JungleSilicon",
+        "url": "https://x.com/JungleSilicon"
+      },
+      "source_url": "https://x.com/JungleSilicon/status/2123972106073571812",
+      "published_at": "2026-11-21T02:49:46+00:00",
+      "duration_seconds": 192.715,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123971926330941440/img/LWD7al9BAyeS4D9H.jpg",
+      "preview_path": "assets/previews/junglesilicon-2123972106073571812.webp",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/junglesilicon-2123972106073571812.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2123971926330941440/vid/avc1/412x270/FBsLVwsjJT-k1uy1.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-21",
+        "checked_at": "2026-11-21T07:52:03.821508+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "b36b45c776e5838cf08616b5a7c880e04237a1d76baee6277b878999bc3c3cd2",
+        "model_named": true,
+        "video_checked_at": "2026-11-21T07:52:06.571689+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2123971926330941440",
+      "media_rights": "Silent visual excerpt of the creator’s original upload. Full video remains on X.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A ballerina study applies pixel-art Gaussian splats to a figure.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator used Fable 5.2 to make this 3D pixel-art Gaussian splat piece.",
+        "zh-CN": "作者用 Fable 5.2 制作这段像素风高斯泼溅作品。",
+        "ja": "作者はFable 5.2でピクセルアート風のガウシアンスプラット作品を制作した。",
+        "ko": "제작자는 Fable 5.2로 픽셀 아트 스타일의 가우시안 스플래팅 작품을 만들었다.",
+        "es": "El autor utilizó Fable 5.2 para crear esta pieza de Gaussian splats con estética de píxeles."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-21T04:54:58.435259+00:00",
+          "views": 585,
+          "likes": 9,
+          "reposts": 0,
+          "replies": 3,
+          "bookmarks": 4
+        }
+      ],
+      "momentum": {
+        "state": "new"
+      }
+    },
+    {
+      "id": "blendibyl-2122673770607591855",
+      "titles": {
+        "en": "A Tiny Solar System You Can Fly Through",
+        "zh-CN": "可自由飞行的微型太阳系",
+        "ja": "飛び回れる小さな太陽系",
+        "ko": "날아다닐 수 있는 작은 태양계",
+        "es": "Un sistema solar diminuto que puedes sobrevolar"
+      },
+      "category": "interactive",
+      "creator": {
+        "name": "BlendiByl",
+        "url": "https://x.com/BlendiByl"
+      },
+      "source_url": "https://x.com/BlendiByl/status/2122673770607591855",
+      "published_at": "2026-11-17T12:50:38+00:00",
+      "duration_seconds": 79.551,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122671708192833536/img/FoZh_q3VpEUUrbIk.jpg",
+      "preview_path": "assets/previews/blendibyl-2122673770607591855.webp",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/blendibyl-2122673770607591855.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2122671708192833536/vid/avc1/480x270/LFpmvtDZ4N31P-nD.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-21",
+        "checked_at": "2026-11-21T07:52:03.822299+00:00",
+        "method": "X official oEmbed; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "6369ffc9ddc496c5fcabff93018a695a57a767f7aace372d0c8f71a3f4d850ee",
+        "model_named": true,
+        "video_checked_at": "2026-11-21T07:52:06.299177+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2122671708192833536",
+      "media_rights": "Silent visual excerpt of the creator’s original upload. Full video remains on X.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The original interactive demo highlights uninterrupted travel between small planets.",
+      "workflow": "creator-attributed-unspecified-workflow",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 and describes continuous flights, orbits and gravity.",
+        "zh-CN": "作者说明使用了 Fable 5.2，演示包含连续飞行、轨道和重力。",
+        "ja": "作者はFable 5.2を使用し、連続飛行と軌道、重力を実装したと説明している。",
+        "ko": "제작자는 Fable 5.2를 사용했으며 연속 비행과 궤도, 중력을 구현했다고 밝혔다.",
+        "es": "El autor atribuye el proyecto a Fable 5.2 y describe vuelos continuos, órbitas y gravedad."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-21T04:55:01.320126+00:00",
+          "views": 31854,
+          "likes": 796,
+          "reposts": 45,
+          "replies": 60,
+          "bookmarks": 430
+        }
+      ],
+      "momentum": {
+        "state": "new"
+      }
     }
   ]
 }

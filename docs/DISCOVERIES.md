@@ -1,6 +1,6 @@
 # New discoveries and observed momentum
 
-306 additional original-source entries beyond 182 covered entries in the 182-source coverage target. The earliest Vela AI post still returns HTTP 404. The same creator posted the 41-second film again, matching the title card, duration and production description. [Available creator post](https://x.com/ercankeskinx/status/2120177242034872774). The first post of The Scream is also unavailable. The creator’s 88-second cut has the same opening and supplies the full video. [Available creator post](https://x.com/osmanaga__/status/2119923975635738780).
+308 additional original-source entries beyond 182 covered entries in the 182-source coverage target. The earliest Vela AI post still returns HTTP 404. The same creator posted the 41-second film again, matching the title card, duration and production description. [Available creator post](https://x.com/ercankeskinx/status/2120177242034872774). The first post of The Scream is also unavailable. The creator’s 88-second cut has the same opening and supplies the full video. [Available creator post](https://x.com/osmanaga__/status/2119923975635738780).
 
 Engagement values below are dated public snapshots, not live counters. “Rising” requires at least five minutes between observations, at least 200 new views, and at least two new likes or one new repost, while below 100,000 total views. “Established” already has at least 100,000 views. Other selections remain “New”; inclusion does not imply virality. This is a curation heuristic, not a forecast.
 
@@ -8,6 +8,8 @@ Production tools, costs and run times are creator claims unless explicitly verif
 
 | Original creator | Views at last check | Observed change | Window | Signal | Why included |
 | :-- | --: | :-- | --: | :-- | :-- |
+| [@JungleSilicon](https://x.com/JungleSilicon/status/2123972106073571812) | 585 | — | — | New | A ballerina study applies pixel-art Gaussian splats to a figure. |
+| [@BlendiByl](https://x.com/BlendiByl/status/2122673770607591855) | 31,854 | — | — | New | The original interactive demo highlights uninterrupted travel between small planets. |
 | [@LexnLin](https://x.com/LexnLin/status/2123174205306908806) | 4,959 | — | — | New | An original Blender diorama uses a keyboard key as the frame for a miniature koi pond. |
 | [@BlendiByl](https://x.com/BlendiByl/status/2123618324823388410) | 3,869 | — | — | New | An original browser scene shows how code can reproduce a pixel-art village without imported images being required for its drawn pixels. |
 | [@kevin_t_ngo](https://x.com/kevin_t_ngo/status/2123931925220094008) | 3,650 | — | — | New | The creator presents a finished code-drawn animation built around a rainbow palette. |
