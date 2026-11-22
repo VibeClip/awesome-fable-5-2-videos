@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "updated_on": "2026-11-21",
+  "updated_on": "2026-11-22",
   "featured_ids": [
     "higgsfield-ai-2119918834841010320",
     "imjustnewatai-2119919644836347926",
@@ -35889,6 +35889,81 @@
       ],
       "momentum": {
         "state": "new"
+      }
+    },
+    {
+      "id": "kevin-t-ngo-2123194632670748790",
+      "titles": {
+        "en": "SF",
+        "zh-CN": "SF",
+        "ja": "SF",
+        "ko": "SF",
+        "es": "SF"
+      },
+      "category": "motion",
+      "creator": {
+        "name": "kevin_t_ngo",
+        "url": "https://x.com/kevin_t_ngo"
+      },
+      "source_url": "https://x.com/kevin_t_ngo/status/2123194632670748790",
+      "published_at": "2026-11-18T23:20:22+00:00",
+      "duration_seconds": 51.501,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123194491612045312/img/B3pglLIBykWyf3w_.jpg",
+      "preview_path": "assets/previews/kevin-t-ngo-2123194632670748790.webp",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kevin-t-ngo-2123194632670748790.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2123194491612045312/vid/avc1/1920x1080/Q94lRwiv7MWINEss.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-22",
+        "checked_at": "2026-11-22T08:13:29.041273+00:00",
+        "method": "Public rendering of original X post text; original video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "ce321c87ad08c5ae577dd3bf6993aea8dccbf8ec62624580994a610cfd5b24b6",
+        "model_named": true,
+        "video_checked_at": "2026-11-22T08:13:32.096906+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2123194491612045312",
+      "media_rights": "Silent visual excerpt of the creator’s original upload. Full video remains on X.",
+      "discovery_group": "independent-x",
+      "curation_reason": "An original animation explicitly credited to Fable 5.2 for code-driven drawing.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for drawing the animation in code.",
+        "zh-CN": "作者说明动画由 Fable 5.2 编写代码绘制。",
+        "ja": "作者はFable 5.2がコードで描いたアニメーションと説明している。",
+        "ko": "제작자는 Fable 5.2가 코드로 그린 애니메이션이라고 밝혔다.",
+        "es": "El autor atribuye a Fable 5.2 la animación dibujada con código."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-21T20:07:26.294822+00:00",
+          "views": 83550,
+          "likes": 1823,
+          "reposts": 84,
+          "replies": 57,
+          "bookmarks": 1085
+        },
+        {
+          "checked_at": "2026-11-22T08:14:07.035601+00:00",
+          "views": 84156,
+          "likes": 1826,
+          "reposts": 84,
+          "replies": 57,
+          "bookmarks": 1084
+        }
+      ],
+      "momentum": {
+        "state": "rising",
+        "window_minutes": 726.7,
+        "views_delta": 606,
+        "likes_delta": 3,
+        "reposts_delta": 0
       }
     }
   ]
