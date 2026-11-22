@@ -369,6 +369,27 @@
       "status": "held-after-visual-review",
       "reason": "The post attributes the artwork to Fable 5.2. The sampled frames show the same completed illustration, with no substantial animation confirmed in this review.",
       "checked_at": "2026-11-16T13:07:48.274043+00:00"
+    },
+    {
+      "source_url": "https://x.com/pingouh/status/2120636604624560229",
+      "creator": {
+        "name": "pingouh",
+        "url": "https://x.com/pingouh"
+      },
+      "status": "held-preview-pending",
+      "reason": "Original controller-play demo of a procedurally animated biped. The creator describes a Fable 5.2 experiment starting in Three.js and moving to Unreal 5.8, with separate sketches and sound design. The attached full video is present; the local loop still needs verification.",
+      "checked_at": "2026-11-22T20:14:39.424607+00:00",
+      "published_at": "2026-11-11T21:55:40+00:00",
+      "native_media_id": "2120635243942035456",
+      "engagement_snapshots": [
+        {
+          "observed_at": "2026-11-22T20:14:39.424607+00:00",
+          "views": 66586,
+          "likes": 1718,
+          "reposts": 92,
+          "replies": 100
+        }
+      ]
     }
   ]
 }
