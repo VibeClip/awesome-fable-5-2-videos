@@ -377,8 +377,8 @@
         "url": "https://x.com/kevin_t_ngo"
       },
       "status": "held-preview-unavailable",
-      "reason": "The creator credits Fable 5.2 for the code-drawn animation. The post page connection failed and the verification retry timed out before a local looping preview could be produced.",
-      "checked_at": "2026-11-22T02:06:40.783115+00:00"
+      "reason": "The creator’s public post identifies Fable 5.2 and code-drawn animation. Local preview preparation remains unavailable.",
+      "checked_at": "2026-11-22T05:09:51.584781+00:00"
     }
   ]
 }
