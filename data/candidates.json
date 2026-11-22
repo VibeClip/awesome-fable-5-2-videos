@@ -1,5 +1,5 @@
 {
-  "checked_on": "2026-11-21",
+  "checked_on": "2026-11-22",
   "candidates": [
     {
       "source_url": "https://x.com/AlchainHust/status/2119949075898675292",
@@ -377,8 +377,8 @@
         "url": "https://x.com/kevin_t_ngo"
       },
       "status": "held-preview-unavailable",
-      "reason": "The creator credits Fable 5.2 for the code-drawn animation. Verification timed out before a local looping preview could be produced.",
-      "checked_at": "2026-11-21T20:07:56.724982+00:00"
+      "reason": "The creator credits Fable 5.2 for the code-drawn animation. The post page connection failed and the verification retry timed out before a local looping preview could be produced.",
+      "checked_at": "2026-11-22T02:06:40.783115+00:00"
     }
   ]
 }
