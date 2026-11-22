@@ -8,7 +8,7 @@ Production tools, costs and run times are creator claims unless explicitly verif
 
 | Original creator | Views at last check | Observed change | Window | Signal | Why included |
 | :-- | --: | :-- | --: | :-- | :-- |
-| [@kevin_t_ngo](https://x.com/kevin_t_ngo/status/2123980980994318416) | 4,157 | — | — | New | An original voice synthesis demonstration pairs spoken audio with geometric visuals and on-screen captions. |
+| [@kevin_t_ngo](https://x.com/kevin_t_ngo/status/2123980980994318416) | 612,021 | +607,864 views / +3,970 likes / +229 reposts | 2182.5 min | Established | An original voice synthesis demonstration pairs spoken audio with geometric visuals and on-screen captions. |
 | [@kevin_t_ngo](https://x.com/kevin_t_ngo/status/2123091419883831775) | 7,532 | — | — | New | A character design demo shows separate mechanical parts assembled into one fictional mech. |
 | [@kevin_t_ngo](https://x.com/kevin_t_ngo/status/2123194632670748790) | 84,156 | +606 views / +3 likes / +0 reposts | 726.7 min | Rising | An original animation explicitly credited to Fable 5.2 for code-driven drawing. |
 | [@akiyoshisan](https://x.com/akiyoshisan/status/2122970728492646854) | 584 | — | — | New | A paper drawing comes to life as its sewn mouth opens in time with a bass recording. |

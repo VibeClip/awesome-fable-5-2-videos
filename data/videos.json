@@ -36086,10 +36086,22 @@
           "reposts": 8,
           "replies": 14,
           "bookmarks": 49
+        },
+        {
+          "checked_at": "2026-11-22T17:17:25.749824+00:00",
+          "views": 612021,
+          "likes": 4096,
+          "reposts": 237,
+          "replies": 171,
+          "bookmarks": 1646
         }
       ],
       "momentum": {
-        "state": "new"
+        "state": "established",
+        "window_minutes": 2182.5,
+        "views_delta": 607864,
+        "likes_delta": 3970,
+        "reposts_delta": 229
       }
     }
   ]

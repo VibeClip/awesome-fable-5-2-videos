@@ -2547,7 +2547,7 @@ Educational animation, science visualization, musical scores and synthesized sou
 <td width="33%" valign="top">
 <a href="https://video.twimg.com/amplify_video/2123979846556729344/vid/avc1/1080x1080/dZ3TQEILV-towceR.mp4?tag=29"><img src="https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kevin-t-ngo-2123980980994318416.webp" alt="A Voice Synthesized in Python — @kevin_t_ngo" width="100%" loading="lazy"></a><br>
 <b>A Voice Synthesized in Python</b><br>
-<sub><b>New</b> · <a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · 0:40 · 2026-11-21</sub><br>
+<sub><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a> · 0:40 · 2026-11-21</sub><br>
 <a href="https://video.twimg.com/amplify_video/2123979846556729344/vid/avc1/1080x1080/dZ3TQEILV-towceR.mp4?tag=29">▶ Watch</a> · <a href="https://x.com/kevin_t_ngo/status/2123980980994318416">Source</a> · <a href="https://github.com/VibeClip/awesome-fable-5-2-videos/blob/main/docs/videos/en/kevin-t-ngo-2123980980994318416.md">Details</a>
 
 </td>
