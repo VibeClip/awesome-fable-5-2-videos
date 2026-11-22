@@ -35965,6 +35965,69 @@
         "likes_delta": 3,
         "reposts_delta": 0
       }
+    },
+    {
+      "id": "kevin-t-ngo-2123091419883831775",
+      "titles": {
+        "en": "A Mech Character Built in Blender",
+        "zh-CN": "Blender 机甲角色",
+        "ja": "Blenderで作るメカキャラクター",
+        "ko": "Blender로 만든 메카 캐릭터",
+        "es": "Un personaje mecánico creado en Blender"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "kevin_t_ngo",
+        "url": "https://x.com/kevin_t_ngo"
+      },
+      "source_url": "https://x.com/kevin_t_ngo/status/2123091419883831775",
+      "published_at": "2026-11-18T16:30:14+00:00",
+      "duration_seconds": 35.008,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123090716650065920/img/rCTfOzU-Jli8L7mL.jpg",
+      "preview_path": "assets/previews/kevin-t-ngo-2123091419883831775.webp",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kevin-t-ngo-2123091419883831775.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2123090716650065920/vid/avc1/1920x1080/XPzaGc3H-7uUSVhn.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-22",
+        "checked_at": "2026-11-22T11:12:01.607385+00:00",
+        "method": "Original X post text and video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "3ea616526645ab02da466cbcc5423bb16a0fe7d9c3540dc3ab0b9bbac54efa7f",
+        "model_named": true,
+        "video_checked_at": "2026-11-22T11:12:04.770431+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2123090716650065920",
+      "media_rights": "Silent visual excerpt of the creator’s original upload. Full video remains on X.",
+      "discovery_group": "independent-x",
+      "curation_reason": "A character design demo shows separate mechanical parts assembled into one fictional mech.",
+      "workflow": "hybrid",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 and AnyMachine. GPT Image 2.6 produced the reference sheets and Blender scripted the parts.",
+        "zh-CN": "作者注明使用 Fable 5.2 和 AnyMachine，GPT Image 2.6 生成部件参考图，再用 Blender 脚本制作。",
+        "ja": "作者はFable 5.2とAnyMachineを使用。GPT Image 2.6で部品の参照図を作り、Blenderでスクリプト化した。",
+        "ko": "제작자는 Fable 5.2와 AnyMachine을 사용했다. GPT Image 2.6으로 부품 참고 이미지를 만들고 Blender에서 스크립트로 구성했다.",
+        "es": "El autor usó Fable 5.2 y AnyMachine. GPT Image 2.6 generó las referencias de las piezas y Blender se utilizó para construirlas mediante scripts."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-21T04:55:00.622947+00:00",
+          "views": 7532,
+          "likes": 100,
+          "reposts": 8,
+          "replies": 7,
+          "bookmarks": 68
+        }
+      ],
+      "momentum": {
+        "state": "new"
+      }
     }
   ]
 }
