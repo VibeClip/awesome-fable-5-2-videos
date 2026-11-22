@@ -36103,6 +36103,79 @@
         "likes_delta": 3970,
         "reposts_delta": 229
       }
+    },
+    {
+      "id": "pingouh-2120636604624560229",
+      "titles": {
+        "en": "A Procedurally Animated Robot You Can Control",
+        "zh-CN": "可用手柄操控的程序动画机器人",
+        "ja": "コントローラーで動かせるプロシージャルアニメーションのロボット",
+        "ko": "컨트롤러로 조작하는 절차적 애니메이션 로봇",
+        "es": "Un robot controlable con animación procedural"
+      },
+      "category": "interactive",
+      "creator": {
+        "name": "pingouh",
+        "url": "https://x.com/pingouh"
+      },
+      "source_url": "https://x.com/pingouh/status/2120636604624560229",
+      "published_at": "2026-11-11T21:55:40+00:00",
+      "duration_seconds": 71.52,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120635243942035456/img/RkBAt3NhPpO1Pja3.jpg",
+      "preview_path": "assets/previews/pingouh-2120636604624560229.webp",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/pingouh-2120636604624560229.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2120635243942035456/vid/avc1/640x360/TB6mYEBLSnWYfCyc.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-22",
+        "checked_at": "2026-11-22T23:19:22.128826+00:00",
+        "method": "X official oEmbed and original video download",
+        "availability": "available",
+        "post_sha256": "8af87307b90b6717324389f4ee172e59dfb9f20979db2a87ad047eb1e021e257",
+        "model_named": true,
+        "video_checked_at": "2026-11-22T23:19:22.128826+00:00",
+        "video_http_status": 200
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2120635243942035456",
+      "media_rights": "Silent visual excerpt of the creator’s original upload. Full video remains on X.",
+      "discovery_group": "independent-x",
+      "curation_reason": "Original controller-play demo of a robotic biped whose gait and foot placement are calculated in real time.",
+      "workflow": "creator-reported-multitool",
+      "workflow_notes": {
+        "en": "The creator credits Fable 5.2 for the experiment, starting in Three.js and moving to Unreal 5.8 for controller input. The exact division of implementation work is unspecified.",
+        "zh-CN": "作者说明实验使用了 Fable 5.2，从 Three.js 原型转到 Unreal 5.8 加入手柄操控。各阶段的具体实现分工未披露。",
+        "ja": "作者は Fable 5.2 を使い、Three.js の試作からコントローラー対応の Unreal 5.8 へ移行したと説明している。実装の分担は明らかにしていない。",
+        "ko": "제작자는 Fable 5.2를 사용해 Three.js에서 시작한 뒤 컨트롤러 조작을 위해 Unreal 5.8로 옮겼다고 밝혔다. 구체적인 구현 분담은 공개하지 않았다.",
+        "es": "El autor atribuye el experimento a Fable 5.2. Empezó en Three.js y pasó a Unreal 5.8 para añadir el control con mando. No detalla el reparto de la implementación."
+      },
+      "engagement_snapshots": [
+        {
+          "views": 66586,
+          "likes": 1718,
+          "reposts": 92,
+          "replies": 100,
+          "checked_at": "2026-11-22T20:14:39.424607+00:00"
+        },
+        {
+          "checked_at": "2026-11-22T23:19:22.128826+00:00",
+          "views": 66598,
+          "likes": 1718,
+          "reposts": 92,
+          "replies": 100
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 184.7,
+        "views_delta": 12,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
     }
   ]
 }
