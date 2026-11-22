@@ -36028,6 +36028,69 @@
       "momentum": {
         "state": "new"
       }
+    },
+    {
+      "id": "kevin-t-ngo-2123980980994318416",
+      "titles": {
+        "en": "A Voice Synthesized in Python",
+        "zh-CN": "用 Python 合成的声音",
+        "ja": "Pythonで合成した声",
+        "ko": "Python으로 합성한 목소리",
+        "es": "Una voz sintetizada en Python"
+      },
+      "category": "explainers",
+      "creator": {
+        "name": "kevin_t_ngo",
+        "url": "https://x.com/kevin_t_ngo"
+      },
+      "source_url": "https://x.com/kevin_t_ngo/status/2123980980994318416",
+      "published_at": "2026-11-21T03:25:02+00:00",
+      "duration_seconds": 40.433,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123979846556729344/img/SeH4bAeLEzTZ_kfD.jpg",
+      "preview_path": "assets/previews/kevin-t-ngo-2123980980994318416.webp",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kevin-t-ngo-2123980980994318416.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2123979846556729344/vid/avc1/1080x1080/dZ3TQEILV-towceR.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-22",
+        "checked_at": "2026-11-22T14:16:39.205371+00:00",
+        "method": "Original X post text and video metadata via FxTwitter",
+        "availability": "available",
+        "post_sha256": "296f053a2f28f8ec0fe9a8c7ddcb14fb0f1e6f8928b0820e3c9d51bd68a012cb",
+        "model_named": true,
+        "video_checked_at": "2026-11-22T14:16:41.867571+00:00",
+        "video_http_status": 206
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2123979846556729344",
+      "media_rights": "Silent visual excerpt of the creator’s original upload. Full video remains on X.",
+      "discovery_group": "independent-x",
+      "curation_reason": "An original voice synthesis demonstration pairs spoken audio with geometric visuals and on-screen captions.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator asked Fable 5.2 to create a voice in Python.",
+        "zh-CN": "作者让 Fable 5.2 用 Python 制作声音。",
+        "ja": "作者はFable 5.2にPythonで声を作るよう依頼した。",
+        "ko": "제작자는 Fable 5.2에 Python으로 목소리를 만들도록 요청했다.",
+        "es": "El autor pidió a Fable 5.2 que creara una voz en Python."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-21T04:54:58.627504+00:00",
+          "views": 4157,
+          "likes": 126,
+          "reposts": 8,
+          "replies": 14,
+          "bookmarks": 49
+        }
+      ],
+      "momentum": {
+        "state": "new"
+      }
     }
   ]
 }
