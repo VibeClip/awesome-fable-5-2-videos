@@ -36233,10 +36233,21 @@
           "likes": 259,
           "reposts": 16,
           "replies": 32
+        },
+        {
+          "checked_at": "2026-11-23T17:24:50.972474+00:00",
+          "views": 50994,
+          "likes": 259,
+          "reposts": 16,
+          "replies": 32
         }
       ],
       "momentum": {
-        "state": "new"
+        "state": "new",
+        "window_minutes": 180.9,
+        "views_delta": 11,
+        "likes_delta": 0,
+        "reposts_delta": 0
       }
     }
   ]

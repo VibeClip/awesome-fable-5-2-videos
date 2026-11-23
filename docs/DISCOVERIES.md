@@ -8,7 +8,7 @@ Production tools, costs and run times are creator claims unless explicitly verif
 
 | Original creator | Views at last check | Observed change | Window | Signal | Why included |
 | :-- | --: | :-- | --: | :-- | :-- |
-| [@KaladinOG](https://x.com/KaladinOG/status/2122815191431930197) | 50,983 | — | — | New | An original gameplay recording follows a bee through a flower garden as it gathers pollen and returns to its nest. |
+| [@KaladinOG](https://x.com/KaladinOG/status/2122815191431930197) | 50,994 | +11 views / +0 likes / +0 reposts | 180.9 min | New | An original gameplay recording follows a bee through a flower garden as it gathers pollen and returns to its nest. |
 | [@pingouh](https://x.com/pingouh/status/2120636604624560229) | 66,598 | +12 views / +0 likes / +0 reposts | 184.7 min | New | Original controller-play demo of a robotic biped whose gait and foot placement are calculated in real time. |
 | [@kevin_t_ngo](https://x.com/kevin_t_ngo/status/2123980980994318416) | 612,021 | +607,864 views / +3,970 likes / +229 reposts | 2182.5 min | Established | An original voice synthesis demonstration pairs spoken audio with geometric visuals and on-screen captions. |
 | [@kevin_t_ngo](https://x.com/kevin_t_ngo/status/2123091419883831775) | 7,532 | — | — | New | A character design demo shows separate mechanical parts assembled into one fictional mech. |
