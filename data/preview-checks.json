@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-22T23:19:46.628293+00:00",
-  "method": "WebP animation bytes matched to GitHub blob SHA and rendered README images",
+  "checked_at": "2026-11-23T14:23:56.473424+00:00",
+  "method": "Local WebP RIFF ANIM/ANMF chunks",
   "previews": [
     {
       "id": "wesroth-934330",
@@ -6461,6 +6461,19 @@
       "bytes": 115716,
       "file_sha256": "27cf6711d452d2e76ade946ea870381057b997c8714bdda29159669bada26438",
       "blob_sha": "dbca279d5e0b57116dea0bc9bcd176f087e23337",
+      "status": "animated"
+    },
+    {
+      "id": "kaladinog-2122815191431930197",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kaladinog-2122815191431930197.webp",
+      "frames": 33,
+      "duration_ms": 5511,
+      "width": 416,
+      "height": 234,
+      "loop_count": 0,
+      "bytes": 278770,
+      "file_sha256": "2c590b880c6904f7c31a06ed2259ec8f03bfdace988ed56c49fbda36fabf1712",
+      "blob_sha": "7192a6100d7da3ad7d557f686b05708885455bc2",
       "status": "animated"
     }
   ]

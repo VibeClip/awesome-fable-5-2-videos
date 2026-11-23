@@ -1,6 +1,6 @@
 # New discoveries and observed momentum
 
-315 additional original-source entries beyond 182 covered entries in the 182-source coverage target. The earliest Vela AI post still returns HTTP 404. The same creator posted the 41-second film again, matching the title card, duration and production description. [Available creator post](https://x.com/ercankeskinx/status/2120177242034872774). The first post of The Scream is also unavailable. The creator’s 88-second cut has the same opening and supplies the full video. [Available creator post](https://x.com/osmanaga__/status/2119923975635738780).
+316 additional original-source entries beyond 182 covered entries in the 182-source coverage target. The earliest Vela AI post still returns HTTP 404. The same creator posted the 41-second film again, matching the title card, duration and production description. [Available creator post](https://x.com/ercankeskinx/status/2120177242034872774). The first post of The Scream is also unavailable. The creator’s 88-second cut has the same opening and supplies the full video. [Available creator post](https://x.com/osmanaga__/status/2119923975635738780).
 
 Engagement values below are dated public snapshots, not live counters. “Rising” requires at least five minutes between observations, at least 200 new views, and at least two new likes or one new repost, while below 100,000 total views. “Established” already has at least 100,000 views. Other selections remain “New”; inclusion does not imply virality. This is a curation heuristic, not a forecast.
 
@@ -8,6 +8,7 @@ Production tools, costs and run times are creator claims unless explicitly verif
 
 | Original creator | Views at last check | Observed change | Window | Signal | Why included |
 | :-- | --: | :-- | --: | :-- | :-- |
+| [@KaladinOG](https://x.com/KaladinOG/status/2122815191431930197) | 50,983 | — | — | New | An original gameplay recording follows a bee through a flower garden as it gathers pollen and returns to its nest. |
 | [@pingouh](https://x.com/pingouh/status/2120636604624560229) | 66,598 | +12 views / +0 likes / +0 reposts | 184.7 min | New | Original controller-play demo of a robotic biped whose gait and foot placement are calculated in real time. |
 | [@kevin_t_ngo](https://x.com/kevin_t_ngo/status/2123980980994318416) | 612,021 | +607,864 views / +3,970 likes / +229 reposts | 2182.5 min | Established | An original voice synthesis demonstration pairs spoken audio with geometric visuals and on-screen captions. |
 | [@kevin_t_ngo](https://x.com/kevin_t_ngo/status/2123091419883831775) | 7,532 | — | — | New | A character design demo shows separate mechanical parts assembled into one fictional mech. |

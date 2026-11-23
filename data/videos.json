@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "updated_on": "2026-11-22",
+  "updated_on": "2026-11-23",
   "featured_ids": [
     "higgsfield-ai-2119918834841010320",
     "imjustnewatai-2119919644836347926",
@@ -36175,6 +36175,68 @@
         "views_delta": 12,
         "likes_delta": 0,
         "reposts_delta": 0
+      }
+    },
+    {
+      "id": "kaladinog-2122815191431930197",
+      "titles": {
+        "en": "A Bee’s Flight Through a Flower Garden",
+        "zh-CN": "蜜蜂花园采粉飞行",
+        "ja": "花園を飛ぶミツバチ",
+        "ko": "꽃밭을 나는 꿀벌",
+        "es": "El vuelo de una abeja por un jardín"
+      },
+      "category": "interactive",
+      "creator": {
+        "name": "KaladinOG",
+        "url": "https://x.com/KaladinOG"
+      },
+      "source_url": "https://x.com/KaladinOG/status/2122815191431930197",
+      "published_at": "2026-11-17T22:12:36+00:00",
+      "duration_seconds": 22,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122814845653508096/img/jI3JvHpMxeEFtBJd.jpg",
+      "preview_path": "assets/previews/kaladinog-2122815191431930197.webp",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/kaladinog-2122815191431930197.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2122814845653508096/vid/avc1/572x360/qh2E5wlyamaa7VGq.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-23",
+        "checked_at": "2026-11-23T14:23:55.368355+00:00",
+        "method": "X official oEmbed and original video download",
+        "availability": "available",
+        "post_sha256": "981c5e0b9b968345fb8654c1da3c57efc2199e9e13da77ab93eb2275f2037921",
+        "model_named": true,
+        "video_checked_at": "2026-11-23T14:23:55.368355+00:00",
+        "video_http_status": 200
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2122814845653508096",
+      "media_rights": "Silent visual excerpt of the creator’s original upload. Full video remains on X.",
+      "discovery_group": "independent-x",
+      "curation_reason": "An original gameplay recording follows a bee through a flower garden as it gathers pollen and returns to its nest.",
+      "workflow": "creator-reported-multitool",
+      "workflow_notes": {
+        "en": "The creator names Fable 5.2, Three.js, fal and ElevenLabs for this game demo.",
+        "zh-CN": "作者说明这段游戏演示使用了 Fable 5.2、Three.js、fal 和 ElevenLabs。",
+        "ja": "作者はこのゲームデモに Fable 5.2、Three.js、fal、ElevenLabs を使用したと説明している。",
+        "ko": "제작자는 이 게임 데모에 Fable 5.2, Three.js, fal, ElevenLabs를 사용했다고 밝혔다.",
+        "es": "El creador indica que usó Fable 5.2, Three.js, fal y ElevenLabs para esta demo."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-23T14:23:55.368355+00:00",
+          "views": 50983,
+          "likes": 259,
+          "reposts": 16,
+          "replies": 32
+        }
+      ],
+      "momentum": {
+        "state": "new"
       }
     }
   ]
