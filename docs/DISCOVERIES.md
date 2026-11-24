@@ -8,7 +8,7 @@ Production tools, costs and run times are creator claims unless explicitly verif
 
 | Original creator | Views at last check | Observed change | Window | Signal | Why included |
 | :-- | --: | :-- | --: | :-- | :-- |
-| [@hayashimon1](https://x.com/hayashimon1/status/2121943011525624151) | 192,932 | — | — | Established | An original first-person walk along an aged train platform shows a continuous camera move through a code-built Blender scene. |
+| [@hayashimon1](https://x.com/hayashimon1/status/2121943011525624151) | 193,013 | +81 views / +1 likes / +0 reposts | 183.5 min | Established | An original first-person walk along an aged train platform shows a continuous camera move through a code-built Blender scene. |
 | [@mizugame_22](https://x.com/mizugame_22/status/2123403431167844544) | 40,146 | +18 views / +0 likes / +0 reposts | 181.6 min | New | The original split-screen comparison shows two approaches to lighting a rain-soaked Kyoto alley, with the Fable render on top. [Creator’s settings](https://x.com/mizugame_22/status/2123407158113091924). |
 | [@KaladinOG](https://x.com/KaladinOG/status/2122815191431930197) | 50,994 | +11 views / +0 likes / +0 reposts | 180.9 min | New | An original gameplay recording follows a bee through a flower garden as it gathers pollen and returns to its nest. |
 | [@pingouh](https://x.com/pingouh/status/2120636604624560229) | 66,598 | +12 views / +0 likes / +0 reposts | 184.7 min | New | Original controller-play demo of a robotic biped whose gait and foot placement are calculated in real time. |
