@@ -36322,6 +36322,68 @@
         "likes_delta": 0,
         "reposts_delta": 0
       }
+    },
+    {
+      "id": "hayashimon1-2121943011525624151",
+      "titles": {
+        "en": "Walking Along an Old Train Platform",
+        "zh-CN": "漫步老旧火车站站台",
+        "ja": "古びた駅のホームを歩く",
+        "ko": "낡은 기차역 승강장 걷기",
+        "es": "Un paseo por un andén antiguo"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "hayashimon1",
+        "url": "https://x.com/hayashimon1"
+      },
+      "source_url": "https://x.com/hayashimon1/status/2121943011525624151",
+      "published_at": "2026-11-15T12:26:52+00:00",
+      "duration_seconds": 15,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121942981351714816/img/PcKc25dp2osBoRVt.jpg",
+      "preview_path": "assets/previews/hayashimon1-2121943011525624151.webp",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/hayashimon1-2121943011525624151.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2121942981351714816/vid/avc1/640x360/50pJIeMh5deyN_oI.mp4?tag=16",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-24",
+        "checked_at": "2026-11-24T17:38:58.998197+00:00",
+        "method": "Original post metadata and original video download",
+        "availability": "available",
+        "post_sha256": "655b8143da728a4c0172179b001a4a8571474d99e5c49d4b4bd2f82b1e92e134",
+        "model_named": true,
+        "video_checked_at": "2026-11-24T17:38:58.998197+00:00",
+        "video_http_status": 200
+      },
+      "prompt": {
+        "text": null,
+        "source_url": null
+      },
+      "native_media_id": "2121942981351714816",
+      "media_rights": "Silent visual excerpt of the creator’s original upload. Full video remains on X.",
+      "discovery_group": "independent-x",
+      "curation_reason": "An original first-person walk along an aged train platform shows a continuous camera move through a code-built Blender scene.",
+      "workflow": "creator-reported-code",
+      "workflow_notes": {
+        "en": "The creator says Fable 5.2 used Blender MCP and code to drive modeling and rendering.",
+        "zh-CN": "作者说明，Fable 5.2 通过 Blender MCP 和代码完成建模与渲染。",
+        "ja": "作者によると、Fable 5.2 が Blender MCP とコードでモデリングからレンダリングまで行った。",
+        "ko": "제작자는 Fable 5.2가 Blender MCP와 코드로 모델링부터 렌더링까지 진행했다고 밝혔다.",
+        "es": "Según el creador, Fable 5.2 dirigió el modelado y el renderizado mediante Blender MCP y código."
+      },
+      "engagement_snapshots": [
+        {
+          "checked_at": "2026-11-24T17:38:58.998197+00:00",
+          "views": 192932,
+          "likes": 2586,
+          "reposts": 218,
+          "replies": 54
+        }
+      ],
+      "momentum": {
+        "state": "established"
+      }
     }
   ]
 }

@@ -1,6 +1,6 @@
 # New discoveries and observed momentum
 
-317 additional original-source entries beyond 182 covered entries in the 182-source coverage target. The earliest Vela AI post still returns HTTP 404. The same creator posted the 41-second film again, matching the title card, duration and production description. [Available creator post](https://x.com/ercankeskinx/status/2120177242034872774). The first post of The Scream is also unavailable. The creator’s 88-second cut has the same opening and supplies the full video. [Available creator post](https://x.com/osmanaga__/status/2119923975635738780).
+318 additional original-source entries beyond 182 covered entries in the 182-source coverage target. The earliest Vela AI post still returns HTTP 404. The same creator posted the 41-second film again, matching the title card, duration and production description. [Available creator post](https://x.com/ercankeskinx/status/2120177242034872774). The first post of The Scream is also unavailable. The creator’s 88-second cut has the same opening and supplies the full video. [Available creator post](https://x.com/osmanaga__/status/2119923975635738780).
 
 Engagement values below are dated public snapshots, not live counters. “Rising” requires at least five minutes between observations, at least 200 new views, and at least two new likes or one new repost, while below 100,000 total views. “Established” already has at least 100,000 views. Other selections remain “New”; inclusion does not imply virality. This is a curation heuristic, not a forecast.
 
@@ -8,6 +8,7 @@ Production tools, costs and run times are creator claims unless explicitly verif
 
 | Original creator | Views at last check | Observed change | Window | Signal | Why included |
 | :-- | --: | :-- | --: | :-- | :-- |
+| [@hayashimon1](https://x.com/hayashimon1/status/2121943011525624151) | 192,932 | — | — | Established | An original first-person walk along an aged train platform shows a continuous camera move through a code-built Blender scene. |
 | [@mizugame_22](https://x.com/mizugame_22/status/2123403431167844544) | 40,146 | +18 views / +0 likes / +0 reposts | 181.6 min | New | The original split-screen comparison shows two approaches to lighting a rain-soaked Kyoto alley, with the Fable render on top. [Creator’s settings](https://x.com/mizugame_22/status/2123407158113091924). |
 | [@KaladinOG](https://x.com/KaladinOG/status/2122815191431930197) | 50,994 | +11 views / +0 likes / +0 reposts | 180.9 min | New | An original gameplay recording follows a bee through a flower garden as it gathers pollen and returns to its nest. |
 | [@pingouh](https://x.com/pingouh/status/2120636604624560229) | 66,598 | +12 views / +0 likes / +0 reposts | 184.7 min | New | Original controller-play demo of a robotic biped whose gait and foot placement are calculated in real time. |
