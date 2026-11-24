@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "updated_on": "2026-11-23",
+  "updated_on": "2026-11-24",
   "featured_ids": [
     "higgsfield-ai-2119918834841010320",
     "imjustnewatai-2119919644836347926",
@@ -36246,6 +36246,79 @@
         "state": "new",
         "window_minutes": 180.9,
         "views_delta": 11,
+        "likes_delta": 0,
+        "reposts_delta": 0
+      }
+    },
+    {
+      "id": "mizugame-22-2123403431167844544",
+      "titles": {
+        "en": "A Rainy Kyoto Alley in Blender",
+        "zh-CN": "Blender 京都雨夜小巷对比",
+        "ja": "Blenderで描く雨の夜の京都の路地",
+        "ko": "Blender로 그린 교토의 비 오는 밤 골목",
+        "es": "Un callejón lluvioso de Kioto en Blender"
+      },
+      "category": "3d",
+      "creator": {
+        "name": "mizugame_22",
+        "url": "https://x.com/mizugame_22"
+      },
+      "source_url": "https://x.com/mizugame_22/status/2123403431167844544",
+      "published_at": "2026-11-19T13:10:03+00:00",
+      "duration_seconds": 13.056,
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123403402856353792/img/HsjjpBHXuuqW1Aa7.jpg",
+      "preview_path": "assets/previews/mizugame-22-2123403431167844544.webp",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/mizugame-22-2123403431167844544.webp",
+      "video_url": "https://video.twimg.com/amplify_video/2123403402856353792/vid/avc1/480x562/eBUiSAw1Wp3mANi0.mp4?tag=29",
+      "model": "Claude Fable 5.2",
+      "model_evidence": "primary-post",
+      "source_check": {
+        "checked_on": "2026-11-24",
+        "checked_at": "2026-11-24T11:43:11.805225+00:00",
+        "method": "Original post metadata and original video download",
+        "availability": "available",
+        "post_sha256": "95aec0064d51147df886cdbef09e393da4012b501a841defd9c60fa6cd773df6",
+        "model_named": true,
+        "video_checked_at": "2026-11-24T11:43:11.805225+00:00",
+        "video_http_status": 200
+      },
+      "prompt": {
+        "text": "雨の夜の京都の路地を、写真と見まがうほど写実的に。",
+        "source_url": "https://x.com/mizugame_22/status/2123403431167844544"
+      },
+      "native_media_id": "2123403402856353792",
+      "media_rights": "Silent visual excerpt of the creator’s original comparison. The original post identifies external assets as CC0 from Poly Haven.",
+      "discovery_group": "independent-x",
+      "curation_reason": "The original split-screen comparison shows two approaches to lighting a rain-soaked Kyoto alley, with the Fable render on top.",
+      "workflow": "model-comparison",
+      "workflow_notes": {
+        "en": "Fable 5.2 is on top and GPT-6.2 Astra below. Both used Blender Cycles, external CC0 assets and separate AI review. The author published the first 13 seconds side by side in a stacked layout.",
+        "zh-CN": "上方为 Fable 5.2，下方为 GPT-6.2 Astra。两者均使用 Blender Cycles、CC0 外部素材和另一个 AI 的评审。原帖上下排列两版开头约 13 秒。",
+        "ja": "上が Fable 5.2、下が GPT-6.2 Astra。両方とも Blender Cycles、外部の CC0 素材、別の AI によるレビューを使用。投稿では冒頭約13秒を上下に並べている。",
+        "ko": "위는 Fable 5.2, 아래는 GPT-6.2 Astra다. 두 버전 모두 Blender Cycles, 외부 CC0 에셋과 별도 AI 검토를 사용했다. 원본 게시물에는 첫 13초가 위아래로 배치되어 있다.",
+        "es": "Fable 5.2 aparece arriba y GPT-6.2 Astra abajo. Ambos usaron Blender Cycles, recursos externos CC0 y revisión de otra IA. El vídeo original apila los primeros 13 segundos."
+      },
+      "engagement_snapshots": [
+        {
+          "views": 40128,
+          "likes": 249,
+          "reposts": 28,
+          "replies": 15,
+          "checked_at": "2026-11-24T08:41:33.605801+00:00"
+        },
+        {
+          "checked_at": "2026-11-24T11:43:11.805225+00:00",
+          "views": 40146,
+          "likes": 249,
+          "reposts": 28,
+          "replies": 15
+        }
+      ],
+      "momentum": {
+        "state": "new",
+        "window_minutes": 181.6,
+        "views_delta": 18,
         "likes_delta": 0,
         "reposts_delta": 0
       }

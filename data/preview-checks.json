@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-23T14:24:07.962046+00:00",
-  "method": "WebP animation bytes matched to GitHub blob SHA and rendered README images",
+  "checked_at": "2026-11-24T11:43:14.182438+00:00",
+  "method": "Local WebP RIFF ANIM/ANMF chunks",
   "previews": [
     {
       "id": "wesroth-934330",
@@ -6474,6 +6474,19 @@
       "bytes": 278770,
       "file_sha256": "2c590b880c6904f7c31a06ed2259ec8f03bfdace988ed56c49fbda36fabf1712",
       "blob_sha": "7192a6100d7da3ad7d557f686b05708885455bc2",
+      "status": "animated"
+    },
+    {
+      "id": "mizugame-22-2123403431167844544",
+      "preview_url": "https://github.com/VibeClip/awesome-fable-5-2-videos/raw/main/assets/previews/mizugame-22-2123403431167844544.webp",
+      "frames": 33,
+      "duration_ms": 5511,
+      "width": 416,
+      "height": 234,
+      "loop_count": 0,
+      "bytes": 131678,
+      "file_sha256": "463e78fd913593c22aa7f2c3597bd83805812df90c42a329dceb76162075c31e",
+      "blob_sha": "33a9a18bad4b19b6ec30bc3ea5f2046accf2a911",
       "status": "animated"
     }
   ]

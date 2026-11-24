@@ -369,28 +369,6 @@
       "status": "held-after-visual-review",
       "reason": "The post attributes the artwork to Fable 5.2. The sampled frames show the same completed illustration, with no substantial animation confirmed in this review.",
       "checked_at": "2026-11-16T13:07:48.274043+00:00"
-    },
-    {
-      "source_url": "https://x.com/mizugame_22/status/2123403431167844544",
-      "creator": {
-        "name": "mizugame_22",
-        "url": "https://x.com/mizugame_22"
-      },
-      "status": "held-preview-pending",
-      "reason": "Original Blender comparison with Fable 5.2 above GPT-6.2 Astra. Lantern reflections on wet paving distinguish the Fable cut. The author discloses CC0 external assets, synthesized rain, and review by another AI. The original attachment is an approximately 13-second split-screen comparison; a repository loop has yet to be verified.",
-      "evidence_url": "https://x.com/mizugame_22/status/2123407158113091924",
-      "checked_at": "2026-11-24T08:41:33.605801+00:00",
-      "published_at": "2026-11-19T13:10:03+00:00",
-      "native_media_id": "2123403402856353792",
-      "engagement_snapshots": [
-        {
-          "observed_at": "2026-11-24T08:41:33.605801+00:00",
-          "views": 40128,
-          "likes": 249,
-          "reposts": 28,
-          "replies": 15
-        }
-      ]
     }
   ]
 }
