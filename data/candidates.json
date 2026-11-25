@@ -1,5 +1,5 @@
 {
-  "checked_on": "2026-11-24",
+  "checked_on": "2026-11-25",
   "candidates": [
     {
       "source_url": "https://x.com/AlchainHust/status/2119949075898675292",
@@ -369,6 +369,27 @@
       "status": "held-after-visual-review",
       "reason": "The post attributes the artwork to Fable 5.2. The sampled frames show the same completed illustration, with no substantial animation confirmed in this review.",
       "checked_at": "2026-11-16T13:07:48.274043+00:00"
+    },
+    {
+      "source_url": "https://x.com/iamdavidhill/status/2124986830236106897",
+      "creator": {
+        "name": "iamdavidhill",
+        "url": "https://x.com/iamdavidhill"
+      },
+      "status": "held-insufficient-workflow-evidence",
+      "reason": "Original interactive character-engine demo with live swaps of style, pose and expressive details. The original post does not name a model. A third-party quote attributes the engine to Fable 5.2, but creator confirmation of the model and its role is pending.",
+      "checked_at": "2026-11-25T11:46:25.101423+00:00",
+      "published_at": "2026-11-23T22:01:55+00:00",
+      "native_media_id": "2124986532821946368",
+      "engagement_snapshots": [
+        {
+          "observed_at": "2026-11-25T11:46:25.101423+00:00",
+          "views": 246786,
+          "likes": 3502,
+          "reposts": 136,
+          "replies": 108
+        }
+      ]
     }
   ]
 }
