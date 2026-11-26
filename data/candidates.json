@@ -378,7 +378,7 @@
       },
       "status": "held-insufficient-workflow-evidence",
       "reason": "Original interactive character-engine demo with live swaps of style, pose and expressive details. The original post does not name a model. A third-party quote attributes the engine to Fable 5.2, but creator confirmation of the model and its role is pending.",
-      "checked_at": "2026-11-25T20:53:52.967151+00:00",
+      "checked_at": "2026-11-26T15:08:03.108031+00:00",
       "published_at": "2026-11-23T22:01:55+00:00",
       "native_media_id": "2124986532821946368",
       "engagement_snapshots": [
@@ -402,6 +402,13 @@
           "likes": 3644,
           "reposts": 146,
           "replies": 117
+        },
+        {
+          "observed_at": "2026-11-26T15:08:03.108031+00:00",
+          "views": 280113,
+          "likes": 3673,
+          "reposts": 147,
+          "replies": 118
         }
       ]
     }
