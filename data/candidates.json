@@ -378,7 +378,7 @@
       },
       "status": "held-insufficient-workflow-evidence",
       "reason": "Original interactive character-engine demo with live swaps of style, pose and expressive details. The original post does not name a model. A third-party quote attributes the engine to Fable 5.2, but creator confirmation of the model and its role is pending.",
-      "checked_at": "2026-11-26T21:08:36.751657+00:00",
+      "checked_at": "2026-11-27T00:04:36.288577+00:00",
       "published_at": "2026-11-23T22:01:55+00:00",
       "native_media_id": "2124986532821946368",
       "engagement_snapshots": [
@@ -423,6 +423,13 @@
           "likes": 3675,
           "reposts": 147,
           "replies": 118
+        },
+        {
+          "observed_at": "2026-11-27T00:04:36.288577+00:00",
+          "views": 281964,
+          "likes": 3676,
+          "reposts": 148,
+          "replies": 118
         }
       ]
     },
@@ -434,7 +441,7 @@
       },
       "status": "held-insufficient-workflow-evidence",
       "reason": "Painterly 3D animation shared as a workflow demonstration. The creator credits Fable 5.2 for scene, character and camera planning and Seedance 2.5 for video generation. A public reply raises possible reuse of another creator’s video as a prompt reference. Originality and preview reuse rights remain unconfirmed.",
-      "checked_at": "2026-11-26T21:08:37.249889+00:00",
+      "checked_at": "2026-11-27T00:04:36.756791+00:00",
       "published_at": "2026-11-22T14:08:46+00:00",
       "native_media_id": "2124505319527317504",
       "engagement_snapshots": [
@@ -448,6 +455,13 @@
         {
           "observed_at": "2026-11-26T21:08:37.249889+00:00",
           "views": 55548,
+          "likes": 478,
+          "reposts": 40,
+          "replies": 53
+        },
+        {
+          "observed_at": "2026-11-27T00:04:36.756791+00:00",
+          "views": 55581,
           "likes": 478,
           "reposts": 40,
           "replies": 53
