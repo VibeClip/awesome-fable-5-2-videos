@@ -551,6 +551,27 @@
           "replies": 0
         }
       ]
+    },
+    {
+      "source_url": "https://x.com/abxxai/status/2125229525856633000",
+      "creator": {
+        "name": "abxxai",
+        "url": "https://x.com/abxxai"
+      },
+      "status": "held-insufficient-workflow-evidence",
+      "reason": "Creator-posted 15-second paper-puppet short with a pencil-drawn world that comes alive around a cardboard Viking. The creator’s thread documents GPT Image for the character sheet and opening frame, Fable 5.2 for writing the shot and sound prompt, and Seedance 2.5 for generating the footage. Preview reuse basis remains unconfirmed.",
+      "checked_at": "2026-11-27T22:03:59.895714+00:00",
+      "published_at": "2026-11-24T14:06:18+00:00",
+      "native_media_id": "2125229470558924800",
+      "engagement_snapshots": [
+        {
+          "observed_at": "2026-11-27T22:03:59.895714+00:00",
+          "views": 35026,
+          "likes": 330,
+          "reposts": 27,
+          "replies": 31
+        }
+      ]
     }
   ]
 }
