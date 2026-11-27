@@ -517,13 +517,20 @@
         "url": "https://x.com/inasoft_ayacy"
       },
       "status": "held-insufficient-workflow-evidence",
-      "reason": "The creator documents turning a handmade tabletop game into a playable browser game with Fable 5.2, using footage of the physical game as input. The creator separately credits Fable 5.2 for an introduction video on their site. Confirm which footage depicts the generated game and the basis for reusing an excerpt before adding a gallery preview.",
-      "checked_at": "2026-11-27T12:45:02.180534+00:00",
+      "reason": "The creator used footage of a handmade tabletop game as input to build a browser remake with Fable 5.2. Frame samples across the X attachment show the physical cardboard-and-chopstick game. The creator also documents a separate model-assisted introduction video, whose preview reuse basis remains unconfirmed.",
+      "checked_at": "2026-11-27T16:02:40.633720+00:00",
       "published_at": "2026-11-19T14:50:16+00:00",
       "native_media_id": "2123428464762261504",
       "engagement_snapshots": [
         {
           "observed_at": "2026-11-27T12:45:02.180534+00:00",
+          "views": 180,
+          "likes": 2,
+          "reposts": 1,
+          "replies": 0
+        },
+        {
+          "observed_at": "2026-11-27T16:02:40.633720+00:00",
           "views": 180,
           "likes": 2,
           "reposts": 1,
