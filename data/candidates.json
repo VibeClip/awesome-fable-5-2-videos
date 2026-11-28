@@ -378,7 +378,7 @@
       },
       "status": "held-insufficient-workflow-evidence",
       "reason": "Original interactive character-engine demo with live swaps of style, pose and expressive details. The original post does not name a model. A third-party quote attributes the engine to Fable 5.2, but creator confirmation of the model and its role is pending.",
-      "checked_at": "2026-11-28T07:09:01.479664+00:00",
+      "checked_at": "2026-11-28T10:07:34.568837+00:00",
       "published_at": "2026-11-23T22:01:55+00:00",
       "native_media_id": "2124986532821946368",
       "engagement_snapshots": [
@@ -479,6 +479,13 @@
           "likes": 3681,
           "reposts": 148,
           "replies": 119
+        },
+        {
+          "observed_at": "2026-11-28T10:07:34.568837+00:00",
+          "views": 284793,
+          "likes": 3681,
+          "reposts": 148,
+          "replies": 119
         }
       ]
     },
@@ -490,7 +497,7 @@
       },
       "status": "held-insufficient-workflow-evidence",
       "reason": "Painterly 3D animation shared as a workflow demonstration. The creator credits Fable 5.2 for scene, character and camera planning and Seedance 2.5 for video generation. A public reply raises possible reuse of another creator’s video as a prompt reference. Originality and preview reuse rights remain unconfirmed.",
-      "checked_at": "2026-11-28T07:09:01.968813+00:00",
+      "checked_at": "2026-11-28T10:07:35.057935+00:00",
       "published_at": "2026-11-22T14:08:46+00:00",
       "native_media_id": "2124505319527317504",
       "engagement_snapshots": [
@@ -563,6 +570,13 @@
           "likes": 478,
           "reposts": 40,
           "replies": 53
+        },
+        {
+          "observed_at": "2026-11-28T10:07:35.057935+00:00",
+          "views": 55977,
+          "likes": 478,
+          "reposts": 40,
+          "replies": 53
         }
       ]
     },
@@ -602,7 +616,7 @@
       },
       "status": "held-insufficient-workflow-evidence",
       "reason": "Creator-posted 15-second paper-puppet short with a pencil-drawn world that comes alive around a cardboard Viking. The creator’s thread documents GPT Image for the character sheet and opening frame, Fable 5.2 for writing the shot and sound prompt, and Seedance 2.5 for generating the footage. Preview reuse basis remains unconfirmed.",
-      "checked_at": "2026-11-28T07:09:02.978735+00:00",
+      "checked_at": "2026-11-28T10:07:36.053687+00:00",
       "published_at": "2026-11-24T14:06:18+00:00",
       "native_media_id": "2125229470558924800",
       "engagement_snapshots": [
@@ -630,6 +644,13 @@
         {
           "observed_at": "2026-11-28T07:09:02.978735+00:00",
           "views": 35070,
+          "likes": 329,
+          "reposts": 27,
+          "replies": 31
+        },
+        {
+          "observed_at": "2026-11-28T10:07:36.053687+00:00",
+          "views": 35085,
           "likes": 329,
           "reposts": 27,
           "replies": 31
